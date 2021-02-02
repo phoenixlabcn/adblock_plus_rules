@@ -1,0 +1,449 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+	<link type="image/x-icon" href="/favicon.ico" rel="shortcut icon" />
+
+	<link rel="alternate" type="application/rss+xml" title="Noticias de Mozilla Hispano" href="http://feeds.mozilla-hispano.org/mozillahispano" />
+	<link rel="alternate" type="application/rss+xml" title="Artículos en Planet Mozilla Hispano" href="http://feeds.mozilla-hispano.org/mozillahispano-planet" />
+	<link rel="alternate" type="application/rss+xml" title="El Podcast de Mozilla Hispano" href="http://feeds.mozilla-hispano.org/mozillahispano-podcast" />
+
+	<link rel="search" type="application/opensearchdescription+xml" title="Mozilla Hispano - Noticias" href="/archivos/noticias.xml" />
+	<link rel="search" type="application/opensearchdescription+xml" title="Mozilla Hispano - Documentación" href="/archivos/documentacion.xml" />
+
+	<link rel="stylesheet" href="/wp-content/themes/mozillahispano2/css/comun.css" type="text/css" />
+	<link rel="stylesheet" href="/wp-content/themes/mozillahispano2/css/responsive.css" type="text/css" />
+
+<script type="application/x-javascript" src="/wp-content/themes/mozillahispano2/js/install_addon.php?id=Firefox bloquea a partir de hoy cookies de seguimiento de terceros y scripts de minado de forma predeterminada" ></script>
+
+<title> Mozilla Hispano « Tu comunidad en español de Mozilla</title>
+
+<link rel="stylesheet" href="/wp-content/themes/mozillahispano2/style.css" type="text/css" media="screen" />
+
+<link rel="pingback" href="https://www.mozilla-hispano.org/xmlrpc.php" />
+
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.mozilla-hispano.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.4"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.mozilla-hispano.org/wp-includes/css/dist/block-library/style.min.css?ver=5.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='auth0-widget-css'  href='https://www.mozilla-hispano.org/wp-content/plugins/auth0/assets/css/main.css?ver=5.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='ts_fab_css-css'  href='https://www.mozilla-hispano.org/wp-content/plugins/fancier-author-box/css/ts-fab.min.css?ver=1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='https://www.mozilla-hispano.org/wp-content/plugins/easy-fancybox/css/jquery.fancybox.min.css?ver=1.3.24' type='text/css' media='screen' />
+<link rel='stylesheet' id='orbitslider_main-css'  href='https://www.mozilla-hispano.org/wp-content/plugins/wp-orbit-slider/css/default.css?ver=5.4.4' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.mozilla-hispano.org/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://www.mozilla-hispano.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.mozilla-hispano.org/wp-content/plugins/fancier-author-box/js/ts-fab.min.js?ver=1.4'></script>
+<script type='text/javascript' src='https://www.mozilla-hispano.org/wp-content/plugins/wp-orbit-slider/js/jquery.orbit-1.3.0.min.js?ver=5.4.4'></script>
+<link rel='https://api.w.org/' href='https://www.mozilla-hispano.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.mozilla-hispano.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.mozilla-hispano.org/wp-includes/wlwmanifest.xml" /> 
+
+<!-- Begin Orbit Slider -->
+<script type="text/javascript">
+/* <![CDATA[ */
+jQuery(document).ready(function() {
+jQuery('#orbit-inside').orbit({
+animation: "fade",
+animationSpeed: 800,
+timer: true,
+advanceSpeed: 5000,
+pauseOnHover: true,
+directionalNav: false,
+captions: true,
+captionAnimation: "fade",
+captionAnimationSpeed: 400,
+bullets: true,
+bulletThumbs: false,
+centerBullets: true,
+fluid: true
+});
+});
+/* ]]> */
+</script>
+<!-- End Orbit Slider -->
+
+
+<!-- START - Open Graph and Twitter Card Tags 3.0.0 -->
+ <!-- Facebook Open Graph -->
+  <meta property="og:locale" content="es_ES"/>
+  <meta property="og:site_name" content="Mozilla Hispano « Tu comunidad en español de Mozilla"/>
+  <meta property="og:title" content="Mozilla Hispano « Tu comunidad en español de Mozilla"/>
+  <meta property="og:url" content="https://www.mozilla-hispano.org/"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:description" content="Tu comunidad en español de Mozilla"/>
+  <meta property="og:image" content="https://www.mozilla-hispano.org/wp-content/themes/mozillahispano2/img/title.png"/>
+  <meta property="og:image:url" content="https://www.mozilla-hispano.org/wp-content/themes/mozillahispano2/img/title.png"/>
+  <meta property="og:image:secure_url" content="https://www.mozilla-hispano.org/wp-content/themes/mozillahispano2/img/title.png"/>
+ <!-- Google+ / Schema.org -->
+  <meta itemprop="name" content="Mozilla Hispano « Tu comunidad en español de Mozilla"/>
+  <meta itemprop="headline" content="Mozilla Hispano « Tu comunidad en español de Mozilla"/>
+  <meta itemprop="description" content="Tu comunidad en español de Mozilla"/>
+  <meta itemprop="image" content="https://www.mozilla-hispano.org/wp-content/themes/mozillahispano2/img/title.png"/>
+  <!--<meta itemprop="publisher" content="Mozilla Hispano « Tu comunidad en español de Mozilla"/>--> <!-- To solve: The attribute publisher.itemtype has an invalid value -->
+ <!-- Twitter Cards -->
+  <meta name="twitter:title" content="Mozilla Hispano « Tu comunidad en español de Mozilla"/>
+  <meta name="twitter:url" content="https://www.mozilla-hispano.org/"/>
+  <meta name="twitter:description" content="Tu comunidad en español de Mozilla"/>
+  <meta name="twitter:image" content="https://www.mozilla-hispano.org/wp-content/themes/mozillahispano2/img/title.png"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+ <!-- SEO -->
+ <!-- Misc. tags -->
+ <!-- is_front_page -->
+<!-- END - Open Graph and Twitter Card Tags 3.0.0 -->
+	
+
+
+<!-- Social Media Share config -->
+<script type="application/x-social-share-privacy-settings">{"path_prefix":"//panzi.github.io/SocialSharePrivacy/","layout":"line","services":{"buffer":{"status":false},"delicious":{"status":false},"disqus":{"status":false},"fbshare":{"status":false},"flattr":{"status":false},"gplus":{"status":true},"hackernews":{"status":false},"linkedin":{"status":false},"mail":{"status":false},"pinterest":{"status":false},"reddit":{"status":false},"stumbleupon":{"status":false},"tumblr":{"status":false},"xing":{"status":false}}}</script>
+
+<!-- Social Media Share config -->
+<script type="application/x-social-share-privacy-settings">{"path_prefix":"//panzi.github.io/SocialSharePrivacy/","layout":"line","services":{"buffer":{"status":false},"delicious":{"status":false},"disqus":{"status":false},"fbshare":{"status":false},"flattr":{"status":false},"gplus":{"status":true},"hackernews":{"status":false},"linkedin":{"status":false},"mail":{"status":false},"pinterest":{"status":false},"reddit":{"status":false},"stumbleupon":{"status":false},"tumblr":{"status":false},"xing":{"status":false}}}</script>
+
+</head>
+<body class="home blog">
+	<div id="lienzo">
+		<div id="tullido">
+			<div id="cabecera">
+				<div id="alojaLogo">
+					<h1><a href="/">Mozilla hispano, tu comunidad en español de Mozilla</a></h1>
+				</div>
+				<div id="menu">
+					<span id="toggle"></span>
+					<ul id="menu-nav" class="clearfix">
+						<li><a href="/">Noticias</a></li>
+						<li><span>Asistencia</span>
+							<ul class="submenu">
+								<li><a href="https://support.mozilla.org/es/" title="Documentos, artículos y preguntas frecuentes de ayuda a los usuarios">Documentación</a></li>
+								<li><a href="https://support.mozilla.org/es/questions/new" title="Haz una pregunta en el foro de asistencia">Haz una pregunta</a></li>
+								<li><a href="/documentacion/Asistencia" title="Proyectos">Proyectos</a></li>
+							</ul>
+						</li>
+						<li><span title="Ayuda a difundir Mozilla en español">Difusión</span>
+							<ul class="submenu">
+								<li><a href="/difusion/">Promociona Mozilla</a></li>
+								<!-- <li><a href="https://foro.mozilla-hispano.org/c/difusion-eventos" title="Foro de difusión">Foros</a></li> -->
+								<li><a href="/documentacion/Eventos" title="Eventos Mozilla">Eventos</a></li>
+								<li><a href="/documentacion/Difusi%C3%B3n" title="Proyectos de difusión">Proyectos</a></li>
+							</ul>
+						</li>
+						<li><a href="https://discourse.mozilla.org/c/community-portal/mozilla-hispano" title="Foros de discusión">Foros</a></li>
+						<li><span title="Desarrolla con Labs">Labs</span>
+							<ul class="submenu">
+								<li><a href="/labs/" title="Centro de desarrollo e innovación en la plataforma Mozilla">Blog y proyectos</a></li>
+								<!-- <li><a href="https://foro.mozilla-hispano.org/c/labs">Foros</a></li> -->
+							</ul>
+						</li>
+						<li><span>Comunidad</span>
+							<ul class="submenu">
+								<li><a href="/planet/" title="Artículos de opinión, mensajes y fotos de los miembros de la comunidad">Planet</a></li>
+								<li><a href="/documentacion/Colaboradores" title="Listado de colaboradores">Colaboradores</a></li>
+								<li><a href="/ar/">Argentina</a></li>
+								<li><a href="/bo/">Bolivia</a></li>
+								<li><a href="/co/">Colombia</a></li>
+								<li><a href="/cr/">Costa Rica</a></li>
+								<li><a href="/cl/">Chile</a></li>
+								<li><a href="/cu/">Cuba</a></li>
+								<li><a href="/es/">España</a></li>
+								<li><a href="/ec/">Ecuador</a></li>
+								<li><a href="/ni/">Nicaragua</a></li>
+								<li><a href="/mx/">México</a></li>
+								<li><a href="/py/">Paraguay</a></li>
+								<li><a href="/pe/">Perú</a></li>
+								<li><a href="/uy/">Uruguay</a></li>
+								<li><a href="/ve/">Venezuela</a></li>
+							</ul>
+						</li>
+						<li><span title="Únete y colabora con Mozilla Hispano">Participa</span>
+							<ul class="submenu">
+								<li><a href="/documentacion/Colabora">Cómo participar</a></li>
+								<li><a href="/documentacion/Recursos_para_colaboradores" title="Recursos para colaboradores">Recursos para colaboradores</a></li>
+								<li><a href="https://discourse.mozilla.org/c/community-portal/mozilla-hispano">Foro de discusión</a></li>
+								<li><a href="/documentacion/Proyectos">Proyectos</a></li>
+								<li><a href="/documentacion/Tareas">Tareas</a></li>
+								<li><a href="/documentacion/Reuniones">Reuniones</a></li>
+							</ul>
+						</li>
+					</ul>
+				</div>
+				<div id="social">
+					<ul>
+						<li><a title="Síguenos en Twitter" id="twitter-icon" href="http://twitter.com/mozilla_hispano">Síguenos en Twitter</a></li>
+						<li><a title="Síguenos en Facebook" id="facebook-icon" href="http://www.facebook.com/mozillahispano">Síguenos en Facebook</a></li>
+						<li><a title="Síguenos en Google Plus" id="gplus-icon" href="https://plus.google.com/113725577998863887008/posts">Síguenos en Google Plus</a></li>
+						<li><a title="Nuestros vídeos en YouTube" id="youtube-icon" href="http://www.youtube.com/mozillahispano">Nuestros vídeos en YouTube</a></li>
+						<li><a title="Nuestros fotos en Flickr" id="flickr-icon" href="http://www.flickr.com/photos/tags/mozillahispano/">Nuestras fotos en Flickr</a></li>
+						<li><a title="Feed RSS" id="rss-icon" href="http://feeds.mozilla-hispano.org/mozillahispano">Feed RSS</a></li>
+					</ul>
+				</div>
+</div>			<div id="cuerpo" class="clearfix">
+	<div id="contenido">
+		<div class="home" id="content-bar">
+							  <div class="custom-slider"> 
+					  <div id="orbit-inside">
+	 
+						  <a target="" href="https://internethealthreport.org/2019/?lang=es"data-thumb="https://www.mozilla-hispano.org/wp-content/uploads/informe_salud_internet_2019-100x83.jpeg"><img class="orbit-slide" src="https://www.mozilla-hispano.org/wp-content/uploads/informe_salud_internet_2019.jpeg" /></a><a target="" href="//foro.mozilla-hispano.org/t/campana-para-realizar-pruebas-con-el-nuevo-firefox/24405"data-thumb="https://www.mozilla-hispano.org/wp-content/uploads/bughunter-banner-mh_1-100x83.jpg"><img class="orbit-slide" src="https://www.mozilla-hispano.org/wp-content/uploads/bughunter-banner-mh_1.jpg" /></a><a target="" href="https://www.mozilla.org/firefox/mobile/"data-thumb="https://www.mozilla-hispano.org/wp-content/uploads/firefox_focus_banner-100x83.png"><img class="orbit-slide" src="https://www.mozilla-hispano.org/wp-content/uploads/firefox_focus_banner.png" /></a><a target="_blank" href="https://activate.mozilla.community/"data-thumb="https://www.mozilla-hispano.org/wp-content/uploads/93f37fa2e3f05d105bb419ccecb72e11605d9f01-100x83.jpg"><img class="orbit-slide" src="https://www.mozilla-hispano.org/wp-content/uploads/93f37fa2e3f05d105bb419ccecb72e11605d9f01.jpg" /></a><a target="" href="http://www.mozilla-hispano.org/documentacion/Colabora"data-caption="#slide-7279"data-thumb="https://www.mozilla-hispano.org/wp-content/uploads/banner-comunidad-100x83.png"><img class="orbit-slide" src="https://www.mozilla-hispano.org/wp-content/uploads/banner-comunidad.png" /></a>				  
+			  
+					  </div><!-- #orbit-inside -->
+						  <span class="orbit-caption" id="slide-42063"></span><span class="orbit-caption" id="slide-42011"></span><span class="orbit-caption" id="slide-41777"></span><span class="orbit-caption" id="slide-40777"></span><span class="orbit-caption" id="slide-7279"><h3>Ayúdanos a crear un futuro mejor para la web.</h3>
+<p>Participa »</p></span>                              
+				  </div><!-- .custom-slider -->
+					
+			  	</div>
+
+<div id="main-content">
+	
+		
+			<div class="portada-individual post-42174 post type-post status-publish format-standard has-post-thumbnail hentry category-sin-categoria tag-cookies tag-firefox tag-privacidad tag-rastreadores tag-tracking" id="post-42174">
+				<h2 class="post-title"><a href="https://www.mozilla-hispano.org/firefox-bloquea-a-partir-de-hoy-cookies-de-seguimiento-de-terceros-y-scripts-de-minado-de-forma-predeterminada/" rel="bookmark" title="Firefox bloquea a partir de hoy cookies de seguimiento de terceros y scripts de minado de forma predeterminada">Firefox bloquea a partir de hoy cookies de seguimiento de terceros y scripts de minado de forma predeterminada</a></h2>
+
+				<div class="post-content">
+				
+					<img width="130" height="72" src="https://www.mozilla-hispano.org/wp-content/uploads/Fx_69_ETP_1200x660-1000x550.jpg" class="attachment-130x185 size-130x185 wp-post-image" alt="" srcset="https://www.mozilla-hispano.org/wp-content/uploads/Fx_69_ETP_1200x660-1000x550.jpg 1000w, https://www.mozilla-hispano.org/wp-content/uploads/Fx_69_ETP_1200x660-1000x550-300x165.jpg 300w, https://www.mozilla-hispano.org/wp-content/uploads/Fx_69_ETP_1200x660-1000x550-130x72.jpg 130w" sizes="(max-width: 130px) 100vw, 130px" />					<div class="texto-portada-individual">
+						<p class="dia-publicacion">5 septiembre, 2019 <!--15:30 :: <a href="https://www.mozilla-hispano.org/author/nukeador/" title="Entradas de Nukeador" rel="author">Nukeador</a>--></p>
+						<p>A partir de hoy, las versiones de Firefox en equipos de escritorio y Android protegerán a todos nuestros usuarios al bloquear las cookies de seguimiento de terceros y los criptomineros de forma predeterminada. </p>
+						<p><a title="Leer el resto del artículo" href="https://www.mozilla-hispano.org/firefox-bloquea-a-partir-de-hoy-cookies-de-seguimiento-de-terceros-y-scripts-de-minado-de-forma-predeterminada/">Leer más...</a></p>
+					</div>
+
+				</div>
+			</div>
+
+		
+			<div class="portada-individual post-42131 post type-post status-publish format-standard has-post-thumbnail hentry category-noticias tag-mozilla tag-mozilla-activate tag-tecnologia" id="post-42131">
+				<h2 class="post-title"><a href="https://www.mozilla-hispano.org/celebramos-mozilla-activate-2019/" rel="bookmark" title="¡Celebramos Mozilla Activate 2019!">¡Celebramos Mozilla Activate 2019!</a></h2>
+
+				<div class="post-content">
+				
+					<img width="130" height="87" src="https://www.mozilla-hispano.org/wp-content/uploads/67580032_669903336806681_3402012714346741760_n.jpg" class="attachment-130x185 size-130x185 wp-post-image" alt="" srcset="https://www.mozilla-hispano.org/wp-content/uploads/67580032_669903336806681_3402012714346741760_n.jpg 960w, https://www.mozilla-hispano.org/wp-content/uploads/67580032_669903336806681_3402012714346741760_n-300x200.jpg 300w, https://www.mozilla-hispano.org/wp-content/uploads/67580032_669903336806681_3402012714346741760_n-130x87.jpg 130w" sizes="(max-width: 130px) 100vw, 130px" />					<div class="texto-portada-individual">
+						<p class="dia-publicacion">6 agosto, 2019 <!--12:12 :: <a href="https://www.mozilla-hispano.org/author/asofia/" title="Entradas de Ana Sofia" rel="author">Ana Sofia</a>--></p>
+						<p>La semana del 23 al 26 de julio se estuvo realizando varias actividades como Mozilla Centroamérica. La primer actividad fue dedicada para trabajar con el proyecto Common Voice de Mozilla. Los miembros del equipo Mozilla CA nos reunimos en el Centro de Innovación Zamora Terán en donde estuvimos realizando las grabaciones y validaciones para Common [&hellip;]</p>
+						<p><a title="Leer el resto del artículo" href="https://www.mozilla-hispano.org/celebramos-mozilla-activate-2019/">Leer más...</a></p>
+					</div>
+
+				</div>
+			</div>
+
+		
+			<div class="portada-individual post-42118 post type-post status-publish format-standard hentry category-colombia category-noticias" id="post-42118">
+				<h2 class="post-title"><a href="https://www.mozilla-hispano.org/el-proyecto-en-el-que-estoy-trabajando-en-mozilla/" rel="bookmark" title="El proyecto en el que estoy trabajando en Mozilla">El proyecto en el que estoy trabajando en Mozilla</a></h2>
+
+				<div class="post-content">
+				
+					<img src="/wp-content/themes/mozillahispano/img/post-default.png" alt="Articulo" />					<div class="texto-portada-individual">
+						<p class="dia-publicacion">5 agosto, 2019 <!--5:12 :: <a href="https://www.mozilla-hispano.org/author/cjimenez/" title="Entradas de Carolina Jiménez Gómez" rel="author">Carolina Jiménez Gómez</a>--></p>
+						<p>Hoy les quiero hablar sobre lo que estoy trabajando en Mozilla en esta pasantía. El nombre del proyecto es “crear un nuevo visualizador de certificados para Firefox”, pero, ¿qué es un visualizador de certificados? ¿Necesitamos uno? ¿Cómo puedo ver un certificado en Firefox? ¿Qué pasa con el visualizador actual? Las respuestas a estas preguntas a continuación.</p>
+						<p><a title="Leer el resto del artículo" href="https://www.mozilla-hispano.org/el-proyecto-en-el-que-estoy-trabajando-en-mozilla/">Leer más...</a></p>
+					</div>
+
+				</div>
+			</div>
+
+		
+			<div class="portada-individual post-42108 post type-post status-publish format-standard has-post-thumbnail hentry category-colombia category-noticias tag-experiencia tag-firefox tag-mozilla tag-outreachy tag-pasantia" id="post-42108">
+				<h2 class="post-title"><a href="https://www.mozilla-hispano.org/mi-experiencia-aplicando-a-una-pasantia-en-mozilla-a-traves-de-outreachy/" rel="bookmark" title="Mi experiencia aplicando a una pasantía en Mozilla a través de Outreachy">Mi experiencia aplicando a una pasantía en Mozilla a través de Outreachy</a></h2>
+
+				<div class="post-content">
+				
+					<img width="130" height="134" src="https://www.mozilla-hispano.org/wp-content/uploads/1920px-Firefox_Logo_2017.svg_.png" class="attachment-130x185 size-130x185 wp-post-image" alt="Firefox Quantum Logo" srcset="https://www.mozilla-hispano.org/wp-content/uploads/1920px-Firefox_Logo_2017.svg_.png 600w, https://www.mozilla-hispano.org/wp-content/uploads/1920px-Firefox_Logo_2017.svg_-291x300.png 291w, https://www.mozilla-hispano.org/wp-content/uploads/1920px-Firefox_Logo_2017.svg_-130x134.png 130w" sizes="(max-width: 130px) 100vw, 130px" />					<div class="texto-portada-individual">
+						<p class="dia-publicacion">16 julio, 2019 <!--16:43 :: <a href="https://www.mozilla-hispano.org/author/cjimenez/" title="Entradas de Carolina Jiménez Gómez" rel="author">Carolina Jiménez Gómez</a>--></p>
+						<p>¡Hola! Me llamo Carolina 👩, soy de Colombia 🇨🇴 y fue elegida para hacer una pasantía en Mozilla 🦊, en el proyecto “crear un nuevo visor de certificados para Firefox”. Hoy les quiero contar todo el proceso de la aplicación, ¡para que se animen a aplicar también! 🙌</p>
+						<p><a title="Leer el resto del artículo" href="https://www.mozilla-hispano.org/mi-experiencia-aplicando-a-una-pasantia-en-mozilla-a-traves-de-outreachy/">Leer más...</a></p>
+					</div>
+
+				</div>
+			</div>
+
+		
+			<div class="portada-individual post-42085 post type-post status-publish format-standard has-post-thumbnail hentry category-colombia category-noticias category-sin-categoria tag-campus-party tag-colombia" id="post-42085">
+				<h2 class="post-title"><a href="https://www.mozilla-hispano.org/mozilla-colombia-en-el-campus-party-colombia-2019/" rel="bookmark" title="Mozilla Colombia en el Campus Party Colombia 2019">Mozilla Colombia en el Campus Party Colombia 2019</a></h2>
+
+				<div class="post-content">
+				
+					<img width="130" height="130" src="https://www.mozilla-hispano.org/wp-content/uploads/mozcolombia.jpg" class="attachment-130x185 size-130x185 wp-post-image" alt="" srcset="https://www.mozilla-hispano.org/wp-content/uploads/mozcolombia.jpg 400w, https://www.mozilla-hispano.org/wp-content/uploads/mozcolombia-150x150.jpg 150w, https://www.mozilla-hispano.org/wp-content/uploads/mozcolombia-300x300.jpg 300w, https://www.mozilla-hispano.org/wp-content/uploads/mozcolombia-130x130.jpg 130w" sizes="(max-width: 130px) 100vw, 130px" />					<div class="texto-portada-individual">
+						<p class="dia-publicacion">9 julio, 2019 <!--7:50 :: <a href="https://www.mozilla-hispano.org/author/gutemonik/" title="Entradas de Mónica Bonilla" rel="author">Mónica Bonilla</a>--></p>
+						<p>Mozilla Colombia estuvo presente en el Campus Party Colombia 2019 con charlas, talleres y un espacio de interacción con personas interesadas en empezar a contribuir con la comunidad local de Mozilla. </p>
+						<p><a title="Leer el resto del artículo" href="https://www.mozilla-hispano.org/mozilla-colombia-en-el-campus-party-colombia-2019/">Leer más...</a></p>
+					</div>
+
+				</div>
+			</div>
+
+		
+		<div class="navigation">
+			<div class="alignleft"><a href="https://www.mozilla-hispano.org/page/2/" >&laquo; Artículos antiguos</a></div>
+			<div class="alignright"></div>
+		</div>
+
+	
+</div><!-- #main-content -->
+
+	<div id="barra">
+				<form method="get" id="searchform" action="/buscar.php" >
+	<div><label class="screen-reader-text" for="s">Search for:</label>
+	<input type="text" placeholder="Buscar" value=""
+name="q" id="s" />
+	<input type="hidden" name="desde" value="noti" />
+	<input type="hidden" name="donde" value="noti" />
+	<button type="submit" id="searchsubmit" class="button">Buscar</button>
+	</div>
+	</form>
+			<li id="text-3" class="widget widget_text">			<div class="textwidget"><h3 id="involucrate">¡Participa!</h3>
+                        <dl>
+
+ <dt><a href="https://discourse.mozilla.org/t/leeme-como-participar-en-la-comunidad/64161">Colabora con la comunidad »</a></dt>
+                                <dd>En Mozilla lo importante son las personas. Descubre cómo puedes colaborar.</dd>
+
+</dl>
+
+<h3 id="boletin">Boletín Firefox</h3>
+                        <p class="boletin">Suscríbete al <a href="http://www.mozilla.org/es-ES/newsletter/">boletín de novedades</a> de Firefox.</p></div>
+		</li>
+               <!-- Descargas -->
+
+		<h3 id="descargas">Descargas</h3>
+                <p class="boletin">
+                    <a title="Ver programas de Mozilla" href="https://www.mozilla.org/es-ES/products/">Descarga</a> los programas de Mozilla.
+                </p>
+
+		<!-- Artículos destacados -->
+
+		<h3 id="destacado">Lo más visto</h3>
+			<ul>
+							</ul>
+	</div>
+
+
+</div><!-- #contenido -->
+
+
+		</div><!-- Cuerpo -->
+	</div><!-- tullido -->
+</div><!-- lienzo -->
+<div id="pie">
+	<div id="pie-contenido">
+		<div class="c2">
+			<a href="/documentacion/Organizaci%C3%B3n_de_Mozilla_Hispano#Licencia" title="Licencia para el uso del contenido de este proyecto"><img src="/images/cc-by-sa.png" alt="cc-by-sa"/></a>
+		</div>
+
+		<div class="c1">
+			<strong>Acerca de</strong>
+			<ul>
+				<li><a href="/documentacion/Organizaci%C3%B3n_de_Mozilla_Hispano" title="Conoce más sobre el proyecto">Acerca de Mozilla Hispano</a></li>
+				<li><a href="/documentacion/Organizaci%C3%B3n_de_Mozilla_Hispano#Contacto" title="Contacta con el proyecto">Contacto</a></li>
+				<li><a href="/documentacion/Colabora" title="Colabora con el proyecto">Colabora</a></li>
+				<li><a href="/comunidad/">Comunidad</a></li>
+				<li><a href="/marca/">Uso de marca y logos</a></li>
+				<li><a href="https://www.mozilla.org/es-ES/about/governance/policies/participation/" title="Pautas de participación">Pautas de participación</a></li>
+			</ul>
+		</div>
+
+		<div class="c1">
+			<strong>Comunidad</strong>
+			<ul>
+				<li><a href="/">Noticias</a></li>
+				<li><a href="https://discourse.mozilla.org/c/community-portal/mozilla-hispano">Foro de discusión</a></li>
+				<li><a href="https://support.mozilla.org/es/">Documentación</a></li>
+				<li><a href="/planet/">Planet</a></li>
+				<li><a href="/labs/">Labs</a></li>
+				<li><a href="/difusion/">Difusión</a></li>
+			</ul>
+		</div>
+
+		<div class="c1">
+			<strong>Webs Mozilla</strong>
+			<ul>
+				<li><a href="http://addons.mozilla.org/es-ES/">Mozilla Addons</a></li>
+				<li><a href="http://developer.mozilla.org/es">Mozilla Developer Network</a></li>
+				<li><a href="http://www.mozilla.org/es-ES/newsletter/">Boletín Firefox</a></li>
+				<li><a href="http://input.mozilla.com/es/">Firefox Input</a></li>
+			</ul>
+		</div>
+
+		<div class="c1">
+			<strong>Únete</strong>
+			<ul>
+				<li><a href="/documentacion/Difusi%C3%B3n">Difusión</a></li>
+				<li><a href="/documentacion/Asistencia">Asistencia</a></li>
+				<li><a href="/documentacion/Noticias">Noticias</a></li>
+				<li><a href="/documentacion/Localizaci%C3%B3n">Localización</a></li>
+                <li><a href="/documentacion/Labs">Labs</a></li>
+                <li><a href="/documentacion/Control_de_calidad">Control de calidad</a></li>
+				<li><a href="/documentacion/Administraci%C3%B3n_t%C3%A9cnica">Adm. Técnica</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+<script type='text/javascript'>
+var tab=document.createElement('div');
+tab.id = "tabzilla";
+var tab_a = document.createElement('a');
+tab_a.href="https://www.mozilla.org/";
+tab_a.textContent = "mozilla";
+tab.appendChild(tab_a);
+var tullido=document.getElementById('tullido');
+tullido.insertBefore(tab,tullido.firstChild);
+</script>
+
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["setDomains", ["*.www.mozilla-hispano.org"]]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://stats.mozilla-hispano.org/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 1]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
+    g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//stats.mozilla-hispano.org/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+
+<script type="application/x-javascript" src="/wp-content/themes/mozillahispano2/js/labs_functions.js" ></script>
+<script type="text/javascript" src="/wp-content/themes/mozillahispano2/js/menu.js"></script>
+<script type="text/javascript" src="/wp-content/themes/mozillahispano2/js/responsive.js"></script>
+<script type="text/javascript" src="/wp-content/themes/mozillahispano2/js/jquery.cookiebar.js"></script>
+<script type="text/javascript">
+	jQuery(document).ready(function(){
+		jQuery.cookieBar({});
+	});
+
+	// Forum migration warning
+	if (document.URL.indexOf('/foro/') !== -1) {
+		var dBody = document.querySelector('body');
+		dBody.insertAdjacentHTML('afterbegin',
+			'<div id="warning-foro" class="off">Este foro se guarda como histórico y no se pueden añadir más comentarios. Si aún quieres hacer una petición de ayuda accede a <a href="https://support.mozilla.org/es/">la plataforma de ayuda de Mozilla</a>. Si quieres participar en las discusiones y debates de la comunidad, <a href="https://discourse.mozilla.org/c/community-portal/mozilla-hispano">accede a los nuevos foros de discusión</a>.</div>');
+		// Slidein animation
+		window.setTimeout(function() {
+			document.getElementById("warning-foro").classList.remove("off");
+		}, 500);
+	}
+</script>
+
+
+<!-- Social Media 2-step buttons  -->
+<script type="text/javascript">(function () {var s = document.createElement('script');var t = document.getElementsByTagName('script')[0];s.type = 'text/javascript';s.async = true;s.src = '/wp-content/themes/mozillahispano2/js/jquery.socialshareprivacy.min.autoload.js';t.parentNode.insertBefore(s, t);})();</script>
+</body>
+</html>

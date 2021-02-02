@@ -1,0 +1,2400 @@
+[
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?vaguthu\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "body > div.v-advert:nth-of-type(1)"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?vaguthu\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".promo-content > div:nth-of-type(2)"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?vaguthu\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div.columns.medium-6:nth-of-type(2)"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?vaguthu\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div.v-advert:nth-of-type(3)"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?vaguthu\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".highlights > .v-advert"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?vaguthu\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".article-entry > .v-advert"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?vaguthu\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".columns.medium-8.article-content > .v-advert"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sun\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".section-header-sponsor"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sun\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".block-home-featured-sponsors"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sun\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".block-middle-sponsor.custom-gutter.row"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sun\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div.section-home-row-sponsor:nth-of-type(6) > .container"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sun\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div.section-home-row-sponsor:nth-of-type(8) > .container"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sun\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".--center.--float-label.component-sponsor"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sun\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".clearfix.component-article-content > .--center.component-sponsor"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sun\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".col-md-8.col-xl-9 > .component-sponsor"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sun\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".component-sponser"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sun\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div.section-home-row-sponsor:nth-of-type(7) > .container"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sun\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div.section-home-row-sponsor:nth-of-type(9) > .container"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?en\\.sun\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".sponser-top-banner.sponser"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?en\\.sun\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".sponser-featured-top-square.sponser"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?en\\.sun\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".sponser-home-category.sponser"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?en\\.sun\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".sponser-home-section-1 > .container > .sm-gutter.row > .col-xs-12 > .sponser"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?en\\.sun\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".sponser-home-section-2-square.sponser"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?en\\.sun\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".sponser-home-section-2 > .container > .sm-gutter.row > .col-xs-12 > .sponser"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?en\\.sun\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".sponser-article-reader-content-below.sponser"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?en\\.sun\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".sponser-reader-side-square.sponser"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.sun\\.com\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".sponser-home-section-1 > .container > .sm-gutter.row > .col-xs-12 > .sponser > .sponser-label"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.sun\\.com\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".sponser-home-section-2-square.sponser > .sponser-label"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.sun\\.com\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".sponser-home-section-2 > .container > .sm-gutter.row > .col-xs-12 > .sponser > .sponser-label"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.sun\\.com\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".sponser-top-banner.sponser"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.sun\\.com\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".sponser-home-section-1 > .container > .sm-gutter.row > .col-xs-12 > .sponser > .sponser-label"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.sun\\.com\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".sponser-home-section-2-square.sponser > .sponser-label"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.sun\\.com\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".sponser-home-section-2 > .container > .sm-gutter.row > .col-xs-12 > .sponser > .sponser-label"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.sun\\.com\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".sponser-top-banner.sponser"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.sun\\.com\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".input > .sponsor"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.sun\\.com\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".sponser-home-section-1 > .container > .sm-gutter.row > .col-xs-12 > .sponser > .sponser-label"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.sun\\.com\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".sponser-home-section-2-square.sponser > .sponser-label"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.sun\\.com\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".sponser-home-section-2 > .container > .sm-gutter.row > .col-xs-12 > .sponser > .sponser-label"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.sun\\.com\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".sponser-top-banner.sponser"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.sun\\.com\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".input > .sponsor"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?vnews\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".adborder"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?vnews\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".pull-right.span12 > .hidemobile"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?vnews\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".topheader-ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?cnm\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".w-100.lazy.my-4"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?cnm\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".py-3.my-3"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?cnm\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".bg-light.py-3.my-4.mx-auto.col-md-12.col-10"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?cnm\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#cat_loc_2 > .home_cat_left > .home_top_section_box.row > div.col-md-6.col-6:nth-of-type(2) > .home_top_section_elem > .home_cat_left_box > div:nth-of-type(2)"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?cnm\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div.col-md-12.col-12:nth-of-type(8) > div:nth-of-type(3)"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?cnm\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#cat_loc_4 > .home_cat_left > .home_top_section_box.row > div.col-md-6.col-6:nth-of-type(2) > .home_top_section_elem > .home_cat_left_box > div:nth-of-type(2)"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?cnm\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div:nth-of-type(7) > div.v_space_20:nth-of-type(1)"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?cnm\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div:nth-of-type(7) > div:nth-of-type(3)"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?cnm\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div.main_outer:nth-of-type(9) > .main_inner > div.col-md-12.col-12:nth-of-type(1) > div:nth-of-type(3)"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?cnm\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#cat_loc_1 > .home_cat_left > .home_top_section_box.row > div.col-md-6.col-6:nth-of-type(2) > .home_top_section_elem > .home_cat_left_box > div:nth-of-type(2)"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?cnm\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div.col-md-12.col-12:nth-of-type(4) > div:nth-of-type(3)"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?cnm\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#cat_loc_3 > .home_cat_left > .home_top_section_box.row > div.col-md-6.col-6:nth-of-type(2) > .home_top_section_elem > .home_cat_left_box > div:nth-of-type(2)"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?cnm\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#content_area > div:nth-of-type(3)"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?cnm\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".home_top_left"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?avas\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#app > .bg-white"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?avas\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".md\\:w-auto.w-full.p-3.justify-center.items-center.md\\:flex-row.flex-col.flex"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?avas\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".home_top_ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?avas\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".home_middle_ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?avas\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".text-center.md\\:mt-2.mt-4.mb-8.md\\:mr-6.ml-auto.mr-auto.md\\:float-left.relative"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dhuvas\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".td-container-wrap.td-banner-wrap-full"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dhuvas\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div.desku.td-pb-row.wpb_row.vc_row:nth-of-type(11) > .td-pb-span4.vc_column_container.wpb_column > .vc_column-inner > .wpb_wrapper > .vc_align_left.wpb_content_element.wpb_single_image"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dhuvas\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div.desku.td-pb-row.wpb_row.vc_row:nth-of-type(14) > .td-pb-span4.vc_column_container.wpb_column > .vc_column-inner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dhuvas\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div.desku.td-pb-row.wpb_row.vc_row:nth-of-type(15) > .td-pb-span4.vc_column_container.wpb_column > .vc_column-inner > .wpb_wrapper"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dhuvas\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div.desku.td-pb-row.wpb_row.vc_row:nth-of-type(16) > .td-pb-span4.vc_column_container.wpb_column > .vc_column-inner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dhuvas\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".td-pb-span8.vc_column_container.wpb_column > .vc_column-inner > .wpb_wrapper > .vc_align_left.wpb_content_element.wpb_single_image"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dhuvas\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div.desku.td-pb-row.wpb_row.vc_row:nth-of-type(21) > .td-pb-span12.vc_column_container.wpb_column > .vc_column-inner > .wpb_wrapper > .td-pb-row.vc_inner.wpb_row.vc_row > .td-pb-span4.vc_column_container.wpb_column > .vc_column-inner > .wpb_wrapper"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dhuvas\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".g-5.g"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dhuvas\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".g-3.g"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?raajje\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".readMoreFade > .img-responsive.img"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?raajje\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".content-adv > p"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?raajje\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".content-adv"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?raajje\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div.container:nth-of-type(3) > div.row:nth-of-type(2)"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?raajje\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div.container:nth-of-type(3) > div.row:nth-of-type(1)"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?raajje\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".mobile_hide.col-md-4 > .img-responsive.img"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?raajje\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div.col-md-12:nth-of-type(4)"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?raajje\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#fadeMe > .img-responsive.img"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?thoora\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".wide.ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?kulhudhuffushi\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".side-advertisement"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?haftha\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#media_image-7"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?haftha\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#media_image-9"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?haftha\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".height420[style*=background]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?haftha\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".width100[style=\" height:170px;\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?haftha\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#sidepost > div:nth-of-type(1)"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?haftha\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#sidepost > div:nth-of-type(3)"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?milandhoonews\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#media_image-5"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?milandhoonews\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[src=\"/wp-content/uploads/2018/11/tinuad.gif\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?milandhoonews\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#main > p"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?milandhoonews\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "hr:nth-of-type(1)"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.addulive\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".d-lg-block.d-none.col-md-3"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.addulive\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".text-center.slot-3-addulive"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.addulive\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".text-center.slot-5-addulive"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.addulive\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".sticky-top"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.addulive\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".text-center.slot-7-addulive"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.addulive\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".text-center.slot-8-addulive"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.addulive\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".text-center.mt-5.slot-10-addulive"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.addulive\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".text-center.slot-14-addulive"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.addulive\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".text-center.slot-12-addulive"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.addulive\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".text-center.slot-13-addulive"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.addulive\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".mb-4.m3-4.text-center.slot-6-addulive"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?miadhu\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#topAdCaro"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?miadhu\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".mt-3.col-md-12"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?miadhu\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".mbo-ads-show.col-md-6"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?miadhu\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".mbo-ads.col-md-6"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?miadhu\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".mbo-ads.col-md-4"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?miadhu\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".mbo-ads.gallery"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?miadhu\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div.col-md-12:nth-of-type(3)"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?miadhu\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div.row:nth-of-type(6)"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?aafathis\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#text-26"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?aafathis\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#text-45"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?aafathis\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#text-49"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?aafathis\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".header-ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?aafathis\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".wp-caption-text"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.naares\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".stream-item-top-wrapper.stream-item.tie-col-md-8"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.naares\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#stream-item-widget-3"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.naares\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#stream-item-widget-5"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.naares\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".aligncenter.stream-item-inline-post.stream-item-in-post.stream-item"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?thepress\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".pb-2.pl-0.text-center.banner.advert"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?thepress\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".md\\:w-2\\/5.w-full.md\\:block.hidden"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?thepress\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".topheader-ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?oneonline\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".mb-6.rtl.md\\:flex-row.flex-col.flex > div.md\\:w-1\\/2.w-full"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?oneonline\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".text-center.py-8.w-full.ads"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fuvahmulahtimes\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".space.single__latest-space"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fuvahmulahtimes\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ads"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mikalnews\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".adv-300x600"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?halinews\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".td-header-sp-recs"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?halinews\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".vc_column-gap-2.td-pb-row.vc_inner.wpb_row.vc_row > div.td-pb-span6.vc_column_container.wpb_column:nth-of-type(2)"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?halinews\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div.td-pb-row.wpb_row.vc_row:nth-of-type(8) > div.td-pb-span4.vc_column_container.wpb_column:nth-of-type(1) > .vc_column-inner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?halinews\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div.td-pb-row.wpb_row.vc_row:nth-of-type(10)"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?halinews\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div.td-pb-row.wpb_row.vc_row:nth-of-type(12)"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?halinews\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".td_block_template_1.td_uid_34_5c3174280e72f_rand.td-a-rec-id-content_inline.td-a-rec"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?halinews\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#halin-1478225461"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?halinews\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".halin-adlabel"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.eydhafushitimes\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".sidebar"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.eydhafushitimes\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".vc_hidden-xs.vc_hidden-sm.alignlefti.main-sidebar.sidebar.vc_sidebar.momizat_vc_col.vc_column_container.wpb_column > .vc_column-inner > .wpb_wrapper > .wpb_content_element.wpb_widgetised_column > .wpb_wrapper > .widget_text.widget"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.eydhafushitimes\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div.vc_row-fluid.wpb_row.vc_row:nth-of-type(3) > .alignlefti.main-sidebar.sidebar.vc_sidebar.momizat_vc_col.vc_column_container.wpb_column > .vc_column-inner > .wpb_wrapper"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?liyuntherin\\.org[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div.mini-widgets:nth-of-type(4)"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?liyuntherin\\.org[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div.wpb_content_element.wpb_text_column:nth-of-type(2)"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?liyuntherin\\.org[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div.wpb_content_element.wpb_text_column:nth-of-type(6)"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.fenvaru\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".row.layout > .ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.fenvaru\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "section.common.story.cat:nth-of-type(3) > .ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.fenvaru\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "section.common.story.cat:nth-of-type(10) > .ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.fenvaru\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".block.ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.fenvaru\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".md\\:w-1-5\\/5.relative.w-full.md\\:m-0.mt-8.px-4 > .adsby"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.ungoofaaru\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".stream-item-widget-content > [href=\"#\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.ungoofaaru\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#tie-block_2223"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dhiislam\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".single-leader > .container"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dhiislam\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".vc_col-sm-4.vc_column_container.wpb_column > .vc_column-inner > .wpb_wrapper > .wpb_content_element.wpb_text_column"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dhiislam\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#text-62"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dhiislam\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[href=\"http://www.qibla.mv/\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.hithaadhoo\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".col-sm-7.col-md-pull-3.col-md-9"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.hithaadhoo\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".col-md-pull-9.col-md-3"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dhivehi\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#lBar > div > div:nth-of-type(1)"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bahuru\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[href^=\"https://www.facebook.com/kitchengaloreshop4u\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.voiceofmeedhoo\\.info[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".df-ads.col-md-8"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.voiceofmeedhoo\\.info[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#df_widget_advertisement_300-3"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.voiceofmeedhoo\\.info[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".vc_row-has-fill.vc_custom_1468306030087.df-vc-container.vc_row-fluid.wpb_row.vc_row > .df_col-sm-4.vc_col-sm-4.vc_column_container.wpb_column > .vc_column-inner > .wpb_wrapper > .wpb_content_element.wpb_widgetised_column > .wpb_wrapper"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.voiceofmeedhoo\\.info[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#df_widget_advertisement_300-5 > .df-widget-ads > .df-widget-ads-inner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.voiceofmeedhoo\\.info[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#df_widget_advertisement_300-5 > .df-widget-ads > .df-widget-title"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.voiceofmeedhoo\\.info[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".size-full.wp-image-5523.alignnone.img-responsive"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.voiceofmeedhoo\\.info[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".df-widget-ads-inner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.voiceofmeedhoo\\.info[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".df-widget-ads > .df-widget-title"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.voiceofmeedhoo\\.info[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div.col-md-12:nth-of-type(4)"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?eydhafushivoice\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#text-22 > .textwidget"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?eydhafushivoice\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#text-19"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?eydhafushivoice\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#text-3"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?eydhafushivoice\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#text-6"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?eydhafushivoice\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#text-8"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?eydhafushivoice\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#text-23"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?eydhafushivoice\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#text-17"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?eydhafushivoice\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#text-16"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.esfiya\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".s1.sidebar"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.esfiya\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".megabanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.esfiya\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".home4th"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.esfiya\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".singlepostbelowcontent"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.esfiya\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".topadundermenu"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.suruhee\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".wide.ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?vaahaka\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".theiaStickySidebar"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?edition\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".d-lg-block.d-none.order-2.col-lg-4 > .maw > .ma-desktop.ma"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mendhuru\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".jeg_wrapper > .wpb_wrapper > .wpb_raw_html.wpb_content_element.wpb_raw_code > .wpb_wrapper > .widget-ad-image > .widget-ad-link > .isthihaaru"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mendhuru\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div.vc_hidden-xs.vc_hidden-sm\\,.vc_row.row:nth-of-type(4) > .jeg-vc-wrapper > .jeg_main_content.vc_col-sm-12.vc_column_container.jeg_column.wpb_column"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mendhuru\\.mv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".isthihaaru"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*\\[Adblock Plus 2\\.0\\]",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ads\\.vaguthu\\.mv",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://www\\.sun\\.com\\.mv/public/images/core/ooredoo-search\\.png",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://cache-server01\\.sun\\.mv/sun\\.assets/isthihaaru",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://sun\\.mv/public/assets/ooredoo-search-v2\\.png",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://cnm\\.mv//ads/maxcom\\.png",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://cnm\\.mv//ads/maxcom-search\\.png",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://images-01\\.avas\\.mv/creatives",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://i0\\.wp\\.com/dhuvas\\.mv/wp-content/uploads/2020/06/ad\\.jpg\\?ssl=1",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://i.*\\.wp\\.com/dhuvas\\.mv/wp-content/uploads/.*1140x200\\.jpg",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://i.*\\.wp\\.com/dhuvas\\.mv/wp-content/uploads/.*_360x500\\.jpg",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://cloudfront\\.net/static-files/ads",
+			"resource-type": [
+				"image"
+			],
+			"if-domain": [
+				"raajje.mv",
+				"www.raajje.mv"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://haftha\\.mv/wp-content/uploads/2019/12/CAFE-SOLEIL\\.jpg",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://haftha\\.mv/wp-content/uploads/.*-1200x150-.*\\.jpg",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://haftha\\.mv/wp-content/uploads/.*-320x530-.*\\.jpg",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://haftha\\.mv/wp-content/uploads/.*/MWSC-.*\\.jpg",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://miadhu\\.mv/source/.*/1200/250",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://miadhu\\.mv/source/.*/1200/150",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://miadhu\\.mv/source/.*/450/900",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://aafathis\\.mv/wp-content/uploads/2020/02/Advertisehere1small.*\\.jpg",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://aafathis\\.mv/wp-content/uploads/2020/02/Advertisehere1small.*\\.jpg",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://aafathis\\.mv/wp-content/uploads/2020/02/Aafathis-Online-Home-Page-Mid-Banner\\.gif",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://naares\\.com/wp-content/uploads/.*/Naares\\.png",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://naares\\.com/wp-content/uploads/.*/naares1\\.",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://mikalnews\\.com/wp-content/uploads/.*\\.gif",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://halinews\\.com/wp-content/uploads/.*\\.gif",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://i.*\\.wp\\.com/halinews\\.com/wp-content/uploads/.*\\.gif",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://i.*\\.wp\\.com/halinews\\.com/wp-content/uploads/.*/Special-Price_Hali-News.*\\.jpg",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://i1\\.wp\\.com/halinews\\.com/wp-content/uploads/2020/06/Special-Price_Hali-News2\\.jpg\\?.*&ssl=1",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://eydhafushitimes\\.com/live/wp-content/uploads/.*645x82-.*\\.png",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://eydhafushitimes\\.com/live/wp-content/uploads/.*1162x110\\.jpg",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://eydhafushitimes\\.com/live/wp-content/uploads/.*_352x330\\.jpg",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://eydhafushitimes\\.com/live/wp-content/uploads/.*/Salsa\\.jpg",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://www\\.eydhafushitimes\\.com/live/wp-content/uploads/2020/06/OMAd-300x280PostpaidOffers_\\.png",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://liyuntherin\\.org/wp-content/uploads/2020/06/AdvertiseHere101.*\\.jpg",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://liyuntherin\\.org/wp-content/uploads/2019/03/LGOfficialAd.*\\.jpg",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://www\\.fenvaru\\.com/wp-content/uploads/2020/06/Add-1-2\\.jpg",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://www\\.fenvaru\\.com/wp-content/uploads/2020/04/97-350x380-V2\\.png",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://res\\.cloudinary\\.com/dxnkuehsf/image/upload/v1590289406/cdn/ad-here-870x110-1\\.png",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://www\\.fenvaru\\.com/wp-content/uploads/2020/05/ad-here-870x175-1\\.png",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://res\\.cloudinary\\.com/dxnkuehsf/image/upload/v1588663253/cdn/ad-here-330x490-1\\.png",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://res\\.cloudinary\\.com/dxnkuehsf/image/upload/v1588663239/cdn/ad-here-555x205-1\\.png",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://www\\.fenvaru\\.com/wp-content/uploads/2020/06/Add-1-2\\.jpg",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://www\\.fenvaru\\.com/wp-content/uploads/2020/06/post-inside-1-1\\.gif",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://dhiislam\\.com/wp-content/uploads/2020/03/Thiladhun-300x600-1\\.png",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://thiladhun\\.com/wp-content/uploads/.*-Ad\\.png",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://hithaadhoo\\.com/Add",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://eydhafushivoice\\.com/wp-content/uploads/.*-512x1024\\.jpg",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://eydhafushivoice\\.com/wp-content/uploads/.*_ad_1\\.jpg",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://eydhafushivoice\\.com/wp-content/uploads/.*_o\\.",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://eydhafushivoice\\.com/wp-content/uploads/.*_n\\.",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://eydhafushivoice\\.com/wp-content/uploads/2019/09/thumbnail_Entry-3\\.jpg",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://hama\\.mv/img/xadsx/top-banner-compressed\\.jpg",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://hama\\.mv/img/templates/banner_255x300\\.jpg",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://hama\\.mv/img/templates/banner_850x140\\.jpg",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://hama\\.mv/img/templates/banner_350x320\\.jpg",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://hama\\.mv/img/xadsx/news/bunker_news_top_banner\\.gif",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://hama\\.mv/img/templates/banner_350x600\\.jpg",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://hama\\.mv/img/xadsx/news/news_banner3\\.jpg",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://mendhuru\\.mv/wp-content/uploads/2019/11/mendhuru-ads-here\\.png",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://vaahaka\\.com/wp-content/uploads/2017/05/Maveshi-Vaahaka-Ad\\.gif",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://826343\\.smushcdn\\.com/1644873/wp-content/uploads/2020/05/C674AB23-CBC0-45C1-994E-2CB10C6F066D-.*\\.jpeg\\?.*lossy=1&strip=1&webp=1",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://iru\\.mv/wp-content/uploads/2020/05/C674AB23-CBC0-45C1-994E-2CB10C6F066D-scaled\\.jpeg",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://iru\\.mv/wp-content/uploads/2020/05/C674AB23-CBC0-45C1-994E-2CB10C6F066D-scaled\\.jpeg",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://826343\\.smushcdn\\.com/1644873/wp-content/uploads/2019/04/xl-da@2x-1\\.png\\?.*lossy=1&strip=1&webp=1",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://826343\\.smushcdn\\.com/1644873/wp-content/uploads/2020/03/adsmartclass.*\\.jpg\\?.*lossy=1&strip=1&webp=1",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	}
+]

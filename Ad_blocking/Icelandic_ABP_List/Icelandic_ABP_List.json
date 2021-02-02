@@ -1,0 +1,2239 @@
+[
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?vf\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#banner-310x400-Right"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?vf\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".row.ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?visir\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#topadbanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dv\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".gardina"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ja\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".adw"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bb\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner-container"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bb\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?smugan\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "OBJECT[width=\"300\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?smugan\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".header_add"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?kki\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".AuglysingaHnappur"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?skessuhorn\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".tdAuglMidja"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?skessuhorn\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".imgAuglHead"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?skessuhorn\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#imgAuglRight_1"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?skessuhorn\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#imgAuglRight_4"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?eidfaxi\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".forsaugl"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?foreldrahandbokin\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#adinj-2"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sporttv\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad-tower"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sporttv\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sporttv\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV[style=\"padding: 20px 0; text-align: center;\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?veitingastadir\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[id*=\"HeaderAd\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "A[href^=\"/framework/resources/forms/ads.aspx\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bland\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[id*=\"advImg\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bland\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".boughtsmas.box"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bland\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".slider-wrapper"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bland\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".box.classifedSmas"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bland\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".box.isotopeItem.spaceAugl"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bland\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#footer-netgiro"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bland\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".netgiroInsuranceSection"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pressan\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#ctl00_RandomBanner2_divBanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pressan\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#skyscrapper"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pressan\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#ctl00_cphMain_Wrapper1_ctl06_divBanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pressan\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#ctl00_ctl00_cphRullugardina_cphRullugardina_RandomBannerRullugardina_divBanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pressan\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#ctl00_RandomBanner3_divBanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pjatt\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#text-113"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pjatt\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#image-3"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sporttv\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#top-banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sporttv\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#sambio-banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?flass\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#ForsidaMB1"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?flass\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#ForsidaMB2"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?flass\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#ForsidaBotn"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?flass\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".col2"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?flass\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".turn"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?menn\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".su-column.su-column-1-3.su-column-style-1"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?menn\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#text_mnky-2"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?menn\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#text_mnky-3"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?menn\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".topz"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?menn\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#floating-box-right"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?menn\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".g.g-7"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?menn\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".g.g-2"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?menn\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#footer_section_1"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?menn\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".textwidget"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mbl\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#slot-668"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mbl\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".augl"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mbl\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".augl-parallax-frontpage"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mbl\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".augl-wide"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mbl\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".dlk-13"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mbl\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".dlk-23"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mbl\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#yfirhaus-augl"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pressan\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".randombanner-upperright"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dv\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#cboxOverlay"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?hun\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#snppopup-welcome"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?infront\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#like"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pressan\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".bp4"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pressan\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".bp26"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pressan\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#13_3623"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pressan\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#spoton"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bleikt\\.pressan\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".fb_ltr"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?clients\\.ennemm\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#nm_container"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fotbolti\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#banner1"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fotbolti\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#banner2"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fotbolti\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#banner3"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fotbolti\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#banner4"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fotbolti\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#banner5"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fotbolti\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#banner6"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fotbolti\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#banner7"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fotbolti\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#banner8"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fotbolti\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#banner9"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fotbolti\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#banner10"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fotbolti\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#banner11"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fotbolti\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#banner12"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fotbolti\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#banner13"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fotbolti\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#banner14"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fotbolti\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#banner15"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fotbolti\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#banner16"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fotbolti\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#banner17"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fotbolti\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#banner23"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?gaflari\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[class*=\"auglysingaplass\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?1819\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".augl-wrapper"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?1819\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".side-augl-wrapper"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?kjarni\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?eyjar\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".col-md-8.ad.hausad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?frettatiminn\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?frettatiminn\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad2"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?hringbraut\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".strevda"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?spyr\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad_310.add_marg_20_b"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?spyr\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".head_ad_360x100"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?spyr\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad_310.add_marg_20_b"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?spyr\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".add_top_border.left_floater"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?spyr\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".left_floater.add_top_border"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?spyr\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".top_customer_banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?spyr\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "IMG[src=\"/thumb/550x200/53d278ef882dd.jpg\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?frettanetid\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".widgetizedArea"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?frettanetid\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".widget"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?frettanetid\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#wp_editor_widget-18"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sumarferdir\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".col-item"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pressan\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#ctl00_ctl00_cphMain_cphMain_RandomBanner4_divBanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mbl\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".mt-5.mb-5"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?krom\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".gardina"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?krom\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".stod_grein"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?krom\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".auglysing_h1"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?krom\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#flexslider3"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?krom\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".new-auglysing_h2"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?krom\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".new-ads-slider"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?krom\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".new-ads-slider-small"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?1819\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".augl.augl-size-1018"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?icelandreview\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ir-surprise-list"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?karfan\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad-pos"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?skessuhorn\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".kostad-efni"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?frettabladid\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[class^=\"ad\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?austurfrett\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".bannergroup"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?stundin\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#ad-overlay-container"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?auroraforecast\\.is[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".widget.widget_media_image"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*\\[Adblock Plus 2\\.0\\]",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*\\.is/ads/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*\\.is/augl/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*\\.is/.*/augl/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://auglysingar\\.vinnustofan\\.is/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://skilo\\.is/orbit/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://bland\\.is/.*/click\\.aspx\\?id=",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://pressan\\.is/img/banners/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://fotbolti\\.net/banners/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://vf\\.is/files/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://visitreykjavik\\.is/PortalData/1/Resources//flash/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://doktor\\.is/images/banners/aads/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://f4x4\\.is/images/banners/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://dagskrain\\.is/static/auglysingar/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://utvarpsaga\\.is/images/banners/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://dfs\\.is/images/banners/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://siglo\\.is/static/auglysingar/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://freisting\\.is/logo/banners/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://freisting\\.is/skjalasafn/flash/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://freisting\\.is/skjalasafn/bordar/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://austurglugginn\\.is/images/banners/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://veitingastadir\\.is/resources/Files/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://leikjaland\\.is/images/banners",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://boksala\\.is/portaldata/1/resources/Bannerar/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://flass\\.is/banners/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://soda\\.is/uploads/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://dv\\.is/media/news/kragi/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://hopkaup\\.is/banner/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://bmwkraftur\\.is/img/benni-Toyo_bordi2-500x60\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://soda\\.is/qikqik/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://tal\\.is/bordar/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://vefbordar\\.sitrus\\.is/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://live2cruize\\.com/auglysingar/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://bilasolur\\.is/AdPlayer\\.aspx\\?ad=",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://bilasolur\\.is/banners/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://menn\\.is/wp-content/uploads/2014/08/njottucoke2\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://menn\\.is/wp-content/uploads/2015/01/cero\\.png",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*mbl\\.is/a/vedur/icelandair_vedur\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://kynning\\.olis\\.is/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*ads\\.bleikt\\.is/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*ads\\.pressan\\.is/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*ads\\.aha\\.is/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://openad\\.visir\\.is/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://fotbolti\\.net/themes/2013/images/LG_rammi_mestlesid\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://fotbolti\\.net/themes/2013/images/LG_rammi_mestlesid_back\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://fotbolti\\.net/themes/2013/images/vef_bg\\.png",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://fotbolti\\.net/themes/2013/images/dominos_logo1\\.png",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://fotbolti\\.net/themes/2013/images/vodafone_logo\\.png",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://auglysingar\\.pipar\\.is/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ads\\.hun\\.is/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://hjartalif\\.is/banners/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://islenska\\.is/digital/graenmetisbaendur/safabanner/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://kjarninn\\.is/auglysingar123/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://vefbordar\\.jl\\.is/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://eyjar\\.net/ad/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://eyjar\\.net/skrar/ads/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*s\\.greenqloud\\.com/other/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*oc-adserver\\.s3\\.amazonaws\\.com/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*static\\.boringnerd\\.com/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*static\\.bordar\\.is/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*apache\\.hvitahusid\\.is/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*vefbordar\\.vert\\.is/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://bordar\\.kusk\\.is/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://cdn\\.tix\\.is/tix/Ads/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://static\\.airserve\\.net/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://vefbordar\\.offorsi\\.is/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://nutiminn\\.is/popupads",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	}
+]

@@ -1,0 +1,355 @@
+[
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".publicidad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.semana\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".bloq-articulo-content"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.semana\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".bloq-articulo-footer"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.semana\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#bloq-articulo > .bloq-articulo-header"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.semana\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#contenedorModal"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.semana\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#bodyModal"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.semana\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[style*=\"animation-name: animacionBlurAbrir\"]:style(animation: none !important)"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?rcnradio\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#videoAdsAlert"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?hsbnoticias\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[id*=\"tv-miniwidget\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?hsbnoticias\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".node-advertisement"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.bluradio\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".cookie-notifications-content"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.bluradio\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#cookie-notifications"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?noticias\\.caracoltv\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".PushSubscription-block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?noticias\\.caracoltv\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#push-notification-block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?registro\\.pse\\.com\\.co[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#divPolicyChange"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.locatelcolombia\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".backgroundCover"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.falabella\\.com\\.co[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".overlay"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?elheraldo\\.co[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#cookie-politicas"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?caracoltv\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".cookies-acceptance"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*\\[Adblock Plus 1\\.1\\]",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*/pauta/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*tinypass\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*elfrente\\.com\\.co/web/imagenes/BANNER.*\\.png",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://www\\.semana\\.com/img/paywall/bg-bloq-articulo\\.png",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://www\\.semana\\.com/img/paywall/forma-517\\.svg",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*seg\\.eltiempo\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*\\.gov\\.co/.*banners/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^http://www\\.4-72\\.com\\.co",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^deprisa\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*/Scripts/ads\\.js",
+			"resource-type": [
+				"script"
+			],
+			"load-type": [
+				"first-party"
+			],
+			"if-domain": [
+				"semana.com",
+				"www.semana.com",
+				"dinero.com",
+				"www.dinero.com",
+				"soho.co",
+				"www.soho.co",
+				"fucsia.co",
+				"www.fucsia.co"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	}
+]

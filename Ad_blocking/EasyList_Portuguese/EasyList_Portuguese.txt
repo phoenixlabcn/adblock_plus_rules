@@ -1,0 +1,423 @@
+[Adblock Plus 2.0]
+! Checksum: JHee9e4PLXonEL3E9AwRnA
+! Version: 202102020211
+! Title: EasyList Portuguese
+! Last modified: 02 Feb 2021 02:11 UTC
+! Expires: 1 days (update frequency)
+! Homepage: https://easylist.to/
+! Licence: https://easylist.to/pages/licence.html
+!
+! Please report any unblocked adverts or problems
+! in the forums (https://forums.lanik.us/viewforum.php?f=109)
+! or via e-mail (easylist.portuguese@gmail.com)
+!
+!-----------------------General advert blocking filters-----------------------!
+! *** Fetched from: https://raw.githubusercontent.com/easylist/easylistportuguese/master/easylistportuguese/easylistportuguese_general_block.txt ***
+-publicidade.
+.br/afiliados/
+.br/banner.aspx?
+.br/banners/
+.br/imagensdb/banners/
+.br/swf/banners/
+.clickafiliados.
+.com/adssrv/
+.com/afiliados/
+.cv/images/pubs/
+.cv/pub/
+.pt/images/banners/
+.publicidade.
+//adware.
+/adshotbrasil1.
+/adsligados.
+/banner300x80.
+/Bannerctgineses.
+/bannerWoo.
+/bannerwoopos4.
+/dixioforyoursite/*
+/ficheiros/banners/*
+/find.gl/js.php?
+/iframe-banners.
+/igbarra.js
+/imagem/urchin.gif?
+/img_banner/*
+/imgcontador.php?
+/linksPatGoogle.
+/mrec.aspx?
+/mrec.html?
+/planetup_
+/promocao-
+/publi.js
+/publi/banner_
+/publicidade-
+/publicidade_
+/publicidadevertical.
+/publitab.
+/recursos/banners/*
+/suse468x60-
+/wpublicidad/*
+/Zoinke.Pt.
+/zonasadserver/*
+_fullbanner_balanca_
+_publicidade.
+_publicidade_
+! *** Fetched from: https://raw.githubusercontent.com/easylist/easylistportuguese/master/easylistportuguese/easylistportuguese_general_block_dimensions.txt ***
+! *** Fetched from: https://raw.githubusercontent.com/easylist/easylistportuguese/master/easylistportuguese/easylistportuguese_general_block_popup.txt ***
+!------------------------General element hiding rules-------------------------!
+! *** Fetched from: https://raw.githubusercontent.com/easylist/easylistportuguese/master/easylistportuguese/easylistportuguese_general_hide.txt ***
+###Publicidade
+###ad-video-inread--wrapper
+###ad_mrec_destaque
+###ad_mrec_esporte
+###ads-square
+###barraPublicidade
+###bx-publ-capa
+###liBannerDireita
+###liPublicidadeAdsense
+###pub-flutuante-1
+###pub-flutuante-2
+###pubCofinaFotogaleria
+###pubMastHead
+###publ-capa
+###publ_super
+###publat1
+###publat_local
+###publicidade-topo
+###publicidadeIsland
+###publicidade_not
+###publicidades_top
+###pubpc
+###relAds
+###topopublicidade
+###vAds
+###zaz-nb-plugin-ad
+##.Publicidade
+##.PublicidadeHorizontal
+##.PublicidadeQuadrada
+##.PublicidadeSidebarSuperior
+##.ad-container
+##.ad-topstories
+##.adCabecalho
+##.add_full
+##.ads20
+##.ads30
+##.adsLateral
+##.adstopo
+##.anuncio-728
+##.anuncio-sidebar
+##.banner-dfp-retangulo
+##.banner-publicitario-meio
+##.banner_publicidade_hp
+##.box-admotion
+##.box-publicidade-topo
+##.box_publ_not
+##.br-grid-1-publicidade
+##.c-publi
+##.clic-advertising
+##.contemPublicidade
+##.detalheAds
+##.dfp-section
+##.div-publicidade
+##.footer-adv
+##.h_add
+##.herald_adsense_widget
+##.m-advertising
+##.m-rec_pub
+##.mod-publicity
+##.nzn-ads-rectangle
+##.pub-bloco
+##.pubLabel
+##.pub_300x250
+##.pub_first
+##.pub_insert_content
+##.pub_insert_content_titulo
+##.pub_mrec
+##.pubfield
+##.publicidade-abre_padrao
+##.publicidade-content
+##.publicidade-newsletter
+##.publicidade-wide
+##.publicidade_superbanner
+##.publicidades
+##.publicity-leaderboard
+##.section-pbl
+##.sideBarAds
+##.vip-section-advertising
+##a[href^="https://www.avantajadas.com.br/"]
+! *** Fetched from: https://raw.githubusercontent.com/easylist/easylistportuguese/master/easylistportuguese/easylistportuguese_allowlist_general_hide.txt ***
+magazineluiza.com.br#@#div[id^="google_ads_iframe_"]
+magazineluiza.com.br#@#iframe[id^="google_ads_iframe"]
+magazineluiza.com.br#@#iframe[name^="google_ads_iframe"]
+avantajadas.com.br#@#a[href^="https://www.avantajadas.com.br/"]
+olx.com.br#@#div[class^="AdCard_"]
+!---------------------------Third-party advertisers---------------------------!
+! *** Fetched from: https://raw.githubusercontent.com/easylist/easylistportuguese/master/easylistportuguese/easylistportuguese_adservers.txt ***
+||buscape.com.br^$third-party
+||filestatic.xyz^$third-party
+||spider.ad^$third-party
+||ad.lomadee.com^$third-party
+||pestilenttidefilth.org^$third-party
+||delightspiritedtroop.com^$third-party
+||realmpallduns.com^$third-party
+||rosqb6vb1cqp.com^$third-party
+||dollsdeclare.com^$third-party
+||breedtagask.com^$third-party
+||348wd7etbann.com^$third-party
+||pulpsbarndomed.com^$third-party
+||humidmentioned.com^$third-party
+||upsghpnqjoo.com^$third-party
+||ttgmjfgldgv9ed10.com^$third-party
+||jfxkxoicr.com^$third-party
+||mimilcnf.pro^$third-party
+||appendixwarmingauthors.com^$third-party
+||disturbancecoldlilac.com^$third-party
+||bgun5cxxi2dv.com^$third-party
+||penjazzvice.com^$third-party
+||ruthcraveastray.com^$third-party
+||lataurir.com^$third-party
+||sqhneencmysrk.com^$third-party
+||ivfihumeajjmbc.com^$third-party
+||fathuntsgall.com^$third-party
+||eelfadechi.com^$third-party
+||xo28pclotovi.com^$third-party
+||mypopads.com^$third-party
+||glenprejudice.com^$third-party
+||selfswayjay.com^$third-party
+||eshncdkjp.com^$third-party
+||xclofrfa.com^$third-party
+||aulteeby.net^$third-party
+||ilohfbiph.com^$third-party
+||xcsypkknp.com^$third-party
+||dnemkhkbsdbl.com^$third-party
+||beheadmuffleddetached.com^$third-party
+||riminghoggoofy.com^$third-party
+||tfzznclztl.com$third-party
+||zabanit.xyz^$third-party
+||edthoutfre.fun^$third-party
+||kaurouby.net^$third-party
+||nickeeha.net^$third-party
+||alawachi.net^$third-party
+||ereenerall.fun^$third-party
+||glazegha.com^$third-party
+||qbcpicrtdje.com^$third-party
+||wvekalpmn.com^$third-party
+! *** Fetched from: https://raw.githubusercontent.com/easylist/easylistportuguese/master/easylistportuguese/easylistportuguese_adservers_popup.txt ***
+||pweaatek.com^$popup,third-party
+||unreshiramor.com^$popup,third-party
+||motivesbreastchopped.com^$popup,third-party
+! *** Fetched from: https://raw.githubusercontent.com/easylist/easylistportuguese/master/easylistportuguese_adult/adult_adservers.txt ***
+||avantajadas.com.br^$third-party
+||loboclick.com^$third-party
+||tufos.com.br^$third-party
+! *** Fetched from: https://raw.githubusercontent.com/easylist/easylistportuguese/master/easylistportuguese_adult/adult_adservers_popup.txt ***
+||avantajadas.com.br^$popup,third-party
+!-----------------------------Third-party adverts-----------------------------!
+! *** Fetched from: https://raw.githubusercontent.com/easylist/easylistportuguese/master/easylistportuguese/easylistportuguese_thirdparty.txt ***
+||d20903hof2l33q.cloudfront.net^
+||d18t35yyry2k49.cloudfront.net^
+! *** Fetched from: https://raw.githubusercontent.com/easylist/easylistportuguese/master/easylistportuguese/easylistportuguese_thirdparty_popup.txt ***
+! *** Fetched from: https://raw.githubusercontent.com/easylist/easylistportuguese/master/easylistportuguese_adult/adult_thirdparty.txt ***
+! *** Fetched from: https://raw.githubusercontent.com/easylist/easylistportuguese/master/easylistportuguese_adult/adult_thirdparty_popup.txt ***
+!----------------------Specific advert blocking filters-----------------------!
+! *** Fetched from: https://raw.githubusercontent.com/easylist/easylistportuguese/master/easylistportuguese/easylistportuguese_specific_block.txt ***
+||aquiacontece.com.br/_BANNER/
+||baboo.com.br/mkt/
+/files/publicity/*$domain=diariocoimbra.pt|diarioaveiro.pt
+||expressomt.com.br/public/banners
+||iol.pt/iolnegocios/iol-frame/
+||net-empregos.com/images/banners/
+||nossanoite.com.br/assets/img/bannerPublic/
+||nossanoite.com.br/assets/img/bannerTopo/
+||olhardireto.com.br/imgsite/banners/
+||olhardireto.com.br/imgsite/popups/
+||online.animesdigital.com.br/ad_blackfriday.png
+||otpokemon.com/local/banner/
+||pubs.xl.pt^
+||record.pt/i/pub/
+||terraempresas.com.br/backup/promo/
+||xl.pt/i/pub.gif
+/anuncy/ups/ads^$image,domain=geralinks.com.br
+||metropoles.com/cupom/rtg/iframe/pill^$subdocument
+||stream2watch.is/crons/pop_code.js
+||minhaconexao.com.br/alternative/$subdocument
+||criativaonline.com.br/wp-content/uploads/pum/pum-site-scripts.js^
+||vivaolinux.com.br/imagens/banners/$image
+||yayanimes.net/wp-content/uploads/fanart.jpg
+||fstatic.com/static/telecineplay/$image,domain=filmow.com
+/otpokemon01.*$image,domain=animesonlinep.com|superanimes.tv|animesonlinebr.co
+||api.cazamba.com^$script,domain=tribogamer.com|switch-brasil.com
+/banner-pokeBlastNews.png^$image,domain=animesonlinebr.co
+||media.discordapp.net/attachments/*/Banner-gid-Edu.gif^$domain=subanimes.biz
+||loucosporgeek.com.br/wp-content/uploads/*/Loucos.gif^$domain=subanimes.biz
+||third-party.animekisa.tv/grabinfo.php^
+||conjur.com.br/parceiros/iframe
+||cdn.espn.com.br/image/livre/*.png
+||otempo.com.br/image/contentid/*/banner-hotel.jpeg
+||angonoticias.com/site/assets/uploads/media_pub/
+||wp.com/donghuanosekai.com/wp-content/uploads/*/unknown-1.png
+||wp.com/*/wp-content/*banner$image,domain=donghuanosekai.com
+! *** Fetched from: https://raw.githubusercontent.com/easylist/easylistportuguese/master/easylistportuguese/easylistportuguese_specific_block_popup.txt ***
+$popup,third-party,domain=streamtape.cc
+||futemax.live/imagens/logo2.png$popup
+||buylnk.com^$popup,domain=gfilmes.net
+/jump/next.php?$popup,domain=yts.mx
+! *** Fetched from: https://raw.githubusercontent.com/easylist/easylistportuguese/master/easylistportuguese_adult/adult_specific_block.txt ***
+||bserver.gp-guia.net^$subdocument
+||gp-pt.net/forum/banners/$image
+||eliteacompanhantes.com.br^$subdocument,domain=avantajadas.com.br
+/avantajadas/*$domain=travestisvip.com.br
+||tubeoffline.com/hh/hh*.gif
+||statics.letfap.com/assets/love/index.php
+! *** Fetched from: https://raw.githubusercontent.com/easylist/easylistportuguese/master/easylistportuguese_adult/adult_specific_block_popup.txt ***
+!------------------------Specific element hiding rules------------------------!
+! *** Fetched from: https://raw.githubusercontent.com/easylist/easylistportuguese/master/easylistportuguese/easylistportuguese_specific_hide.txt ***
+climatempo.com.br###Oferecimento
+vagalume.com.br###ROS_728x90_lower
+magazineluiza.com.br###adx
+otempo.com.br###atf-promotions
+palcomp3.com###ban_vp
+diarioonline.com.br###banner-noticia-topo728x90
+netvasco.com.br###bannershorizontais
+baixaki.com.br###bxk_home_square
+baixaki.com.br###bxk_program_halfpage
+baixaki.com.br###bxk_program_square
+baboo.com.br###custom_html-2
+final.com.br,iloveiptv.org###custom_html-3
+spbrasil-2009.net###custom_html-5
+spbrasil-2009.net###custom_html-8
+bilibio.com.br###dwt-banner-area
+uol.com.br###folha-shop
+saraiva.com.br###fullbanner-todas-categorias-iab
+guiadasemana.com.br###header
+vagas.com.br###homeLogos
+fatosdesconhecidos.com.br###leaderboard-header
+fatosdesconhecidos.com.br###leaderboard-post-header
+travestisvip.com.br##.playerBnr
+travestisvip.com.br###bnrVideosTravestis
+olx.com.br###module_olx_shopping
+mercadolivre.com.br###oasTOP
+record.pt###pestanaSmart
+uol.com.br###publicity
+diariocoimbra.pt###pubsec1
+animalog.online###sidebar
+ig.com.br###superbanner
+vagas.com.br###vagas_busca_leaderboard_704x160_top
+olx.com.br###web_listing_banner_bottom
+olx.com.br###web_listing_banner_top
+belasmensagens.com.br,terra.com.br,uol.com.br,vagalume.com.br##.ad
+letras.mus.br##.ad-letra
+tiinside.com.br##.ad1
+record.pt##.ads
+animeplus.org##.adsBody
+terra.com.br,uol.com.br##.advertising
+uol.com.br##.advertising-column
+mercadolivre.com.br##.app-container > .questions-container-banner
+capitalnews.com.br,estadao.com.br,uol.com.br##.banner
+hotelurbano.com##.banner-header
+casasbahia.com.br##.banner-retangulo
+olhardireto.com.br##.banner-rodape
+uol.com.br##.banner-stick
+diarioonline.com.br##.banner-topo
+metropoles.com##.banner-wrap
+palcomp3.com##.banner_topo
+netvasco.com.br##.bannerquadrado
+expressomt.com.br##.banners
+uol.com.br##.bannersticky-top-container
+netvasco.com.br##.bannervertical
+record.pt##.bb
+extra.com.br##.bnr
+diarioonline.com.br##.box-banner
+uol.com.br##.c-estudio-folha
+uol.com.br##.c-livraria
+campograndenews.com.br##.c_banner
+letras.mus.br##.cnt-space-top
+estadao.com.br##.cupons
+vidas.pt##.destaques_mrec
+fatosdesconhecidos.com.br##.grade
+ig.com.br##.iGh__small-ad
+ig.com.br##.ig-ad
+uol.com.br##.lista-ecommerce
+uol.com.br##.livraria
+otempo.com.br##.lomadee
+flash.pt##.m-rec
+flash.pt##.m-recHpTopo
+cmjornal.pt##.mainPub
+uol.com.br##.mod-publieditorial
+olx.com.br##.module_advertising
+uol.com.br##.moduloBanner
+mercadolivre.com.br##.myml-menu-navigation > .container-banner
+clicrbs.com.br,otvfoco.com.br##.ob-p
+olhardireto.com.br##.popup
+ig.com.br##.promotion
+acorianooriental.pt,destak.pt,estrelando.com.br,flash.pt,iol.pt,jornaldenegocios.pt,record.pt##.pub
+uol.com.br##.responsive-bottom-horizontal
+uol.com.br##.shopping-produtos-uol
+ig.com.br##.superbanner
+casasbahia.com.br##.superbannertop
+aeiou.pt##.td-a-rec
+net-empregos.com##.tickercontainer
+terra.com.br##[data-app-name="app.svaAd"]
+nerdprofessor.com.br##a[href="https://www.aulasbncc.com.br/"]
+diarioonline.com.br##div[id^="div-banner"]
+gazetaesportiva.com##div[id^="rmt_banner"]
+kboing.com.br##div[style="float:left;width:965px;height:90px;margin-bottom:10px;background-color:#fff;text-align:center;"]
+brasilescola.uol.com.br##div[style="height: 406px;"]
+brasilescola.uol.com.br##div[style="height: 580px;"]
+brasilescola.uol.com.br##div[style="width: 100%; height: 250px;"]
+brasilescola.uol.com.br##div[style="width: 300px; height: 591px;"]
+brasilescola.uol.com.br##div[style="width: 300px; height: 600px;"]
+mrpiracy.top##a[class^="reserve-button"]
+torredevigilancia.com##.singleBannerWidget
+metropoles.com##.container>.m-coupons-title
+futemax.fm##.alertWS
+animesonlinebr.co##a[title="pokemon"]
+portalmie.com##a[href*="portalmie.com/campanhas_empresas/"]
+infoescola.com##.ads
+infoescola.com##div[id^="index-banner"]
+cifraclub.com.br##.floatingBottomAd
+netcine.info##a[href="https://lojadasseries.com.br/"]
+tecmundo.com.br##.tec--ad
+flvto.biz##.square-area
+flvto.biz##.horizontal-area
+ativo.com##.widget_banner_shortcode
+ativo.com##.widget_super_banner_shortcode
+criativaonline.com.br##div[class*="stream-item"]
+diariodominho.pt###hidethis2
+diariodominho.pt##a[href^="https://www.diariodominho.pt/linkout/"]
+animeslog.com##.sidebarAD
+guiaestudo.com.br##a[href^="http://pages.educamaisbrasil.com"]
+flashscore.com.br##.boxOverContent
+audiobookbay.nl##a[href="/dl-14-days-trial"]
+odia.ig.com.br##.ppAnchorWidthAd
+megaboxfilmesonline.com##a[href^="//ladskiz.com"]
+tribogamer.com#?#a:-abp-has(div > div > small:-abp-contains(Publicitário))
+deixadisso.com##.shareaholic-ad
+deixadisso.com##div[data-shr-channel="sponsored"]
+eutesalvo.com##.adHome
+eutesalvo.com##.adMedium
+lolesports.com##.HomePartner
+conexaopolitica.com.br##div[class^="ads"]
+conexaopolitica.com.br##.widget_media_image
+ig.com.br##.duasPubli
+branitube.net##.area-youtubers
+espn.com.br#?#:-abp-has(> a[href^="https://www.disneyplus.com"])
+otempo.com.br##a[href="https://www.mhbhotelaria.com.br/mensalista"]
+otempo.com.br##.barra-store
+otempo.com.br##.topo-patrocinado-artigo
+abril.com.br##div[data-item-id^="~~V1~~"]
+! *** Fetched from: https://raw.githubusercontent.com/easylist/easylistportuguese/master/easylistportuguese_adult/adult_specific_hide.txt ***
+meuscontoseroticos.com##a[rel^="nofollow"]
+meuscontoseroticos.com#?#:-abp-has(> a > div > div > span.thumb-ads)
+meuscontoseroticos.com#?#:-abp-has(> div.contoConteudo > div.conto-thumb > a[rel^="nofollow"])
+!-----------------------Allowlists to fix broken sites------------------------!
+! *** Fetched from: https://raw.githubusercontent.com/easylist/easylistportuguese/master/easylistportuguese/easylistportuguese_allowlist.txt ***
+@@||g.doubleclick.net/gampad/ads$xmlhttprequest,domain=magazineluiza.com.br
+@@||g.doubleclick.net/gpt/pubads_impl_$script,xmlhttprequest,domain=magazineluiza.com.br
+@@||g.doubleclick.net/tag/js/gpt.js$script,xmlhttprequest,domain=magazineluiza.com.br
+@@||tpc.googlesyndication.com^$document,subdocument,domain=magazineluiza.com.br
+@@||staticz.com.br/advertisement/$image,domain=meliuz.com.br
+@@/detroitchicago/$domain=itigic.com
+@@.br/banners/$domain=roupaprofissional.com.br
+! *** Fetched from: https://raw.githubusercontent.com/easylist/easylistportuguese/master/easylistportuguese/easylistportuguese_allowlist_dimensions.txt ***
+! *** Fetched from: https://raw.githubusercontent.com/easylist/easylistportuguese/master/easylistportuguese/easylistportuguese_allowlist_popup.txt ***
+! *** Fetched from: https://raw.githubusercontent.com/easylist/easylistportuguese/master/easylistportuguese_adult/adult_allowlist.txt ***
+! *** Fetched from: https://raw.githubusercontent.com/easylist/easylistportuguese/master/easylistportuguese_adult/adult_allowlist_popup.txt ***
