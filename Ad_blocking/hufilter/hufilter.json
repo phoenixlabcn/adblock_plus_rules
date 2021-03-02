@@ -2125,6 +2125,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?blikk\\.hu[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[id^=\"rltd-ad-\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?stylemagazin\\.hu[/:]"
 		},
 		"action": {
@@ -10850,6 +10859,48 @@
 				"media",
 				"raw",
 				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://aghtag\\.tech/libs/projectagora\\.min\\.js",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"if-domain": [
+				"gyakorikerdesek.hu",
+				"www.gyakorikerdesek.hu"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://related\\.hu/js/v2/widget\\.js",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"if-domain": [
+				"gyakorikerdesek.hu",
+				"www.gyakorikerdesek.hu"
 			]
 		},
 		"action": {

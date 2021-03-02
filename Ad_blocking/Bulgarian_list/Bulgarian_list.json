@@ -19,24 +19,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?pozvanete\\.bg[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "div[style=\"width: 728px; height: 90px; overflow: hidden;\"]"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?pozvanete\\.bg[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".left-sidebar-banner.box"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?24chasa\\.bg[/:]"
 		},
 		"action": {
@@ -320,6 +302,24 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": ".border-left.w-100"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?arenabg\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".d-none.d-sm-none.d-md-none.d-lg-inline-block.col-lg-2"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?arenabg\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": ".hidden-xs.hidden-sm.arena_9.mb5"
 		}
 	},
@@ -330,6 +330,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".hidden-xs.hidden-sm.arena_9.revive.mb5"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?arenabg\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "iframe[src=\"about:blank\"]"
 		}
 	},
 	{
@@ -356,7 +365,52 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": ".mb-2.mt-2.border"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?arenabg\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".mb-3.d-none.d-sm-block.border"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?arenabg\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": ".panel-footer.text-center.arena_10"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?arenabg\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#spot-1"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?arenabg\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#spot-4"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?arenabg\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#spot-5"
 		}
 	},
 	{
@@ -685,6 +739,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?blitz\\.bg[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".fc-dialog-container"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?booksbg\\.org[/:]"
 		},
 		"action": {
@@ -699,6 +762,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#bannerTop"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?briag\\.bg[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".col-lg-12.col-md-12.col-sm-12.col-xs-12"
 		}
 	},
 	{
@@ -789,6 +861,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".wpb_single_image.wpb_content_element.vc_align_center"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?business\\.bg[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner-right"
 		}
 	},
 	{
@@ -1324,15 +1405,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?film4eta\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#topbar"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?filmi7\\.com[/:]"
 		},
 		"action": {
@@ -1693,6 +1765,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?informiran\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".infor-before-content"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?itforumbg\\.net[/:]"
 		},
 		"action": {
@@ -1770,15 +1851,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#banner2"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?kjplus\\.net[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".sidebar"
 		}
 	},
 	{
@@ -1949,7 +2021,25 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": ".banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mediapool\\.bg[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": ".banner_header_right"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mediapool\\.bg[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".etarget_container"
 		}
 	},
 	{
@@ -2094,15 +2184,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#topbar"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?nakino\\.eu[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#WPS_popup_message"
 		}
 	},
 	{
@@ -2323,24 +2404,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?novinite711\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "[style=\"margin: 8px 0px;\"]"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?novinite711\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "[style=\"text-align: center; margin: 8px auto;\"]"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?novinite\\.bg[/:]"
 		},
 		"action": {
@@ -2355,6 +2418,24 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#b300"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?offnews\\.bg[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ads-25"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?offnews\\.bg[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ads-60-r"
 		}
 	},
 	{
@@ -2593,6 +2674,24 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pozvanete\\.bg[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[style=\"width: 728px; height: 90px; overflow: hidden;\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pozvanete\\.bg[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".left-sidebar-banner.box"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?pravatami\\.bg[/:]"
 		},
 		"action": {
@@ -2733,15 +2832,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#topbar"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?search\\.bivol\\.bg[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".row.text-center.mt20"
 		}
 	},
 	{
@@ -2944,15 +3034,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?stara-bulgaria\\.eu[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "DIV[style=\"width:300px; height:600px;\"]"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?struma\\.com[/:]"
 		},
 		"action": {
@@ -3111,15 +3192,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".g300x600single"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?tv7\\.bg[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#NOTJ"
 		}
 	},
 	{
@@ -3300,15 +3372,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".banner"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?vplay7\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#topbar"
 		}
 	},
 	{
@@ -3763,23 +3826,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://360\\.bg/baner",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*89\\.215\\.175\\.32/banners/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -4901,40 +4947,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://bgbook\\.dir\\.bg/images/baner",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://bgcert\\.com/banner/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://bghelp\\.co\\.uk/banners/",
 			"resource-type": [
 				"image",
@@ -5089,23 +5101,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://bg\\.search\\.etargetnet\\.com/generic/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://bgtelevizia\\.com/adds/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -5496,6 +5491,159 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://briag\\.bg/uploads/wysiwyg/images/Antoan%20Vill%20logo\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://briag\\.bg/uploads/wysiwyg/images/.*banner",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://briag\\.bg/uploads/wysiwyg/images/%D0%A0%D0%A3%20%D0%BB%D0%BE%D0%B3%D0%BE%20250%D1%85300%20%D0%BF%D0%B8%D0%BA%D1%81%D0%B5%D0%BB%D0%B0\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://briag\\.bg/uploads/wysiwyg/images/IMG-3a9d125f6f610f985a304ccad96dba7d-V\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://briag\\.bg/uploads/wysiwyg/images/kulinar\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://briag\\.bg/uploads/wysiwyg/images/Logo%20DP_kare%20Bryag%20copy\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://briag\\.bg/uploads/wysiwyg/images/Mall%20Rousse%20Logo%20Slogan-no%20borders\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://briag\\.bg/uploads/wysiwyg/images/Plastingenering-D-1%20site\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://briag\\.bg/uploads/wysiwyg/images/Site%20abonament%202020jpg_Page1\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://bsms\\.bg/images/upload/banner/",
 			"resource-type": [
 				"image",
@@ -5785,41 +5933,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://burgasinfo\\.com/ajax/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://burgasnews\\.com//images/banners/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://burgasnews\\.com/images/banners/",
+			"url-filter": "^https?://burgasinfo\\.com/ajax/getbanners/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -5989,7 +6103,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://car24\\.bg/html/banner",
+			"url-filter": "^https?://business\\.bg/site_files/d-sitebanners/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -6023,92 +6137,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*cdn\\.arenabg\\.ch/var/assets/banners/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*cdn\\.arenabg\\.com//share/images/onemoretrend\\.jpg",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*cdn\\.arenabg\\.com//var/friends/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://.*cdn\\.plus500\\.com/Media/Banners/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://chambersz\\.com/im/nopic\\.swf",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://cifronim\\.com/images/pages/image/System/Banner",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -6363,58 +6392,109 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://data-bg\\.org/120x240",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://data-bg\\.org/.*460x60\\.swf",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://data-bg\\.org/banner",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://.*data\\.msk\\.bg/delivery/afr\\.php",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://dcnews\\.bg/wp-content/uploads/dcc_bottom_click\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://dcnews\\.bg/wp-content/uploads/grandlogo\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://dcnews\\.bg/wp-content/uploads/ofis\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://dcnews\\.bg/wp-content/uploads/tabelka_zname\\.png",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://delnik\\.net/wp-content/uploads/2014/02/DemaxBlueRGBProba\\.png",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://delnik\\.net/wp-content/uploads/2014/02/Logo_holograms1\\.jpg",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -7833,23 +7913,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://homepage\\.bg/Banners/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://homes\\.bg/images/branding",
 			"resource-type": [
 				"image",
@@ -8360,23 +8423,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*img\\.big5\\.bg/images/banner/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://.*img\\.imghosting\\.biz/238/1f12d748b1136f956db50bbabf0dfb70\\.png",
 			"resource-type": [
 				"image",
@@ -8582,6 +8628,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://informator\\.bg/cache/promotion_",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://informiran\\.net/ebay/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -8887,40 +8950,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*i\\.potv\\.bg/i/.*728x90",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*i\\.static\\.zaplata\\.bg/banners/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://itforumbg\\.net/sites/default/files/nitrompu\\.gif",
 			"resource-type": [
 				"image",
@@ -9018,23 +9047,6 @@
 			],
 			"load-type": [
 				"third-party"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://juen\\.bg/adv/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
 			]
 		},
 		"action": {
@@ -9179,23 +9191,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://kidsarts\\.bg/js/dim\\.screen\\.js",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://.*klearprodstorage\\.blob\\.core\\.windows\\.net/public/blog/links/",
 			"resource-type": [
 				"image",
@@ -9298,6 +9293,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://kotasport\\.com/wp-content/uploads/2018/04/geymarski-laptopi\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://kozloduy-bg\\.info/wp-content/uploads/2017/05/adv\\.gif",
 			"resource-type": [
 				"image",
@@ -9350,23 +9362,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://kurier\\.bg/files/banners/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://kvasilev\\.com/images/srebro\\.swf",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -9502,23 +9497,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://lighting-bulgaria\\.com/images/background2013\\.jpg",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://liternet\\.bg/image/baner/",
 			"resource-type": [
 				"image",
@@ -9537,23 +9515,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://lubamanolova\\.info/images/stories/food/baner",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://lucrat\\.net/.*Banner.*\\.swf",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -9795,40 +9756,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://megashop\\.bg/techno/images/banners",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://megashop\\.bg/vaucher\\.swf",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://mikael7\\.com/files/banners/",
 			"resource-type": [
 				"image",
@@ -9898,23 +9825,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://mobilebulgaria\\.com/uploads/banners/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://mondo\\.bg/a\\.html",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -10169,7 +10079,58 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://mymall\\.bg/products_action\\.php",
+			"url-filter": "^https?://namoreto\\.bg/wp-content/uploads/2017/08/animiran-baner-CHistota\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://namoreto\\.bg/wp-content/uploads/2019/06/FREQ-2\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://namoreto\\.bg/wp-content/uploads/2019/07/BGMEDIA-300x204\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://namoreto\\.bg/wp-content/uploads/2019/07/BGMEDIA\\.jpg",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -10475,23 +10436,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://news\\.idg\\.bg/images/blizoo/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://ngobg\\.info/images/banners/",
 			"resource-type": [
 				"image",
@@ -10510,23 +10454,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://nibozimoti\\.com/wp-content/uploads/2018/04/nibozimoti\\.png",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://novini24online\\.com/wp-content/uploads/2017/06/2a\\.png",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -10782,6 +10709,40 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://.*p\\.energy-torrent\\.com/themes/Silver/images/bg\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://pharmacist\\.bg/wp-content/uploads/2020/02/remotiv\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://pharmacist\\.bg/wp-content/uploads/2020/10/imo-inst-300x600-copy\\.png",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -11087,7 +11048,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://politika\\.bg/ad/",
+			"url-filter": "^https?://politika\\.bg/web/files/plakats/10/image/TM\\+TBI_TV_banner_300x250px2\\.jpg",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -11122,40 +11083,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://politikata\\.net/img/NEWlekuvaiRIGHT\\.jpg",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://pozvanete\\.bg/public/front/images/grand\\.gif",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*pozvanete\\.bg/public/upload/backgrounds/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -11394,23 +11321,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://radiotangra\\.com/media/banners/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://razdavalnik\\.bg/banners/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -11750,23 +11660,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://retv\\.bg/loader/loader\\.swf",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://rezervacia\\.bg/banners",
 			"resource-type": [
 				"image",
@@ -11870,57 +11763,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://sandacite\\.bg/wp-content/uploads/2012/08/11100972_846509388770373_1194460155_n\\.jpg",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://sandanski1\\.com/news/data/upimages/Ads/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://sasho\\.data\\.bg/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://search\\.bivol\\.bg/img/DAXY_baner_210x250_px\\.gif",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -12532,6 +12374,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://sliveninfo\\.bg/wp-content/uploads/2017/11/banner-dkc1-sliven\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://sliveninfo\\.bg/wp-content/uploads/2017/11/comnet-big\\.gif",
 			"resource-type": [
 				"image",
@@ -12549,7 +12408,211 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://sliveninfo\\.bg/wp-content/uploads/2017/12/%D0%B1%D0%B0%D0%BD%D0%B5%D1%80-%D0%BE%D0%B1%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B0\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://sliveninfo\\.bg/wp-content/uploads/2018/01/SlivenINFO\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://sliveninfo\\.bg/wp-content/uploads/2018/01/toplofikacia\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://sliveninfo\\.bg/wp-content/uploads/2019/01/banner-dkc2\\.png",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://sliveninfo\\.bg/wp-content/uploads/2019/02/za_sliveninfo_970px_140px_static\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://sliveninfo\\.bg/wp-content/uploads/2019/09/250\\.300\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://sliveninfo\\.bg/wp-content/uploads/2019/10/16_10_LOGO_YOT_GI_VAL_970x140-copy\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://sliveninfo\\.bg/wp-content/uploads/2020/02/banner-outlet\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://sliveninfo\\.bg/wp-content/uploads/2020/08/Banner-1\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://sliveninfo\\.bg/wp-content/uploads/2020/12/comnet\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://sliveninfo\\.bg/wp-content/uploads/2020/12/dika3\\.png",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://sliveninfo\\.bg/wp-content/uploads/2020/12/ismbal\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://sliveninfo\\.bg/wp-content/uploads/2020/12/obshtinasliven\\.jpg",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -13008,6 +13071,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://static\\.bnr\\.bg/gallery/cr/8a741e10a78bb4ae8eee74489fcc0a1e\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://.*static\\.mbclub\\.bg/banners/",
 			"resource-type": [
 				"image",
@@ -13247,23 +13327,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://technomarket\\.bg/userfiles/files/banner",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://technooptima\\.com/catalog/images/banners/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -13756,40 +13819,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://vestnikpriatel\\.com/wp-content/uploads/2015/04/chasti_adv\\.gif",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://vestnikpriatel\\.com/wp-content/uploads/2019/02/plastimo\\.jpg",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://vevesti\\.bg/img/president2016/",
 			"resource-type": [
 				"image",
@@ -14062,23 +14091,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://void\\.clip4e\\.com/banners/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://vratza\\.com/banners/",
 			"resource-type": [
 				"image",
@@ -14266,6 +14278,40 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://xn--80aagchfanjcc6aftsr6a\\.com/images/avtogumi\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://xn--80aagchfanjcc6aftsr6a\\.com/images/banners/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://yambolnews\\.net/images/banners/",
 			"resource-type": [
 				"image",
@@ -14436,23 +14482,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://zarata\\.info/wp-content/uploads/2016/11/Toyota1\\.gif",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://zarata\\.info/wp-content/uploads/2016/12/Siltex_resized\\.jpg",
 			"resource-type": [
 				"image",
@@ -14590,40 +14619,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://zopplus\\.com/wp-content/uploads/.*366x280",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://xn--80aagchfanjcc6aftsr6a\\.com/images/avtogumi\\.gif",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://xn--80aagchfanjcc6aftsr6a\\.com/images/banners/",
 			"resource-type": [
 				"image",
 				"style-sheet",

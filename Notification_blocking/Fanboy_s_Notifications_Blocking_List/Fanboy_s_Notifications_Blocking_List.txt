@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: CB7Rh/AZvyfc31nMhBMcfA
-! Version: 202102020211
+! Checksum: k9UXW2o5BwAXrHAE3D2DMA
+! Version: 202103020701
 ! Title: Fanboy's Notifications Blocking List
-! Last modified: 02 Feb 2021 02:11 UTC
+! Last modified: 02 Mar 2021 07:01 UTC
 ! Expires: 1 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -47,6 +47,7 @@
 /OneSignalSDKWorker.
 /openpushwoosh_
 /plugins/wp-notification-bars/*
+/push-notification-
 /push-notification.
 /push-notification/*
 /push-notifications.$~stylesheet
@@ -308,6 +309,7 @@ _revotas_push.
 ||push.rent^$third-party
 ||push.rollout.io^$third-party
 ||push.world^$third-party
+||pushaddict.com^$third-party
 ||pushango.com^$third-party
 ||pushassist.com^$third-party
 ||pushaya.com^$third-party
@@ -346,7 +348,6 @@ _revotas_push.
 ||signaly.co^$third-party
 ||snrcdn.net^$third-party
 ||spacepush.ru^$third-party
-||subscribers.com^$third-party
 ||topswp.com^$third-party
 ||ucfeed.ru^$third-party
 ||webpush.jp^$third-party
@@ -420,6 +421,7 @@ _revotas_push.
 ||shroughtened.com^$third-party
 ||sm-epsilon.com^$third-party
 ||snd.tc^$third-party
+||subscribers.com^$third-party
 ||truenat.bid^$third-party
 ||truepush.com^$third-party
 ||urbanairship.com^$third-party
@@ -439,6 +441,7 @@ _revotas_push.
 ||9to5terminal.com/push.js
 ||alerts.ndtv.com^
 ||alerts.thedailystar.net^
+||alibaba.com/sw.js
 ||annahar.com/assets/js/notifications.js
 ||bdstatic.com/linksubmit/push.js
 ||hindustantimes.com^*/ht-notification-
@@ -466,6 +469,7 @@ airship.com##.PushNotification
 reddit.com##.XPromoInFeed
 aliexpress.com##._3KrBP
 chicagotribune.com##.met-flyout
+wowhead.com##.notifications-dialog
 post-gazette.com##.pg-notifybox
 9to5google.com,9to5mac.com,electrek.co##.push-notify
 food.com##.pushdown-message
@@ -474,8 +478,11 @@ reddit.com##.xPromoAppStoreFooter
 ! International
 aerzteblatt.de###pushy
 romait.it##.alert
+ziare.com##.modal-backdrop
+ziare.com##.modal__wp
 sindonews.com##.notif-box
 clarin.com##.notification-popup
+sport.ro##.notification-wrapper
 fanpage.it##.notifications-badge
 annahar.com##.notifications-overlay
 fanpage.it##.overlay-content-wrapper
@@ -483,10 +490,12 @@ mail.ru##.ph-balloo
 estadao.com.br##.push-body
 flvto.biz##.push-offer
 ! Mobile app Notifications
+windy.com###open-in-app
 cbsnews.com,yelp.com###smart-banner
 dailymail.co.uk,m.jpost.com###smartBanner
 2br.co.uk,deviantart.com,dw.com,eurosport.com,nzherald.co.nz,photobucket.com,spiegel.de###smartbanner
 indianexpress.com##.app-btn
+ebay.com##.app-download-banner
 sportskeeda.com##.app-download-modal
 9gag.com##.download-app-container
 9gag.com##.get-the-app-banner

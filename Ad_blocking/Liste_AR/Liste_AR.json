@@ -7573,6 +7573,10 @@
 				"media",
 				"raw",
 				"document"
+			],
+			"unless-domain": [
+				"tv2.dk",
+				"www.tv2.dk"
 			]
 		},
 		"action": {
@@ -7797,6 +7801,26 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://adsocy\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://adtube\\.ir",
 			"resource-type": [
 				"image",
@@ -7878,6 +7902,26 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://backtory\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://belboon\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -8458,6 +8502,26 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://postquare\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://powerspace\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -14026,6 +14090,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://vendorlist\\.dmcdn\\.net",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://vip600\\.com/aaa/",
 			"resource-type": [
 				"image",
@@ -19013,6 +19094,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://alriyadh\\.com..*/adv/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://alseyassi-dz\\.com/ara/image/pub2020\\.jpg",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -28584,15 +28682,65 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://ajax\\.googleapis\\.com/ajax/libs/\\$script,domain=esheeq\\.co\\|actionz\\.tv\\|aflamfree\\.site\\|almstba-tv\\.com\\|arabe-media\\.com\\|arabictorrent\\.net\\|arablionz\\.tv\\|brstej\\.com \\|cima4up\\.cc\\|cinma4up\\.tv\\|cimaclub\\.in\\|elmoslsal\\.com\\|elmstba\\.com\\|emotionvideo-tv\\.com\\|fel3arda\\.com\\|fel3arda\\.xyz\\|fel3arda\\.net\\|freecccamnew\\.com\\|hawak\\.net\\|lodynet\\.co\\|micano4u\\.org\\|movizland\\.com\\|movizland\\.online\\|okanime\\.com\\|okyanime\\.com\\|rotana\\.video\\|shahidlive\\.co\\|toofy\\.tv",
+			"url-filter": "^https?://ajax\\.googleapis\\.com/ajax/libs/",
 			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
+				"script"
+			],
+			"if-domain": [
+				"actionz.tv",
+				"www.actionz.tv",
+				"aflamfree.site",
+				"www.aflamfree.site",
+				"almstba-tv.com",
+				"www.almstba-tv.com",
+				"arabe-media.com",
+				"www.arabe-media.com",
+				"arabictorrent.net",
+				"www.arabictorrent.net",
+				"arablionz.tv",
+				"www.arablionz.tv",
+				"brstej.com",
+				"www.brstej.com",
+				"cima4up.cc",
+				"www.cima4up.cc",
+				"cimaclub.in",
+				"www.cimaclub.in",
+				"cinma4up.tv",
+				"www.cinma4up.tv",
+				"elmoslsal.com",
+				"www.elmoslsal.com",
+				"elmstba.com",
+				"www.elmstba.com",
+				"emotionvideo-tv.com",
+				"www.emotionvideo-tv.com",
+				"esheeq.co",
+				"www.esheeq.co",
+				"fel3arda.com",
+				"www.fel3arda.com",
+				"fel3arda.net",
+				"www.fel3arda.net",
+				"fel3arda.xyz",
+				"www.fel3arda.xyz",
+				"freecccamnew.com",
+				"www.freecccamnew.com",
+				"hawak.net",
+				"www.hawak.net",
+				"lodynet.co",
+				"www.lodynet.co",
+				"micano4u.org",
+				"www.micano4u.org",
+				"movizland.com",
+				"www.movizland.com",
+				"movizland.online",
+				"www.movizland.online",
+				"okanime.com",
+				"www.okanime.com",
+				"okyanime.com",
+				"www.okyanime.com",
+				"shahidlive.co",
+				"www.shahidlive.co",
+				"toofy.tv",
+				"www.toofy.tv"
 			]
 		},
 		"action": {
@@ -28645,8 +28793,6 @@
 				"www.hawak.net",
 				"laroza.tv",
 				"www.laroza.tv",
-				"rotana.video",
-				"www.rotana.video",
 				"shahidlive.co",
 				"www.shahidlive.co",
 				"toofy.tv",
@@ -28750,8 +28896,6 @@
 				"www.hawak.net",
 				"laroza.tv",
 				"www.laroza.tv",
-				"rotana.video",
-				"www.rotana.video",
 				"shahidlive.co",
 				"www.shahidlive.co"
 			]
@@ -28771,6 +28915,8 @@
 				"www.alm5leb.com",
 				"animelek.net",
 				"www.animelek.net",
+				"egyanime.com",
+				"www.egyanime.com",
 				"okyanime.com",
 				"www.okyanime.com",
 				"xsanime.com",
@@ -28792,6 +28938,8 @@
 				"www.alm5leb.com",
 				"animelek.net",
 				"www.animelek.net",
+				"egyanime.com",
+				"www.egyanime.com",
 				"okyanime.com",
 				"www.okyanime.com",
 				"xsanime.com",
@@ -28831,9 +28979,7 @@
 				"egyanime.com",
 				"www.egyanime.com",
 				"laroza.tv",
-				"www.laroza.tv",
-				"rotana.video",
-				"www.rotana.video"
+				"www.laroza.tv"
 			]
 		},
 		"action": {

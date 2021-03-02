@@ -2138,6 +2138,15 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": ".advertising_lightbox"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": ".afc_popup"
 		}
 	},
@@ -2157,6 +2166,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".artad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".article_ad_top"
 		}
 	},
 	{
@@ -2427,6 +2445,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".con_search + #carousel-example-generic[style^=\"max-width: 1170px;\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".container > a[href^=\"http\"] > .ads"
 		}
 	},
 	{
@@ -3785,6 +3812,15 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": ".w100b > .m_adv"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": ".wemziguanggao"
 		}
 	},
@@ -4271,6 +4307,15 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": "a[href*=\".birthcaker.cn\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": "a[href*=\".biwbmsyt.cn\"]"
 		}
 	},
@@ -4695,6 +4740,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "a[href*=\".zhongguohao123.com/\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href*=\"/111.231.78.194/\"]"
 		}
 	},
 	{
@@ -5199,15 +5253,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#A0"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?eastmoney\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "DIV[data-url*=\"same.eastmoney.com\"]"
 		}
 	},
 	{
@@ -7219,6 +7264,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?913e\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#appnote"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?qzone\\.qq\\.com[/:]"
 		},
 		"action": {
@@ -8641,15 +8695,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?sunnylife\\.tw[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#custom_html-5"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?wanghualang\\.com[/:]"
 		},
 		"action": {
@@ -9046,15 +9091,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?2fzdao\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#diy_cmn1"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?chinafix\\.com[/:]"
 		},
 		"action": {
@@ -9303,6 +9339,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#download-uc-v2"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?kxdw\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#downloadTop"
 		}
 	},
 	{
@@ -9928,7 +9973,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?bd-film\\.cc[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?bd2020\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
@@ -9978,6 +10023,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#foogz"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?913e\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#footad_913e"
 		}
 	},
 	{
@@ -10293,6 +10347,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#full_ad-screen"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?v5pc\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#full_downad"
 		}
 	},
 	{
@@ -12133,15 +12196,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?uimaker\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#listbaidu"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?90bifen\\.com[/:]"
 		},
 		"action": {
@@ -13276,15 +13330,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?tsdm\\.live[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#pgt:first-child + div > a"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?axiang\\.cc[/:]"
 		},
 		"action": {
@@ -14059,6 +14104,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?moe\\.best[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#rcm_sidebar"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?tiboo\\.cn[/:]"
 		},
 		"action": {
@@ -14761,6 +14815,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ruyo\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#sidebar > :not(:first-child):not(:last-child):not([id^=\"recent-posts\"])"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?jiecao123\\.com[/:]"
 		},
 		"action": {
@@ -15306,6 +15369,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#tanchuang"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tongren\\.gov\\.cn[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#tanchukuang"
 		}
 	},
 	{
@@ -18046,6 +18118,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?lzdcctv\\.cn[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ac_pc"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?2345\\.com[/:]"
 		},
 		"action": {
@@ -19351,6 +19432,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?nongjitong\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad_sms"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?fx168\\.com[/:]"
 		},
 		"action": {
@@ -20395,11 +20485,29 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?weiyun001\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".agency-list"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?33lc\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": ".ags"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?moe\\.best[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".alert"
 		}
 	},
 	{
@@ -20976,6 +21084,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".autumn-single-top-a-d"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?159i\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".avai"
 		}
 	},
 	{
@@ -21862,6 +21979,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?weiyun001\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".bg-box > .slide-box"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?uc123\\.com[/:]"
 		},
 		"action": {
@@ -22591,6 +22717,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?xz7\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".bzxz"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?mgtv\\.com[/:]"
 		},
 		"action": {
@@ -22857,6 +22992,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".center-pdps-02"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?yhgou\\.cc[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ch1"
 		}
 	},
 	{
@@ -23190,6 +23334,24 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".col-google"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?yhgou\\.cc[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".col-lg-12 + .row"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?yhgou\\.cc[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".col-lg-12 > a"
 		}
 	},
 	{
@@ -24004,6 +24166,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?159i\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".dai"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?lenovo\\.com\\.cn[/:]"
 		},
 		"action": {
@@ -24090,6 +24261,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".dc-kf_list"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?159i\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ddi"
 		}
 	},
 	{
@@ -24220,7 +24400,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?toocle\\.com[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?100ec\\.cn[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
@@ -24369,15 +24549,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".divGuanggao"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?0597ok\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".div_ad"
 		}
 	},
 	{
@@ -25957,6 +26128,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?lzdcctv\\.cn[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".focusmo + table"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?10fang\\.com[/:]"
 		},
 		"action": {
@@ -26196,6 +26376,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".g-qzp-bottom"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?weiyun001\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".g-side-r > a[onclick^=\"onLogs\"]"
 		}
 	},
 	{
@@ -26974,6 +27163,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?jandan\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".goods2-list"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?56\\.com[/:]"
 		},
 		"action": {
@@ -27086,6 +27284,15 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": ".gsaxzdz > ul > dt"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?32r\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": ".gsbbtn"
 		}
 	},
@@ -27096,6 +27303,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".gscbtn"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?32r\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".gsdbtn"
 		}
 	},
 	{
@@ -28738,6 +28954,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dzbhdm\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".inn-nav__placeholder + .poi-container > a[target=\"_blank\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?chinabidding\\.com\\.cn[/:]"
 		},
 		"action": {
@@ -28751,7 +28976,7 @@
 		},
 		"action": {
 			"type": "css-display-none",
-			"selector": ".internal_banner"
+			"selector": ".internal_bn"
 		}
 	},
 	{
@@ -29548,6 +29773,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?douyu\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".layout-Slide-banner:not([href*=\"douyu\"])"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?szonline\\.net[/:]"
 		},
 		"action": {
@@ -30003,15 +30237,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".listaddr"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?uimaker\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".listads"
 		}
 	},
 	{
@@ -30610,6 +30835,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?moe\\.best[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".markdown-body + div[style=\"text-align:center;margin-top:40px\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?taobao\\.com[/:]"
 		},
 		"action": {
@@ -30880,6 +31114,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tongxiang\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".mmver.w-1200"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?playno1\\.com[/:]"
 		},
 		"action": {
@@ -31101,6 +31344,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".mod_focus-index_list > li:last-child"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?163\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".mod_js_ad"
 		}
 	},
 	{
@@ -31672,15 +31924,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?uimaker\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".newbaidu"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?ali213\\.net[/:]"
 		},
 		"action": {
@@ -32050,15 +32293,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?bilibili\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".online + .operate-card"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?udn\\.com[/:]"
 		},
 		"action": {
@@ -32316,6 +32550,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".panel-body > a[href$=\"=\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?qb-api\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".panel-success"
 		}
 	},
 	{
@@ -35326,15 +35569,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?uimaker\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".siteads"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?hao123\\.com[/:]"
 		},
 		"action": {
@@ -35421,6 +35655,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".slidebox"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?xchina\\.co[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".slider-ad"
 		}
 	},
 	{
@@ -35844,6 +36087,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".subtop2right"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ltn\\.com\\.tw[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".suggest_full .C5"
 		}
 	},
 	{
@@ -36942,15 +37194,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".top-ad-link"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?nanfengyl\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".top-ad-txt"
 		}
 	},
 	{
@@ -38440,6 +38683,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?lzdcctv\\.cn[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".widget_ssr > a > img"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?fulibl\\.cc[/:]"
 		},
 		"action": {
@@ -38710,6 +38962,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tongxiang\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".x15sdv.display_3_3"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?sina\\.cn[/:]"
 		},
 		"action": {
@@ -38940,15 +39201,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".yanshibtn"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?techweb\\.com\\.cn[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".yaowen > ul > a[style=\"display:block;position:relative;\"]"
 		}
 	},
 	{
@@ -39714,6 +39966,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "a[class^=\"index-bcItem\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sdo\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[class^=\"side-nav-box-daoyu\"]"
 		}
 	},
 	{
@@ -40591,6 +40852,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?zhuna\\.cn[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href*=\"quchuchai.\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?dmzj\\.com[/:]"
 		},
 		"action": {
@@ -40996,6 +41266,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ziyuanba\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href^=\"/ago.\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?liuli\\.pw[/:]"
 		},
 		"action": {
@@ -41095,6 +41374,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?18avinin\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href^=\"http\"]:not([href*=\"18avinin.\"]) > img[src*=\".18avinin.com/wp-content/uploads/\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?wn789\\.com[/:]"
 		},
 		"action": {
@@ -41109,6 +41397,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "a[href^=\"http\"]:not([href*=\"ilvruan\"]) > img"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?stock87\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href^=\"http\"]:not([href*=\"stock87.\"]) > img[src*=\"uploadfiles/image/\"]"
 		}
 	},
 	{
@@ -41522,7 +41819,7 @@
 		},
 		"action": {
 			"type": "css-display-none",
-			"selector": "a[href^=\"https://cloud.tencent.com/\"]"
+			"selector": "a[href^=\"https://cloud.tencent.com/redirect.\"] > img"
 		}
 	},
 	{
@@ -41559,6 +41856,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "a[href^=\"https://dwz.cn/\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?18avinin\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href^=\"https://forms.gle/\"]"
 		}
 	},
 	{
@@ -41667,6 +41973,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "a[href^=\"https://www.fastadmin.net/go/\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?halitv\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href^=\"https://www.halitv.com/api/go.\"]"
 		}
 	},
 	{
@@ -41928,6 +42243,24 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "a[style^=\"position: fixed;bottom:\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?nfstar\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[target=\"_blank\"] > .img-responsive"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?1090ys2\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[target=\"_blank\"] > img[src*=\"alicdn.com\"]"
 		}
 	},
 	{
@@ -43255,6 +43588,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?eastmoney\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[data-url*=\"same.eastmoney.com\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?weibo\\.com[/:]"
 		},
 		"action": {
@@ -43494,6 +43836,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "div[id^=\"J_wdgg_\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?stock87\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[id^=\"Javascript\"]"
 		}
 	},
 	{
@@ -45028,6 +45379,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?jjdong4\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[style=\"width: 80%; text-align:center; margin-left: auto; margin-right: auto\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?jq-school\\.com[/:]"
 		},
 		"action": {
@@ -45339,6 +45699,24 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "div[style^=\"position:fixed;left:50%;bottom:200px;\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?txtle\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[style^=\"position:fixed;z-index:1000;top:200px;\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?stock87\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[style^=\"position:relative;width:1000px;height:90px;\"]"
 		}
 	},
 	{
@@ -45811,15 +46189,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?chcj\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "img[width=\"960\"]"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?nasyun\\.com[/:]"
 		},
 		"action": {
@@ -46059,6 +46428,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "section[aria-label=\"jianshu-ad\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bbc\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "section[class*=\"AdContainer\"]"
 		}
 	},
 	{
@@ -46873,6 +47251,24 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#guanggao1[style^=\"position\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#guanggao2[style^=\"position\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?baidu\\.com[/:]"
 		},
 		"action": {
@@ -47530,7 +47926,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?bxwx555\\.org[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?bxwx3\\.org[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
@@ -47539,7 +47935,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?bxwx555\\.org[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?bxwx3\\.org[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
@@ -53908,6 +54304,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://.*/js/pwltjutj@67_b\\.js",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://.*/js/showgg\\.js",
 			"resource-type": [
 				"image",
@@ -53926,6 +54339,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://.*/js/tpolknm\\.js",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*/js/uoeuoem&12_tt\\.js",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -55828,6 +56258,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://.*/stui_ads/xyz456e/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*/stuiA004/statics/asd/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -59486,6 +59933,20 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://.*:12443/.*/.*-.*-.*\\.",
+			"resource-type": [
+				"script"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://.*:8080/js/v1\\.js",
 			"resource-type": [
 				"image",
@@ -60585,6 +61046,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://104\\.233\\.177\\.93",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://104\\.233\\.203\\.164",
 			"resource-type": [
 				"image",
@@ -61322,6 +61800,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://13hangpifa\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://13wn\\.com",
 			"resource-type": [
 				"image",
@@ -61493,6 +61988,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://163\\.197\\.136\\.33",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://163\\.197\\.167\\.236",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -62806,6 +63318,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://28wangmeng\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://293870\\.com",
 			"resource-type": [
 				"image",
@@ -63034,6 +63563,108 @@
 			],
 			"load-type": [
 				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://3336653\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://3336657\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://3336670\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://3336691\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://3337706\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://3337739\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
 			]
 		},
 		"action": {
@@ -63768,6 +64399,23 @@
 			],
 			"load-type": [
 				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://45\\.192\\.59\\.62",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
 			]
 		},
 		"action": {
@@ -67605,6 +68253,26 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://aafuck\\.xyz",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://aasyy\\.com",
 			"resource-type": [
 				"image",
@@ -67623,6 +68291,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://aazcio\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://abcdlm\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -67705,6 +68390,23 @@
 			],
 			"load-type": [
 				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://acptkgp\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
 			]
 		},
 		"action": {
@@ -68013,6 +68715,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://adidaschile62tracksuit\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://adiniky\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -70347,6 +71066,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://bearad\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://beatriceeatr\\.com",
 			"resource-type": [
 				"image",
@@ -70410,6 +71146,23 @@
 			],
 			"load-type": [
 				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://beizhoujt\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
 			]
 		},
 		"action": {
@@ -70833,6 +71586,23 @@
 			],
 			"load-type": [
 				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://bmbaike\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
 			]
 		},
 		"action": {
@@ -71755,6 +72525,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://cczuxie\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://cd-best\\.cn",
 			"resource-type": [
 				"image",
@@ -72068,6 +72855,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://chaxinyong\\.net",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://chayayeon\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -72508,6 +73312,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://cke199\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ckkc\\.cc",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -75102,6 +75923,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://duamilsyr\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://duiwai\\.baidu\\.com",
 			"resource-type": [
 				"image",
@@ -77428,6 +78266,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://garacy\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://gars57\\.cn",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -80033,6 +80888,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://hnhycp\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://hnjls\\.com\\.cn",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -83752,6 +84624,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://jungbey\\.xyz",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://junkucm\\.com",
 			"resource-type": [
 				"image",
@@ -84079,6 +84968,23 @@
 			],
 			"load-type": [
 				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://k9dzax\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
 			]
 		},
 		"action": {
@@ -87305,6 +88211,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://meituangov\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://mengbingyuan\\.com",
 			"resource-type": [
 				"image",
@@ -90247,23 +91170,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://pic12x20\\.com",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://piclick\\.cn",
 			"resource-type": [
 				"image",
@@ -90497,26 +91403,6 @@
 				"media",
 				"raw",
 				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://popin\\.cc",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"load-type": [
-				"third-party"
 			]
 		},
 		"action": {
@@ -91738,6 +92624,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://queene\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://quehq\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -95455,6 +96358,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://szxhybj\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://szxiuchang\\.com",
 			"resource-type": [
 				"image",
@@ -95643,6 +96563,23 @@
 			],
 			"load-type": [
 				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://tan1dian\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
 			]
 		},
 		"action": {
@@ -98140,6 +99077,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://v9wuyulou\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://vaedan\\.top",
 			"resource-type": [
 				"image",
@@ -98516,6 +99470,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://vt863\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://vtfwgfo\\.cn",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -101646,6 +102617,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://xn--3bs795g\\.chat",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://xn--3bs795g\\.link",
 			"resource-type": [
 				"image",
@@ -102313,6 +103301,26 @@
 				"media",
 				"raw",
 				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://xuchuang\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
 			]
 		},
 		"action": {
@@ -104415,6 +105423,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://ysnj74ed\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ytop8\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -113014,6 +114039,40 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://1990tu\\.com/i/.*\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://1990tu\\.com/i/.*\\.png",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://19iiii\\.info/js/dingbu\\.js",
 			"resource-type": [
 				"image",
@@ -113151,6 +114210,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://1ketang\\.com/Runtime/js/play",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://1stchina\\.net/static/js/jquery\\.in\\.",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -114578,6 +115654,40 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://3337723\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://3337738\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://333tv\\.com/wp-content/themes/Loostrive/cssg/",
 			"resource-type": [
 				"image",
@@ -115610,6 +116720,40 @@
 		"trigger": {
 			"url-filter": "^https?://3boys2girls\\.com",
 			"resource-type": [
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://3dmax8\\.com/atu4/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://3dmax8\\.com/jiaoche",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
 				"document"
 			]
 		},
@@ -119332,6 +120476,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://717dyi\\.com/js/dh",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://717dyi\\.com/js/dibu\\.js",
 			"resource-type": [
 				"image",
@@ -120742,6 +121903,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://8jkx\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://8seaa\\.com/template/assets1/js/vue\\.js",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -122532,6 +123710,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://a5xiazai\\.com/z/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://aaread\\.space/images/.*0\\.gif",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -124819,6 +126014,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://alicdn\\.com/img/ibank/.*_!!4231779133-0-cib\\.",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://alicdn\\.com/img/ibank/.*_1082732848\\.",
 			"resource-type": [
 				"image",
@@ -124854,6 +126066,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://alicdn\\.com/img/ibank/.*_1095372465\\.",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://alicdn\\.com/img/ibank/.*_1165462224\\.",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -125163,6 +126392,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://alicdn\\.com/img/ibank/.*_392352300\\.",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://alicdn\\.com/img/ibank/.*_42289337\\.",
 			"resource-type": [
 				"image",
@@ -125317,6 +126563,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://alicdn\\.com/img/ibank/.*_951336353\\.",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://alicdn\\.com/img/ibank/.*_967741881\\.",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -125644,6 +126907,40 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://alicdn\\.com/kf/U937e9421ce844d44a5977758f21b72eey\\.png",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://alicdn\\.com/kf/Uc565e19948944fdb860e6847fb145811t\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://alicdn\\.com/kf/Ucdaf8165ce43491681d63dc26ecf5d75l\\.jpg",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -126748,6 +128045,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://apic\\.in/mmd\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://apk\\.tw/static/js/showpic\\.js",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -127915,6 +129229,17 @@
 				"media",
 				"raw",
 				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://b168\\.net..*\\..*\\?",
+			"resource-type": [
+				"image"
 			]
 		},
 		"action": {
@@ -131958,6 +133283,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://bt\\.cn/bbs/newsimg/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://bt121\\.net/ats/",
 			"resource-type": [
 				"image",
@@ -132322,6 +133664,26 @@
 				"media",
 				"raw",
 				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://bvmqkla\\.de/files/photo/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
 			]
 		},
 		"action": {
@@ -133100,6 +134462,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://cbfw\\.cn/gonggong/chibi/cf_",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://cbjs\\.ciwei\\.in",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -140982,6 +142361,40 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://dytt\\.com/oj\\.js",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://dytt\\.com/pc\\.js",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://dytt\\.com..*yb\\.js",
 			"resource-type": [
 				"image",
@@ -141981,6 +143394,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://ebrun\\.com/jfile/position/js/.*\\.js",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://eclassified\\.my/cp_featured",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -143489,6 +144919,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://feizl\\.com/images/smdd/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://fengcv\\.cn/script/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -147733,6 +149180,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://halitv\\.com/ad/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://hangzhou\\.com\\.cn/extra/flash/hzwarticle300\\.swf",
 			"resource-type": [
 				"image",
@@ -149247,6 +150711,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://hkmte\\.com/seo\\.js",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://hktvmall\\.com/api/preroll/getList\\?",
 			"resource-type": [
 				"image",
@@ -150493,6 +151974,23 @@
 			],
 			"if-domain": [
 				"my.alipay.com"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://i\\.wuhaolin\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
 			]
 		},
 		"action": {
@@ -156557,6 +158055,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://jsdelivr\\.net/gh/voocdn/static/www/QlZ2twef\\.js",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://jsjinfu\\.com/maizhan/js/age\\.js",
 			"resource-type": [
 				"image",
@@ -156864,6 +158379,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://jxnews\\.com\\.cn/assets/js/dspshow\\.js",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://jxnews\\.com\\.cn/first/js/home/index_ad",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -158448,6 +159980,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://kxmusic\\.top/tc/js/script\\.js",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://kygso\\.com/js/lrtk\\.js",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -160580,6 +162129,40 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://loli\\.net/2020/06/17/gpRx7AzGwI4kQmV\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://loli\\.net/2020/06/17/vGALJ4mQx26T75u\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://loli\\.net/2020/07/10/wMqf6ivLVZc92UY\\.png",
 			"resource-type": [
 				"image",
@@ -160825,6 +162408,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://longdidi\\.top..*\\.js",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://longzhu\\.com/i/api/playpage/recommendPop\\?",
 			"resource-type": [
 				"image",
@@ -160962,6 +162562,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://lsjxs2\\.xyz/js/html",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://lsntzzy3\\.com/Runtime/js/psData\\.js",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -161455,6 +163072,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://m\\.aty\\.sohu\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://m\\.jsr9\\.com..*\\.js",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -163028,7 +164662,24 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://mikuclub\\.cn/down/pub/RQS\\.",
+			"url-filter": "^https?://mikuclub\\.cn/down/pub/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://mikuclub\\.it/pub/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -164407,23 +166058,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://my4700\\.com/js/.*\\.js",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://myad\\.toocle\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -166037,6 +167671,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://nongjitong\\.com/adm/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://nownews\\.com/assets/js/setAds\\.js",
 			"resource-type": [
 				"image",
@@ -166072,6 +167723,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://nrsfh\\.com/neirong/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ntdtv\\.com/assets/themes/ntd/js/article_ads\\.js",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -168228,6 +169896,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://pics\\.xgo-img\\.com\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://picsuperfast\\.xyz/imageUpload/images/.*\\.gif",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -170629,27 +172314,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://qpic\\.cn",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"if-domain": [
-				"bde4.cc",
-				"www.bde4.cc"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://qpic\\.ws/images/pk.*\\.gif",
 			"resource-type": [
 				"image",
@@ -172732,21 +174396,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://s\\.pacn\\.ws..*\\?",
-			"resource-type": [
-				"image"
-			],
-			"if-domain": [
-				"dmhy.org",
-				"www.dmhy.org"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://s\\.weibo\\.com/widget\\.html",
 			"resource-type": [
 				"image",
@@ -173087,6 +174736,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://sass\\.hk/plus/mytag_js\\.php\\?aid=",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://satroki\\.tech/api/JdUnion",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -173868,7 +175534,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://share\\.dmhy\\.org..*\\?",
+			"url-filter": "^https?://share\\.dmhy\\.org..*\\..*\\?",
 			"resource-type": [
 				"image"
 			]
@@ -175419,6 +177085,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://smqzj\\.com/seo\\.js",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://smzy\\.com/sucai/cqsf\\.gif",
 			"resource-type": [
 				"image",
@@ -176830,6 +178513,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://sss777\\.net/Alove-A/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://sssvd\\.china\\.com",
 			"resource-type": [
 				"image",
@@ -177407,6 +179107,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://suning\\.com/getCpcDatas\\?",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://sunpma\\.com/other/logo/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -178079,6 +179796,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://taotaoxiang\\.cc/111/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://taoziba\\.me/a.*\\.js",
 			"resource-type": [
 				"image",
@@ -178148,91 +179882,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://tbcdn\\.cn/mm/tanxssp-custom/sina_",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://tc\\.cn/ad123/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://tc\\.cn/g/dl\\.ashx\\?",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://tc\\.cn/g/upload/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://tc\\.cn/news/images/h\\.jpg",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://tc\\.cn/news/images/right\\.jpg",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -180063,17 +181712,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://ts\\.cn..*/site1/",
-			"resource-type": [
-				"media"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://tt\\.biquge\\.la",
 			"resource-type": [
 				"image",
@@ -180775,23 +182413,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://twproxy.*\\.svc\\.litv\\.tv/cdi/v2/rpc",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://twunbbs\\.com/images/",
 			"resource-type": [
 				"image",
@@ -181065,23 +182686,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://u17i\\.com/readad/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://u627\\.com/dis/tj\\.js",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -181447,6 +183051,40 @@
 				"www.18board.com",
 				"18p2p.com",
 				"www.18p2p.com"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ulzdk\\.com/statics/v2/js/kulis\\.js",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ulzdk\\.com/Uploads/ulzdkgif/bfq\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
 			]
 		},
 		"action": {
@@ -182003,6 +183641,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://v4dwkcv\\.com/html/click/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://v5pc\\.com/static/images/dn",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -182598,6 +184253,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://vjcdn\\.com/wp-content/uploads/.*640x200",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://vk923\\.com/img/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -185873,6 +187545,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://xiaodigufz\\.com/ggt/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://xiaodutv\\.com/xda\\?",
 			"resource-type": [
 				"image",
@@ -186248,6 +187937,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://xilu\\.com/script/tag/2\\.0/func\\.js",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://xinchen2\\.com/3\\.gif",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -188225,6 +189931,23 @@
 			"if-domain": [
 				"feng.com",
 				"www.feng.com"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://yeshefb\\.com/template/conch/dd/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
 			]
 		},
 		"action": {
@@ -191206,6 +192929,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://zhengjie\\.com/a_d\\?",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://zhenjiang365\\.cn/.*/ad_",
 			"resource-type": [
 				"image",
@@ -191258,6 +192998,40 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://zhgmeitu\\.xyz/images/.*\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://zhibo\\.me/js/fd\\.js",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://zhibo\\.me/js/kh\\.js",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -191721,6 +193495,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://zhulong\\.com/poster/get\\?positions_name=ZY_SP_300",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://zhuna\\.cn/static/knowledge_pc/img/bussness",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -192519,6 +194310,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://zqnow\\.net/js/kh\\.js",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://zqsx\\.net/bbs/kehu/",
 			"resource-type": [
 				"image",
@@ -193268,6 +195076,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://.*benyixiwang\\.com#\\?#p:-abp-has\\(a\\[href=\"http://www\\.sm9166\\.com\"\\]\\)",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*bilibili\\.com#\\?#\\.video-card-common:-abp-has\\(>\\.card-pic>a\\[href.*=\"cm\\.bilibili\\.com\"\\]\\[data-target-url\\]:not\\(\\[data-target-url.*=\"\\.bili\"\\]\\)\\)",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -194231,6 +196056,244 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://.*58\\.com#\\?#tr\\[sortid\\]:-abp-has\\(> \\.t > \\.ico\\.accurate\\)",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://3336672\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://3337729\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://3337751\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://3337783\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://3338808\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://5551895\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://69t49\\.com/floating/layer\\.js",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://alicdn\\.com/img/ibank/.*_!!2210231227621-0-cib\\.",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://alicdn\\.com/img/ibank/.*_!!3820217494-0-cib\\.",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://alicdn\\.com/img/ibank/.*_1847837006\\.",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://alicdn\\.com/kf/Ha3566a6209ec45f597d392707b066cb9D\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://alicdn\\.com/kf/Ub1be4a53456c4dd2a7dbc839969ed856a\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://upload\\.cc/i1/2020/07/13/8BGJiL\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://wofjhs\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -197048,6 +199111,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://a\\.78yx\\.net",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://a\\.91nets\\.cn",
 			"resource-type": [
 				"image",
@@ -198119,6 +200199,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://abc\\.rwpt\\.top",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://abcdcfasda\\.gushiwen\\.cn",
 			"resource-type": [
 				"image",
@@ -198820,6 +200917,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://bd\\.ershenghuo\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://bd\\.watu\\.cn",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -201836,6 +203950,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://fpb1\\.tabuzhe\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://fwccw\\.com",
 			"resource-type": [
 				"image",
@@ -203907,6 +206038,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://lynr\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://lyz\\.radio366\\.com",
 			"resource-type": [
 				"image",
@@ -204682,6 +206830,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://owusxlr\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://p\\.junshi881\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -210439,6 +212604,34 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://.*/w1xhtml\\?",
+			"resource-type": [
+				"script"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*/w1xhtml$",
+			"resource-type": [
+				"script"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://.*/xxgg/app\\.js",
 			"resource-type": [
 				"image",
@@ -210586,6 +212779,57 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://mlre\\.com\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ap72el\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://94dayu\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://.*\\.ca\\.bxwx3\\.org",
 			"resource-type": [
 				"image",
@@ -210635,7 +212879,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*\\.m\\.biduo\\.cc",
+			"url-filter": "^https?://.*\\.m\\.biquduo\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -210822,7 +213066,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*\\.m\\.wenxuemi6\\.com",
+			"url-filter": "^https?://.*\\.m\\.wenxuemi\\.cc",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -210958,7 +213202,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*\\.wap\\.x4399\\.com",
+			"url-filter": "^https?://.*\\.wap\\.vbiquge\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -210975,7 +213219,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*\\.wap\\.xsbiquge\\.com",
+			"url-filter": "^https?://.*\\.wap\\.x4399\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -213409,6 +215653,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://5j73de\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://5mbd2\\.com",
 			"resource-type": [
 				"image",
@@ -213851,6 +216112,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://6s7v78\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://6shuge\\.com",
 			"resource-type": [
 				"image",
@@ -213988,23 +216266,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://76xs\\.com",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://78zw\\.com/1",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -214175,6 +216436,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://85wa\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://877zw\\.com/1",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -214591,17 +216869,6 @@
 				"media",
 				"raw",
 				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://9yd\\.net..*\\.html",
-			"resource-type": [
-				"script"
 			]
 		},
 		"action": {
@@ -215630,6 +217897,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://aixiawx\\.com/4B7LlzdA/4I6UpES\\.js",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://aixiutui\\.com",
 			"resource-type": [
 				"image",
@@ -216181,6 +218465,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://anweigongsi\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://anyihuan\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -216860,7 +219161,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://baidu\\.bxwx555\\.org",
+			"url-filter": "^https?://baidu\\.bxwx3\\.org",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -217285,6 +219586,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://beizhoujt\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://bentengcn\\.com",
 			"resource-type": [
 				"image",
@@ -217625,23 +219943,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://biquge\\.info..*\\.js\\?",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://biqugeso\\.com..*html",
 			"resource-type": [
 				"script"
@@ -217840,6 +220141,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://bjpengyouhui\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://bjqftcty\\.com",
 			"resource-type": [
 				"image",
@@ -217892,6 +220210,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://bjzcbx\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://bjzywuxian\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -219645,6 +221980,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://cjyjqw\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://ckaiv\\.com",
 			"resource-type": [
 				"image",
@@ -219798,6 +222150,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://cndaizi\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://cniuv\\.com",
 			"resource-type": [
 				"image",
@@ -219850,6 +222219,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://cnoufangfeng\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://cnq4379\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -220835,6 +223221,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://dadedaxue\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://dailiq\\.cn",
 			"resource-type": [
 				"image",
@@ -221379,6 +223782,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://ddyingyan\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://ddzeg\\.com",
 			"resource-type": [
 				"image",
@@ -221482,6 +223902,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://dezfu\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://dfseafood\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -222042,6 +224479,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://dtxdwl\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://dtzysm\\.com",
 			"resource-type": [
 				"image",
@@ -222111,6 +224565,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://duwowvo\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://duyousxtd\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -222739,6 +225210,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://erhfnv\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://erkesi\\.cn",
 			"resource-type": [
 				"image",
@@ -222841,6 +225329,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://ez2kyh\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://ezfashion\\.com\\.cn",
 			"resource-type": [
 				"image",
@@ -222859,6 +225364,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://f1t5pb\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://f4hn9v\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -222995,6 +225517,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://fbguxd\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://fbxsw\\.com/js/gg",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -223249,7 +225788,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://feixs\\.com/style/t\\.js",
+			"url-filter": "^https?://feiszw\\.com/style/t\\.js",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -223334,7 +225873,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://ffg34fg\\.78zw\\.com",
+			"url-filter": "^https?://ffg34fg\\.877zw\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -223607,6 +226146,40 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://fkkse\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://fkm2wv\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://flbmfc\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -224133,6 +226706,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://fyvvm\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://fyzyf\\.com",
 			"resource-type": [
 				"image",
@@ -224610,6 +227200,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://gedus\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://geileba\\.cn",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -226105,6 +228712,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://happyyong\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://hasiad\\.cn",
 			"resource-type": [
 				"image",
@@ -226462,6 +229086,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://he3kz8\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://headwell\\.cn",
 			"resource-type": [
 				"image",
@@ -226564,6 +229205,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://hehuamei\\.com/images/m\\.js",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://helpinfo\\.cn",
 			"resource-type": [
 				"image",
@@ -226650,6 +229308,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://heylookhere\\.top",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://hflvhua\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -227074,6 +229749,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://hmfcyy\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://hmttoly\\.com",
 			"resource-type": [
 				"image",
@@ -227143,6 +229835,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://hnhgw\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://hnjcdjx\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -227619,6 +230328,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://huigoushop\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://huijiamei\\.cn",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -228590,6 +231316,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://iopreland\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://ipchinatelecom\\.com",
 			"resource-type": [
 				"image",
@@ -229491,6 +232234,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://jindingguopin\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://jindowins\\.com",
 			"resource-type": [
 				"image",
@@ -229866,6 +232626,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://jj0453\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://jkdd\\.cc..*-",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -230379,6 +233156,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://jtwlj\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://juhuandian\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -231350,6 +234144,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://kl0ru78\\.xyz",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://klorn\\.cn",
 			"resource-type": [
 				"image",
@@ -231690,6 +234501,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://kypzu\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://kyxnz\\.cn",
 			"resource-type": [
 				"image",
@@ -231980,6 +234808,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://lemaite\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://lepaidaren\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -232625,7 +235470,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://lmdknj\\.xsbiquge\\.com",
+			"url-filter": "^https?://lmdknj\\.vbiquge\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -232704,8 +235549,8 @@
 				"document"
 			],
 			"if-domain": [
-				"rmxs8.com",
-				"www.rmxs8.com",
+				"rmxsba.com",
+				"www.rmxsba.com",
 				"xinqingdou.com",
 				"www.xinqingdou.com"
 			]
@@ -232784,6 +235629,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://loubiqu\\.com..*\\.js\\?",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://louisan\\.cn",
 			"resource-type": [
 				"image",
@@ -232802,6 +235664,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://lousivency\\.com\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://lovepets70\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -233026,6 +235905,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://lvkuaizi\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://lvsechufang\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -233420,6 +236316,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://matchjia\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://mavuz\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -234490,7 +237403,24 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://mx\\.biquge\\.info",
+			"url-filter": "^https?://mx\\.loubiqu\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://mxc87\\.org",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -234664,6 +237594,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://mzclass\\.club",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://n18uji\\.xyz",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -234986,6 +237933,40 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://nggwhyk\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ngmaul\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://ngsaang\\.top",
 			"resource-type": [
 				"image",
@@ -235106,6 +238087,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://nixiclothing\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://njcyt\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -235377,7 +238375,41 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://nongfumg\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://nongzhifu\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://nosensor\\.cn",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -236159,6 +239191,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://oppaid\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://opyyy\\.com",
 			"resource-type": [
 				"image",
@@ -236890,6 +239939,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://pingseli\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://pinkmore\\.cn",
 			"resource-type": [
 				"image",
@@ -237044,6 +240110,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://pmshy\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://po.*\\.877zw\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -237520,6 +240603,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://q7wq7\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://qa7mp9j\\.cn",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -238250,6 +241350,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://qpmztk\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://qqdashabi\\.top",
 			"resource-type": [
 				"image",
@@ -238370,6 +241487,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://quxiandu\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://quxiangkeji\\.cn",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -239015,6 +242149,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://rongdingkeji\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://rongnews\\.com",
 			"resource-type": [
 				"image",
@@ -239169,6 +242320,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://rxxdq\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://rzlib\\.net",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -239917,6 +243085,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://shanprint\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://shantelope\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -241262,6 +244447,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://sv7oqa\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://svfwer\\.top",
 			"resource-type": [
 				"image",
@@ -241297,6 +244499,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://swq48b\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://swyhome\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -241806,7 +245025,41 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://szpengliye\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://szqifu\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://szqipin\\.cn",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -242147,6 +245400,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://tdain\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://tdtxt\\.net/js/baidu\\.js",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -243047,23 +246317,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://tudouw\\.cc/js/baidu\\.js",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://tukexiu\\.com",
 			"resource-type": [
 				"image",
@@ -243166,7 +246419,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://txshuku\\.net/js/",
+			"url-filter": "^https?://txshuku\\.la/js/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -243370,6 +246623,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://ubt573\\.org",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://ububyiw6655\\.xyz",
 			"resource-type": [
 				"image",
@@ -243473,6 +246743,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://uh64b\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://uhbjvwn\\.cn",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -243744,6 +247031,17 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://uubiqu\\.com..*\\.html",
+			"resource-type": [
+				"script"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://uunewcar\\.com",
 			"resource-type": [
 				"image",
@@ -243847,6 +247145,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://uxnycjr\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://uyueread\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -245243,6 +248558,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://whxjnwzhs\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://wikevs\\.cn",
 			"resource-type": [
 				"image",
@@ -245261,6 +248593,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://win999\\.com\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://wjaa23\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -245889,6 +249238,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://x23qb\\.com/ak",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://x23qb\\.com/skin/style",
 			"resource-type": [
 				"image",
@@ -246153,6 +249519,9 @@
 				"media",
 				"raw",
 				"document"
+			],
+			"load-type": [
+				"third-party"
 			]
 		},
 		"action": {
@@ -248632,6 +252001,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://yingyeping\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://yinlt\\.com",
 			"resource-type": [
 				"image",
@@ -248938,6 +252324,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://ymxlm\\.cc",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://ynbzxh\\.com",
 			"resource-type": [
 				"image",
@@ -249109,6 +252512,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://yoobest\\.cn",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://yooread\\.net/ak",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -250179,6 +253599,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://zbqmsc\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://zcand\\.com",
 			"resource-type": [
 				"image",
@@ -250757,6 +254194,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://zhuanquxian\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://zhuanrangyun\\.cn",
 			"resource-type": [
 				"image",
@@ -251047,6 +254501,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://zjksgl\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://zjlfqf\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -251506,6 +254977,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://zwdu\\.com/static/scripts/1\\.js",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://zwdu\\.com/static/scripts/common\\.",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -253562,6 +257050,8 @@
 				"document"
 			],
 			"if-domain": [
+				"b168.net",
+				"www.b168.net",
 				"cnprint.org",
 				"www.cnprint.org",
 				"huhupan.com",
@@ -253610,6 +257100,8 @@
 				"document"
 			],
 			"if-domain": [
+				"3dpchip.com",
+				"www.3dpchip.com",
 				"9zvip.net",
 				"www.9zvip.net",
 				"club.tgfcer.com",
@@ -255579,6 +259071,17 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://182\\.150\\.59\\.104..*/ad\\.css\\?",
+			"resource-type": [
+				"style-sheet"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://192\\.168\\..*/advertising_",
 			"resource-type": [
 				"style-sheet"
@@ -257070,7 +260573,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://apk\\.tw",
+			"url-filter": "^https?://apk\\.tw..*/ads\\.js",
 			"resource-type": [
 				"script"
 			],
@@ -258357,23 +261860,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://dmhy\\.org/common/generate-captcha\\?",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://dnbus\\.com\\.tw/AD/tab_route\\.html",
 			"resource-type": [
 				"image",
@@ -258668,6 +262154,17 @@
 				"media",
 				"raw",
 				"document"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://edu\\.cn..*/ad\\.css\\?",
+			"resource-type": [
+				"style-sheet"
 			]
 		},
 		"action": {
@@ -259744,6 +263241,23 @@
 			],
 			"if-domain": [
 				"v.ifeng.com"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ifvod\\.tv/ads\\.js",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
 			]
 		},
 		"action": {
@@ -262035,27 +265549,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://s\\.pacn\\.ws..*/generate-captcha\\?",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"if-domain": [
-				"dmhy.org",
-				"www.dmhy.org"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://s\\.yimg\\.com/ja/ap/.*/jquery\\.",
 			"resource-type": [
 				"image",
@@ -263236,6 +266729,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://weibo\\.com/api/weipan/getAds",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://weiyun001\\.com/banner_ads\\.js",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -264706,24 +268216,24 @@
 				"www.ldks.cc",
 				"lindiankanshu.cc",
 				"www.lindiankanshu.cc",
-				"meegoq.com",
-				"www.meegoq.com",
-				"mxguan.com",
-				"www.mxguan.com",
+				"mxguan5.com",
+				"www.mxguan5.com",
 				"paoshu8.com",
 				"www.paoshu8.com",
 				"piaotian5.com",
 				"www.piaotian5.com",
 				"qianrenge.cc",
 				"www.qianrenge.cc",
-				"shuquge.com",
-				"www.shuquge.com",
+				"sizhicn.com",
+				"www.sizhicn.com",
 				"taiuu.com",
 				"www.taiuu.com",
 				"ttzw.tv",
 				"www.ttzw.tv",
 				"txtwan.com",
 				"www.txtwan.com",
+				"viviyzw.com",
+				"www.viviyzw.com",
 				"x23us.me",
 				"www.x23us.me",
 				"xbiqugecc.com",
@@ -264798,8 +268308,8 @@
 			"if-domain": [
 				"17k.com",
 				"www.17k.com",
-				"bxwx555.org",
-				"www.bxwx555.org"
+				"bxwx3.org",
+				"www.bxwx3.org"
 			]
 		},
 		"action": {
@@ -264888,8 +268398,8 @@
 				"www.gllmh.com",
 				"luoqiuzw.com",
 				"www.luoqiuzw.com",
-				"shudai.org",
-				"www.shudai.org",
+				"shudai.cc",
+				"www.shudai.cc",
 				"xbiqugela.com",
 				"www.xbiqugela.com",
 				"xhxswz.com",
@@ -265008,8 +268518,6 @@
 				"www.30sy.com",
 				"33yq.com",
 				"www.33yq.com",
-				"365book.net",
-				"www.365book.net",
 				"37zw.la",
 				"www.37zw.la",
 				"39shubao.com",
@@ -265020,14 +268528,12 @@
 				"www.477zw.com",
 				"52biquge.com",
 				"www.52biquge.com",
-				"58xs.com",
-				"www.58xs.com",
 				"5ccc.tw",
 				"www.5ccc.tw",
-				"78zw.com",
-				"www.78zw.com",
 				"81zw.me",
 				"www.81zw.me",
+				"877zw.com",
+				"www.877zw.com",
 				"99mk.com",
 				"www.99mk.com",
 				"99shumeng.net",
@@ -265044,20 +268550,18 @@
 				"www.balingtxt.com",
 				"baoshuu.com",
 				"www.baoshuu.com",
-				"biduo.cc",
-				"www.biduo.cc",
 				"biqiuge8.com",
 				"www.biqiuge8.com",
 				"biqubao.com",
 				"www.biqubao.com",
 				"biqudu.tv",
 				"www.biqudu.tv",
+				"biquduo.com",
+				"www.biquduo.com",
 				"biquga.com",
 				"www.biquga.com",
 				"biquge.com.cn",
 				"www.biquge.com.cn",
-				"biquge.info",
-				"www.biquge.info",
 				"biquge.lu",
 				"www.biquge.lu",
 				"biquge.tv",
@@ -265080,8 +268584,6 @@
 				"www.biquyi.com",
 				"bixia.org",
 				"www.bixia.org",
-				"biyuwu.cc",
-				"www.biyuwu.cc",
 				"bodekang.net",
 				"www.bodekang.net",
 				"boluoxs.com",
@@ -265120,6 +268622,8 @@
 				"www.dushuge.net",
 				"farpop.com",
 				"www.farpop.com",
+				"fbxsw.com",
+				"www.fbxsw.com",
 				"gdbzkz.com",
 				"www.gdbzkz.com",
 				"guaili.org",
@@ -265138,6 +268642,8 @@
 				"www.hongyeshuzhai.com",
 				"hybiquge.com",
 				"www.hybiquge.com",
+				"iddwx.com",
+				"www.iddwx.com",
 				"imiaobige.com",
 				"www.imiaobige.com",
 				"ishisetianxia.com",
@@ -265146,8 +268652,6 @@
 				"www.ixiatxt.com",
 				"ixs.la",
 				"www.ixs.la",
-				"ixuanquge.com",
-				"www.ixuanquge.com",
 				"jianlaixiaoshuo.com",
 				"www.jianlaixiaoshuo.com",
 				"jinshulo.com",
@@ -265162,6 +268666,8 @@
 				"www.lindiankanshu.cc",
 				"liudatxt.com",
 				"www.liudatxt.com",
+				"loubiqu.com",
+				"www.loubiqu.com",
 				"lwtxt.net",
 				"www.lwtxt.net",
 				"lwxstxt.com",
@@ -265172,6 +268678,8 @@
 				"www.mubige.com",
 				"paoshu8.com",
 				"www.paoshu8.com",
+				"paoshuzw.com",
+				"www.paoshuzw.com",
 				"pfwx.com",
 				"www.pfwx.com",
 				"piaotianxs.com",
@@ -265182,46 +268690,50 @@
 				"www.qbxs8.net",
 				"qianrenge.cc",
 				"www.qianrenge.cc",
-				"qiqint.la",
-				"www.qiqint.la",
+				"qishusk.com",
+				"www.qishusk.com",
 				"quge6.com",
 				"www.quge6.com",
 				"quledu.net",
 				"www.quledu.net",
 				"qushuba.com",
 				"www.qushuba.com",
-				"rmxs8.com",
-				"www.rmxs8.com",
+				"rmxsba.com",
+				"www.rmxsba.com",
 				"shu008.com",
 				"www.shu008.com",
 				"shuhaiwu.com",
 				"www.shuhaiwu.com",
 				"shumil.co",
 				"www.shumil.co",
-				"shuquge.com",
-				"www.shuquge.com",
 				"siluke.tv",
 				"www.siluke.tv",
+				"siluwx.org",
+				"www.siluwx.org",
+				"sizhicn.com",
+				"www.sizhicn.com",
 				"skyzww.com",
 				"www.skyzww.com",
 				"soxscc.com",
 				"www.soxscc.com",
 				"tangsanshu.com",
 				"www.tangsanshu.com",
-				"tpszw.com",
-				"www.tpszw.com",
+				"thxsw.com",
+				"www.thxsw.com",
 				"ttzw.tv",
 				"www.ttzw.tv",
-				"txshuku.net",
-				"www.txshuku.net",
+				"tutengzw.com",
+				"www.tutengzw.com",
+				"txshuku.la",
+				"www.txshuku.la",
 				"u33.me",
 				"www.u33.me",
 				"uidzhx.com",
 				"www.uidzhx.com",
 				"v63xs.com",
 				"www.v63xs.com",
-				"vipxs.la",
-				"www.vipxs.la",
+				"vipsk.org",
+				"www.vipsk.org",
 				"wanwenhui.com",
 				"www.wanwenhui.com",
 				"wenxuem.com",
@@ -265232,8 +268744,6 @@
 				"www.x23us.me",
 				"x81zw.com",
 				"www.x81zw.com",
-				"xbiquge.la",
-				"www.xbiquge.la",
 				"xbiqugecc.com",
 				"www.xbiqugecc.com",
 				"xbiqugew.net",
@@ -265252,8 +268762,6 @@
 				"www.xinshuhaige.com",
 				"xinxs.la",
 				"www.xinxs.la",
-				"xs222.co",
-				"www.xs222.co",
 				"xs5200.com",
 				"www.xs5200.com",
 				"xs98.com",
@@ -266146,6 +269654,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://tvb\\.com/social/share_",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://vipstatic\\.com/img/share/blank\\.png",
 			"resource-type": [
 				"image",
@@ -266999,6 +270524,26 @@
 				"tanmizhi.com",
 				"www.tanmizhi.com",
 				"tianqi.qq.com"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://baidu\\.com/static/touch/js/lib/fingerprint\\.js",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"first-party"
 			]
 		},
 		"action": {
@@ -268328,7 +271873,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://viu\\.com/ott/.*/js/tracking/",
+			"url-filter": "^https?://viu\\.com..*/tracking/tracking\\.js",
 			"resource-type": [
 				"image",
 				"style-sheet",

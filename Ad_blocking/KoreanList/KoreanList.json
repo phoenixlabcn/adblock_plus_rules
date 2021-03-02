@@ -2710,7 +2710,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?newtoki23\\.net[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?newtoki31\\.net[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
@@ -2719,7 +2719,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?newtoki23\\.net[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?newtoki31\\.net[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
@@ -3574,6 +3574,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sinnamovie\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[id^=\"AD_\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?torrenti\\.co\\.kr[/:]"
 		},
 		"action": {
@@ -3610,7 +3619,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?jujutorrent27\\.com[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?jujutorrent28\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
@@ -3624,6 +3633,33 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "div[id^=\"AD_\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?kr1\\.ibe\\.kr[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#ouibounce-modal"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?torrentmax15\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".container-line-main-m"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?torrentweb18\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".mmmainads"
 		}
 	},
 	{
@@ -4966,8 +5002,8 @@
 				"image"
 			],
 			"if-domain": [
-				"torrentview29.com",
-				"www.torrentview29.com"
+				"torrentview30.com",
+				"www.torrentview30.com"
 			]
 		},
 		"action": {
@@ -5011,8 +5047,8 @@
 				"image"
 			],
 			"if-domain": [
-				"allall42.net",
-				"www.allall42.net"
+				"allall44.net",
+				"www.allall44.net"
 			]
 		},
 		"action": {
@@ -5041,8 +5077,8 @@
 				"image"
 			],
 			"if-domain": [
-				"wtwt55.com",
-				"www.wtwt55.com"
+				"wtwt60.com",
+				"www.wtwt60.com"
 			]
 		},
 		"action": {
@@ -5056,8 +5092,8 @@
 				"image"
 			],
 			"if-domain": [
-				"blacktoon97.com",
-				"www.blacktoon97.com"
+				"blacktoon103.com",
+				"www.blacktoon103.com"
 			]
 		},
 		"action": {
@@ -5071,8 +5107,8 @@
 				"image"
 			],
 			"if-domain": [
-				"torrentgram12.com",
-				"www.torrentgram12.com"
+				"torrentgram14.com",
+				"www.torrentgram14.com"
 			]
 		},
 		"action": {
@@ -5103,6 +5139,51 @@
 			"if-domain": [
 				"ktxtorrent19.com",
 				"www.ktxtorrent19.com"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://images2\\.imgbox\\.com",
+			"resource-type": [
+				"image"
+			],
+			"if-domain": [
+				"torrentsir31.com",
+				"www.torrentsir31.com"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://i\\.imgur\\.com",
+			"resource-type": [
+				"image"
+			],
+			"if-domain": [
+				"torrentwiz20.me",
+				"www.torrentwiz20.me"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://i\\.imgur\\.com",
+			"resource-type": [
+				"image"
+			],
+			"if-domain": [
+				"torrentqq75.com",
+				"www.torrentqq75.com"
 			]
 		},
 		"action": {
@@ -8552,7 +8633,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://newtoki23\\.net/data/banner",
+			"url-filter": "^https?://newtoki31\\.net/data/banner",
 			"resource-type": [
 				"image"
 			]
@@ -9771,9 +9852,9 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*/slots\\.php\\?site=",
+			"url-filter": "^https?://torrentgo.*\\.com/data/file/banner",
 			"resource-type": [
-				"popup"
+				"image"
 			]
 		},
 		"action": {
@@ -9782,15 +9863,108 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "http://sinnamovie\\.com/##div\\[id.=%22AD_%22\\]",
+			"url-filter": "^https?://potv.*\\.com/images",
 			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://blackgambler.*\\.com/quickbanner",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://kr1\\.ibe\\.kr/img",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://torrentwon.*\\.com/data/file",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://torrentwiz.*\\.me/data/editor",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://wwwc\\.torrentdia\\.com/data/zn_banner",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ani365\\.org/assets/images",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://linktong.*\\.com/img",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://torrentonly\\.com/data/zn_banner",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*/slots\\.php\\?site=",
+			"resource-type": [
+				"popup"
 			]
 		},
 		"action": {

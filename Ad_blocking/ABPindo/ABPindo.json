@@ -4231,15 +4231,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?neonime\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".box_item_berlangganan"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?46\\.166\\.167\\.16[/:]"
 		},
 		"action": {
@@ -4551,6 +4542,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".float-ck"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?drakorasia\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".floatingads"
 		}
 	},
 	{
@@ -6305,6 +6305,15 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": "[href=\"https://superitc.biz/\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": "[href^=\"//zukxd6fkxqn.com/\"]"
 		}
 	},
@@ -6720,6 +6729,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "[href^=\"http://978bet13.com\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[href^=\"http://978bet31.com\"]"
 		}
 	},
 	{
@@ -13019,6 +13037,15 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": "[href^=\"http://probet228.com\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": "[href^=\"http://probet24.site/\"]"
 		}
 	},
@@ -13938,6 +13965,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "[href^=\"http://shiokuda.\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[href^=\"http://shiro888slot.com\"]"
 		}
 	},
 	{
@@ -20417,6 +20453,15 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": "[href^=\"https://www.33s.com\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": "[href^=\"https://www.365capsa.\"]"
 		}
 	},
@@ -20913,6 +20958,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "[src$=\"/assets/kdslot.gif\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[title=\"Inidewa365\" i]"
 		}
 	},
 	{
@@ -41918,6 +41972,7 @@
 				"image"
 			],
 			"if-domain": [
+				"139.99.33.192",
 				"animeindo.moe",
 				"www.animeindo.moe",
 				"anoboy.org",
@@ -45415,20 +45470,6 @@
 			"if-domain": [
 				"zonawibu.cc",
 				"www.zonawibu.cc"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://bp\\.blogspot\\.com/.*\\.gif",
-			"resource-type": [
-				"image"
-			],
-			"if-domain": [
-				"139.99.33.192"
 			]
 		},
 		"action": {

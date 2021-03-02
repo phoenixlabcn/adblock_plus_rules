@@ -262,6 +262,24 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?anagnostis\\.org[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#block-kentroxenonglossonlogos"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?anagnostis\\.org[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#headline"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?antenna\\.gr[/:]"
 		},
 		"action": {
@@ -991,6 +1009,51 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?energypress\\.gr[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad-970-250"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?emvolos\\.gr[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#text-10"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?emvolos\\.gr[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#text-16"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?emvolos\\.gr[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".td_block_widget"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?emvolos\\.gr[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".vc_widget_sidebar"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?enet\\.gr[/:]"
 		},
 		"action": {
@@ -1275,6 +1338,24 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".vc_raw_html"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fileleutheros\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#sidebar-one"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fileleutheros\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#page-body-header"
 		}
 	},
 	{
@@ -2796,6 +2877,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "div[class=\"banner\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?newsauto\\.gr[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#secondary"
 		}
 	},
 	{

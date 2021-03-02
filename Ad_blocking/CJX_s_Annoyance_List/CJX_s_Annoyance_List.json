@@ -163,6 +163,114 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?to8to\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".layer-red-box"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tvbs\\.com\\.tw[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".smart_banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?wenku\\.baidu\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".header-wrapper > .fixed-activity-bar"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?faayoo\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#footer_fd"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?faayoo\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".qr_code"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?gebi1\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#fwin_dialog"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?gebi1\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#fwin_dialog_cover"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?gebi1\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".offical-account"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?infoq\\.cn[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".live-fixed-bar"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?infoq\\.cn[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".widget-slide-weekly"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sina\\.cn[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".js-voice-yyy"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sina\\.cn[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".module-finance-client3"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?sina\\.com\\.cn[/:]"
 		},
 		"action": {
@@ -14968,6 +15076,57 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://sinaimg\\.cn..*/yyy_pop",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://tiexue\\.net/pic/tx_1220\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://gushiwen\\.org/getTicket\\.aspx",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://51cto\\.com/edu/center/js/interaction_iframe\\.js",
 			"resource-type": [
 				"image",
 				"style-sheet",

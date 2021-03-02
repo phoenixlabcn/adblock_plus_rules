@@ -356,6 +356,15 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": "#maiContent > div > div.colLt > aside"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?24h\\.com\\.vn[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": ".bai_pr_tin_cung_su_kien"
 		}
 	},
@@ -447,6 +456,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "DIV[id^=\"crt-\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?2banh\\.vn[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".window_popup"
 		}
 	},
 	{
@@ -815,6 +833,15 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": ".is-ads"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?baomoi\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": ".is-pr"
 		}
 	},
@@ -888,6 +915,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".adpia_banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bilutvs\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ab1"
 		}
 	},
 	{
@@ -1652,6 +1688,33 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": "#page-content-asv"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fshare\\.vn[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".bannerinfooter"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fshare\\.vn[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner-text"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fshare\\.vn[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": ".popup-fsub-box"
 		}
 	},
@@ -1864,7 +1927,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?hayghez\\.net[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?hayghes\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
@@ -2638,6 +2701,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?motphjm\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#mp-mb-preload"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?nettruyen\\.com[/:]"
 		},
 		"action": {
@@ -2903,6 +2975,15 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": ".player-midpoint-progress"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?phim1080\\.me[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": ".popup-link"
 		}
 	},
@@ -2940,6 +3021,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#sobet-ads-right"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?phimmedia\\.me[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".adpia_banner"
 		}
 	},
 	{
@@ -3070,6 +3160,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?qthang\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".adsbygoogle"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?quantrimang\\.com[/:]"
 		},
 		"action": {
@@ -3138,6 +3237,51 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".ads-float-right"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?salaphim\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#enable_hidden_state_to_show_ads_bottom"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?salaphim\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#enable_hidden_state_to_show_ads_top"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?salaphim\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#enable_hidden_state_to_show_ads_top_v2"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?salaphim\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ads_popup_mobi_salaphim"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?salaphim\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ads_popup_mobi_salaphim_v2"
 		}
 	},
 	{
@@ -4496,6 +4640,15 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": ".ads-pop-up"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?vtvgiaitri\\.vn[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": ".ads-top-wrap"
 		}
 	},
@@ -4740,78 +4893,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".the-article-thumbnail"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?bloghentai\\.info[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".page-don"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?hentaivn\\.net[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#page_ads_right"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?hentaiz\\.net[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#rmcard"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?hoihentai\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".bbWrapper > center"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?sexhayvc\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".b-ds-footer"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?thienvadia\\.net[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".my_nonresponsive_ads"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?thienvadia\\.net[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".my_responsive_ads"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?vlxx\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "a[rel*=\"nofollow\"]"
 		}
 	},
 	{
@@ -5497,6 +5578,40 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://2banh\\.vn/igo/banner/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://2banh\\.vn/igo/shop2b/goracing/goracing-tet-300x250\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://4\\.bp\\.blogspot\\.com/-992t0itJqn0/W-VW5TA8luI/AAAAAAABsLY/PwOPzP0EvlwtQVOqnI6vG1WW9bQM_TuRwCHMYCw/s0/",
 			"resource-type": [
 				"image",
@@ -5790,6 +5905,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://animevnn\\.com..*\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://api\\.xemtvhd\\.com",
 			"resource-type": [
 				"document"
@@ -6002,6 +6134,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://batdongsan\\.com\\.vn/scripts/banner.*\\.js",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://bblink\\.com/img/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -6559,6 +6708,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://cdnasset\\.dantri\\.com\\.vn/fe/asset-dtms\\.html",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://cdnmedia\\.baotintuc\\.vn/Upload/QKrAM3u3JmfSk084HTqfEg/files/2020/06/Itaxa-moi\\.jpg",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -7567,7 +7733,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://hayghez\\.net/players/ads/",
+			"url-filter": "^https?://hayghes\\.com/players/ads/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -7584,7 +7750,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://hayghez\\.net/players/ads/",
+			"url-filter": "^https?://hayghes\\.com/players/ads/",
 			"resource-type": [
 				"popup"
 			]
@@ -7595,7 +7761,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://hayghez\\.net..*\\.gif",
+			"url-filter": "^https?://hayghes\\.com..*\\.gif",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -7872,7 +8038,9 @@
 				"tivi4k.com",
 				"www.tivi4k.com",
 				"tvzingvn.net",
-				"www.tvzingvn.net"
+				"www.tvzingvn.net",
+				"bilutvs.net",
+				"www.bilutvs.net"
 			]
 		},
 		"action": {
@@ -8608,6 +8776,40 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://luotphimzz\\.com..*\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://m\\.vkool\\.tv/js/pov\\.js",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://mangak\\.info..*\\.gif",
 			"resource-type": [
 				"image"
@@ -8809,6 +9011,17 @@
 				"font",
 				"media",
 				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://motphjm\\.net/files/inorbitad\\.html",
+			"resource-type": [
 				"document"
 			]
 		},
@@ -9718,6 +9931,17 @@
 				"media",
 				"raw",
 				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://salaphim\\.com..*\\.gif",
+			"resource-type": [
+				"image"
 			]
 		},
 		"action": {
@@ -11100,6 +11324,23 @@
 			],
 			"load-type": [
 				"first-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://tvzingvn\\.net/wp-content/themes/zingtv/js/qc1\\.js",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
 			]
 		},
 		"action": {
@@ -12958,6 +13199,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://duamilsyr\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://easiesttangle\\.com",
 			"resource-type": [
 				"image",
@@ -13168,6 +13426,45 @@
 				"media",
 				"raw",
 				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://hqq\\.to",
+			"resource-type": [
+				"popup"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://imad24\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ir3\\.xyz",
+			"resource-type": [
+				"popup"
 			]
 		},
 		"action": {
@@ -13675,7 +13972,46 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://syncwowsails\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://tai789\\.net",
+			"resource-type": [
+				"popup"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://thethaovip\\.vip",
+			"resource-type": [
+				"popup"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://tozoruaon\\.com",
 			"resource-type": [
 				"popup"
 			]
@@ -13692,6 +14028,17 @@
 			],
 			"load-type": [
 				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://unreshiramor\\.com",
+			"resource-type": [
+				"popup"
 			]
 		},
 		"action": {
@@ -13729,6 +14076,17 @@
 			],
 			"load-type": [
 				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://vw220\\.com",
+			"resource-type": [
+				"popup"
 			]
 		},
 		"action": {
@@ -13884,6 +14242,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://.*baomoi\\.com#\\?#\\.fyi--group:-abp-has\\(\\.is-ads\\)",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://.*kiemhieptruyen\\.com#\\?#p\\.hoi:-abp-contains\\(DEAL\\)",
 			"resource-type": [
 				"image",
@@ -14012,264 +14387,6 @@
 				"media",
 				"raw",
 				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*/plugins/vast-",
-			"resource-type": [
-				"script"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://coolboy112233\\.github\\.io/unknowbastard/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://greenupload\\.com..*\\.gif",
-			"resource-type": [
-				"image"
-			],
-			"if-domain": [
-				"thienvadia.net",
-				"www.thienvadia.net"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://greenupload\\.com..*banner",
-			"resource-type": [
-				"image"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://hentaivn\\.net/js/abp\\.js",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://hentaivn\\.net/qc/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://hentaiz\\.net/images/sponsor/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://laidauni\\.com",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://lucky88\\.com",
-			"resource-type": [
-				"popup"
-			],
-			"load-type": [
-				"third-party"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://sexhayvc\\.com/popjs/",
-			"resource-type": [
-				"script"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://static\\.htvncdn\\.net/js/custom-popup-1\\.js",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://tinhmotdem\\.asia\\$csp=script-src .* self data: 'unsafe-eval'",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://tuoi69\\.com/balloon",
-			"resource-type": [
-				"script"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://tuoi69\\.com/esheik\\.js",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://tuoi69\\.com/trai\\.js",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://upanhmoi\\.net/js/qc-pre-1\\.min\\.js",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://upsieutoc\\.com..*\\.gif",
-			"resource-type": [
-				"image"
-			],
-			"if-domain": [
-				"thienvadia.net",
-				"www.thienvadia.net"
 			]
 		},
 		"action": {
@@ -14643,406 +14760,6 @@
 			],
 			"load-type": [
 				"first-party"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://gateway\\.chotot\\.com",
-			"resource-type": [
-				"raw"
-			],
-			"if-domain": [
-				"chotot.com",
-				"www.chotot.com"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://googleads\\.g\\.doubleclick\\.net",
-			"resource-type": [
-				"raw"
-			],
-			"if-domain": [
-				"dl.taive.work"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://htv3tv\\.com/ads1/mobile\\.js",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://i\\.imgur\\.com/pa0GwWI\\.gif",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"if-domain": [
-				"tvz.101vn.com"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://iamcdn\\.net/players/ads\\.js",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://iamcdn\\.net/players/app\\.ads\\.js",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://imasdk\\.googleapis\\.com",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"if-domain": [
-				"24h.com.vn",
-				"www.24h.com.vn",
-				"danet.vn",
-				"www.danet.vn",
-				"pose.com.vn",
-				"www.pose.com.vn",
-				"gamevui.vn",
-				"www.gamevui.vn",
-				"yan.vn",
-				"www.yan.vn",
-				"saostar.vn",
-				"www.saostar.vn",
-				"anime47.com",
-				"www.anime47.com",
-				"fptplay.vn",
-				"www.fptplay.vn",
-				"startalk.vn",
-				"www.startalk.vn"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://jsc\\.adskeeper\\.co\\.uk",
-			"resource-type": [
-				"script"
-			],
-			"if-domain": [
-				"hhkungfu.tv",
-				"www.hhkungfu.tv"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://linkneverdie\\.net/Ads/DisableWarningPopup",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://netphimm\\.com/train/ads_code_tvc_vast/jwplayer\\.js",
-			"resource-type": [
-				"script"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://p\\.jwpcdn\\.com/player/plugins/vast/",
-			"resource-type": [
-				"script"
-			],
-			"if-domain": [
-				"phimhanz.net",
-				"www.phimhanz.net",
-				"phimhans.com",
-				"www.phimhans.com",
-				"phimhans.net",
-				"www.phimhans.net",
-				"cdnstream.net",
-				"www.cdnstream.net"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://pagead2\\.googlesyndication\\.com",
-			"resource-type": [
-				"script",
-				"raw"
-			],
-			"if-domain": [
-				"upfile.vn",
-				"www.upfile.vn",
-				"startuanit.net",
-				"www.startuanit.net",
-				"thuthuatmeovat.net",
-				"www.thuthuatmeovat.net",
-				"khogamepc.com",
-				"www.khogamepc.com",
-				"win10.vn",
-				"www.win10.vn",
-				"loinhacsong.com",
-				"www.loinhacsong.com",
-				"tailieupro.com",
-				"www.tailieupro.com",
-				"downmienphi.com",
-				"www.downmienphi.com",
-				"kites.vn",
-				"www.kites.vn",
-				"mshares.co",
-				"www.mshares.co",
-				"mshare.xyz",
-				"www.mshare.xyz",
-				"phuongtrinhhoahoc.com",
-				"www.phuongtrinhhoahoc.com",
-				"vinaurl.com",
-				"www.vinaurl.com",
-				"gsm1x.xyz",
-				"www.gsm1x.xyz",
-				"hhkungfu.tv",
-				"www.hhkungfu.tv",
-				"thichvn.com",
-				"www.thichvn.com",
-				"icongnghe.com",
-				"www.icongnghe.com",
-				"hataphim.com",
-				"www.hataphim.com",
-				"vutrung.gnomio.com",
-				"qthang.net",
-				"www.qthang.net"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://phim16\\.net/Theme/libs/adi/jquery\\.adi\\.js",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://pubads\\.g\\.doubleclick\\.net",
-			"resource-type": [
-				"raw"
-			],
-			"if-domain": [
-				"vtvgiaitri.vn",
-				"www.vtvgiaitri.vn"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://s0\\.2mdn\\.net/instream/video/client\\.js",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"if-domain": [
-				"yan.vn",
-				"www.yan.vn",
-				"anime47.com",
-				"www.anime47.com"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://st\\.bebi\\.com/bebi_v3\\.js",
-			"resource-type": [
-				"script"
-			],
-			"if-domain": [
-				"ani4u.org",
-				"www.ani4u.org",
-				"anime47.com",
-				"www.anime47.com"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://static\\.doubleclick\\.net/instream/ad_status\\.js",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"if-domain": [
-				"fcine.net",
-				"www.fcine.net"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://truyentranhtuan\\.com/manga1/",
-			"resource-type": [
-				"image"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://tvhays\\.org/ads/125buon\\.php",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://vatlypt\\.com/ad/banner/",
-			"resource-type": [
-				"raw"
-			],
-			"load-type": [
-				"first-party"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://viettelstore\\.vn/images/Advertises/",
-			"resource-type": [
-				"image"
 			]
 		},
 		"action": {

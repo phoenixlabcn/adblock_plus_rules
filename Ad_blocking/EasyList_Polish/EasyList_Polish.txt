@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Z+VJ05C3By74bwsvc9fn/Q
-! Version: 202102020211
+! Checksum: 4JjNBUzuLHFY9sqezcRrKw
+! Version: 202103020701
 ! Title: EasyList Polish
-! Last modified: 02 Feb 2021 02:11 UTC
+! Last modified: 02 Mar 2021 07:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -65,6 +65,8 @@ mandarinodesign.eu,wirtualnyregion.pl#@#.reklama
 ||shopeneo.network^$third-party
 ||tvtoss.com^$third-party
 ||waytogrow.pl^$third-party
+||spacead.pl^$third-party
+||ad-work.pl^$third-party
 ! *** Fetched from: https://raw.githubusercontent.com/easylistpolish/easylistpolish/master/easylistpolish/easylistpolish_adservers_popup.txt ***
 !-----------------------------Third-party adverts-----------------------------!
 ! *** Fetched from: https://raw.githubusercontent.com/easylistpolish/easylistpolish/master/easylistpolish/easylistpolish_thirdparty.txt ***
@@ -1115,6 +1117,69 @@ _reklamy_$domain=chojna24.pl
 ^banners^$domain=nowypm.pl
 -ad-$domain=myerp.pl
 ||e-kg.pl^*^background/bg_
+^baner-$domain=portalwolow.pl
+-baner_$domain=nowagazeta.pl
+^inline__1_$domain=nowagazeta.pl
+^baner-$domain=naszsrem.pl
+^banerkiJPG^$domain=zulawy.com
+||zulawy.com^images^banerkiIFRAME^$subdocument
+^baner-$domain=linia.com.pl
+-ad.$domain=wilanownews.pl
+-ad.$domain=konstancinjeziorna-news.pl
+||reklamy.naszraciborz.pl^ad^$script
+||rocznikgdynski.pl^*^antywirus-
+^homepage-banners^$domain=otomoto.pl
+-baner-$domain=miastokobiet.pl
+||rowery.org^*^banerrowery2020-
+^reklama2-$domain=wirtualnyregion.pl
+^300^$image,domain=emecze.pl
+^728^$image,domain=emecze.pl
+||mecze24.pl^*^kasyno_
+-banerek.$domain=nanarty.info
+^baner_$domain=nanarty.info
+^banner-$domain=nanarty.info
+||ceneo.pl^*^banners^$image,domain=grojec24.net
+^baner-$domain=naszosie.pl
+||spottedskarzysko.pl^*^szmaragd.
+||miastons.pl^*^rekrutacja-it-
+||miastons.pl^*^donking-
+^inline__1_$domain=sucha24.pl
+^cuprum-$domain=retailnet.pl
+||gazetasenior.pl^*_300x300_
+||gazetasenior.pl^*-300-px-
+||bolec.info^*^dth_
+||lokalna.info^*^kssse.
+^grafika2^$domain=tsk24.pl
+-baner-$domain=tygodnikpiski.pl
+-baner-$domain=budownictwo.co
+||zamioculcas.org^$script,domain=rynek-rolny.pl
+-baner-$domain=dwakwadranse.pl
+-baner.$domain=napoli24h.pl
+||malagacf.pl^*^sts-laliga3.
+||fcbtv.pl^*^sts-laliga3.
+^bans^$domain=plastech.pl
+||lechia.net^*^miejsce-na-twoja.
+||lechia.net^*^jooma-guru-
+_baner_$domain=stolarkabudowlana.eu
+-baner-$domain=stolarkabudowlana.eu
+^areklamy^$domain=e-lokalne.pl
+^banners^$domain=polskatradycja.pl
+^Betx^$domain=sportowebeskidy.pl
+^banery^$domain=trentino.pl
+||faunaflora.com.pl/euroanimal.
+^banery^$domain=reszel.pl
+||wielkopolska.tv^*^inea-logo.
+||pionki24.pl^*wizyt%
+^artykul%20kierunek^$domain=otouczelnie.pl
+||burdadigital.pl^$subdocument,domain=focus.pl
+||gohel.pl^*^hotem-hel.
+||izachodniopomorskie.pl^*^Tanie_foto_
+^banner_$domain=tu.swinoujscie.pl
+_banerek.$domain=plytkiceramiczne.info.pl
+^materialy_budowlane_kleje_$domain=plytkiceramiczne.info.pl
+^emisje^$domain=stalowemiasto.pl
+||ifotos.pl^img^$domain=supertydzien.pl
+||alicdn.com^$image,domain=wlodawa.net
 ! *** Fetched from: https://raw.githubusercontent.com/easylistpolish/easylistpolish/master/easylistpolish/easylistpolish_specific_block_popup.txt ***
 |http:$popup,third-party,domain=animezone.pl|cda-hd.cc|devil-torrents.pl|internetowa.ws|serialnet.pl
 |https:$popup,third-party,domain=ekinomaniak.net
@@ -2884,6 +2949,134 @@ nowypm.pl##.bnr
 production-manager.pl##.banner-carousel
 tarnowiak.pl###content a[target]
 gazetakolobrzeska.pl##.elementor-image a:not([href*="gazetakolobrzeska.pl"], [href="/"])
+glogow-info.pl##a[href^="http://www.koparka-darnet.pl/"]
+tydzien.net.pl##div.td-a-rec
+naszsrem.pl##.wp-caption a[target="_blank"]
+tyna.info.pl##.breadcrumbs-wrap ~ center a
+tsa24.com##.head-wrap-in
+itvwisla.tv##[class^="g g-"]
+4miasta.pl##[class^="miast-baner-"]
+tvswietokrzyska.pl##.custommarginbanner_topbottom
+radio7.pl##aside .a-single
+gazeta-mlawska.pl##a[href^="https://www.stihl.pl/"]
+jozefow-news.pl##a[href^="http://www.kbprojekt.pl"]
+wawernews.pl##a[href^="http://www.kbprojekt.pl"]
+wawernews.pl##div[class^="g-dyn a-"]
+konstancinjeziorna-news.pl##a[href^="http://www.kbprojekt.pl"]
+konstancinjeziorna-news.pl##div[class^="g-dyn a-"]
+wcj24.pl##.widget_metaslider_widget
+wcj24.pl##div.widget[id^="text-"] a
+naszamlawa.pl##.wprss_ajax
+pultusk.news##[id*="metaslider_container_"]
+pultusk.news##div[class$="-banner"]
+pultusk.news##a[id*="Banner"]
+ziemialeszczynska.pl##.oglo_box2
+zw.pl##.oglo_box2
+otomoto.pl##.advert
+mazopolska.pl##.banner
+mazopolska.pl###header-banner
+bogatyregion.pl##.td-a-rec
+bogatyregion.pl##.n2-section-smartslider
+wirtualnyregion.pl##.cycloneslider
+wirtualnyregion.pl##.td-a-rec
+e-playonline.com##a[href^="https://www.novomatic.com/"]
+e-playonline.com##.elementor-column-wrap .elementor-widget a:not([href^="https://e-"])[target="_blank"]
+e-playonline.com##div[class^="a-single a-"]
+e-playonline.com##.post-single-ads1
+e-playonline.com##div[id*="_ads_banner_"]
+okraglemiasto.pl##.td-a-rec > .td-all-devices
+kocham.wielun.pl##.module-abc
+transfermarkt.pl##div img[referrerpolicy="unsafe-url"]
+naszosie.pl##.vc_figure
+spottedstarachowice.pl###BoxColTop .box
+spottedstarachowice.pl###BoxColTop2
+spottedstarachowice.pl###gkPageContent .custom > p > a[target="_blank"] > img
+sucha24.pl##[id^="bills_in_rotation_"]
+radiovictoria.pl##.herald-txt-module div a
+kurierzurominski.pl##.herald-txt-module
+waszaturystyka.pl##a[href^="https://www.corendonairlines.com/pl/"]
+ok24.tv###sgpb-popup-dialog-main-div-wrapper
+ok24.tv##.sgpb-popup-overlay
+folk24.pl##.boxAdvert
+magazynt3.pl###zox-lead-top
+gazetasenior.pl##img[alt^="Reklama"]
+mojanorwegia.pl##.row.single > a[target="_blank"]
+anywhere.pl##div[class^="a-single a-"]
+komputerowapasja.pl##div[id^="dolnyobraz"]
+bolec.info##.bbbb a:not([href^="https://www.bolec.info/"]) > img[src*="/informacje/"]
+naszestrony.info.pl###pyre_tabs-widget-2
+zlubaczowa.pl##.ja-box-ct a[target="_blank"] > img
+dziennikteatralny.pl###topBigBanner
+budownictwo.co###media_image-5
+rynek-rolny.pl##div#fixedElement
+slaskiesiemianowice.pl##.trzyreklamy
+dwakwadranse.pl##[class^="g g-"]
+widzewtomy.net##a[href^="https://www.ucando.pl/"]
+stylkibica.net###text-5
+stylkibica.net###text-9
+stylkibica.net###text-8
+terazpasy.pl##.block-type-1-polecane
+motorlublin.com###text-12
+spottedalert.pl##div#mvp-leader-wrap
+niezalezna.pl##div.prenumerata-banner
+e-szczuczyn.pl###custom_html-3
+e-szczuczyn.pl##.one-1 .post-content
+stolarkabudowlana.eu##.navbar-ad-section
+nerwica.com,open.fm,money.pl,o2.pl,abczdrowie.pl,autokult.pl,echirurgia.pl,gadzetomania.pl,homebook.pl,wp.pl,kafeteria.pl,kardiolo.pl,komorkomania.pl,medycyna24.pl,parenting.pl,pudelek.pl,autocentrum.pl,fotoblogia.pl,sfora.pl#?#.grid-item:-abp-has(span:-abp-contains(REKLAMA))
+nerwica.com,open.fm,money.pl,o2.pl,abczdrowie.pl,autokult.pl,echirurgia.pl,gadzetomania.pl,homebook.pl,wp.pl,kafeteria.pl,kardiolo.pl,komorkomania.pl,medycyna24.pl,parenting.pl,pudelek.pl,autocentrum.pl,fotoblogia.pl,sfora.pl##.grid-item—wpapiad
+nerwica.com,open.fm,money.pl,o2.pl,abczdrowie.pl,autokult.pl,echirurgia.pl,gadzetomania.pl,homebook.pl,wp.pl,kafeteria.pl,kardiolo.pl,komorkomania.pl,medycyna24.pl,parenting.pl,pudelek.pl,autocentrum.pl,fotoblogia.pl,sfora.pl##.insert—top-offer
+nerwica.com,open.fm,money.pl,o2.pl,abczdrowie.pl,autokult.pl,echirurgia.pl,gadzetomania.pl,homebook.pl,wp.pl,kafeteria.pl,kardiolo.pl,komorkomania.pl,medycyna24.pl,parenting.pl,pudelek.pl,autocentrum.pl,fotoblogia.pl,sfora.pl##.shoplovin-3P
+wp.pl##div[data-native-adv]
+wp.pl##li[data-adv]
+wp.pl##.advarticle
+gadzetomania.pl,kafeteria.pl,fotoblogia.pl,komorkomania.pl,medycyna24.pl##div > .insert--top-offer
+gadzetomania.pl,kafeteria.pl,fotoblogia.pl,komorkomania.pl,medycyna24.pl##article > .insert--top-offer
+naszabramow.pl###sidebar a[target="_blank"] > img
+ciechanowonline.pl##.reklamy
+ciechanowonline.pl##div[style="margin-bottom:30px;"] a[target="_blank"]
+twojepajeczno.pl##.scxxx
+dts24.pl##div[class^="a-single a-"]
+dts24.pl##a[href^="https://pl.jooble.org/"]
+dts24.pl##div[class^="g-single a-"]
+capuccino.eu##div[id^="n2-ss-"]
+miechowski.pl##div[class*="sgpb-popup-"]
+glosrybnika.pl##a[href^="http://www.krakvet.pl/"]
+glosrzeszowa.pl##a[href^="http://www.krakvet.pl/"]
+glostorunia.pl##a[href^="http://www.krakvet.pl/"]
+hodowle.eu###banner
+magazynbiomasa.pl##div[class^="g-dyn a-"]
+kryptoporadnik.pl###text-7
+polskatradycja.pl##a[href^="https://pln.tgm."]
+polskiemiasta.tv###wartozobaczyc
+lubaczow.tv##img[alt^="Ad banner"]
+biznesregion.pl##.syl-baner-place
+bbfan.pl##[class^="_ngcontent-uua-"]
+nowezyciepabianic.pl##.ads480
+nowezyciepabianic.pl##.adv-wrap
+nowezyciepabianic.pl##.adv--above-news
+nowezyciepabianic.pl###adv-view-widget-5
+sfora.pl##.td-a-rec
+faunaflora.com.pl##td[colspan="3"] > a[target="_blank"]
+faunaflora.com.pl##a[href^="http://targikielce.pl/"]
+mtv24.tv##.adv
+staresiolkowice.pl###media_image-2
+wielkopolska.tv##.advertise
+gamingsociety.pl##a[href^="https://nazwa.pl/"]
+zwolen24.pl###adocr
+cztery-lapy.pl##a[href^="/adv/"]
+cztery-lapy.pl##.top_banner_wrapper
+muzyczneradio.pl##.idBanner4
+otouczelnie.pl##div[style^="background: url('/assets/"]
+otouczelnie.pl###belka
+mojrzeszow.pl##.wpb_wrapper a[target="_blank"] img
+terenyinwestycyjne.info##.advert-block-wide
+zachodniopomorska.tv##.visible-lg
+tu.swinoujscie.pl###text-15
+pzl24.info##.baner
+stalowemiasto.pl##.slot-1280px
+ddwlkp.pl##.baner
+telewizjattm.pl##.banner-main-page
+ddwloclawek.pl##[class="row box-margin bvideo"]
 !-----------------------Whitelists to fix broken sites------------------------!
 ! *** Fetched from: https://raw.githubusercontent.com/easylistpolish/easylistpolish/master/easylistpolish/easylistpolish_whitelist.txt ***
 @@.adrotate.$domain=mh24.pl

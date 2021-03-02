@@ -8,10 +8,10 @@
 !
 !For more information about this list, see: https://pgl.yoyo.org/adservers/
 !----
-!Last modified: Mon, 01 Feb 2021 16:34:17 GMT
+!Last modified: Mon, 01 Mar 2021 23:14:30 GMT
 !Homepage:      https://pgl.yoyo.org/adservers/
 !Format:        adblockplus
-!Entries:       3573
+!Entries:       3563
 !Credits:       Peter Lowe - pgl@yoyo.org - pgl on github - https://pgl.yoyo.org/
 !This URL:      https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&mimetype=plaintext
 !Policy:        https://pgl.yoyo.org/adservers/policy.php
@@ -199,7 +199,6 @@
 ||ad.xmovies8.si^
 ||ad.xrea.com^
 ||ad.yadro.ru^
-||ad.yourmedia.com^
 ||ad.zanox.com^
 ||ad0.bigmir.net^
 ||ad01.mediacorpsingapore.com^
@@ -290,12 +289,10 @@
 ||adimages.homestore.com^
 ||adimages.omroepzeeland.nl^
 ||adimages.sanomawsoy.fi^
-||adimg.cnet.com^
 ||adimg.com.com^
 ||adimg.uimserv.net^
 ||adimg1.chosun.com^
 ||adimgs.sapo.pt^
-||adincube.com^
 ||adinjector.net^
 ||adinterax.com^
 ||adisfy.com^
@@ -466,7 +463,6 @@
 ||ads.cybersales.cz^
 ||ads.dada.it^
 ||ads.dailycamera.com^
-||ads.datingyes.com^
 ||ads.delfin.bg^
 ||ads.deltha.hu^
 ||ads.dennisnet.co.uk^
@@ -596,7 +592,6 @@
 ||ads.miarroba.com^
 ||ads.mic.com^
 ||ads.mmania.com^
-||ads.mobilautomaten.com^
 ||ads.mobilebet.com^
 ||ads.mopub.com^
 ||ads.motor-forum.nl^
@@ -680,7 +675,6 @@
 ||ads.soft32.com^
 ||ads.soweb.gr^
 ||ads.space.com^
-||ads.squarecrop.net^
 ||ads.stackoverflow.com^
 ||ads.sun.com^
 ||ads.suomiautomaatti.com^
@@ -739,7 +733,6 @@
 ||ads.wwe.biz^
 ||ads.xhamster.com^
 ||ads.xtra.co.nz^
-||ads.y-0.net^
 ||ads.yahoo.com^
 ||ads.yap.yahoo.com^
 ||ads.yimg.com^
@@ -825,7 +818,6 @@
 ||adserver.freecity.de^
 ||adserver.friendfinder.com^
 ||adserver.hardsextube.com^
-||adserver.hardwareanalysis.com^
 ||adserver.html.it^
 ||adserver.hwupgrade.it^
 ||adserver.ilango.de^
@@ -902,7 +894,6 @@
 ||adsrv2.swidnica24.pl^
 ||adsrvr.org^
 ||adsrvus.com^
-||adsstat.com^
 ||adstacks.in^
 ||adstage.io^
 ||adstanding.com^
@@ -961,7 +952,6 @@
 ||advertising.com^
 ||advertisingbanners.com^
 ||advertisingbox.com^
-||advertisingtag.net^
 ||advertmarket.com^
 ||advertmedia.de^
 ||advertpro.ya.com^
@@ -1072,6 +1062,7 @@
 ||analytics.mailmunch.co^
 ||analytics.myfinance.com^
 ||analytics.mytvzion.pro^
+||analytics.ostr.io^
 ||analytics.phando.com^
 ||analytics.picsart.com^
 ||analytics.poolshool.com^
@@ -1084,6 +1075,7 @@
 ||analyticsapi.happypancake.net^
 ||aniview.com^
 ||annonser.dagbladet.no^
+||annoyedairport.com^
 ||anrdoezrs.net^
 ||anstrex.com^
 ||anuncios.edicaoms.com.br^
@@ -1188,7 +1180,6 @@
 ||banner10.zetasystem.dk^
 ||bannerads.de^
 ||bannerboxes.com^
-||bannercommunity.de^
 ||bannerconnect.com^
 ||bannerconnect.net^
 ||bannergrabber.internet.gr^
@@ -1248,7 +1239,6 @@
 ||beacon.gu-web.net^
 ||beamincrease.com^
 ||bebi.com^
-||bedsbreath.com^
 ||beemray.com^
 ||begun.ru^
 ||behavioralengine.com^
@@ -1470,7 +1460,6 @@
 ||cluster.adultworld.com^
 ||clustrmaps.com^
 ||cmp.dmgmediaprivacy.co.uk^
-||cmp.osano.com^
 ||cmvrclicks000.com^
 ||cnomy.com^
 ||cnt.spbland.ru^
@@ -1486,6 +1475,7 @@
 ||colonize.com^
 ||comclick.com^
 ||comfortablecheese.com^
+||commindo-media-ressourcen.de^
 ||commissionmonster.com^
 ||commonswing.com^
 ||compactbanner.com^
@@ -1520,7 +1510,6 @@
 ||coremetrics.com^
 ||cormast.com^
 ||cosmopolitads.com^
-||cost2buy.net^
 ||count.rin.ru^
 ||count.west263.com^
 ||counted.com^
@@ -1538,7 +1527,6 @@
 ||counter.yadro.ru^
 ||counters.honesty.com^
 ||counting.kmindex.ru^
-||counts.tucows.com^
 ||coupling-media.de^
 ||coxmt.com^
 ||cp.abbp1.pw^
@@ -1616,7 +1604,6 @@
 ||detailedglue.com^
 ||detailedgovernment.com^
 ||detectdiscovery.com^
-||dialerporn.com^
 ||dianomi.com^
 ||didtheyreadit.com^
 ||digital-ads.s3.amazonaws.com^
@@ -1644,10 +1631,12 @@
 ||dmtracking2.alibaba.com^
 ||do-global.com^
 ||docksalmon.com^
+||dogcollarfavourbluff.com^
 ||domaining.in^
 ||domainsponsor.com^
 ||domainsteam.de^
 ||domdex.com^
+||dotmetrics.net^
 ||doubleclick.com^
 ||doubleclick.de^
 ||doubleclick.net^
@@ -1685,7 +1674,6 @@
 ||economicpizzas.com^
 ||ecoupons.com^
 ||edaa.eu^
-||edgeio.com^
 ||effectivemeasure.com^
 ||effectivemeasure.net^
 ||efficaciouscactus.com^
@@ -1966,7 +1954,7 @@
 ||hittail.com^
 ||hlok.qertewrt.com^
 ||hocgeese.com^
-||hollandbusinessadvertising.nl^
+||hollps.win^
 ||homepageking.de^
 ||honeygoldfish.com^
 ||honorablehall.com^
@@ -2069,7 +2057,6 @@
 ||intelliads.com^
 ||intellitxt.com^
 ||intentmedia.com^
-||intentmedia.net^
 ||interactive.forthnet.gr^
 ||intergi.com^
 ||internetfuel.com^
@@ -2189,6 +2176,7 @@
 ||lightcushion.com^
 ||lightspeedcash.com^
 ||lijit.com^
+||line.jzs001.cn^
 ||link-booster.de^
 ||link4ads.com^
 ||linkadd.de^
@@ -2247,7 +2235,6 @@
 ||madcpms.com^
 ||madinad.com^
 ||madisonavenue.com^
-||mads.cnet.com^
 ||madvertise.de^
 ||magicadz.co^
 ||magnificentmist.com^
@@ -2466,7 +2453,6 @@
 ||ntv.io^
 ||ntvk1.ru^
 ||nuggad.net^
-||numax.nu-1.com^
 ||nuseek.com^
 ||nuttyorganization.com^
 ||nzaza.com^
@@ -2520,6 +2506,7 @@
 ||openads.org^
 ||openadsnetwork.com^
 ||opentag-stats.qubit.com^
+||openx.actvtech.com^
 ||openx.angelsgroup.org.uk^
 ||openx.aosis.co.za^
 ||openx.cairo360.com^
@@ -2539,13 +2526,13 @@
 ||optmnstr.com^
 ||optmstr.com^
 ||optnmstr.com^
-||ostr.io^
 ||ota.cartrawler.com^
 ||otto-images.developershed.com^
 ||ouh3igaeb.com^
 ||outbrain.com^
 ||overconfidentfood.com^
 ||overture.com^
+||owebanalytics.com^
 ||owebmoney.ru^
 ||owlsr.us^
 ||owneriq.net^
@@ -2565,6 +2552,7 @@
 ||pagerank4you.com^
 ||pageranktop.com^
 ||paleleaf.com^
+||panickycurtain.com^
 ||paradoxfactor.com^
 ||parchedangle.com^
 ||parketsy.pro^
@@ -2620,7 +2608,6 @@
 ||pix.spot.im^
 ||pixel.adsafeprotected.com^
 ||pixel.condenastdigital.com^
-||pixel.digitru.st^
 ||pixel.keywee.co^
 ||pixel.mtrcs.samba.tv^
 ||pixel.sojern.com^
@@ -2734,6 +2721,7 @@
 ||quacksquirrel.com^
 ||quaintcan.com^
 ||quantcast.com^
+||quantcount.com^
 ||quantserve.com^
 ||quantummetric.com^
 ||quarterbean.com^
@@ -2748,6 +2736,7 @@
 ||r.msn.com^
 ||r.scoota.co^
 ||radar.cedexis.com^
+||radarurl.com^
 ||radiate.com^
 ||rads.alfamedia.pl^
 ||rads.realadmin.pl^
@@ -2812,7 +2801,6 @@
 ||relmaxtop.com^
 ||remarketingpixel.com^
 ||remistrainew.club^
-||remotead.cnet.com^
 ||remox.com^
 ||republika.onet.pl^
 ||research.de.com^
@@ -2888,6 +2876,7 @@
 ||s20dh7e9dh.com^
 ||s24hc8xzag.com^
 ||s2d6.com^
+||sa.api.intl.miui.com^
 ||sabio.us^
 ||sageanalyst.net^
 ||sail-horizon.com^
@@ -3297,6 +3286,7 @@
 ||tracking.lenddom.com^
 ||tracking.miui.com^
 ||tracking.olx-st.com^
+||tracking.orixa-media.com^
 ||tracking.publicidees.com^
 ||tracking.thinkabt.com^
 ||tracking01.walmart.com^
@@ -3384,6 +3374,7 @@
 ||untd.com^
 ||untidyquestion.com^
 ||unusualtitle.com^
+||unwieldyhealth.com^
 ||unwrittenspot.com^
 ||upu.samsungelectronics.com^
 ||urlcash.net^
@@ -3398,7 +3389,6 @@
 ||uzk4umokyri3.com^
 ||v1.cnzz.com^
 ||v1adserver.com^
-||v1hcmqbaqw.ru^
 ||validclick.com^
 ||valuead.com^
 ||valueclick.com^
@@ -3447,7 +3437,6 @@
 ||voodoo-ads.io^
 ||vpon.com^
 ||vrs.cz^
-||vrtzcontextualads.com^
 ||vs.tucows.com^
 ||vtracy.de^
 ||vungle.com^
@@ -3460,6 +3449,7 @@
 ||wateryvan.com^
 ||wd-track.de^
 ||wdads.sx.atl.publicus.com^
+||wearbasin.com^
 ||web-redirecting.com^
 ||web-stat.com^
 ||web.informer.com^

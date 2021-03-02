@@ -1247,6 +1247,15 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": "div[class^=header-reklama-]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?diena\\.lt[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": "div[id*=ado-]"
 		}
 	},
@@ -1256,7 +1265,7 @@
 		},
 		"action": {
 			"type": "css-display-none",
-			"selector": "Iframe[src*=\"cvzona.lt\"]"
+			"selector": "iframe[src*=\"cvzona.lt\"]"
 		}
 	},
 	{
@@ -14832,6 +14841,27 @@
 				"media",
 				"raw",
 				"document"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://b\\.adbox\\.lv",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"if-domain": [
+				"inbox.lt",
+				"www.inbox.lt"
 			]
 		},
 		"action": {

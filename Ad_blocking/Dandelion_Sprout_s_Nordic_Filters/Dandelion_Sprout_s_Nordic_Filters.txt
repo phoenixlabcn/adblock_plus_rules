@@ -1,7 +1,7 @@
 [Adblock Plus 3.7]
 ! Title: 🏔️ Dandelion Sprouts helnordiske filtre for ryddigere nettsider (for Adblock Plus - Møter ABP sine inkluderingsregler)
 ! Translated title: Dandelion Sprout's All-Nordic filters for tidier websites (for Adblock Plus with ABP inclusion compliance)
-! Version: 290120212
+! Version: 270220211
 ! Expires: 1 day
 ! Lisens / Licence: https://github.com/DandelionSprout/adfilt/blob/master/LICENSE.md
 ! 🇳🇴: Denne listen dekker nettsteder for Norge, Danmark, Island, Færøyene, Grønland, Schleswig-Holsteins danske minoritet, og samebefolkningen. Denne versjonen av listen inkluderer ikke anti-anti-reklameblokkering, ettersom slike oppføringer ikke er tillatt for lister som er inkludert i Adblock Plus. For mere informasjon, detaljer, hjelpemidler, og andre lister jeg har laget, gå til https://github.com/DandelionSprout/adfilt/blob/master/Wiki/General-info.md#norsk
@@ -215,6 +215,7 @@ spaniaidag.no##.row-si
 spanienidag.es#?#.region-right > .block:-abp-has(a[href*=clinicadentalescandinava])
 vaktin.is###banners
 vikubladid.is##.box_advert:not(.box_pdf)
+indblik.net##div[id^=adni_widgets-]
 ! — — — — — — — — —
 ! 🇳🇴: Oppføringer for minst 3 nettsteder
 ! 🇬🇧: Entries for at least 3 websites
@@ -325,7 +326,8 @@ goal.com#?#*:-abp-has(> * > .js-betting-widget.is-country-no)
 ||adserver.xh.no^$third-party
 ||adservice.com^$third-party
 ||adservicemedia.dk^$third-party
-||advertisement.vg.no^
+||advert.*.no^
+||advertisement.*.no^
 ||banner.3loops.com^
 ||betterbanners.org^$third-party
 ||bilborsen.webannonse.no^
@@ -404,7 +406,6 @@ contentMarketing$xmlhttprequest,domain=sol.no
 ||acdn.adnxs.com/ast/ast.js$script,domain=vg.no
 ||acdn.adnxs.com/ast/ast.js$script,rewrite=abp-resource:blank-js,domain=vgtv.no
 ||akamai.net^$script,domain=eniro.no|eniro.dk
-||akamaihd.net^$media,domain=discoveryplus.no|discoveryplus.dk
 ||amino.dk/images/partners/agera/240x140-forside-hardcoded*.jpg$image
 ||arendalstidende.no/wp-content/uploads/*_490px.jpg^$image
 ||austevollforlag.no/wp-content/*/yachtmarine2014.$image
@@ -419,7 +420,6 @@ contentMarketing$xmlhttprequest,domain=sol.no
 @@||cdnboligkanalen.azureedge.net/*width=2000^
 ||damoh.vgtv.no/hic_qos$script,rewrite=abp-resource:blank-js,domain=vg.no
 ||deals.innocode.no/api^$third-party,subdocument
-||dnitv.com^$media,domain=discoveryplus.no|discoveryplus.dk
 ||dust2.dk/img/banners/*$image
 ||export.prisguide.no^$domain=diskusjon.no
 ||export.prisguiden.no^$domain=diskusjon.no
@@ -597,6 +597,9 @@ _300x500pix$domain=rykindribe.dk,image
 ||spanienidag.es/sites/default/files/patrocinadores^
 ||img.sofabold.dk/images/banner^
 ||vaktin.is/grkuk^$image
+||indblik.net/wp-content/uploads/angwp^$image
+||akamaihd.net^$media,domain=discoveryplus.*
+||dnitv.com^$media,domain=discoveryplus.*
 @@||vgtv.no$generichide
 ||adnxs.com^$domain=vgtv.no
 ||samimag.no/wp-content/uploads/2019/11/Screenshot-2020-03-21-at-12.40.32.png^
@@ -944,6 +947,7 @@ kulturportalen.dk##.banner-block
 kureren.no#?#td:-abp-has(> script[src*="/www/delivery/"])
 kyst.no,skipsrevyen.no##.disableFocus > .kbSkip + .container
 langrenn.com##div[id^=bannerlocation]
+langrenn.com##.bannerlocation:not(#location1)
 lifdununa.is#?#.widget:-abp-has(.ads)
 lokal-avisen.no#?#.title:-abp-contains(/ANNONSE/i)
 lydogbilde.no,lydogbillede.dk##.adremark
@@ -1281,6 +1285,8 @@ vafo.dk##.adform-flexblock
 ##.ticker-ad
 ! adressa.no
 ##div[data-contenttype=ad]
+! https://nyheder.tv2.dk/2021-02-04-soennerne-saa-frem-til-en-arv-fra-deres-far-efter-mange-aars-lidelser-indtil-han-giftede (04/02/2021)
+##div[data-object-type=ad]
 ! kk.no, sol.no
 ! (Exception: https://github.com/AdguardTeam/AdguardFilters/issues/58527)
 ##[type=advertisement]
@@ -1386,12 +1392,15 @@ _980banner_
 ##.ehm-megaboard
 ! nettavisen.no (20/01/2021)
 ##.maelstrom-skyscraper
+! https://www.helsenett.no/spor-oss/har-du-smabarn/50657-svstadig-tilbakevendende-forkjolelsehostefeber.html (10/02/2021)
+##.forum-ad-box
 
 ! 🇳🇴: ——— Tomme skillebokser ———
 ! 🇩🇰: ——— Tomme adskillerbokser ———
 ! 🇳🇴🏞: ——— Tomme skiljeboksar ———
 ! 🇮🇸: ——— Tóma skilirammar ———
 ! 🇬🇧: ——— Empty divider spaces ———
+! Was supposed to be synced often with https://raw.githubusercontent.com/DandelionSprout/adfilt/master/EmptyPaddingRemover.txt, which has not been the case.
 ##.skille
 icelandreview.com,bir.no,medier24.no,knr.gl,nutiminn.is#?#p:-abp-contains(/^\xA0$/)
 allers.no,steigan.no##.vc_empty_space
@@ -1431,17 +1440,16 @@ avvir.no###block-block-1 > p:nth-of-type(4)
 ! https://github.com/DandelionSprout/adfilt/issues/63#issuecomment-683430537
 @@.isdownorblocked.com^
 ! https://github.com/DandelionSprout/adfilt/issues/63#issuecomment-689373261
-||prod-adops-proxy.dnitv.net^$domain=discoveryplus.no|discoveryplus.dk
+||prod-adops-proxy.dnitv.net^$domain=discoveryplus.*
 ! https://github.com/uBlockOrigin/uAssets/issues/8230/
 ! ——— Caused by «EasyPrivacy» ———
 ! Attempting to fix a problem with voting online on Idol Norway
 @@||tv2.no/*/config/analytics.json$xmlhttprequest,~third-party
 ! Attempts to resolve how some frontpage articles are hard to open
 @@||schibsted.com/autoTracker$domain=vg.no
-! 🇳🇴: Får discoveryplus sin påloggingsside til å vises riktig
-! 🇬🇧: Makes discoveryplus's login page show up properly
-@@||mparticle.com$script,domain=auth.discoveryplus.no|auth.discoveryplus.dk
-@@||assets.adobedtm.com/*/satelliteLib-$domain=auth.discoveryplus.no|auth.discoveryplus.dk
+! 🇳🇴: Får Discovery+ sin påloggingsside til å vises riktig
+! 🇬🇧: Makes Discovery+'s login page show up properly
+@@||mparticle.com^*/login$domain=discoveryplus.*
 ! ——— Caused by «Fanboy's Social Blocking List», if I recall correctly ———
 krom.is#@#.share-container
 @@/images/*youtube.jpg$domain=realityportalen.dk
@@ -1454,12 +1462,15 @@ krom.is#@#.share-container
 ! https://github.com/easylist/easylist/issues/6067#issuecomment-695115226
 @@||consent.dk^$third-party,domain=ekstrabladet.dk
 dagbladet.no,elbil24.no#@#.subscription-box
+! https://github.com/easylist/easylist/issues/7269
+dnb.no#@##consent-modal
 ! ——— Caused by «EasyList» ———
 @@_prebid_$domain=seher.no
 @@/images/ads-db/right-tower/vipps-sponsor-$domain=canariajournalen.no
 eyjar.net#@#.side_ads
 @@/adnetwork/*$domain=fla.de
 @@://billink*.blob.core.windows.net/*/annonser^
+@@||finn.no/user/ads.html^$popup
 ! https://raw.githubusercontent.com/hkarn/scandinavianlist/master/scandinavianlist/scandinavianlist_whitelist.txt
 @@||cdn.easy-ads.com/js/swipemod.js^$script,domain=oa.no|rb.no|ta.no|sb.no|ostlendingen.no|smp.no|h-avis.no
 @@||easy-ads.com/subscriber^$image,domain=oa.no|rb.no|ta.no|sb.no|ostlendingen.no|smp.no|h-avis.no
@@ -1469,6 +1480,8 @@ babyklar.dk#@#.ads300-250
 babyklar.dk#@#.ads300_250-widget
 ! Makes 1p info banners show up correctly
 @@_980x100.$domain=ruijan-kaiku.no
+! Makes most links show up correctly (Fixed in AdGuard Base)
+ni.dk#@#a[href*=".adform.net/"]
 ! ——— Caused by «I Don't Care About Cookies» (Its maintainer couldn't reproduce it) ———
 ! Fullpage uncloseable overlay when browsing around on Telenor Norway's TV section
 
@@ -1548,7 +1561,7 @@ gamereactor.no,gamereactor.dk##.videoContent > .clickTag
 gamereactor.no,gamereactor.dk##a[href*="/adclick.php"]
 gamereactor.no,gamereactor.dk#?#*:-abp-has(> a[href^="/grtv/"][title*=Sponsored])
 gamereactor.no,gamereactor.dk#?#article.rwd_row:-abp-has(a[href$="/sponsoredcontent/"])
-gamereactor.no,gamereactor.dk##div[class^="ad300"]
+gamereactor.no,gamereactor.dk##div[class^=ad300]
 gamereactor.no,gamereactor.dk##div[style*="width:300px;height:600px;"]
 gamereactor.no,gamereactor.dk##div[style="min-height: 600px; margin-bottom: 20px;"]
 ||gamereactor.*/lay/ad-video-stats.$script
@@ -1592,6 +1605,7 @@ resett.no##.td-visible-desktop
 resett.no##a[href*="ekstrahus.no"]
 resett.no##.td-ss-main-sidebar
 resett.no##a[href*="pureorganic.no"]
+resett.no#?#.tdc-column:-abp-has([src*="/pagead"])
 /*-annonse-*$image,domain=resett.no
 norgesavisen.no##.td-fix-index
 frihetskamp.net##a[href*="greenpilled.com"]
@@ -1618,6 +1632,10 @@ nettavisen.no###topover
 @@||eurosport.dk^$generichide
 @@||bildeler.name^$generichide
 @@||reservedele.name^$generichide
+
+! 🇳🇴: Fjerner overflødige deler av URL-er for å gjøre dem kortere og lettere å dele
+! 🇬🇧: Removing unnecessary parts to make URLs shorter and easier to share
+! Infrequently synced with https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
 
 ! 🇳🇴: Oppføringer som også er tilstede i «AdGuards hovedfilter / AdGuard Base Filter», for de som bruker ABP og AdBlock, eller som ikke har tatt seg bryet å bruke 8 sekunder på å skru den på i uBlock Origin.
 ! 🇩🇰: Opføringer som også er tilstede i «AdGuard Basisfilter / AdGuard Base Filter», for de der bruger ABP og AdBlock, eller der ikke har tatt seg bryd at bruge 8 sekunder på at abonnere på den i uBlock Origin.
@@ -1944,6 +1962,25 @@ sofabold.dk##.centerMgfx
 ||5.39.217.206^$domain=~in-addr.arpa
 ||5.39.221.180^$domain=~in-addr.arpa
 ||193.148.70.153^$domain=~in-addr.arpa
+
+! 🇳🇴: Falske nettapoteker
+! 🇬🇧: Fake online pharmacies
+||*-med.footeo.com^
+||*medisin*.over-blog.com^
+||alphaapotek.com^
+||bedsteapoteksverige.com^
+||garantere-apotek.com^
+||godtdsamaritansk.com^
+||helsehjelp.over-blog.com^
+||jensapoteker.com^
+||kjop-palitelige-medisiner.com^
+||kobconcerta54mgonlineidanmark.wordpress.com^
+||konstantleverans.blogspot.com^
+||marson.footeo.com^
+||nkwana-medstore.com^
+||sikkertapotek.com^
+||sobrilleverandoridanmark.wordpress.com^
+||xanax*.over-blog.com^
 
 ! 🇬🇧: Copied over from DNS-BH Malware Domains and verified to actually be malicious (as that list has a whole lot of false positives)
 ||desidert.no^

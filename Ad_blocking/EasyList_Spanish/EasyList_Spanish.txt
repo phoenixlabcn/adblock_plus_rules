@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0zIvA8sNdZYZn/uKWfFBRQ
-! Version: 202102020211
+! Checksum: N8kfzOMGQiPudr+6Qvtd9g
+! Version: 202103020701
 ! Title: EasyList Spanish
-! Last modified: 02 Feb 2021 02:11 UTC
+! Last modified: 02 Mar 2021 07:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -418,6 +418,42 @@ xunta.gal#@#div[id^="anuncio"]
 ||wvekalpmn.com^$third-party
 ||tearpilotzoo.com^$third-party
 ||icoawhou.com^$third-party
+||creamssicsite.com^$third-party
+||avbpaaypbe.com^$third-party
+||distraughtbudge.com^$third-party
+||emagazing.fun^$third-party
+||humorshieldrecede.com^$third-party
+||matchuph.com^$third-party
+||hackelevensol.com^$third-party
+||nnolljzcxzud.com^$third-party
+||bwvnmbhuuhalr.com^$third-party
+||optraising.com^$third-party
+||glqicmazu.com^$third-party
+||syncwowsails.com^$third-party
+||vobquhydgvyqf.com^$third-party
+||jcqwzssqks.com^$third-party
+||btnldivewzzfso.com^$third-party
+||skynightmidm.com^$third-party
+||zembi0ca.xyz^$third-party
+||fpiikkttbl.com^$third-party
+||glassmilheart.com^$third-party
+||inflationmileage.com^$third-party
+||gobicyice.com^$third-party
+||flabbyyolkinfection.com^$third-party
+||anomaloustradingmerciful.com^$third-party
+||urzkcvnttopr.com^$third-party
+||lyricslocusvaried.com^$third-party
+||ypwpzgld.com^$third-party
+||hpuvkfbww.com^$third-party
+||tracot.com^$third-party
+||sporedfryhum.com^$third-party
+||zebuaridromps.com^$third-party
+||caustouy.net^$third-party
+||dcfkalvbcs.com^$third-party
+||zdcuivnen.com^$third-party
+||tkxiavegstgq.com^$third-party
+||ipfmbexfdzb.com^$third-party
+||riminghoggoofy.com^$third-party
 ! *** easylistspanish:easylistspanish/easylistspanish_adservers_popup.txt ***
 ||104.154.237.193^$popup,third-party
 ||35.188.59.75^$popup,third-party
@@ -461,6 +497,9 @@ xunta.gal#@#div[id^="anuncio"]
 ||gadspmz.com^$popup,third-party
 ||stdirection.com^$popup,third-party
 ||facesnotebook.com^$popup,third-party
+||highrevenuecpm.com^$popup,third-party
+||humorshieldrecede.com^$popup,third-party
+||zatythygre.pro^$popup,third-party
 ! *** easylistspanish:easylistspanish_adult/adult_adservers.txt ***
 broced.co^$third-party
 ||cosmeticsgenerosity.com^$third-party
@@ -483,6 +522,9 @@ broced.co^$popup,third-party
 ||boostcpm.su/boost*$third-party
 ! *** easylistspanish:easylistspanish/easylistspanish_thirdparty_popup.txt ***
 ||goo.gl^$popup,third-party,domain=zonatorrent.es
+||deliver.vkcdnservice.com^$popup,third-party
+||badshores.com/*^publisher_code$popup,third-party
+||streams.lerroyje.xyz^$popup,third-party
 ! *** easylistspanish:easylistspanish_adult/adult_thirdparty.txt ***
 ! *** easylistspanish:easylistspanish_adult/adult_thirdparty_popup.txt ***
 !----------------------Specific advert blocking filters-----------------------!
@@ -980,6 +1022,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||xm0siulufost.com^$script,third-party,domain=4channel.org
 ||dewincubiatoll.com^$script,domain=9movies.yt
 ||tontent.powv1deo.cc^$script,subdocument
+||tontent.povwideo.me^$script,subdocument
 ||gameflare.com/common/promotions/own-images/$subdocument
 ||moontuftboy.com^$script,third-party,domain=animeblix.com
 ||videoo.tv^$script,domain=aulafacil.com
@@ -1024,19 +1067,28 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||pelisplus2.me/d.png^$image
 ||pelispedia.de/wp-content/plugins/all-click/public/js/allclick-functions.js
 ||www-ytmp3.cc/wp-content/themes/tubidy/yt-template/download.png
-||socialetic.com/cms/wp-content/uploads/*/banner$image
 ||socialetic.com/cms/wp-content/uploads/*/anuncio$image
 ||socialetic.com/cms/wp-content/uploads/*/250x400.gif$image
 ||ninemanga.net/1.png
-.xyz^$domain=hqq.to|hqq.tv|waaw.to|serieshd.net
+.xyz^$script,subdocument,domain=hqq.to|hqq.tv|waaw.to|waaw.tv|serieshd.net|megaplay.cc
 ||media.airedesantafe.com.ar/*/banners/$image
 ||bajafiles.net/leer.jpg
 ||bajafiles.net/ima.gif
 ||horajaen.com/wp-content/uploads/pum/pum-site-scripts.js
-||horajaen.com/wp-content/uploads/*banner$image
 ||horajaen.com/wp-content/uploads/*/FALD*.jpg
 ||vertelenovelasonline.com/wp-content/uploads/*/amazon.gif
 ||googleapis.com/lanacion-media-storage/*bannernacionnews.png
+||animebum.net/ads.php
+||media.easy.com.ar/is/image/EasyArg/blaisteneasyhome
+/wp-content/uploads/*banner$image,domain=horajaen.com|simpsons-latino.net|socialetic.com
+.fun^$domain=skidrowreloaded.com
+||dontorrents.org/images/NetflixPrime.jpg
+||divxtotal.se/wp-content/themes/DivxTotal/css/images/banner-netflix41.png
+||avisosdeocasion.com/*/gcavisoscom^$subdocument,domain=reforma.com
+||modelocurriculum.net/wp-content/descuento-promo-plantillas-cv.jpg
+||descargasdd.net/images/amazon.gif
+||dontorrents.org/images/startgaming*.jpg
+||elcordillerano.com.ar/uploads/archivos/$image
 ! Anti-Adblock
 ||epasatiempos.es/js/af.js
 ||epasatiempos.es/js/dab.js
@@ -1060,7 +1112,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||util.simply-hentai.com^$script,xmlhttprequest,domain=simply-hentai.com|simply-cosplay.com
 ||netcpms.com/$popup,third-party,domain=rainanime.co
 ! *** easylistspanish:easylistspanish/easylistspanish_specific_block_popup.txt ***
-$popup,third-party,domain=divxtotal.co|mejortorrentt.net|yourupload.com|embedsito.com|hqq.tv|uqload.com|fembad.net|supergoku.com|fembed.com|feurl.com|hqq.to|upvid.net|streamtape.net|streamtape.cc|streamta.pe|streamtape.site|streamz.vg
+$popup,third-party,domain=divxtotal.co|mejortorrentt.net|yourupload.com|embedsito.com|hqq.tv|uqload.com|fembad.net|supergoku.com|fembed.com|feurl.com|hqq.to|upvid.net|streamtape.net|streamtape.cc|streamta.pe|streamtape.site|streamz.vg|strtape.cloud
 ||bit.ly^$popup,domain=verpeliculasenlatino.com
 ||t.co^$popup,domain=verpeliculasenlatino.com
 ||https://$popup,third-party,domain=linkotes.com|cliver.to
@@ -1074,6 +1126,7 @@ $popup,third-party,domain=divxtotal.co|mejortorrentt.net|yourupload.com|embedsit
 /jump/next.php?$popup,domain=yts.mx
 /wp-content/plugins/all-click/sda.php^$popup,domain=gnula.site
 ||ruralvia.com^$popup,domain=horajaen.com
+||waaw.*/out.php^$popup
 ! *** easylistspanish:easylistspanish_adult/adult_specific_block.txt ***
 /^https?:\/\/spalumi\.com\/\w+\.[a-z]{3}/$image,domain=spalumi.com
 |http://$script,third-party,domain=mujeres-desnudas.com
@@ -1099,8 +1152,11 @@ $popup,third-party,domain=divxtotal.co|mejortorrentt.net|yourupload.com|embedsit
 ||tnaflix.com/mew.php^
 ||hentaila.com/files/test.php
 ||hentaila.com/files/functions.js
+||hentaila.com/files/funciones.js
 ||lostincunt.space/iframe/$subdocument,domain=faptitans.com
 .me^$script,domain=topmanhwa.net
+||pornoplay.online/tarot*.webp
+||mundosexanuncio.com/img_es/banners/
 ! *** easylistspanish:easylistspanish_adult/adult_specific_block_popup.txt ***
 |http://$popup,domain=mujeres-desnudas.com
 !------------------------Specific element hiding rules------------------------!
@@ -1405,7 +1461,7 @@ cadena3.com##.baner960x50
 cadena3.com##.baners-medio-nota-ampliada
 eleconomista.es##.bankia-cuerda
 expansion.com##.bankimia
-24con.com,agenciafe.com,agritotal.com,animakai.tv,azarplus.com,bigbangnews.com,canal-ar.com.ar,debate.com.mx,descargasnsn.com,diariodecuyo.com.ar,diariohoy.net,diariolaprovinciasj.com,diariopopular.com.ar,diariouno.com.ar,elancasti.com.ar,eldiarionuevodia.com.ar,elpatagonico.com,gacetadeportiva.com.ar,impulsobaires.com.ar,infocanuelas.com,informador.mx,lacapital.com.ar,laiguana.tv,lanacion.com.ar,lapoliticaonline.com,mdzol.com,meristation.com.mx,mibrujula.com,minutouno.com,paraveronline.com,planetadeagostini.es,primiciasya.com,puntobiz.com.ar,realpolitik.com.ar,rosario3.com,sanjuan8.com,sport.es,t13.cl,tutecnomundo.com,tycsports.com,unoentrerios.com.ar,unosantafe.com.ar,voydeviaje.com.ar##.banner
+24con.com,agenciafe.com,agritotal.com,animakai.tv,azarplus.com,bigbangnews.com,canal-ar.com.ar,debate.com.mx,descargasnsn.com,diariodecuyo.com.ar,diariohoy.net,diariolaprovinciasj.com,diariopopular.com.ar,diariouno.com.ar,elancasti.com.ar,eldiarionuevodia.com.ar,elpatagonico.com,gacetadeportiva.com.ar,garticphone.com,impulsobaires.com.ar,infocanuelas.com,informador.mx,lacapital.com.ar,laiguana.tv,lanacion.com.ar,lapoliticaonline.com,mdzol.com,meristation.com.mx,mibrujula.com,minutouno.com,paraveronline.com,planetadeagostini.es,primiciasya.com,puntobiz.com.ar,realpolitik.com.ar,rosario3.com,sanjuan8.com,sport.es,t13.cl,tutecnomundo.com,tycsports.com,unoentrerios.com.ar,unosantafe.com.ar,voydeviaje.com.ar##.banner
 hipertextual.com##.banner--evento
 bigbangnews.com##.banner--full
 ambito.com##.banner-3-col
@@ -1895,7 +1951,6 @@ forochicas.com#?#.tborder:-abp-contains(eBay.es)
 forochicas.com#?#.tborder:-abp-contains(elcorteingles.es)
 yucatan.com.mx##h2[style="color: #000000;text-align: left"]
 yucatan.com.mx##h2[style="text-align: center;"]
-hitfm.es##header
 horadeopinion.com.ar#?#.widget_metaslider_widget:-abp-contains(ESPACIO PUBLICITARIO)
 manerasdevivir.com##hr[style="width:5px; color:#CC6600; background-color:#CC6600; margin-top:3px; margin-bottom: 3px;"]
 boardzona.com##iframe[src*="://supercore.adm-vids.com/video_offer?"]
@@ -1987,7 +2042,21 @@ marca.com##.ad-item-bt-cont
 libremercado.com##a[href^="https://conectate.estrategiasdeinversion.com/"]
 libremercado.com##.ampliacion
 mastercoria.com##a[href^="https://alertlogsemployer.com"]
+animebum.net###publicidad-nas
 megaserie.me###newlayercontent
+easy.com.ar###carruselMarcasBlaisten
+elblog.com##.ads-superior
+elespanol.com##.adv_inline
+elespanol.com##.article-adv
+chathispano.com###top
+reforma.com##.container_publicidad
+reforma.com###zonaavisos
+zooplus.es##.bg-banner
+clipwatching.com###coverAds
+wordmagicsoft.com###bt_aws_ad_slot_1
+libertaddigital.com###mega-atf
+kiwilimon.com##div[class^="pubcaja"]
+elcordillerano.com.ar##div[class^="contenedor_banner_"]
 ! Site Specific filters (used with $generichide)
 eleconomista.es##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ! Anti-Adblock
@@ -2043,6 +2112,7 @@ spalumi.com##marquee
 tnaflix.com##.rightBarBannersx
 tnaflix.com##.pInVistix
 faptitans.com##.cross-promo-bnr
+pornoplay.online##div[class^="happy-"]
 !-----------------------Allowlists to fix broken sites------------------------!
 ! *** easylistspanish:easylistspanish/easylistspanish_allowlist.txt ***
 @@-publicidad.$~third-party,domain=regalos-publicidad.es|todo-publicidad.com

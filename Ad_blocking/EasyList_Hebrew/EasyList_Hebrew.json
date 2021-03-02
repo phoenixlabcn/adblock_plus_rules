@@ -649,15 +649,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?api\\.vicomi\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".vc-comment-inner.shadow.recommend_comment.recommend_comment_ad"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?ashdodnet\\.com[/:]"
 		},
 		"action": {
@@ -807,6 +798,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".fade"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bhol\\.co\\.il[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".floaterin.floaterout"
 		}
 	},
 	{
@@ -1504,24 +1504,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?hashekel\\.co\\.il[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#block-13"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?hashekel\\.co\\.il[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#block-14"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?hidabroot\\.org[/:]"
 		},
 		"action": {
@@ -1635,33 +1617,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "a img[width=\"300\"][height=\"250\"]"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?hwzone\\.co\\.il[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#cubicbigarticlesbannertable"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?hwzone\\.co\\.il[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".box2.alljobBox"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?hwzone\\.co\\.il[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".wideBanner"
 		}
 	},
 	{
@@ -2184,6 +2139,24 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".Ozen300"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?kipa\\.co\\.il[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".mood.hidden-sm.hidden-md.hidden-xs"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?kipa\\.co\\.il[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".mood1240-100"
 		}
 	},
 	{
@@ -3169,60 +3142,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?onlife\\.co\\.il[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#block-freelancer-0"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?onlife\\.co\\.il[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#block-freelancer-1"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?onlife\\.co\\.il[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#top_article_ads_wrapper"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?onlife\\.co\\.il[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#top_u_ads_wrapper"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?onlife\\.co\\.il[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".commercial"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?onlife\\.co\\.il[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".flying-banner-wrapper"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?pitria\\.com[/:]"
 		},
 		"action": {
@@ -3371,24 +3290,6 @@
 		},
 		"action": {
 			"type": "css-display-none",
-			"selector": "br + * > p"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?rotter\\.net[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "div[id*=\"Promo\"]"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?rotter\\.net[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
 			"selector": "td[style=\"border:0px solid red; width:160px; table-layout:fixed;\"]"
 		}
 	},
@@ -3448,51 +3349,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?saloona\\.co\\.il[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#footer_banner"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?saloona\\.co\\.il[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#popular_top"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?saloona\\.co\\.il[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".popup_order_close"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?saloona\\.co\\.il[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".popup_order_overlay"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?saloona\\.co\\.il[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".text_links"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?seret\\.co\\.il[/:]"
 		},
 		"action": {
@@ -3534,6 +3390,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".adsbygoogle"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?shoofoo\\.co\\.il[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[class^=\"banner\"]"
 		}
 	},
 	{
@@ -11462,40 +11327,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://rotter\\.name/.*\\.html",
-			"resource-type": [
-				"document"
-			],
-			"if-domain": [
-				"rotter.name",
-				"www.rotter.name",
-				"rotter.net",
-				"www.rotter.net"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://rotter\\.net/.*\\.html",
-			"resource-type": [
-				"document"
-			],
-			"if-domain": [
-				"rotter.name",
-				"www.rotter.name",
-				"rotter.net",
-				"www.rotter.net"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://rotter\\.net/banners/",
 			"resource-type": [
 				"image",
@@ -11697,6 +11528,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://bhol\\.co\\.il/rich_banners/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://bladna\\.co\\.il/Public/flash/",
 			"resource-type": [
 				"image",
@@ -11801,57 +11649,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://hometheater\\.co\\.il/opx/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://hometheater\\.co\\.il/pir/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://hwzone\\.co\\.il/jobs/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://jobmaster\\.co\\.il/code/kot/",
 			"resource-type": [
 				"media"
@@ -11932,23 +11729,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://negishim\\.com/accessibility/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://onlife\\.co\\.il/dbcads/",
 			"resource-type": [
 				"image",
 				"style-sheet",

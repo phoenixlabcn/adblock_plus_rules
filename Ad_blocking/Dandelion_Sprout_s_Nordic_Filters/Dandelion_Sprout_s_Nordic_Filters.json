@@ -1405,6 +1405,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?indblik\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[id^=adni_widgets-]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://"
 		},
 		"action": {
@@ -3907,6 +3916,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?langrenn\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".bannerlocation:not(#location1)"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?m\\.feltet\\.dk[/:]"
 		},
 		"action": {
@@ -5792,6 +5810,15 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": "div[data-object-type=ad]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": "[type=advertisement]"
 		}
 	},
@@ -6243,6 +6270,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".maelstrom-skyscraper"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".forum-ad-box"
 		}
 	},
 	{
@@ -7605,7 +7641,24 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://advertisement\\.vg\\.no",
+			"url-filter": "^https?://advert\\..*\\.no",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://advertisement\\..*\\.no",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -8573,23 +8626,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://akamaihd\\.net",
-			"resource-type": [
-				"media"
-			],
-			"if-domain": [
-				"discoveryplus.no",
-				"www.discoveryplus.no",
-				"discoveryplus.dk",
-				"www.discoveryplus.dk"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://amino\\.dk/images/partners/agera/240x140-forside-hardcoded.*\\.jpg",
 			"resource-type": [
 				"image"
@@ -8736,23 +8772,6 @@
 			],
 			"load-type": [
 				"third-party"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://dnitv\\.com",
-			"resource-type": [
-				"media"
-			],
-			"if-domain": [
-				"discoveryplus.no",
-				"www.discoveryplus.no",
-				"discoveryplus.dk",
-				"www.discoveryplus.dk"
 			]
 		},
 		"action": {
@@ -11158,6 +11177,45 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://indblik\\.net/wp-content/uploads/angwp",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://akamaihd\\.net",
+			"resource-type": [
+				"media"
+			],
+			"if-domain": [
+				"discoveryplus.*"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://dnitv\\.com",
+			"resource-type": [
+				"media"
+			],
+			"if-domain": [
+				"discoveryplus.*"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://adnxs\\.com",
 			"resource-type": [
 				"image",
@@ -13332,10 +13390,7 @@
 				"document"
 			],
 			"if-domain": [
-				"discoveryplus.no",
-				"www.discoveryplus.no",
-				"discoveryplus.dk",
-				"www.discoveryplus.dk"
+				"discoveryplus.*"
 			]
 		},
 		"action": {
@@ -13736,6 +13791,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://.*resett\\.no#\\?#\\.code-block:-abp-contains\\(annonse\\)",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*resett\\.no#\\?#\\.tdc-column:-abp-has\\(\\[src.*=\"/pagead\"\\]\\)",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -17587,6 +17659,278 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://.*-med\\.footeo\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*medisin.*\\.over-blog\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://alphaapotek\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://bedsteapoteksverige\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://garantere-apotek\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://godtdsamaritansk\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://helsehjelp\\.over-blog\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://jensapoteker\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://kjop-palitelige-medisiner\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://kobconcerta54mgonlineidanmark\\.wordpress\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://konstantleverans\\.blogspot\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://marson\\.footeo\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://nkwana-medstore\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://sikkertapotek\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://sobrilleverandoridanmark\\.wordpress\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://xanax.*\\.over-blog\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://desidert\\.no",
 			"resource-type": [
 				"image",
@@ -18043,22 +18387,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://mparticle\\.com",
-			"resource-type": [
-				"script"
-			],
-			"if-domain": [
-				"auth.discoveryplus.no",
-				"auth.discoveryplus.dk"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://assets\\.adobedtm\\.com/.*/satelliteLib-",
+			"url-filter": "^https?://mparticle\\.com..*/login",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -18069,8 +18398,7 @@
 				"document"
 			],
 			"if-domain": [
-				"auth.discoveryplus.no",
-				"auth.discoveryplus.dk"
+				"discoveryplus.*"
 			]
 		},
 		"action": {
@@ -18242,6 +18570,17 @@
 				"media",
 				"raw",
 				"document"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://finn\\.no/user/ads\\.html",
+			"resource-type": [
+				"popup"
 			]
 		},
 		"action": {

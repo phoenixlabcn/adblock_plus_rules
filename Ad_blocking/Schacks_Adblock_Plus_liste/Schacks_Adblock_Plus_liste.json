@@ -1,0 +1,9238 @@
+[
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?facebook\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ego_section"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?facebook\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ego_unit_container"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.facebook\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[data-xt]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?min-mave\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.topbanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?min-mave\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#topAdBanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?femina\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#TopBanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mail\\.yahoo\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#theAd"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?trustpilot\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".reviewblock.adblock"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dk\\.trustpilot\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad-block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?nordjyske\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".textAd.boxWrapper.white.cols2"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?nordjyske\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".articleSideAdd"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?nordjyske\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".printHide.boxWrapper.normalBox.cols2"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?nordjyske\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#popup"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?nordjyske\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".row.banner-wrapper.top-banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?nordjyske\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".modal-overlay.js-modal-close"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?q\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#TopBanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?q\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".adHolder"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?universitypost\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#mdHeadBanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?denkorteavis\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#div-DenkorteavisDK_930x180_1"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?denkorteavis\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#div-DenkorteavisDK_930x180_2"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?denkorteavis\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#div-DenkorteavisDK_Outstream"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?denkorteavis\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#div-DenkorteavisDK_300x250_1"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?denkorteavis\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#div-DenkorteavisDK_160x600_R"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?denkorteavis\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#div-DenkorteavisDK_160x600_L"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?denkorteavis\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#div-DenkorteavisDK_InText_2"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?denkorteavis\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner.nomob"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?journalisten\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#region-top-banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?linkedin\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".region-ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?linkedin\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#ad-container"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?linkedin\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#ad-right-top"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dagens\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#zone-header-wrapper"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dagens\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#block-panels-mini-banner-bred-bund"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dagens\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV[id^=\"mini-panel-banner_sidepanel\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dagens\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV[id^=\"div-DagensDK_160x600_\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?zulu\\.tv2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV[id^=\"banner-top\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?zulu\\.tv2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#bannertekst"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?zulu\\.tv2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#com-forsid-rektangel"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?rejseplanen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#footerBanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv3\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#tv3-header-ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv3\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".channelHeaderLogo.l-stretch_h.l-center.l-spacing_v"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv3\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".widget-advertising_sideAd"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv3sport\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".module.ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bornholm\\.nu[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "*#bannercontent"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?feltet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#banner49"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?feltet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#struct_topAds"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?feltet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV[id=\"octo_body\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?lokalavisen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#top-banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?lokalavisen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#top-banner-bg"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?lokalavisen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#annonce"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?lokalavisen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#epapersmall"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?lokalavisen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#lokalhandelteaser"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?avisen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#ctl00_ctl00_Main_topbanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?avisen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#ctl00_ctl00_Main_stickyBannerLeft"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?avisen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#ctl00_ctl00_Main_cphMainFullWidth_ctl00_acLeftTop_pnlBypass"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?avisen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#ctl00_ctl00_Main_cphMainFullWidth_AdCode2_pAdCode"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?avisen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ArticleInnerLeftCol.fl.mt30"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?avisen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#ctl00_ctl00_Main_stickyBannerRight"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?avisen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ArticleRightBanner3"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?avisen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ArticleRightBanner4"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?avisen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ArticleRightBanner1"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?avisen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ArticleRightBanner2"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?avisen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ArticleBanner1"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?hardwareonline\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#header_bannerad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?hardwareonline\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#top"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.wrapper$domain=tv2.dk|~cancer.tv2.dk"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#wrapper-top"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.com-megaboard-outside"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.com-rektangel-forsid"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV[class$=\"hockeystick\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV[class$=\"hockey-stick\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV[id^=\"tv2-dropspot\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV[id^=\"com-dropspot\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV[id^=\"oaxad\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV[class^=\"tv2-widget banner\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#tv2contentsquare"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#OAS_Frame1"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".sponsor_banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".tv2adtext"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#downtown-ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".com-oax-article"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ads.ad-megaboard.ad-takeover"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ads.ad-square"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".page-header-wrapper"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".panel-pane.pane-t2ad-instance-pane"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ads.ad-megaboard"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad-cloud-left"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad-cloud-right"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ads.ad-partner.large-ads"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad.ad-sponsor"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#forsiden-forside-skyscraperleft-1"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#forsiden-forside-skyscraperright-1"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?beep\\.tv2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".com-vinkeltop-forside"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?beep\\.tv2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner-ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?beep\\.tv2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#kk-widget"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?beep\\.tv2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".megaboard-wrapper"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ads.ad-halfpage"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad.ad-rectangle"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad.ad-topbanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad.ad-wide"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?markedsforing\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#topbannerrow"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?information\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV[class^=\"inf-emediate\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?information\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#block-panels-mini-topbanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?nybolig\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.bannerSpace"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?almigo\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?folketidende\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".topbanner-wrapper"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?folketidende\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?folketidende\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#section2-ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pling\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#TopBanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?finans\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".bannerTop"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?nordjyske\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#topBanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?nordjyske\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.boxAdd"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?nordjyske\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.reklameXL"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?videnskab\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".region.region-bannertop"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?videnskab\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".gad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?eroguide\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".not_member_tablebg"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?samvirke\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#topbanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?samvirke\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#rightbanner1"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?samvirke\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#rightbanner2"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?samvirke\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".panel-pane.pane-banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?forum\\.xda-developers\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".leaderboard"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?rokokoposten\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".view-desktop.top-ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?rokokoposten\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".view-desktop.bottom-ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?rokokoposten\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".view-desktop.middle-right-ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?rokokoposten\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".view-desktop.middle-left-ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?rokokoposten\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".view-mobile.top-ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?rokokoposten\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".view-mobile.bottom-ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?rokokoposten\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#div-RokokopostenDK_Mobile_Article_2"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?rokokoposten\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".adten-expander"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?rokokoposten\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#RokokopostenDK_InText_1"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?rokokoposten\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".view-desktop.sidebar-ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?altomdata\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#rightBannerTop"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?altomdata\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#rightBannerBottom"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?altomdata\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#rightBannerBottom2"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?altomdata\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#topBanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?altomdata\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#leftBanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?altomdata\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".onecomSearch"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?altomdata\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#pageTop"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?trendsales\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#womanListingsArea"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?trendsales\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".fif-banner.placeholder-930x180"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?trendsales\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#boxSmsGreetings"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?hsfo\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#TopBanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?guloggratis\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#top_banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?guloggratis\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV[id^=\"adserving\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?guloggratis\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "TABLE[id^=\"category-profile-ad-small\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?guloggratis\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".profile_ad_wrapper"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?guloggratis\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".admanager"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?guloggratis\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".profa_wrapper"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?guloggratis\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?t3\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.topBannerBig"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?t3\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.leftBanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?t3\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.rightBanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?t3\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.rightBannerBottom"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dr\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".dr-cookie-info-box"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekstrabladet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#nuggadDisclaimer"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?woman\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div.cc-cookies"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?woman\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#SleekNoteToggler4320"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?woman\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#topBanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?woman\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".widget.banner.banner300.hideAdtech.burt-unit"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?woman\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".horseshoe"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?woman\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".text-center.text-tiny.gutter-vertical.continue-reading"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dba\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".adslot.adslot-megaboard"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dba\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner.takeover.original"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dba\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".sekBannerTop.fixIeBox"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dba\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".topBannerWrapper.expandableTopBannerWrapper"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dba\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner.calculation-banners.clearfix"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dba\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner.megaboard"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dba\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".dbaListing.listing.cpcListing"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dba\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".marketing-container"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dba\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".gcsa"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dba\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV[id^=\"google-dfp-skyscraper\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dba\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#Webshop"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bedrelivsstil\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".container-ads"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bedrelivsstil\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad-desktop"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?motion-online\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "EMBED#Advertisement"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mobil\\.nu[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".leaderboard"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mobil\\.nu[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad.widget.widget_emidiate.clearfix"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mobil\\.nu[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".tower.right"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mobil\\.nu[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".tower.left"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bilmagasinet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".horseshoe"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dr\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner-ad-top-wrapper"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?stiften\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".top_banner_container.clearfix"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?boyfriend\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#if_ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?thepiratebay\\.se[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#sky-right"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?thepiratebay\\.se[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#sky-banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?thepiratebay\\.se[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?thepiratebay\\.se[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "IFRAME"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mybanker\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner_leaderboard.default_dimensions"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mybanker\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner_wrapper.hide_from_tablet"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mybanker\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".biz_teaser_wrapper"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?vejleamtsfolkeblad\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#header_banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?vejleamtsfolkeblad\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "EMBED#Advertisement"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?vejleamtsfolkeblad\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?vafo\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#TopBanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?24\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#adLeaderboard"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?24\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".hideable"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?24xtra\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#adLeaderboard"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?24xtra\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".hideable"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?24timer\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".topbanner_border"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?side6\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.top.top2"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?side6\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.factboxad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?side6\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "P.adhead1"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?side6\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "P.adhead2"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pricerunner\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#header-ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pricerunner\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.side-ad.adWrapper"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pricerunner\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#FBfacepile"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pricerunner\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".new-h-ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?hockeymagasinet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#top_image"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?118\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?herognu\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".topbanner-bg"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?eurowoman\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#popup-box"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?euroman\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#popup-box"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?euroman\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".label-annonce"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?euroman\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".jcarousel-skin-eum"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?altfordamerne\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#popup-box"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?altfordamerne\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".topbanner-bg"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?altfordamerne\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".label-annonce"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fitliving\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".label-annonce"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tjektv\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#TopBanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tjektv\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".adHolder"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tgt\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#topbanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tgt\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.sponsor_300"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tgt\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.banner_300"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tgt\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#banner300x250"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tgt\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#bundbanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?reelligestilling\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".googlepublisherpluginad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?computerworld\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#computerworldleaderboard"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?computerworld\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#computerworldleaderboard"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?computerworld\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.adtechtag"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?computerworld\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV[class$=\"Adtech\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?computerworld\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV[class$=\"AdtechAd\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?computerworld\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV[class$=\"OpenAds\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?computerworld\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".dfpAdHeader.lavsponsor"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?computerworld\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#rolloverBanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?computerworld\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".topAd"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?computerworld\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".paragraphAd"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?computerworld\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".box.pBottom.wFull.ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?computerworld\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#div-gpt-ad-art2-0"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?computerworld\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#div-gpt-ad-art1-0"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?computerworld\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".box.pRight.wDefault.ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?computerworld\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV[id^=\"dclk_overlay_\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?computerworld\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".box.pLeft.wDefault.ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?computerworld\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".wallpaperClickArea.left"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?computerworld\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".wallpaperClickArea.right"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?computerworld\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".bottomAd"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?computerworld\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".paragraphAdInternal"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?computerworld\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".box.pRight.wSmall.ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?version2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#layout-banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?version2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.banner_side_article"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?version2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner.wide"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?version2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#mini-panel-sponsored_content"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ing\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#layout_banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?hestegalleri\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#PnlTopBanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ontv\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#ad930x180"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ontv\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#ad160x600"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ontv\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#ad728x90"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ontv\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#ad160x600t"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ontv\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad930x180article"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ontv\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#ad930x180b"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ontv\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#ad930x180t"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?180grader\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".job-info"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mobilsiden\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#ads"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mobilsiden\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#rightAds"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mobilsiden\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mobilsiden\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".centered-banner.tac"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mobildebat\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#ads"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mobildebat\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#rightAds"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mobildebat\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "IFRAME"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mobilpriser\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#ads"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mobilpriser\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#rightAds"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mobilpriser\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "IFRAME"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mobilauktion\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#ads"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mobilauktion\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#rightAds"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mobilauktion\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "IFRAME"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mobilsalg\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#ads"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mobilsalg\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#rightAds"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mobilsalg\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "IFRAME"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?frisms\\.nu[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#ads"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?frisms\\.nu[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#rightAds"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?frisms\\.nu[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "IFRAME"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?landbrugsavisen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".layout-top-banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?landbrugsavisen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".layout-skyscraper.layout-skyscraper--left"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?landbrugsavisen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".layout-skyscraper.layout-skyscraper--right"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?landbrugsavisen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".layout-unit.advertisement.advertisement--mobile"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?landbrugsavisen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".layout-unit.advertisement"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?digout\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner-300"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?digout\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner-300x250"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?digout\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner-930x180"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?young\\.wtf[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner-300"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?young\\.wtf[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner-300x250"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fredericiaavisen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".td-header-ad-wrap.td-ad-m.td-ad-tp.td-ad-p"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fredericiaavisen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".td-g-rec.td-g-rec-id-content_top"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fredericiaavisen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".td-g-rec.td-g-rec-id-sidebar"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fredericiaavisen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".td-g-rec.td-g-rec-id-custom_ad_4"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sweet\\.wtf[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner-300"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sweet\\.wtf[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner-300x250"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?amino\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".topAd930x180"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?amino\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".topAds"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?amino\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".amino_ads_container"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mmm\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".top-banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mmm\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner-min-height.banner.gtm-banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mmm\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".row.ad.fixed"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mmm\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?jp\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#dspPageTop"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?jp\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#dspPageBanner_vinkel"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?jp\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.breakerRightBox262"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?jp\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.annCapBox"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?jp\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.annoncemarkeder"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?jp\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.modBox.annoncemarkeder"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?jp\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".adLineTitle"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?jp\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".adLine"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?jyllands-posten\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#topBanners"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?jyllands-posten\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#BannerArtikel1"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?jyllands-posten\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#BannerArtikel2"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?jyllands-posten\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#BannerBund"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?jyllands-posten\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#dealerbox_1"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?jyllands-posten\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#mobp_feed"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?jyllands-posten\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#mpuTest"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?jyllands-posten\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#mdgxWidgetiFrame"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?jyllands-posten\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#premiumFloatingBanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?business\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#EAS_fif_2"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?business\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#EAS_fif_3"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?business\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#EAS_fif_4"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?business\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#EAS_fif_5"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?business\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#EAS_fif_6"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?business\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".rat-tail.desktop-banner.hidden-xs"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?business\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV[id^=\"div-gpt-ad-\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?business\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#left_sticky"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?business\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".top-wallpaper-banner.top-banner.banner-resize"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?hwt\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#top-banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?hwt\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#ad2"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?hwt\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".content-banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?hwt\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#blower-banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?spn\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#dspPageTop"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?spn\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#dspPageBanner_vinkel"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?spn\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.annCapBox"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?spn\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.annoncemarkeder"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?spn\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#teaserBanners"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?kristeligt-dagblad\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".center-ad.ad-block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?kristeligt-dagblad\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".left-ad.ad-block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?kristeligt-dagblad\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".right-ad.ad-block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?kpn\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#dspPageTop"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?kpn\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#dspPageBanner_vinkel"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?kpn\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.annCapBox"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?kpn\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.annoncemarkeder"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?kpn\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#teaserBanners"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?epn\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#dspPageTop"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?epn\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#dspPageBanner_vinkel"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?epn\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.annCapBox"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?epn\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.annoncemarkeder"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?epn\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#teaserBanners"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?epn\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#oaxBlock"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?epn\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#mpuTest"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fpn\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#dspPageTop"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fpn\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#dspPageBanner_vinkel"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fpn\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.annCapBox"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fpn\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.annoncemarkeder"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fpn\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#teaserBanners"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pcworld\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#sitetop"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pcworld\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#rightmenu"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pcworld\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.adtechtag"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dust2\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?borger\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".cookie-banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?comon\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.topHeader"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?comon\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?comon\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#articleAd"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?comon\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#adLabel"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?comon\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.adLabel"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?comon\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".admanager-position-4"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv2sport\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV[class^=\"mdAd\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv2sport\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".mAd.mod"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fyens\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#top_banner_container"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fyens\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.textad_container"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fyens\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".block.width-12.full-width.class-annoncefbadservingbanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fyens\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".textads"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fyens\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".block.width-4.class-annoncefbadservingbanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?soundvenue\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".bannercontainer-fullsize.topbanner.top_large_banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?soundvenue\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner.spot-pbottom.spot-bbottom"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?soundvenue\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner.spot-mleft"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?soundvenue\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".stickybanner.absolute"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?soundvenue\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".bannercontainer-fullsize.bottom_large_banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dailyrush\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#megaboard"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dailyrush\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#skyscraper"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dailyrush\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#Advertisement"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?metroxpress\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#adtop"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?metroxpress\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#rightadvertising"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?metroxpress\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#adl_rectangle"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mx\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#leaderboard"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mx\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad_top_300x250"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mx\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad_middle_300x250"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?gaffa\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#topbannerwrapper"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?en\\.timefor\\.tv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#top_ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dk\\.timefor\\.tv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#top_ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dating\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "TD[menuitemtype=\"-1\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dating\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV[id^=\"ctl00\"][id$=\"_layerClock\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dating\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV[class=\"OneComBackground\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dating\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "A[id=\"ctl00_cphMain_DebitelCallMe1_hlCallMe\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dating\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV[id=\"ctl00_ctl00_cphMain_cphMain_divNykreditBanner\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dating\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "IMG[id=\"ctl00_cphMain_imgRingo\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dating\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "EMBED[id=\"netplayer\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?endomondo\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".topAdContainer"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?www\\.jobindex\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".jix_sidebar_skyscraper_background"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?jobindex\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".jix_sidebar_skyscraper_background"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?jobindex\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".jix_wf_job_ad_sidebar"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ebjob\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad.ad--leaderboard"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?androidfilehost\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".row.ads"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?androidauthority\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".row.it-ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?androidauthority\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad.gpt"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekstrabladet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.jobz"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekstrabladet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.alLink"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekstrabladet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.fl-annonce2"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekstrabladet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.fl-annonce2.fpannonce"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekstrabladet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.fl-annonce2.fpannonce2"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekstrabladet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "P.sp-annonce2"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekstrabladet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.enirobox-ie6-hack"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekstrabladet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.ad300x250"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekstrabladet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.ad300x250"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekstrabladet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.ad600x90"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekstrabladet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.eb_ad280 clearfix"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekstrabladet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "P.eb_annonce2 addborder"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekstrabladet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "P.eb_annonce1"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekstrabladet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.eb_ad280.clearfix"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekstrabladet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.ad_left"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekstrabladet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#vinkelbanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekstrabladet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "P.xmain-head"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekstrabladet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#VP_EB-TV-Bottom"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekstrabladet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner.line.monster.gotads"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekstrabladet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner.rightpos.gotads"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekstrabladet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".fnFollowBanner.banner.gotads"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekstrabladet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner.gotads"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekstrabladet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner.banner-giga.line.gotads"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekstrabladet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#bGigaParent"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekstrabladet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".line.top"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekstrabladet\\.shop2download\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#topBanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekstrabladet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#invasive"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekstrabladet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#fnAdblockingOverlay"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekstrabladet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#fnOverlayStuff"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekstrabladet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "link[rel=prerender]+div[id]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekstrabladet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "body>div[id][style]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bil-sitet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#ContentPlaceHolderDefault_TopBanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bil-sitet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner-left-area"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bil-sitet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#ContentPlaceHolderDefault_StickyBannerRight"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?slyngebarn\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".a930180"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?oestrogen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#TopBanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?oestrogen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".adHolder.floatLeft"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?oestrogen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#pangeBoxContainer"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?building-supply\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner-top.unprintable"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?building-supply\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".right-frame.banner-right.unprintable"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?building-supply\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner-campaign"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekstrabladet\\.tv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.ad300x250"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekstrabladet\\.tv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "P.eb_annonce1"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekstrabladet\\.tv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.ad_left"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekstrabladet\\.tv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.VP_EB-TV-MonsterTop"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekstrabladet\\.tv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#VP_EB-TV-Bottom"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?webhallen\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#big_ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?webhallen\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".box_ad_content"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?b\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#top-banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?b\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".panel-pane.banner.banner-c18.pane-name-content"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?b\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".border-bottom.border-top.banner.banner-g2"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?b\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".margin-bottom-20.banner.banner-o5"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?b\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".panel-pane.banner.banner-o2.pane-name-content"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?b\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[id^=\"EAS_fif_\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?b\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#Leaderboard_1"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?b\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#right_sticky"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?b\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#left_sticky"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?box\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#jsad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?box\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#boxadGroup"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ugeskriftet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ugeskriftet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".panel-pane.pane-ufl-adverts"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?elektronista\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#clientsDropDown"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?gamereactor\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#ads_right"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?gamereactor\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.intad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sondagsavisen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.SAbannertop"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sondagsavisen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.SAbanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sondagsavisen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.SAannonce"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sondagsavisen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad-top"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sondagsavisen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad-small"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sondagsavisen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad-middle"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sondagsavisen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad-left.js-ad-left"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sondagsavisen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad-right.js-ad-right"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sondagsavisen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".item.aditem"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?testuniverset\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad-top"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?testuniverset\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad-right.js-ad-right.ad-fixed"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?testuniverset\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad-left.js-ad-left.ad-fixed"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bt\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#top_banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bt\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".topbanner-desktop.hidden-sm-down"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bt\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#vinkel_banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bt\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "SPAN.bt-ad-label"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bt\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "SPAN[class^=\"banner\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bt\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.box-300.jobzonen-300"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bt\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#quad_ad_0"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bt\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad-label"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bt\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".emediate-banner.banner.banner-c18"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bt\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".emediate-banner.bb.banner.banner-g2"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bt\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".emediate-banner.annonce-label.banner.banner-f2"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bt\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".panel-pane.annonce-label.banner.banner-g1.pane-name-content"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bt\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".grid_24.alpha.omega.panel-region.topbanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bt\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#Leaderboard_2"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bt\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#Leaderboard_2main.banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bt\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#Square_1.banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bt\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#Square_2.banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bt\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#Square_3.banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bt\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#Square_marketing.banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bt\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#Advertorial_1"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bt\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#Out_stream.instream-banner.banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bt\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#Sticky_left.banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bt\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#Sticky_right.banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sporten\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?politiko\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#top-banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?politiko\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner.platform-all.leaderboard_2"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?politiko\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner.platform-desktop.square_1"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?newz\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV[class^=\"ad_\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?newz\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#left_placeholder"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?newz\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".top-interstitial"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?filmz\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#topbanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?filmz\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#squaread"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?stargossip\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV[class^=\"ad_\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?qxl\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".advertisement.section.placeholderTop"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?aok\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".top-banner-container"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?aok\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#sticky_left"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?aok\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#sticky_right"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?aok\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".panel-pane.aok-line.banner.banner-f1.pane-name-content.pane-name-content-14953"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?aok\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".panel-pane.banner.banner-g3.pane-name-content.pane-name-content-14960"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?aok\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".panel-pane.aok-line.banner.banner-f2.pane-name-content.pane-name-content-14954"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?aok\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".grid_12.alpha.omega.panel-region.banner1"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?trustpilot\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".reviewblock.adblock"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?trustpilot\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".review-block.ad-block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mobilkunden\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".leaderboard"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?boligsiden\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#bannerRightC"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?boligsiden\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?boligsiden\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".col-3.add-mark.topbanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?denstoredanske\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#mdTopbanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?denstoredanske\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#mdRightbanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?denstoredanske\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.mdBanner468x248"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?jubii\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV[class^=\"banner-\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?jubii\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#bottom_banner_container"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?msn\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#bannerad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?msn\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#adsmodule"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dk\\.msn\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.advertisement"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dk\\.msn\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#annoncebanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?krak\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?krak\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.top-banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?krak\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.top-banners"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?krak\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#sidebar"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?krak\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.buy-domain"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?krak\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.ad-container"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?krak\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?krak\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".toolbar-banner.banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?krak\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".cash-card-banner.banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?degulesider\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#topAds"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?degulesider\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".advertiser_link"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?degulesider\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".rightSideAd"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?billetnet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#leaderBoard"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?billetnet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".adslot"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?billetnet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".sponsor"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?politiken\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.annonce-txt"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?politiken\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#top-monster"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?politiken\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.ad-bline"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?politiken\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.ad-f-monster.clearfix"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?politiken\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.leftBanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?politiken\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#rightBanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?politiken\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad-sp3-space"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?politiken\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad-sp"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?politiken\\.tv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#top-monster"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?politiken\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#skyRightBanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?politiken\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "IFRAME[src=\"http://www.office365-erhverv.dk/teaser/\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?politiken\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".m-bottom10.oax-ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?politiken\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#inpageAdPlayer"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?politiken\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#adPlayerTitle"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?politiken\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#vp_inpage_player"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?politiken\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#meteroverlay"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?politiken\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#teaserwrapper"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?politiken\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad-text.m-bottom5.m-top10"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?politiken\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#leftBanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?politiken\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "IFRAME.lzy-done"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?politiken\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "IFRAME[src=\"http://joblink.jobzonen.net/;i=25\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?politiken\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".annonce_textads"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?politiken\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href*=\"http://politiken.dk/Admin_commercial/\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?politiken\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad--horseshoe"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ibyen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#top-monster"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ibyen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.annonce-txt"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dmi\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#top-ad-wrapper"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?meremobil\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#rightad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?meremobil\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#dgd_scrollbox-18338"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?meremobil\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".frontpagead"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pcworld\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#sitetop"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pcworld\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#rightmenu"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pcworld\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#centerRightBlockAd"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?edbpriser\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.topBannerHolder"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?edbpriser\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.adHolder.colRightTopAd"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?edbpriser\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.adHolder"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?edbpriser\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#divAdClickLeft"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?edbpriser\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#divAdClickRight"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?spilpriser\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.topBannerHolder"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?spilpriser\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.adHolder.colRightTopAd"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?spilpriser\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.adHolder"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dvdpriser\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.topBannerHolder"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dvdpriser\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.adHolder.colRightTopAd"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dvdpriser\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.adHolder"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?hifipriser\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.topBannerHolder"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?hifipriser\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.adHolder.colRightTopAd"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?hifipriser\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.adHolder"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?edc\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".iframebanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?edc\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?heltnormalt\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#topbanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?heltnormalt\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".box-small.ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?telepriser\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "EMBED#td_flash"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?telepristjek\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".leaderboard"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?telepristjek\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad.widget.widget_emidiate.clearfix.visible-tablet"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?erhvervsbladet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#top-banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?erhvervsbladet\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "SPAN[class^=\"banner\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mail\\.live\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV[id*=\"RadAd\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tdc\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV[class^=\"g_block_topbanner\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tdc\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".g_tower_banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tdconline\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV[class^=\"t_ad_\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?musik\\.tdconline\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.sg_ad_topbanner_container"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?musik\\.tdconline\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.adContent"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?eksperten\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#leaderboard"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?eksperten\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#rightStickyAd"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?eksperten\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#div-gpt-ad-skyvenstre-0"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?eksperten\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#div-gpt-ad-art1-0"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?eksperten\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#div-gpt-ad-arttopspecial-0"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pleasure\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pleasure\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.mainHeaderBanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?netdoktor\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.headerBanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?netdoktor\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.advertText"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?netdoktor\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "TABLE.headerBannerTbl"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tvguide\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#topbanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tvguide\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV[id^=\"tvBanner\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tvguide\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#rhs_ban"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tvguide\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#lhs_ban"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tvguide\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".fb-comments.fb_iframe_widget.fb_iframe_widget_fluid"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tvguide\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".fb-comments.fb_iframe_widget"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bold\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#cta"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bold\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".front_top"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bold\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#front_skyscraber_517422"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?iform\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#mdHeadBanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?speedtest\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad-vertical-container.ad-vertical-stacked.no-shadow"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?speedtest\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad-vertical-container.ad-vertical-tower.no-shadow"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?speedtest\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad-space.ad-horizontal"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?speedtest\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".lbc-ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?opskrifter\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#banner1"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?jobworld\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".leaderboard"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?komogvind\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".spotContainer"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?morethanaclub\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#ajt_top_outer"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?borsen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.expandableHeaderBanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?borsen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.b3adNews"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?borsen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.b3adNews_banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?borsen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.bannerborder"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?borsen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.e1textannonce"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?borsen\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.oax_clear"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?jv\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "EMBED#Advertisement"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?jv\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?jv\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#test_top_banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?jv\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".top_banner_container.clearfix"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?eurogamer\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#leaderboard"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?blog\\.auntyacid\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ezAdsense.adsense.adsense-leadin"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?blog\\.auntyacid\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".adsbygoogle"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?blog\\.auntyacid\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[itemtype=\"http://schema.org/WPSideBar\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?gratisspil\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "IFRAME.boxMargin"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?gratisspil\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#sumome-welcomemat"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?gratisspil\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".sumome-welcomemat-background"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?gratisspil\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#amLargeLeaderboard"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?gratisspil\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#amArticleTop"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?footy\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV[id$=\"interstitial\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?liverpool-fc\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".advads-track"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?subscene\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#sidebar-left"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?subscene\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner-ontop"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?subscene\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?plbold\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".outer-right"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?plbold\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".outer-left"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?plbold\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".panel-pane.pane-block.pane-dfp-930x180-top"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?aftenposten\\.no[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#pageHeaderAds"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?aftenposten\\.no[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.adHorisontalNoBorder"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?aftenposten\\.no[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.adHorisontal"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?aftenposten\\.no[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.adButton"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?aftenposten\\.no[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.campaignDmElement.m-btm-20"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?aftenposten\\.no[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.campaignDmElement.twoStories"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?aftenposten\\.no[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.adBottomBoard"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?valutakurser\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".top_banner_div"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?valutakurser\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".bottom_banner_div"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?valutakurser\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".sponsor_submenu_placeholder"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?valutakurser\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".logo_sub_menu"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?valutakurser\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#ctl00_content_ctl00_currencyRightAdd"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?valutakurser\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#ctl00_BannerContainerSkyScraper"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?valutakurser\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#ctl00_BannerContainerSkyScraperLeft"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?valutakurser\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#div-gpt-ad-201-105"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?valutakurser\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#div-gpt-ad-201-305"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?valutakurser\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#div-gpt-ad-201-106"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?valutakurser\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#div-gpt-ad-201-307"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tuaw\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.clutterbuster"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?altinget\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV.ad.ad-leaderboard.hidden-print"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?altinget\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad.ad-rectangle.hidden-print"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?wood-supply\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner-top.unprintable"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?wood-supply\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".right-frame.banner-right.unprintable"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?wood-supply\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner-campaign"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?kommunikationsforum\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "DIV#topadContainer"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?kommunikationsforum\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".showAnnonce"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?kommunikationsforum\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner-top"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?viborg-folkeblad\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#mini-panel-mjm_boliga"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?redtube\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#as_130"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?redtube\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".video-page-right-col"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?redtube\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#as_10"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?redtube\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#as_131"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?power\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#cookie-notification"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?elgiganten\\.dk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".cookie-info-layer"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*\\[Adblock Plus 1\\.1\\]",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "http://cdn\\.tv3sport\\.dk/wp-content/themes/viasat/bundles/videoplayers/css/player\\.css",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://nordkysten\\.nu/.*/Banner/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://bornholm\\.nu.*banner",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*hardwareonline\\.dk/gfx/bannere",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*hardwareonline\\.dk/gfx/hardwareonlinebg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*pubads\\.g\\.doubleclick\\.net",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"if-domain": [
+				"tv2.dk",
+				"www.tv2.dk"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*easeniro\\.information\\.dk",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*video\\.moatads\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://banner2\\.fynskemedier\\.dk",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://motion-online\\.dk/adserver/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ontv\\.dk/imgs/ads/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*# landbrugsavisen\\.dk",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://service\\.cdn\\.videoplaza\\.se/creatives/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*code2\\.adtlgc\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*admp-tc\\.jyllands-posten\\.dk",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*dust2\\.dk/img/banners",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ads\\.arto\\.dk",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ads\\.arto\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ads\\.freeway\\.dk",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ftpsite\\.arto\\.dk/msn/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://bladkiosken\\.dk/services/dating/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://banner.*\\.freeway\\.dk/banners/",
+			"resource-type": [
+				"script"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*partner_banners",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "http://ekstrabladet\\.dk/template/v5-6/shared/js/modules/usercommunication/usercommunication\\.js",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*gamereactor\\.dk/banners",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://gamereactor\\.dk/ad/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://openx\\.gamereactor\\.dk",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://openx\\.newz\\.dk",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ads\\.boomtown\\.net",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ads\\.scor\\.dk",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ads.*\\.jubii\\.dk",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*jubii\\.dk/advertising",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ads.*\\.msn\\.com/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://tmcs\\.net",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://service\\.vp\\.videoplaza\\.se/creatives/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*cdn\\.videoplaza\\.tv/resources/inpage/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*jubiitag\\.dk",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*www\\.endate\\.dk/js/noadblock\\.js",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://adpepper\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ads\\.morethanaclub\\.dk",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://banner\\.jv\\.dk",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://specific\\.dk/flash/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*radionyt\\.com/images/banners/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*tvnyt\\.com/images/banners/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "http://gratisspil\\.dk/am/view\\.php",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://gratisspil\\.dk/am/banners/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*dansk777\\.dk",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*secure-freewheel-mtgx-tv\\.akamaized\\.net/m/1",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*bornholmermarked\\.dk/nonsec/NPIX/Banner/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*brugerpanelet\\.dk",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://adtech\\.de",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://advertising\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://valueclick\\.net",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ads\\.metropol\\.dk",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://emediate\\.se",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://xyz\\.ouchmg\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://adform\\.net",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://adformdsp\\.net",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://tradedoubler\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://emediate\\.eu",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://euroads\\.dk",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://tracead\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://s\\.adroll\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://d\\.adroll\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ad\\.aftenposten\\.no",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://adservinghost\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://serving-sys\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://dotbanner\\.dk",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://survey\\.webstatus\\.dk",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://dk\\.panel\\.gemius\\.dk",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://adserver\\.karamco\\.dk",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://bluestreak\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://broadcastpartners\\.nl/openads/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://openadex\\.dk",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://openx\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://mediabanner\\.dk",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ads\\.xion\\.dk/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://defgo\\.net/surveys/popup\\.asp",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://itsfogo\\.com/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://adserver\\.wagawaga\\.dk/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://dk\\.surveys-online\\.eu",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://adservinginternational\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://adservicemedia\\.dk",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://www\\.fdihbarometer\\.dk",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://cookieproxy\\.brugervenlighedstesten\\.dk",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://tag\\.brugervenlighedstesten\\.dk",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://be01\\.brugervenlighedstesten\\.dk",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://tns-gallup\\.dk",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://specificclick\\.net",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://emediate\\.dk",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://igmedier\\.dk",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://creatives\\.livejasmin\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://advertstream\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://tagspree\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://webtraffic\\.se",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://plads\\.dk\\.eu\\.publicus\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://partner-ads\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://openx\\.org",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://dk-ekstrabladet\\.vp\\.videoplaza\\.tv",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://smartresponse-media\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://cdn\\.cxense\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ad\\.turn\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://insight\\.adsrvr\\.org",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ads\\.creative-serving\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ads\\.rubiconproject\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ebiam\\.tns-gallup\\.dk",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ping\\.chartbeat\\.net",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://track\\.adtraction\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://static\\.chartbeat\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://digideenative\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://addthis\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://spklw\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://userreport\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://userneeds\\.dk",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://rtax\\.criteo\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://static\\.criteo\\.net",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://sslwidget\\.criteo\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://widget\\.criteo\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://dis\\.eu\\.criteo\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://wishpond\\.net",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://tags\\.bluekai\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://madsone\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://smartadserver\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://cluster\\.chart\\.dk",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://fwmrm\\.net",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ads\\.justpremium\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://online\\.adservicemedia\\.dk",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://tracking\\.m-decision\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://bidswitch\\.net",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://edge\\.quantserve\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://adserver\\.fbg\\.dk",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://s\\.conyak\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://teads\\.tv",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://turn\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://betterebannerscloud\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ads\\.yahoo\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://config\\.parsely\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://static\\.parsely\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://pixel\\.parsely\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://pixel\\.mathtag\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://moatads\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://pixel-geo\\.prfct\\.co",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*# \\|\\|audience\\.systems",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://53de24a8d5e98766af5d18a0323a72a1\\.dk",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://po\\.st",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://adnxs\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://gmads\\.net",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://adviva\\.net",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://rs\\.gwallet\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://atdmt\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://nuggad\\.net",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://specificclick\\.net",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://adnxs\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://krxd\\.net",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ladybug-promotion\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://nellect\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://mailernam\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://api\\.netb11\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*tpc\\.googlesyndication\\.com/pagead/imgad",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*tpc\\.googlesyndication\\.com/safeframe",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*www\\.facebook\\.com/tr",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://thegametesterspanel\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://thetesterclub\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://cdmritarossi\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*cdn\\.cxense\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"if-domain": [
+				"tv2.dk",
+				"www.tv2.dk"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://aka-cdn-ns\\.adtech\\.de/dt/common/DAC\\.js",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*\\.arto\\..*/adframe\\.",
+			"resource-type": [
+				"script"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://fwmrm\\.net",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"if-domain": [
+				"viafree.dk",
+				"www.viafree.dk"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://adm\\.fwmrm\\.net",
+			"resource-type": [
+				"raw"
+			],
+			"load-type": [
+				"third-party"
+			],
+			"if-domain": [
+				"history.com",
+				"www.history.com"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	}
+]

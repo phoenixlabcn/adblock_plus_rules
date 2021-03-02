@@ -6764,6 +6764,15 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": "#fixed-social-media"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": "#fixedShareMenu"
 		}
 	},
@@ -8124,6 +8133,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#fp-accordion"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#friends-2-follow-widget"
 		}
 	},
 	{
@@ -26672,6 +26690,15 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": ".SocialArticleIcons"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": ".SocialBar__component"
 		}
 	},
@@ -29804,6 +29831,15 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": ".article-box-social"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": ".article-byline-shares"
 		}
 	},
@@ -32820,6 +32856,24 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".bg-googleplus"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".bg-icon-linkedin"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".bg-icon-twitter"
 		}
 	},
 	{
@@ -38291,6 +38345,15 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": ".components-ShareButton-___ShareButton__button"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": ".condividi"
 		}
 	},
@@ -40226,6 +40289,15 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": ".divLiensSociaux"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": ".divShareBottom"
 		}
 	},
@@ -40506,6 +40578,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".dpsp-pinterest"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".dpsp-share-text"
 		}
 	},
 	{
@@ -49820,6 +49901,15 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": ".footer_socialnav"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": ".footer_socials"
 		}
 	},
@@ -53249,6 +53339,15 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": ".header-item__social"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": ".header-main-socs"
 		}
 	},
@@ -56022,6 +56121,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".icon--app-store"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".icon--dailymotion"
 		}
 	},
 	{
@@ -60314,15 +60422,6 @@
 		},
 		"action": {
 			"type": "css-display-none",
-			"selector": ".item_share"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://"
-		},
-		"action": {
-			"type": "css-display-none",
 			"selector": ".item_share_gplus"
 		}
 	},
@@ -64275,6 +64374,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".m-socialIcons__icon"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".m-socialbar"
 		}
 	},
 	{
@@ -76721,15 +76829,6 @@
 		},
 		"action": {
 			"type": "css-display-none",
-			"selector": ".share-icon-container"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://"
-		},
-		"action": {
-			"type": "css-display-none",
 			"selector": ".share-icon-list"
 		}
 	},
@@ -80106,6 +80205,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".share_box"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".share_box_content_wrapper"
 		}
 	},
 	{
@@ -83516,6 +83624,15 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": ".sharre-container"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": ".sharrre-container"
 		}
 	},
@@ -83562,6 +83679,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".showing-shares"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".showme-share-buttons"
 		}
 	},
 	{
@@ -84417,6 +84543,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".single-aside-social-wrap"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".single-content-share"
 		}
 	},
 	{
@@ -86379,6 +86514,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".soc_btn"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".soc_hello_ials"
 		}
 	},
 	{
@@ -91482,6 +91626,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".social-share-head-article"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".social-share-hed"
 		}
 	},
 	{
@@ -99068,6 +99221,15 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": ".ssb_followers"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": ".ssba-share-text"
 		}
 	},
@@ -99852,6 +100014,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".sticky-wrapper--likegate"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".stickyNav-social"
 		}
 	},
 	{
@@ -102380,6 +102551,15 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": ".top-nav__social"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": ".top-share"
 		}
 	},
@@ -103047,6 +103227,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".trb_socialize"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".trd-nav-social-container"
 		}
 	},
 	{
@@ -107123,6 +107312,15 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": ".wc_ss_btns"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": ".wccfSocial"
 		}
 	},
@@ -109184,6 +109382,15 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": ".wplogout-social-wrapper"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": ".wps-seo-booster-social-buttons"
 		}
 	},
@@ -110661,6 +110868,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "[data-type=\"twitter-bottom-share\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[data-xtclick^=\"social::\"]"
 		}
 	},
 	{
@@ -118279,6 +118495,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?simkl\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".SimklTVFooterShare"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?tasteofhome\\.com[/:]"
 		},
 		"action": {
@@ -121056,6 +121281,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".interest-bar"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?insidethegames\\.biz[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".inverse.btn-icon"
 		}
 	},
 	{
@@ -124480,6 +124714,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mobilemarketingreads\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".widget_media_image"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?sassyhongkong\\.com[/:]"
 		},
 		"action": {
@@ -127297,6 +127540,24 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?jetzt\\.de[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".social-channels"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pcwelt\\.de[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".social_media_buttons"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?focus\\.de[/:]"
 		},
 		"action": {
@@ -127954,6 +128215,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?androydi\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".author-tw"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?dzair-tube\\.online[/:]"
 		},
 		"action": {
@@ -128103,6 +128373,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".socila"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?androydi\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ss-ic"
 		}
 	},
 	{
@@ -129556,6 +129835,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?3bmeteo\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".form-success.text-center"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?fanpage\\.it[/:]"
 		},
 		"action": {
@@ -130038,6 +130326,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".sp2015-footer-social"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?terranostranews\\.it[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".spu-bg"
 		}
 	},
 	{
@@ -133496,22 +133793,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*-pinterest\\.",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://.*-pinterest_icon\\.",
 			"resource-type": [
 				"image",
@@ -135205,27 +135486,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*-socialMedia\\.",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"unless-domain": [
-				"easy-socialmedia.com",
-				"www.easy-socialmedia.com"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://.*-socialmediashare\\.",
 			"resource-type": [
 				"image",
@@ -135605,57 +135865,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://.*-twitter\\.js",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*-twitter1\\.",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*-twitter14\\.",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*-twitter2\\.",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -153886,6 +154095,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://.*/img/linkedin\\.",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://.*/img/plusgoogle\\.",
 			"resource-type": [
 				"image",
@@ -166448,6 +166674,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://.*/social-widgets-",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://.*/social-youtube-",
 			"resource-type": [
 				"image",
@@ -169675,57 +169918,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*/socialMedia-",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*/socialMedia\\.",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*/socialmedia_",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://.*/socialmediabar_",
 			"resource-type": [
 				"image",
@@ -169896,23 +170088,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*/socialmedias\\.",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://.*/socialmediasajax/",
 			"resource-type": [
 				"image",
@@ -169948,23 +170123,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://.*/socialmediasprites2\\.",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*/socialNet\\.",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -175533,23 +175691,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*/twt1\\.",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://.*/twt_icon\\.",
 			"resource-type": [
 				"image",
@@ -175585,23 +175726,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://.*/twtr_icon_",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*/twttr\\.",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -176521,75 +176645,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*/yahoo_16\\.",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*/yahoobuzz\\.",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*/you-tube-1\\.",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://.*/you-tube-icon\\.",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*/Youicon\\.",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -177320,57 +177376,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*=googleplus_icon\\.",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*=socialtags\\.",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*=xing_icon\\.",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://.*_40x40_dailymotion\\.",
 			"resource-type": [
 				"image",
@@ -177593,57 +177598,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://.*_delicious_btn\\.",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*_email_social_",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*_facebook01\\.",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*_facebook14\\.",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -178237,40 +178191,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*_g\\+_icon\\.",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*_goo_share\\.",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://.*_google_social_",
 			"resource-type": [
 				"image",
@@ -178798,23 +178718,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*_icon_tw\\.",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://.*_icon_twitter_",
 			"resource-type": [
 				"image",
@@ -178833,23 +178736,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://.*_icon_youtube\\.",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*_icon_yt\\.",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -180464,22 +180350,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*_socialmedia_",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://.*_socialmediabox_",
 			"resource-type": [
 				"image",
@@ -180667,92 +180537,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*_technorati_24\\.",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://.*_tumblr_hover\\.",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*_tw_icon\\.",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*_twitter01\\.",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*_twitter3\\.",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*_twitter_24\\.",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -180974,23 +180759,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://.*_youtube-button\\.",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*_youtube_32\\.",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -189974,27 +189742,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*/socialmedia_",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"if-domain": [
-				"defacto.expert",
-				"www.defacto.expert"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://.*/static/themes/.*/img/icons/",
 			"resource-type": [
 				"image"
@@ -191446,6 +191193,8 @@
 			"if-domain": [
 				"9gag.com",
 				"www.9gag.com",
+				"animeworld.tv",
+				"www.animeworld.tv",
 				"arbolabc.com",
 				"www.arbolabc.com",
 				"corrupt-a-file.net",
@@ -191460,6 +191209,8 @@
 				"www.dubox.com",
 				"duolingo.com",
 				"www.duolingo.com",
+				"etoro.com",
+				"www.etoro.com",
 				"febbit.com",
 				"www.febbit.com",
 				"gazeta.uz",
@@ -191485,6 +191236,26 @@
 				"www.sato.fi",
 				"typewriter.at",
 				"www.typewriter.at"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://app\\.degoo\\.com/assets/icons/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"first-party"
 			]
 		},
 		"action": {
@@ -191527,6 +191298,26 @@
 			"url-filter": "^https?://apple\\.com..*/retail-static-landing/icon-social-distancing_large\\.png",
 			"resource-type": [
 				"image"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://arcgis\\.com/apps/Nearby/app/components/Share/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"first-party"
 			]
 		},
 		"action": {
@@ -193579,6 +193370,21 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://etorostatic\\.com",
+			"resource-type": [
+				"script"
+			],
+			"if-domain": [
+				"etoro.com",
+				"www.etoro.com"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://europa\\.eu/webtools/.*/share\\.png",
 			"resource-type": [
 				"image"
@@ -195088,23 +194894,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://huffpost\\.com/assets/js\\.php\\?.*-pinterest\\.js",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://huffpost\\.com/images/social-profile/lightbox/snn_lightbox_close\\.png",
 			"resource-type": [
 				"image",
@@ -195260,6 +195049,20 @@
 			],
 			"load-type": [
 				"third-party"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://icons\\.iconarchive\\.com/icons/",
+			"resource-type": [
+				"image"
+			],
+			"load-type": [
+				"first-party"
 			]
 		},
 		"action": {
@@ -195452,6 +195255,21 @@
 				"media",
 				"raw",
 				"document"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://inoreader\\.com/images/landing/",
+			"resource-type": [
+				"image"
+			],
+			"if-domain": [
+				"inoreader.com",
+				"www.inoreader.com"
 			]
 		},
 		"action": {
@@ -196076,6 +195894,20 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://logo\\.wine/a/logo/",
+			"resource-type": [
+				"image"
+			],
+			"load-type": [
+				"first-party"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://lublin112\\.pl/wp-content/uploads/",
 			"resource-type": [
 				"image"
@@ -196330,23 +196162,6 @@
 			"if-domain": [
 				"meetme.com",
 				"www.meetme.com"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://megabus\\.com/images/megabus-socialmedia-",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
 			]
 		},
 		"action": {
@@ -197029,6 +196844,20 @@
 				"media",
 				"raw",
 				"document"
+			],
+			"load-type": [
+				"first-party"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://onlainporno\\.online..*/images/share/",
+			"resource-type": [
+				"image"
 			],
 			"load-type": [
 				"first-party"
@@ -198059,27 +197888,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://rasset\\.ie/static/news/js/socialMedia\\.js",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"if-domain": [
-				"rte.ie",
-				"www.rte.ie"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://rawstory\\.com/wp-content/uploads/.*-Facebook\\.jpg",
 			"resource-type": [
 				"image",
@@ -198525,9 +198333,13 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://s7\\.addthis\\.com..*/addthis_widget\\.js.*pub=",
+			"url-filter": "^https?://shopify\\.com..*/instafeed\\.min\\.js",
 			"resource-type": [
 				"script"
+			],
+			"if-domain": [
+				"waisttrainer.co.nz",
+				"www.waisttrainer.co.nz"
 			]
 		},
 		"action": {
@@ -198536,7 +198348,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://s7\\.addthis\\.com..*/addthis_widget\\.js.*pubid=",
+			"url-filter": "^https?://staticwars\\.com/combo/_/wp-content/themes/",
 			"resource-type": [
 				"script"
 			]
@@ -199441,6 +199253,20 @@
 				"media",
 				"raw",
 				"document"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://static\\.parastorage\\.com/services/editor-elements/dist/facebookshare\\.",
+			"resource-type": [
+				"script"
+			],
+			"load-type": [
+				"third-party"
 			]
 		},
 		"action": {
