@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: qTXVZhqwFda0LFA+KF6XdQ
-! Version: 202103020701
+! Checksum: ZQ6f9uPTFljrA4ZXRHp3Tw
+! Version: 202104060801
 ! Title: EasyList Portuguese
-! Last modified: 02 Mar 2021 07:01 UTC
+! Last modified: 06 Apr 2021 08:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -96,6 +96,7 @@ _publicidade_
 ##.PublicidadeSidebarSuperior
 ##.ad-container
 ##.ad-topstories
+##.ad_300_300
 ##.adCabecalho
 ##.add_full
 ##.ads20
@@ -215,10 +216,24 @@ bb.com.br#@#.ad-row
 ||misguidedstork.com^$third-party
 ||disappearanceinspiredscan.com^$third-party
 ||skillpropulsion.com^$third-party
+||clxrggmghevqfu.com$third-party
+||edxlewni.com^$third-party
+||pdxgfnnoan.com^$third-party
+||sporedfryhum.com^$third-party
+||statementssupervisorthorough.com^$third-party
+||trysprierratty.com^$third-party
+||closkeyrespond.com^$third-party
+||chewsrompedhemp.com^$third-party
+||vjkjjhbi.com^$third-party
+||olouphoo.com^$third-party
+||suptaibo.com^$third-party
+||bighticeate.com^$third-party
+||dragonspontaneous.com^$third-party
 ! *** Fetched from: https://raw.githubusercontent.com/easylist/easylistportuguese/master/easylistportuguese/easylistportuguese_adservers_popup.txt ***
 ||pweaatek.com^$popup,third-party
 ||unreshiramor.com^$popup,third-party
 ||motivesbreastchopped.com^$popup,third-party
+||rainingvital.com^$popup,third-party
 ! *** Fetched from: https://raw.githubusercontent.com/easylist/easylistportuguese/master/easylistportuguese_adult/adult_adservers.txt ***
 ||avantajadas.com.br^$third-party
 ||loboclick.com^$third-party
@@ -288,12 +303,47 @@ bb.com.br#@#.ad-row
 ||netcine.biz/pusha.js
 ||netcine.biz/popp2.js
 ||atenislisboa.pt/wp-content/uploads/*/bannerFonteViva.gif
+||animesvision.biz/v1/assets/images/xdragon-future.jpg.pagespeed.ic.xUPy0haZCm.webp
+||animesvision.biz/v1/assets/images/330xNxCurso_Funko_Lancamento.png.pagespeed.ic.xow7uENHRF.webp
+||streamix.tv/ST300X600.gif^
+/img/aniclube*.gif^$domain=animeslog.com|animesonlinebr.co
+||noticiasdecoimbra.pt/wp-content/uploads/*.gif?x
+||santiagomagazine.cv/content/img/banner_
+||jornaltransparencia.st/banner_top.
+||jornaltropical.st/rosema_*.gif^
+||jornaltropical.st/lenft.jpg^
+||odemocratagb.com/wp-content/uploads/*/MTN.jpg^
+||odemocratagb.com/wp-content/uploads/*/30B09956-C93C-4043-B09B-E13A87B07E80.jpeg^
+||odemocratagb.com/wp-content/uploads/*-Banner-$image
+||jornalnoticias.co.mz/images/DStv*.gif^
+||folhademaputo.co.mz/banners/
+||cxense.com/cx.cce.js^$domain=agazeta.com.br
+||filmesonlinehdgratis.com.br/_imagens/1xbet-link.gif
+||static.expressodasilhas.cv/media/pub^
+||jornalnopintcha.gw/wp-content/uploads/*/Orange-Money-Jornal-O-Democrata-*.jpg^
+||jornalnopintcha.gw/wp-content/uploads/*/FAGORAL.png^
+||jornaldeangola.ao/fotos/frontend_1/banner^
+||novojornal.co.ao/common/pub/banner^
+||opais.co.ao/wp-content/uploads/*/publicidade-*.jpg^
+||opais.co.ao/wp-content/uploads/*325x280px.
+||opais.co.ao/wp-content/uploads/*-600x850.
+||opais.co.ao/wp-content/uploads/*_1251x210.
+||opais.co.ao/wp-content/banners^
+||narutoonline.com.br/banner.jpg^
+/diariorp.com.br/wp-content/uploads/angwp$domain=diariorp.com.br
+||diariorp.com.br/wp-content/uploads/2021/02/diario-ribeirao-pires-4.gif
+||3djuegos.com/*/skins/
+||acientistaagricola.pt/wp-content/uploads/*/*banner
+||acientistaagricola.pt/wp-content/uploads/*/areaagricola-1.png
+||xat.com/content/web/*/apps/ad/ad.html^
+||guiadosabor.com/wp-content/uploads/$image,domain=animesonlinep.com
 ! *** Fetched from: https://raw.githubusercontent.com/easylist/easylistportuguese/master/easylistportuguese/easylistportuguese_specific_block_popup.txt ***
-$popup,third-party,domain=streamtape.cc
+$popup,third-party,domain=streamtape.cc|redirect-ads.com
 ||futemax.live/imagens/logo2.png$popup
 ||buylnk.com^$popup,domain=gfilmes.net
 /jump/next.php?$popup,domain=yts.mx
 ||landings.ncmfck.com^$popup,domain=mrpiracy.top
+/3djuegos_media_v1^$popup,domain=3djuegos.com
 ! *** Fetched from: https://raw.githubusercontent.com/easylist/easylistportuguese/master/easylistportuguese_adult/adult_specific_block.txt ***
 ||bserver.gp-guia.net^$subdocument
 ||gp-pt.net/forum/banners/$image
@@ -341,17 +391,17 @@ olx.com.br###web_listing_banner_top
 belasmensagens.com.br,rostos.pt,terra.com.br,uol.com.br,vagalume.com.br##.ad
 letras.mus.br##.ad-letra
 tiinside.com.br##.ad1
-record.pt##.ads
+infoescola.com,novojornal.co.ao,record.pt##.ads
 animeplus.org##.adsBody
 terra.com.br,uol.com.br##.advertising
 uol.com.br##.advertising-column
 mercadolivre.com.br##.app-container > .questions-container-banner
-capitalnews.com.br,estadao.com.br,uol.com.br##.banner
+agazeta.com.br,capitalnews.com.br,estadao.com.br,uol.com.br##.banner
 hotelurbano.com##.banner-header
 casasbahia.com.br##.banner-retangulo
 olhardireto.com.br##.banner-rodape
 uol.com.br##.banner-stick
-diarioonline.com.br##.banner-topo
+diarioonline.com.br,uol.com.br##.banner-topo
 metropoles.com##.banner-wrap
 palcomp3.com##.banner_topo
 netvasco.com.br##.bannerquadrado
@@ -403,10 +453,9 @@ brasilescola.uol.com.br##div[style="width: 300px; height: 600px;"]
 mrpiracy.top##a[class^="reserve-button"]
 torredevigilancia.com##.singleBannerWidget
 metropoles.com##.container>.m-coupons-title
-futemax.fm##.alertWS
+futemax.fm,futemax.live##.alertWS
 animesonlinebr.co##a[title="pokemon"]
 portalmie.com##a[href*="portalmie.com/campanhas_empresas/"]
-infoescola.com##.ads
 infoescola.com##div[id^="index-banner"]
 cifraclub.com.br##.floatingBottomAd
 netcine.info##a[href="https://lojadasseries.com.br/"]
@@ -465,10 +514,59 @@ noticiasaominuto.com##.tap
 noticiasaominuto.com,noticiasaominuto.com.br##.pub-container
 lelivros.love##.product_meta
 ewrc-results.com##.main-b
+flash.pt##.pubInContentMargin
+flash.pt##.masthead
+concursosnobrasil.com.br##.label-publicidade
+concursosnobrasil.com.br##div[id^="ads-leitura"]
+concursosnobrasil.com.br##div[id^="ads-home-"]
+radio.net##.topAdSpacer
+e-konomista.pt##.c-publicity
+e-konomista.pt##.r-top-publicity-wrapper
+gazetadopovo.com.br##.c-ads
+gazetadopovo.com.br##.c-ads-clip
+gazetadopovo.com.br##.box-ads-header-home
+pokerpt.com##div[class*="g g-"]
+animesonlinep.com###sidebarGeral
+animesonlinebr.co,superanimes.tv##a[href="https://www.streamix.tv/"]
+anacao.cv###post-sidebar-wrap
+anacao.cv###leader-wrap
+anacao.cv#?##caixapub:-abp-has(div > h3:-abp-contains(PUB))
+santiagomagazine.cv##.ne-banner-layout1
+jornaltransparencia.st###obj1
+odemocratagb.com###text-3
+odemocratagb.com###text-6
+jornalnoticias.co.mz##.bannergroup
+moznews.co.mz##.wpb_content_element
+folhademaputo.co.mz##.bg-pattern-hatch
+brasil247.com##.ad-first-text
+filmesonlinehdgratis.com.br###banner-topo
+poki.com.br##.dd
+expressodasilhas.cv##.pub300
+expressodasilhas.cv##.pub728x90
+jornaldeangola.ao##.banner-container
+jornaldosdesportos.sapo.ao##.mrec
+jornaldosdesportos.sapo.ao##.more-pub
+jornalf8.net##.Ads
+midiacamaleao.com.br###custom_html-5
+diariorp.com.br##div[class^="angwp"]
+3djuegos.com###dst_pub_728
+3djuegos.com##div[style="height:334px"]
+emaisgoias.com.br##.mgs-ads
+acientistaagricola.pt#?#div[id^="media_image"]:-abp-has(>div:-abp-contains(Pub))
+zwame.pt###adslot-side-mrec
+zwame.pt###adslot-top-lead
+correiodopovo.com.br###publi-inicio-post
+correiodopovo.com.br##.adsplaceholder
+bronav.com##.bottom-adv-wrap
+bronav.com##.side-adv-wrap
+oantagonista.com###div-gpt-leaderboard
+oantagonista.com##.anuncio
 ! *** Fetched from: https://raw.githubusercontent.com/easylist/easylistportuguese/master/easylistportuguese_adult/adult_specific_hide.txt ***
 meuscontoseroticos.com##a[rel^="nofollow"]
 meuscontoseroticos.com#?#:-abp-has(> a > div > div > span.thumb-ads)
 meuscontoseroticos.com#?#:-abp-has(> div.contoConteudo > div.conto-thumb > a[rel^="nofollow"])
+nudelas.com###adstopo
+nudelas.com##li[id^="njads_single_widget-"]
 !-----------------------Allowlists to fix broken sites------------------------!
 ! *** Fetched from: https://raw.githubusercontent.com/easylist/easylistportuguese/master/easylistportuguese/easylistportuguese_allowlist.txt ***
 @@||g.doubleclick.net/gampad/ads$xmlhttprequest,domain=magazineluiza.com.br
@@ -477,7 +575,7 @@ meuscontoseroticos.com#?#:-abp-has(> div.contoConteudo > div.conto-thumb > a[rel
 @@||tpc.googlesyndication.com^$document,subdocument,domain=magazineluiza.com.br
 @@||staticz.com.br/advertisement/$image,domain=meliuz.com.br
 @@/detroitchicago/$domain=itigic.com
-@@.br/banners/$domain=roupaprofissional.com.br
+@@.br/banners/$domain=bvirtual.com.br|roupaprofissional.com.br
 @@threads/*publicidade*$domain=portalclassicos.com
 @@||stat-rock.com^$script,media,xmlhttprequest,domain=4shared.com
 @@.pt/images/banners/$domain=fct.pt|ipb.pt

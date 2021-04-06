@@ -293,6 +293,15 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": ".ad_300_300"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": ".adCabecalho"
 		}
 	},
@@ -1009,15 +1018,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?record\\.pt[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".ads"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?animeplus\\.org[/:]"
 		},
 		"action": {
@@ -1077,15 +1077,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".banner-stick"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?diarioonline\\.com\\.br[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".banner-topo"
 		}
 	},
 	{
@@ -1531,15 +1522,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?futemax\\.fm[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".alertWS"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?animesonlinebr\\.co[/:]"
 		},
 		"action": {
@@ -1554,15 +1536,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "a[href*=\"portalmie.com/campanhas_empresas/\"]"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?infoescola\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".ads"
 		}
 	},
 	{
@@ -2017,11 +1990,434 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?flash\\.pt[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".pubInContentMargin"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?flash\\.pt[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".masthead"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?concursosnobrasil\\.com\\.br[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".label-publicidade"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?concursosnobrasil\\.com\\.br[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[id^=\"ads-leitura\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?concursosnobrasil\\.com\\.br[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[id^=\"ads-home-\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?radio\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".topAdSpacer"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?e-konomista\\.pt[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".c-publicity"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?e-konomista\\.pt[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".r-top-publicity-wrapper"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?gazetadopovo\\.com\\.br[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".c-ads"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?gazetadopovo\\.com\\.br[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".c-ads-clip"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?gazetadopovo\\.com\\.br[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".box-ads-header-home"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pokerpt\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[class*=\"g g-\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?animesonlinep\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#sidebarGeral"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?anacao\\.cv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#post-sidebar-wrap"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?anacao\\.cv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#leader-wrap"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?anacao\\.cv#\\?[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "caixapub:-abp-has(div > h3:-abp-contains(PUB))"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?santiagomagazine\\.cv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ne-banner-layout1"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?jornaltransparencia\\.st[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#obj1"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?odemocratagb\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#text-3"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?odemocratagb\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#text-6"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?jornalnoticias\\.co\\.mz[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".bannergroup"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?moznews\\.co\\.mz[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".wpb_content_element"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?folhademaputo\\.co\\.mz[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".bg-pattern-hatch"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?brasil247\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad-first-text"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?filmesonlinehdgratis\\.com\\.br[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#banner-topo"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?poki\\.com\\.br[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".dd"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?expressodasilhas\\.cv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".pub300"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?expressodasilhas\\.cv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".pub728x90"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?jornaldeangola\\.ao[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner-container"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?jornaldosdesportos\\.sapo\\.ao[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".mrec"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?jornaldosdesportos\\.sapo\\.ao[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".more-pub"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?jornalf8\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".Ads"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?midiacamaleao\\.com\\.br[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#custom_html-5"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?diariorp\\.com\\.br[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[class^=\"angwp\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?3djuegos\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#dst_pub_728"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?3djuegos\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[style=\"height:334px\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?emaisgoias\\.com\\.br[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".mgs-ads"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?zwame\\.pt[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#adslot-side-mrec"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?zwame\\.pt[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#adslot-top-lead"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?correiodopovo\\.com\\.br[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#publi-inicio-post"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?correiodopovo\\.com\\.br[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".adsplaceholder"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bronav\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".bottom-adv-wrap"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bronav\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".side-adv-wrap"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?oantagonista\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#div-gpt-leaderboard"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?oantagonista\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".anuncio"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?meuscontoseroticos\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": "a[rel^=\"nofollow\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?nudelas\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#adstopo"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?nudelas\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "li[id^=\"njads_single_widget-\"]"
 		}
 	},
 	{
@@ -4102,6 +4498,266 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://clxrggmghevqfu\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://edxlewni\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://pdxgfnnoan\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://sporedfryhum\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://statementssupervisorthorough\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://trysprierratty\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://closkeyrespond\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://chewsrompedhemp\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://vjkjjhbi\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://olouphoo\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://suptaibo\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://bighticeate\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://dragonspontaneous\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://pweaatek\\.com",
 			"resource-type": [
 				"popup"
@@ -4131,6 +4787,20 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://motivesbreastchopped\\.com",
+			"resource-type": [
+				"popup"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://rainingvital\\.com",
 			"resource-type": [
 				"popup"
 			],
@@ -5142,6 +5812,590 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://animesvision\\.biz/v1/assets/images/xdragon-future\\.jpg\\.pagespeed\\.ic\\.xUPy0haZCm\\.webp",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://animesvision\\.biz/v1/assets/images/330xNxCurso_Funko_Lancamento\\.png\\.pagespeed\\.ic\\.xow7uENHRF\\.webp",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://streamix\\.tv/ST300X600\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*/img/aniclube.*\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"if-domain": [
+				"animeslog.com",
+				"www.animeslog.com",
+				"animesonlinebr.co",
+				"www.animesonlinebr.co"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://noticiasdecoimbra\\.pt/wp-content/uploads/.*\\.gif\\?x",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://santiagomagazine\\.cv/content/img/banner_",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://jornaltransparencia\\.st/banner_top\\.",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://jornaltropical\\.st/rosema_.*\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://jornaltropical\\.st/lenft\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://odemocratagb\\.com/wp-content/uploads/.*/MTN\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://odemocratagb\\.com/wp-content/uploads/.*/30B09956-C93C-4043-B09B-E13A87B07E80\\.jpeg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://odemocratagb\\.com/wp-content/uploads/.*-Banner-",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://jornalnoticias\\.co\\.mz/images/DStv.*\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://folhademaputo\\.co\\.mz/banners/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://cxense\\.com/cx\\.cce\\.js",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"if-domain": [
+				"agazeta.com.br",
+				"www.agazeta.com.br"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://filmesonlinehdgratis\\.com\\.br/_imagens/1xbet-link\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://static\\.expressodasilhas\\.cv/media/pub",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://jornalnopintcha\\.gw/wp-content/uploads/.*/Orange-Money-Jornal-O-Democrata-.*\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://jornalnopintcha\\.gw/wp-content/uploads/.*/FAGORAL\\.png",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://jornaldeangola\\.ao/fotos/frontend_1/banner",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://novojornal\\.co\\.ao/common/pub/banner",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://opais\\.co\\.ao/wp-content/uploads/.*/publicidade-.*\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://opais\\.co\\.ao/wp-content/uploads/.*325x280px\\.",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://opais\\.co\\.ao/wp-content/uploads/.*-600x850\\.",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://opais\\.co\\.ao/wp-content/uploads/.*_1251x210\\.",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://opais\\.co\\.ao/wp-content/banners",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://narutoonline\\.com\\.br/banner\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*/diariorp\\.com\\.br/wp-content/uploads/angwp",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"if-domain": [
+				"diariorp.com.br",
+				"www.diariorp.com.br"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://diariorp\\.com\\.br/wp-content/uploads/2021/02/diario-ribeirao-pires-4\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://3djuegos\\.com/.*/skins/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://acientistaagricola\\.pt/wp-content/uploads/.*/.*banner",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://acientistaagricola\\.pt/wp-content/uploads/.*/areaagricola-1\\.png",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://xat\\.com/content/web/.*/apps/ad/ad\\.html",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://guiadosabor\\.com/wp-content/uploads/",
+			"resource-type": [
+				"image"
+			],
+			"if-domain": [
+				"animesonlinep.com",
+				"www.animesonlinep.com"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://futemax\\.live/imagens/logo2\\.png",
 			"resource-type": [
 				"popup"
@@ -5190,6 +6444,21 @@
 			"if-domain": [
 				"mrpiracy.top",
 				"www.mrpiracy.top"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*/3djuegos_media_v1",
+			"resource-type": [
+				"popup"
+			],
+			"if-domain": [
+				"3djuegos.com",
+				"www.3djuegos.com"
 			]
 		},
 		"action": {
@@ -5308,6 +6577,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://.*espn\\.com\\.br#\\?#:-abp-has\\(> a\\[href.=\"https://www\\.disneyplus\\.com\"\\]\\)",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*acientistaagricola\\.pt#\\?#div\\[id.=\"media_image\"\\]:-abp-has\\(>div:-abp-contains\\(Pub\\)\\)",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -5446,6 +6732,8 @@
 				"document"
 			],
 			"if-domain": [
+				"bvirtual.com.br",
+				"www.bvirtual.com.br",
 				"roupaprofissional.com.br",
 				"www.roupaprofissional.com.br"
 			]

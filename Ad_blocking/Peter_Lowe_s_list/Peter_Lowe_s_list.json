@@ -290,6 +290,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://3337723\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://33across\\.com",
 			"resource-type": [
 				"image",
@@ -1311,6 +1328,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://actionsplash\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://actonsoftware\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -2738,23 +2772,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://ad\\.seznam\\.cz",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://ad\\.simflight\\.com",
 			"resource-type": [
 				"image",
@@ -3045,23 +3062,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://ad\\.xiaomi\\.com",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://ad\\.xmovies8\\.si",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -4337,23 +4337,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://adformdsp\\.net",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://adfries\\.info",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -7600,6 +7583,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://ads\\.datingyes\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://ads\\.delfin\\.bg",
 			"resource-type": [
 				"image",
@@ -10694,23 +10694,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://ads\\.quasaraffiliates\\.com",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://ads\\.quoka\\.de",
 			"resource-type": [
 				"image",
@@ -12309,23 +12292,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://ads\\.zdnet\\.com",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://ads\\.zmarsa\\.com",
 			"resource-type": [
 				"image",
@@ -13618,23 +13584,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://adserver\\.hardsextube\\.com",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://adserver\\.html\\.it",
 			"resource-type": [
 				"image",
@@ -14044,23 +13993,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://adserver\\.sharewareonline\\.com",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://adserver\\.spankaway\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -15267,6 +15199,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://adthurst\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://adtiger\\.de",
 			"resource-type": [
 				"image",
@@ -15319,23 +15268,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://adtology\\.com",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://adtoma\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -16525,23 +16457,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://affbuzzads\\.com",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://affec\\.tv",
 			"resource-type": [
 				"image",
@@ -17324,6 +17239,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://aloofvest\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://alphonso\\.tv",
 			"resource-type": [
 				"image",
@@ -17461,23 +17393,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://amung\\.us",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://analyticin\\.online",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -18123,7 +18038,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://api\\.jetlore\\.com",
+			"url-filter": "^https?://api\\.kameleoon\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -18582,6 +18497,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://at-o\\.net",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://atdmt\\.com",
 			"resource-type": [
 				"image",
@@ -18787,23 +18719,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://audit\\.median\\.hu",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://audit\\.quantcast\\.mgr\\.consensu\\.org",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -21795,23 +21710,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://boost-my-pr\\.de",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://boredcrown\\.com",
 			"resource-type": [
 				"image",
@@ -23240,23 +23138,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://channel1vids\\.com",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://channelintelligence\\.com",
 			"resource-type": [
 				"image",
@@ -23597,23 +23478,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://clearcomb\\.com",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://clevernt\\.com",
 			"resource-type": [
 				"image",
@@ -23649,6 +23513,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://click\\.cartsguru\\.io",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://click\\.email\\.bbc\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -23717,6 +23598,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://click\\.negociosdigitaisnapratica\\.com\\.br",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://click\\.redditmail\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -25042,6 +24940,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://consensu\\.org",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://contadores\\.miarroba\\.com",
 			"resource-type": [
 				"image",
@@ -26266,7 +26181,41 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://custom\\.plausible\\.io",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://customad\\.cnn\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://customers\\.kameleoon\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -26386,6 +26335,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://dabiaozhi\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://dacdn\\.visualwebsiteoptimizer\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -26997,6 +26963,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://dev\\.visualwebsiteoptimizer\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://dianomi\\.com",
 			"resource-type": [
 				"image",
@@ -27406,6 +27389,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://dmtracking2\\.alibaba\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://dnsdelegation\\.io",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -29768,6 +29768,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://fallaciousfifth\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://famousquarter\\.com",
 			"resource-type": [
 				"image",
@@ -30058,6 +30075,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://feedjit\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://feedmob\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -30670,23 +30704,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://freelogs\\.com",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://freeonlineusers\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -32063,41 +32080,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://h3btqpy2abc3\\.com",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://h78xb\\.pw",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://h92zbpn4zcv1\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -34681,23 +34664,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://intentmedia\\.com",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://interactive\\.forthnet\\.gr",
 			"resource-type": [
 				"image",
@@ -35140,6 +35106,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://jads\\.co",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://jaizouji\\.com",
 			"resource-type": [
 				"image",
@@ -35463,7 +35446,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://kameleoon\\.com",
+			"url-filter": "^https?://kameleoon\\.eu",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -38166,6 +38149,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://matomo\\.hdweb\\.ru",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://matomo\\.kmkb\\.ru",
 			"resource-type": [
 				"image",
@@ -38354,23 +38354,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://media-servers\\.net",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://media\\.ftv-publicite\\.fr",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -42365,23 +42348,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://openx\\.aosis\\.co\\.za",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://openx\\.cairo360\\.com",
 			"resource-type": [
 				"image",
@@ -44049,6 +44015,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://pixel\\.condenastdigital\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://pixel\\.digitru\\.st",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -46599,23 +46582,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://rayjump\\.com",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://rb1\\.design\\.ru",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -51766,6 +51732,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://static\\.kameleoon\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://staticads\\.btopenworld\\.com",
 			"resource-type": [
 				"image",
@@ -52277,6 +52260,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://storesurprise\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://storetail\\.io",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -52974,6 +52974,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://tagan\\.adlightning\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://tagcommander\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -56186,6 +56203,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://trck\\.a8\\.net",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://trcking4wdm\\.de",
 			"resource-type": [
 				"image",
@@ -57801,6 +57835,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://vidible\\.tv",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://vidora\\.com",
 			"resource-type": [
 				"image",
@@ -58158,6 +58209,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://vrtzcontextualads\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://vs\\.tucows\\.com",
 			"resource-type": [
 				"image",
@@ -58278,6 +58346,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://warlog\\.ru",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://warmafterthought\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -59213,6 +59298,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://witch-counter\\.de",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://wizaly\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -60165,23 +60267,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://z3dmbpl6309s\\.com",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://z501lpfg9x8v\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",

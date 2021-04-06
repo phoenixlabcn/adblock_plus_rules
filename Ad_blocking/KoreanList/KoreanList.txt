@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: pmPAEPXfwYLrN7T1jVT/yQ
-! Version: 202103020701
+! Checksum: QPG9RsSIWen6eU7k5lsc/w
+! Version: 202104060801
 ! Title: KoreanList
-! Last modified: 02 Mar 2021 07:01 UTC
+! Last modified: 06 Apr 2021 08:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=111
 ! Licence: https://easylist.to/pages/licence.html
@@ -124,19 +124,21 @@ instiz.net#@#.admain
 ||file.kcrwork.com/banner^$image,domain=jejukcr.com
 ||i.imgur.com$image,domain=torrentrz.org
 ||i.imgur.com^$image,domain=marumaru.tech
-||i.imgur.com^$image,domain=torrentview30.com
+||i.imgur.com^$image,domain=torrentview32.com
 ||64.media.tumblr.com$image,domain=sorabada26.com
 ||imgcloud6.net^$image,domain=fxfx40.com
 ||19all.net/data/files/banner^$image,domain=allall44.net
 ||i.imgur.com^$image,domain=tocops.net
-||imgcloud6.net^$image,domain=wtwt60.com
-||1.bp.blogspot.com^$image,domain=blacktoon103.com
-||i.imgur.com$image,domain=torrentgram14.com
+||imgcloud6.net^$image,domain=wtwt65.com
+||1.bp.blogspot.com^$image,domain=blacktoon106.com
+||i.imgur.com$image,domain=torrentgram16.com
 ||i.imgur.com$image,domain=ttobogo.net
 ||images2.imgbox.com$image,domain=ktxtorrent19.com
-||images2.imgbox.com^$image,domain=torrentsir31.com
-||i.imgur.com^$image,domain=torrentwiz20.me
-||i.imgur.com^$image,domain=torrentqq75.com
+||images2.imgbox.com^$image,domain=torrentsir32.com
+||i.imgur.com^$image,domain=torrentqq80.com
+||imgur.com^$image,domain=matown.kr
+||innorame.com$subdocument,domain=tfmedia.co.kr
+||i.imgur.com^$image,domain=torrentwiz23.me
 ! *** Fetched from: https://raw.githubusercontent.com/easylist/KoreanList/master/KoreanList/koreanlist_thirdparty_popup.txt ***
 !----------------------Specific advert blocking filters-----------------------!
 ! *** Fetched from: https://raw.githubusercontent.com/easylist/KoreanList/master/KoreanList/koreanlist_specific_block.txt ***
@@ -506,6 +508,15 @@ instiz.net#@#.admain
 ||ani365.org/assets/images^$image
 ||linktong*.com/img^$image
 ||torrentonly.com/data/zn_banner^$image
+||imyongbook.com/innoy/main/iyb_bn$image
+||newspenguin.com/bannerpop/uploads/image^$image
+||swiftcoding.org/wp-content/uploads^*300x250$image
+||19guide*.com/img^$image
+||linkmozi.com/files/attach/images^$image
+||ttking*.me/ad^$image
+||us1.thetorrent.net/img^$image
+||opinionnews.co.kr/bannerpop/uploads/image^$image||joongdo.co.kr/web//images/banner^$image
+||javzoa.com/img^$image
 ! *** Fetched from: https://raw.githubusercontent.com/easylist/KoreanList/master/KoreanList/koreanlist_specific_block_popup.txt ***
 /slots.php?site=*$popup
 !------------------------Specific element hiding rules------------------------!
@@ -897,11 +908,26 @@ torrenti.co.kr##.widget-box-banner
 torrenti.co.kr###at-right > .widget-side-box > a > img
 torrenti.co.kr##.modal-backdrop
 torrenti.co.kr###ouibounce-modal
-jujutorrent28.com##.npia-board-gallery
+jujutorrent30.com##.npia-board-gallery
 hmovie.net##div[id^="AD_"]
 kr1.ibe.kr###ouibounce-modal
 torrentmax15.com##.container-line-main-m
-torrentweb18.com##.mmmainads
+torrentweb19.com##.mmmainads
+prskorea.co.kr##.small_bnr
+prskorea.co.kr##.imgcarousel1
+dtnews24.com##div[class*="user-banner"]
+sports.chosun.com###breakingNewsTicker
+us1.thetorrent.net###ouibounce-modal
+us1.thetorrent.net##.widget-box-banner
+tfmedia.co.kr##.com_ban
+tfmedia.co.kr##.ht_right
+tfmedia.co.kr##.ht_leftsexbam1.me###hd_pop
+sexbam1.me###manner
+sexbam1.me###topBanner
+sexbam1.me###bnr
+joongdo.co.kr###mobitree
+alldatasheet.co.kr###icbankbannermobile
+alldatasheet.co.kr###idAD2
 !-----------------------Whitelists to fix broken sites------------------------!
 ! *** Fetched from: https://raw.githubusercontent.com/easylist/KoreanList/master/KoreanList/koreanlist_whitelist.txt ***
 @@||ekn.kr/data/banner/banner_1523320274.jpg

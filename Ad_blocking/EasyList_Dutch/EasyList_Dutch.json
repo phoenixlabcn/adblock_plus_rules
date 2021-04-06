@@ -176,6 +176,42 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": ".ad_list_row_normal1"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad_list_row_normal1_no_border"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad_list_row_normal2"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad_list_row_normal2_no_border"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": ".admarkt_bottom_list_header"
 		}
 	},
@@ -195,6 +231,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".adstekst"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".advertenties"
 		}
 	},
 	{
@@ -361,15 +406,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "a[href^=\"http://www.site-id.nl/servlet/___?\"]"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?engineeringnet\\.be[/:]"
 		},
 		"action": {
@@ -415,15 +451,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?rtv-arnhem\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#advertisement"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?viva\\.nl[/:]"
 		},
 		"action": {
@@ -456,15 +483,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#background[title=\"klik\"]"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?medianed\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#ban468"
 		}
 	},
 	{
@@ -550,15 +568,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?flabber\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#bannerMIDDLE-teaser"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?rijnmond\\.nl[/:]"
 		},
 		"action": {
@@ -586,15 +595,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?optimaalfm\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#banners"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?cip\\.nl[/:]"
 		},
 		"action": {
@@ -609,15 +609,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#bredeskyscraper"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?z24\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#bva336x280container"
 		}
 	},
 	{
@@ -649,15 +640,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?nl\\.msn\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#dating"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?acom\\.nl[/:]"
 		},
 		"action": {
@@ -685,15 +667,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?f1today\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#fanfashion"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?tvgids\\.nl[/:]"
 		},
 		"action": {
@@ -717,15 +690,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#game_ban_2"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?nl\\.msn\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#gesponsorde"
 		}
 	},
 	{
@@ -802,24 +766,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?jooble\\.co\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#j-1_ad"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?jooble\\.co\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#j-1_ad2"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?pen\\.nl[/:]"
 		},
 		"action": {
@@ -856,15 +802,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?hollandsheetste\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#ldrbrd"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?techzine\\.nl[/:]"
 		},
 		"action": {
@@ -892,15 +829,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?zdnet\\.be[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#leftwallpaper"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?hetkanwel\\.net[/:]"
 		},
 		"action": {
@@ -915,6 +843,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#middenbanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?eindexamens\\.nu[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#mrectangle"
 		}
 	},
 	{
@@ -951,24 +888,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#partner-logos"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?digitallife\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#partner_block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?forum\\.mokkels\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#portals"
 		}
 	},
 	{
@@ -1059,15 +978,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#rightbar > .artspacer"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?zdnet\\.be[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#rightwallpaper"
 		}
 	},
 	{
@@ -1180,15 +1090,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?flabber\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#site_takeover"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?pu\\.nl[/:]"
 		},
 		"action": {
@@ -1270,15 +1171,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?vmma\\.be[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#syndicatedPlayer_staybehind"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?alternate\\.nl[/:]"
 		},
 		"action": {
@@ -1293,15 +1185,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#tekstlinkrow"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?mistermoney\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#theLayer"
 		}
 	},
 	{
@@ -1342,15 +1225,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?pokercollege\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#verticalbanner"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?zeegat\\.nl[/:]"
 		},
 		"action": {
@@ -1374,15 +1248,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#wdg_promo_kogama"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?telegraaf\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#widget4-300-250"
 		}
 	},
 	{
@@ -1468,29 +1333,11 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?gtaforum\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".__xXadvertentie"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?checkcams\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": ".ab"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?misslipgloss\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".ad3"
 		}
 	},
 	{
@@ -1509,15 +1356,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".adblock_border"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?ncrv\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".add-disclaimer"
 		}
 	},
 	{
@@ -1693,15 +1531,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?ajaxcafe\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".banner.mediumRectangle"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?frequenties\\.net[/:]"
 		},
 		"action": {
@@ -1716,15 +1545,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".banner250"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?joubuis\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".banner468x60"
 		}
 	},
 	{
@@ -1837,15 +1657,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?automatiseringgids\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".bannercontainer"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?wetenschapsforum\\.nl[/:]"
 		},
 		"action": {
@@ -1855,29 +1666,20 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?wassenaarders\\.nl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".bannergroup"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?joomlanl\\.nl[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": ".banneritem"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?dinnersite\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".banners_full"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?dinnersite\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".banners_regio"
 		}
 	},
 	{
@@ -1914,15 +1716,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".bnr_hd_rightcol"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?girlsgogames\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".categoryBanner"
 		}
 	},
 	{
@@ -1981,29 +1774,11 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?uitburo\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".cultural-add-frontpage"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?html-site\\.nl[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": ".cursus"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?kpnvandaag\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".dagaanbiedingenHomeGadget"
 		}
 	},
 	{
@@ -2053,24 +1828,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?verenigingautovandezaak\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".flash_banner_wrapper"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?spots4u\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".footer-banner"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?quizlet\\.nl[/:]"
 		},
 		"action": {
@@ -2103,15 +1860,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".full_banner"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?zelfmaakideetjes\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".g"
 		}
 	},
 	{
@@ -2206,38 +1954,11 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?rtl\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".inlineRectangle"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?wtf\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".item-banner"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?psx-sense\\.nl[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": ".laatstenieuws + * + .scheiding2 + * + * + .postbox"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?ajaxcafe\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".leaderBoard"
 		}
 	},
 	{
@@ -2265,15 +1986,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".lokaal_banner_right"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?woordenlijst\\.eu[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".maincontents > center a[target=\"_blank\"]"
 		}
 	},
 	{
@@ -2332,15 +2044,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?yasni\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".offerbox"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?weer\\.nl[/:]"
 		},
 		"action": {
@@ -2355,15 +2058,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".partnerBox"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?rtl\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".player-companion"
 		}
 	},
 	{
@@ -2485,29 +2179,11 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?twisternederland\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".siyl"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?indeed\\.nl[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": ".sjl.sjas3"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?hollandsheetste\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".skyscrpr"
 		}
 	},
 	{
@@ -2526,15 +2202,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".small_banner"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?studenten\\.net[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".snet-auto-banner"
 		}
 	},
 	{
@@ -2593,15 +2260,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?z24\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".teaser"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?metronieuws\\.nl[/:]"
 		},
 		"action": {
@@ -2656,15 +2314,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?katholieknieuwsblad\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".tm-toolbar"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?wetenschapsforum\\.nl[/:]"
 		},
 		"action": {
@@ -2683,29 +2332,11 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?nutech\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".trackevent[href^=\"/advertorial-\"]"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?popinstituut\\.nl[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": ".trivago_widget_text"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?uitburo\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".uitmail_banner_block"
 		}
 	},
 	{
@@ -2755,15 +2386,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?medianed\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".widget_text[id^=\"text-\"]"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?dichtbij\\.nl[/:]"
 		},
 		"action": {
@@ -2805,15 +2427,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "A[rel^=\"ADVERTORIAL:\"]"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?hababam\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "[id^=\"yui-gen\"].postcontainer"
 		}
 	},
 	{
@@ -2863,15 +2476,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?zdnet\\.be[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "a[href*=\"_redirect.cfm?ad_id=\"]"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?landenweb\\.net[/:]"
 		},
 		"action": {
@@ -2895,15 +2499,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "a[href=\"http://nl.giveawayoftheday.com/\"]"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?nuzakelijk\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "a[href=\"http://www.spaarrente.nl/internetsparen.aspx\"]"
 		}
 	},
 	{
@@ -2980,15 +2575,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?kopen\\.marktplaats\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "a[href^=\"http://koopjes.marktplaats.nl/click.php?\"][rel=\"nofollow\"]"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?filmtotaal\\.nl[/:]"
 		},
 		"action": {
@@ -3012,15 +2598,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "a[href^=\"http://partnerprogramma.bol.com/\"]"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?bet\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "a[href^=\"http://vergelijkdata.com/\"]"
 		}
 	},
 	{
@@ -3097,15 +2674,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?mokkels\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "a[onclick*=\"extern/affiliates/\"]"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?rijnmond\\.nl[/:]"
 		},
 		"action": {
@@ -3129,15 +2697,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "a[rel=\"nofollow\"][target=\"_blank\"]"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?leukstespel\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "a[target=\"_blank\"] > img"
 		}
 	},
 	{
@@ -3187,15 +2746,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?hababam\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "div[class^=\"had\"]"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?sexdumpert\\.nl[/:]"
 		},
 		"action": {
@@ -3232,38 +2782,11 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?ongein\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "div[id$=\"_divAdNL\"]"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?songteksten\\.net[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": "div[id$=\"banner\"]"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?zie\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "div[id^=\"advertisement_\"]"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?hababam\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "div[id^=\"had\"]"
 		}
 	},
 	{
@@ -3327,15 +2850,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "div[style*=\"url(http://static-voetbalzone.nl/images/banners/bannerback.gif)\"]"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?gpupdate\\.net[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "div[style=\"margin: 0px; background-color: #BDCDE4;\"]"
 		}
 	},
 	{
@@ -3457,15 +2971,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?autohunsel\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "table[style=\"WIDTH: 144px; height: 948px\"]"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?joostdevree\\.nl[/:]"
 		},
 		"action": {
@@ -3529,38 +3034,11 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?dreamboxclub\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "td[width=\"227\"] > a[target=\"_blank\"]"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?nieuwsuitnijmegen\\.nl[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": "tr[height=\"150\"]"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?kopen\\.marktplaats\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "tr[onclick^=\"document.location.href=logAdmarktClick\"]"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?kopen\\.marktplaats\\.nl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "tr[onclick^=\"window.open(logAdmarktClick('\"]"
 		}
 	},
 	{
@@ -3713,9 +3191,7 @@
 				"anzeigen-aufgabe-test.de",
 				"www.anzeigen-aufgabe-test.de",
 				"rd.nl",
-				"www.rd.nl",
-				"tweedehands.nl",
-				"www.tweedehands.nl"
+				"www.rd.nl"
 			]
 		},
 		"action": {
@@ -3743,8 +3219,6 @@
 				"www.anzeigen-aufgabe-beta.de",
 				"anzeigen-aufgabe-test.de",
 				"www.anzeigen-aufgabe-test.de",
-				"tweedehands.nl",
-				"www.tweedehands.nl",
 				"rd.nl",
 				"www.rd.nl"
 			]
@@ -4211,101 +3685,8 @@
 			"if-domain": [
 				"autoweek.nl",
 				"www.autoweek.nl",
-				"eredivisielive.nl",
-				"www.eredivisielive.nl",
-				"garagetv.be",
-				"www.garagetv.be",
 				"l1.nl",
 				"www.l1.nl"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://ad-prod\\.ster\\.nl",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"load-type": [
-				"third-party"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://ad-skills-copy\\.nl",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"load-type": [
-				"third-party"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://admatcher\\.videostrip\\.com",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"if-domain": [
-				"q-music.nl",
-				"www.q-music.nl",
-				"radioveronica.nl",
-				"www.radioveronica.nl",
-				"skoften.net",
-				"www.skoften.net",
-				"sport1.nl",
-				"www.sport1.nl",
-				"vi.nl",
-				"www.vi.nl"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://admerize\\.be",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"load-type": [
-				"third-party"
 			]
 		},
 		"action": {
@@ -4414,46 +3795,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://bannerwerving\\.nl",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"load-type": [
-				"third-party"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://bingocamspartners\\.com",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"load-type": [
-				"third-party"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://bluemango\\.nl",
 			"resource-type": [
 				"image",
@@ -4486,9 +3827,7 @@
 			],
 			"if-domain": [
 				"telegraaf.nl",
-				"www.telegraaf.nl",
-				"z24.nl",
-				"www.z24.nl"
+				"www.telegraaf.nl"
 			]
 		},
 		"action": {
@@ -4518,26 +3857,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://camsholland\\.eu",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"load-type": [
-				"third-party"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://camsholland\\.nl",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -4670,21 +3989,12 @@
 			"if-domain": [
 				"2be.be",
 				"www.2be.be",
-				"bnn.nl",
-				"www.bnn.nl",
-				"eenvandaag.nl",
-				"www.eenvandaag.nl",
-				"ftw.nl",
-				"www.ftw.nl",
-				"garagetv.be",
-				"www.garagetv.be",
 				"mtv.nl",
 				"www.mtv.nl",
 				"nederland.fm",
 				"www.nederland.fm",
 				"nickelodeon.nl",
 				"www.nickelodeon.nl",
-				"nl.msn.com",
 				"nos.nl",
 				"www.nos.nl",
 				"opgelicht.nl",
@@ -4695,16 +4005,8 @@
 				"www.puna.nl",
 				"radio.nl",
 				"www.radio.nl",
-				"radiodigitaal.nl",
-				"www.radiodigitaal.nl",
-				"slamfm.nl",
-				"www.slamfm.nl",
-				"tros.nl",
-				"www.tros.nl",
 				"vi.nl",
-				"www.vi.nl",
-				"zie.nl",
-				"www.zie.nl"
+				"www.vi.nl"
 			]
 		},
 		"action": {
@@ -4879,46 +4181,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://inviteonly\\.nl",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"load-type": [
-				"third-party"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://k1s\\.nl",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"load-type": [
-				"third-party"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://kimhollandpartners\\.nl",
 			"resource-type": [
 				"image",
@@ -4960,26 +4222,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://lauwebut\\.nl",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"load-type": [
-				"third-party"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://logolinks\\.reedbusiness\\.nl",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -5079,51 +4321,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://mbuyu\\.nl",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"load-type": [
-				"third-party"
-			],
-			"unless-domain": [
-				"m4n.nl",
-				"www.m4n.nl"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://netdirect\\.nl",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"load-type": [
-				"third-party"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://neukjezuster\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -5203,26 +4401,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://partnerprogramma\\.bol\\.com",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"load-type": [
-				"third-party"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://partnerwebsites\\.financereview\\.nl",
 			"resource-type": [
 				"image",
@@ -5283,26 +4461,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://qads6\\.nl",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"load-type": [
-				"third-party"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://radiocoupon\\.nl",
 			"resource-type": [
 				"image",
@@ -5343,107 +4501,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://samenresultaat\\.nl",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"load-type": [
-				"third-party"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://schoorsteen\\.geenstijl\\.nl",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"load-type": [
-				"third-party"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://semilo\\.com",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"load-type": [
-				"third-party"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://site-id\\.nl",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"load-type": [
-				"third-party"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://sponsorportaal\\.nl",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"load-type": [
-				"third-party"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://sxad\\.nl",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -5503,26 +4561,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://ti\\.tradetracker\\.nl",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"load-type": [
-				"third-party"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://tools\\.islive\\.nl",
 			"resource-type": [
 				"image",
@@ -5543,47 +4581,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://topsiteguide\\.com",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"load-type": [
-				"third-party"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://topzorgverzekeringvergelijken\\.nl",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"load-type": [
-				"third-party"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://ttbe\\.be",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -5763,26 +4761,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://www\\.nettrack\\.nl",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"load-type": [
-				"third-party"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://www2\\.beekje\\.nl",
 			"resource-type": [
 				"image",
@@ -5875,23 +4853,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://bnr\\.agf\\.nl",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://delivery\\.at5\\.nl",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -6911,23 +5872,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://klikbonvoordeel\\.nl/dagdeal\\.php",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://koopon\\.nl/banners/",
 			"resource-type": [
 				"image",
@@ -6962,23 +5906,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://linkruiler\\.nl/links_js\\.php\\?",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://links\\.overzicht\\.nl/links/position\\.php\\?",
 			"resource-type": [
 				"image",
@@ -6988,26 +5915,6 @@
 				"media",
 				"raw",
 				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://maffiagame\\.nl/banner",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"load-type": [
-				"third-party"
 			]
 		},
 		"action": {
@@ -7032,23 +5939,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://members\\.home\\.nl/ajaxf-side/banners/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://metroonline\\.nl/bva/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -7098,23 +5988,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://mijnzusje\\.nl/banners/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://mobqo\\.nl..*/banner",
 			"resource-type": [
 				"image",
@@ -7124,26 +5997,6 @@
 				"media",
 				"raw",
 				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://moneymiljonair\\.nl..*ban",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"load-type": [
-				"third-party"
 			]
 		},
 		"action": {
@@ -7274,23 +6127,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://pagina\\.nl/linkerbanneriframe_version2\\.htm\\?",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://paypro\\.nl/payproads/",
 			"resource-type": [
 				"image",
@@ -7325,23 +6161,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://pokernet\\.nl/images/banners/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://powerconnect\\.be..*/poweractie\\.jpg",
 			"resource-type": [
 				"image",
@@ -7354,57 +6173,6 @@
 			],
 			"load-type": [
 				"third-party"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://prepaidhosted\\.nl/images/banners/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://privespot\\.nl/img/banners/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://quality-control-centre\\.com/commercial/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
 			]
 		},
 		"action": {
@@ -7481,23 +6249,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://s69\\.nl/banners/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://sbsnet\\.nl/sl3/cfg/\\?.*&t=ads&",
 			"resource-type": [
 				"image",
@@ -7516,23 +6267,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://schakelingenonline\\.nl/algemeen/elektuur\\.gif",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://scholieren\\.net/public/.*_wallpaperhi\\.jpg",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -7804,73 +6538,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://strandmeisjes\\.nl/banners/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://streaming\\.orbisvideo\\.com..*\\.mp4",
-			"resource-type": [
-				"media"
-			],
-			"if-domain": [
-				"rtlxl.nl",
-				"www.rtlxl.nl"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://sunjets\\.be/banners/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://thisislive\\.com/promo/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://tienerorgies\\.be/promo/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -7899,23 +6567,6 @@
 			],
 			"load-type": [
 				"third-party"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://triple-it\\.nl/itbizzer/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
 			]
 		},
 		"action": {
@@ -8005,26 +6656,6 @@
 				"media",
 				"raw",
 				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://users\\.pandora\\.be/gad/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"load-type": [
-				"third-party"
 			]
 		},
 		"action": {
@@ -8248,23 +6879,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://wildhitz\\.nl/NLFM/NLFMbanner\\.html",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://x0\\.nl/banners/",
 			"resource-type": [
 				"image",
@@ -8448,40 +7062,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://123beoordeling\\.nl/images/top5_",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://123beoordeling\\.nl..*/banner",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://123video\\.nl/alternate",
 			"resource-type": [
 				"image",
@@ -8568,23 +7148,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://538\\.nl/banners/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://9292ov\\.nl/images/9292-banner\\.gif",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -8969,23 +7532,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://automatiseringgids\\.nl..*/marketing/blokje_",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://autozine\\.nl/promo/banner\\.jpg",
 			"resource-type": [
 				"image",
@@ -9038,40 +7584,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://bestbekeken\\.nl/images/banners/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://bet\\.nl/banners/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://bet\\.nl/images/banners/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -9564,23 +8076,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://deboswachter\\.nl/dysbanner\\.gif",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://dekattensite\\.nl/afbeeldingen/banners/",
 			"resource-type": [
 				"image",
@@ -9701,23 +8196,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://digitaalburg\\.com..*banner",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://dinnersite\\.nl/banner/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -10023,57 +8501,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://examen\\.nl/banners/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://express\\.be/images/banners/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://express\\.be/images/partners/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://farmdate\\.nl/banner/",
 			"resource-type": [
 				"image",
@@ -10261,23 +8688,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://froot\\.nl..*/campagnes/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://gamesquare\\.nl/doc/game/ad_",
 			"resource-type": [
 				"image",
@@ -10346,23 +8756,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://girlsgogames\\.nl/vda/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://goamerika\\.nl/pictures/site_banner",
 			"resource-type": [
 				"image",
@@ -10414,41 +8807,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://goldcash\\.nl/banners/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://gosupermodel\\.com..*banner",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://gpupdate\\.net/if/advertsub/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -10771,23 +9130,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://hoefijzers\\.nl/banner/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://hondenvrienden\\.nl/banner/",
 			"resource-type": [
 				"image",
@@ -10873,41 +9215,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://huizenhype\\.nl/banner/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://hvhonline\\.nl/media/.*_banner_",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://ifanzy\\.nl/flash/banner-",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -10992,23 +9300,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://janlul\\.com/wizi2\\.png",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://janvissersweer\\.nl/images/banners/",
 			"resource-type": [
 				"image",
@@ -11043,23 +9334,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://jooble\\.co\\.nl/banner/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://jouwpage\\.nl/images/banner",
 			"resource-type": [
 				"image",
@@ -11078,40 +9352,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://jouwtomtom\\.nl..*/back_adblock\\.gif",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://katholieknieuwsblad\\.nl/images/banners/onlineluisteren\\.gif",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://katholieknieuwsblad\\.nl/images/banners..*banner",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -11231,23 +9471,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://kinderspelletjes\\.nl/ad/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://kindertv\\.net/images/banners/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -11468,17 +9691,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://leukstespel\\.nl/pop",
-			"resource-type": [
-				"script"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://linkstartje\\.be/banners/",
 			"resource-type": [
 				"image",
@@ -11530,34 +9742,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://madeinkempen\\.be/general/partners/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://maffiawars\\.nl/top\\.php\\?",
-			"resource-type": [
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://mannenpret\\.nl/banners/",
 			"resource-type": [
 				"image",
@@ -11576,23 +9760,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://marktnet\\.nl/bs/loadBanner\\.aspx\\?",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://marktplaats\\.com/css/adminis-min\\.css",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -11655,40 +9822,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://meteovista\\.be/go/banner/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://metliefs\\.nl/banner_",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://mijnalbum\\.nl/afbeeldingen/overlays/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -11824,23 +9957,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://ndss\\.nl/static/ak\\.gif",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://nederland\\.fm/i/.*banner",
 			"resource-type": [
 				"image",
@@ -11960,23 +10076,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://nlondertitels\\.com/img/studentenlening\\.png",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://nolensplein\\.nl/banners/",
 			"resource-type": [
 				"image",
@@ -12028,41 +10127,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://nubijlage\\.nl/files/nubijlage/staatsloterij_336x500\\.swf",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://nuspelen\\.nl/onlineluisteren\\.png",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://nuwerk\\.nl/groepenimages_users/.*banner\\.png",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -12097,23 +10162,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://omejoop\\.be/pop\\.js",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://omroep\\.nl/b/player/banner/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -12317,23 +10365,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://optimaalfm\\.nl/upload/files/banner-left/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://optimalegezondheid\\.com/wp-content/plugins/mowpop/",
 			"resource-type": [
 				"image",
@@ -12371,17 +10402,6 @@
 				"media",
 				"raw",
 				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://partyflock\\.nl/images/.*=http://partyflock\\.nl/jlnk/",
-			"resource-type": [
-				"media"
 			]
 		},
 		"action": {
@@ -12504,23 +10524,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://pinkribbon\\.nl/_files-cms/image/slideshows/actiebanners/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://plattegronden\\.nl/siteadmin/banners/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -12707,23 +10710,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://red\\.nl/images/banner_",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://rhedennieuws\\.nl/scripts/afb_v2\\.js",
 			"resource-type": [
 				"image",
@@ -12742,57 +10728,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://rolhockey\\.be/sponsoring/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://rondomvoetbal\\.nl/images/uploads/frontpage_banners/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://rookmelden\\.nl/images/stories/banner-",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://rtv-arnhem\\.nl..*/fm/userfiles/banner/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -12894,40 +10829,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://scholieren\\.net/public/i/.*radical.*wide",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://scholieren\\.net/public/i/Wallpaper",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://sexdumpert\\.nl/banner/",
 			"resource-type": [
 				"image",
@@ -12946,23 +10847,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://sexdumpert\\.nl/banners/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://sexgamer\\.nl/banners/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -13166,40 +11050,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://spelletjesbox\\.nl/images/banner",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://spelpunt\\.nl/scripts/delivery/gpspcjs\\.php\\?",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://speurders\\.nl..*doubleclick\\.net/adj/",
 			"resource-type": [
 				"image",
@@ -13252,23 +11102,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://startbewijs\\.nl/js/banner_",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://starthosting\\.nl/banners/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -13358,23 +11191,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://static\\.digitallife\\.nl/uploads/.*/.*/.*\\.jpg",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://static\\.macworld\\.nl/uploads/.*/.*/.*\\.jpg",
 			"resource-type": [
 				"image",
@@ -13393,23 +11209,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://static\\.vergelijk\\.nl/data/nl_nl/promos/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://statisch\\.marktplaats\\.com/images/bg_ad_list\\.jpg",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -13511,92 +11310,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://stuff-online\\.nl/images/banners/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://subtitlesnl\\.com/popup\\.js",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://surfert\\.nl/images/flex\\.gif",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://susteren\\.nu/home/wp-content/gallery/sponsors/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://symbolic\\.be/_uploads/dbsbanners/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://tastelikepizza\\.com/media/.*-banner\\.swf",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -13682,23 +11396,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://telegraaf\\.nl..*/templates/banner",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://tienersletjes\\.eu/frame1\\.html",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -14021,23 +11718,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://verenigingautovandezaak\\.nl/img/banners/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://vi\\.nl/files/commercie/4buttons/",
 			"resource-type": [
 				"image",
@@ -14073,23 +11753,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://viastart\\.nl..*/sponsors\\.js",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://vid\\.nl/images/de_filmpje\\.swf",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -14175,23 +11838,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://volkskrant\\.nl/static/nmc/prm/box/images/201",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://vt4\\.be/upload/acties/bose/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -14679,40 +12325,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://z24\\.nl..*/ad_panel\\.css",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://zdnet\\.be/css/1/wallpaper_style_",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://zideo\\.nl/scripts/banner/",
 			"resource-type": [
 				"image",
@@ -14761,73 +12373,12 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://datescoren\\.nl..*\\.pop$",
-			"resource-type": [
-				"popup"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://nuvreemdgaan\\.nl",
-			"resource-type": [
-				"popup"
-			],
-			"load-type": [
-				"third-party"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://seksdatematch\\.nl..*\\.pop$",
-			"resource-type": [
-				"popup"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://stkdx\\.com",
-			"resource-type": [
-				"popup"
-			],
-			"load-type": [
-				"third-party"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://vloerenvoordelig\\.nl",
 			"resource-type": [
 				"popup"
 			],
 			"load-type": [
 				"third-party"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://zalando\\.nl/pop/",
-			"resource-type": [
-				"popup"
 			]
 		},
 		"action": {
@@ -14880,39 +12431,7 @@
 			],
 			"if-domain": [
 				"538.nl",
-				"www.538.nl",
-				"rtl7darts.nl",
-				"www.rtl7darts.nl"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://muziekspot\\.nl/rest/Advertentie/",
-			"resource-type": [
-				"raw"
-			],
-			"if-domain": [
-				"muziekspot.nl",
-				"www.muziekspot.nl"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://staticfinancereview\\.nl/advertenties/",
-			"resource-type": [
-				"image"
-			],
-			"if-domain": [
-				"rente.nl",
-				"www.rente.nl"
+				"www.538.nl"
 			]
 		},
 		"action": {
@@ -14926,8 +12445,6 @@
 				"script"
 			],
 			"if-domain": [
-				"girlsgogames.nl",
-				"www.girlsgogames.nl",
 				"spel.nl",
 				"www.spel.nl",
 				"spelletjes.nl",
@@ -14945,27 +12462,10 @@
 				"script"
 			],
 			"if-domain": [
-				"girlsgogames.nl",
-				"www.girlsgogames.nl",
 				"spel.nl",
 				"www.spel.nl",
 				"spelletjes.nl",
 				"www.spelletjes.nl"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://ad4\\.liverail\\.com/\\?LR_VERTICALS=videostrip_nl,",
-			"resource-type": [
-				"raw"
-			],
-			"if-domain": [
-				"twentefans.nl",
-				"www.twentefans.nl"
 			]
 		},
 		"action": {
@@ -15037,75 +12537,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://admatcher\\.videostrip\\.com/\\?format=mp4,",
-			"resource-type": [
-				"media"
-			],
-			"if-domain": [
-				"herhaling.nl",
-				"www.herhaling.nl",
-				"myradio.nl",
-				"www.myradio.nl",
-				"radioveronica.nl",
-				"www.radioveronica.nl",
-				"tvgids.tv",
-				"www.tvgids.tv",
-				"voetbalprimeur.nl",
-				"www.voetbalprimeur.nl"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://admatcher\\.videostrip\\.com/\\?format=mp4,",
-			"resource-type": [
-				"raw"
-			],
-			"if-domain": [
-				"nederland.fm",
-				"www.nederland.fm",
-				"ongein.nl",
-				"www.ongein.nl",
-				"radio10.nl",
-				"www.radio10.nl",
-				"radioluisteren.fm",
-				"www.radioluisteren.fm",
-				"twentefans.nl",
-				"www.twentefans.nl"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://admatcher\\.videostrip\\.com/crossdomain\\.xml",
-			"resource-type": [
-				"media"
-			],
-			"if-domain": [
-				"herhaling.nl",
-				"www.herhaling.nl",
-				"myradio.nl",
-				"www.myradio.nl",
-				"radioveronica.nl",
-				"www.radioveronica.nl",
-				"tvgids.tv",
-				"www.tvgids.tv",
-				"voetbalprimeur.nl",
-				"www.voetbalprimeur.nl"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://ads\\.spilgames\\.com/ad/pb/1/.*/.*\\?",
 			"resource-type": [
 				"script"
@@ -15128,8 +12559,6 @@
 				"script"
 			],
 			"if-domain": [
-				"girlsgogames.nl",
-				"www.girlsgogames.nl",
 				"spel.nl",
 				"www.spel.nl",
 				"spelletjes.nl",
@@ -15162,8 +12591,6 @@
 				"script"
 			],
 			"if-domain": [
-				"girlsgogames.nl",
-				"www.girlsgogames.nl",
 				"spel.nl",
 				"www.spel.nl",
 				"spelletjes.nl",
@@ -15189,6 +12616,20 @@
 			"if-domain": [
 				"9292.nl",
 				"www.9292.nl"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://aka\\.spotxcdn\\.com/integration/ados/v1/ados\\.js",
+			"resource-type": [
+				"script"
+			],
+			"if-domain": [
+				"www.radioluisteren.fm"
 			]
 		},
 		"action": {
@@ -15290,6 +12731,20 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://cdn\\.spotxcdn\\.com/integration/easi/v1/easi\\.js",
+			"resource-type": [
+				"script"
+			],
+			"if-domain": [
+				"www.radioluisteren.fm"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://cdnservices\\.com/webads_smarttags\\.v2\\.js",
 			"resource-type": [
 				"image",
@@ -15334,21 +12789,6 @@
 			"if-domain": [
 				"hbvl.be",
 				"www.hbvl.be"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://doubleclick\\.net..*adj/ster_cinema\\.nl/preroll;",
-			"resource-type": [
-				"script"
-			],
-			"if-domain": [
-				"cinema.nl",
-				"www.cinema.nl"
 			]
 		},
 		"action": {
@@ -15596,9 +13036,7 @@
 			],
 			"if-domain": [
 				"538.nl",
-				"www.538.nl",
-				"slamfm.nl",
-				"www.slamfm.nl"
+				"www.538.nl"
 			]
 		},
 		"action": {
@@ -15629,9 +13067,6 @@
 			"if-domain": [
 				"2be.be",
 				"www.2be.be",
-				"syndication.vmma.be",
-				"vitaya.be",
-				"www.vitaya.be",
 				"vtm.be",
 				"www.vtm.be",
 				"vtmkzoom.be",
@@ -15657,9 +13092,6 @@
 			"if-domain": [
 				"2be.be",
 				"www.2be.be",
-				"syndication.vmma.be",
-				"vitaya.be",
-				"www.vitaya.be",
 				"vtmkzoom.be",
 				"www.vtmkzoom.be"
 			]
@@ -15670,13 +13102,12 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://longtailvideo\\.com/5/ova/ova-jw\\.swf",
+			"url-filter": "^https?://js\\.spotx\\.tv/ados/v1/106185\\.js",
 			"resource-type": [
-				"media"
+				"script"
 			],
 			"if-domain": [
-				"538.nl",
-				"www.538.nl"
+				"www.radioluisteren.fm"
 			]
 		},
 		"action": {
@@ -15806,27 +13237,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://partner\\.googleadservices\\.com/gampad/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"if-domain": [
-				"jaggle.nl",
-				"www.jaggle.nl"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://partner\\.googleadservices\\.com/gpt/pubads_impl_",
 			"resource-type": [
 				"script"
@@ -15857,13 +13267,12 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://smartinit\\.webads\\.nl/bin/smartinit\\.dll\\?",
+			"url-filter": "^https?://search\\.spotxchange\\.com/js/spotx\\.js",
 			"resource-type": [
 				"script"
 			],
 			"if-domain": [
-				"vi.nl",
-				"www.vi.nl"
+				"www.radioluisteren.fm"
 			]
 		},
 		"action": {
@@ -15872,19 +13281,13 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://spilcdn\\.com..*/js/advertisement/css/sgadgirls\\.css",
+			"url-filter": "^https?://smartinit\\.webads\\.nl/bin/smartinit\\.dll\\?",
 			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
+				"script"
 			],
 			"if-domain": [
-				"girlsgogames.nl",
-				"www.girlsgogames.nl"
+				"vi.nl",
+				"www.vi.nl"
 			]
 		},
 		"action": {
@@ -15904,12 +13307,24 @@
 				"document"
 			],
 			"if-domain": [
-				"girlsgogames.nl",
-				"www.girlsgogames.nl",
 				"spel.nl",
 				"www.spel.nl",
 				"spelletjes.nl",
 				"www.spelletjes.nl"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://sync\\.search\\.spotxchange\\.com/partner\\?source=easi",
+			"resource-type": [
+				"image"
+			],
+			"if-domain": [
+				"www.radioluisteren.fm"
 			]
 		},
 		"action": {
@@ -15970,8 +13385,6 @@
 				"media"
 			],
 			"if-domain": [
-				"rtl.nl",
-				"www.rtl.nl",
 				"rtlxl.nl",
 				"www.rtlxl.nl"
 			]
@@ -16049,10 +13462,6 @@
 			"if-domain": [
 				"2be.be",
 				"www.2be.be",
-				"jim.be",
-				"www.jim.be",
-				"vitaya.be",
-				"www.vitaya.be",
 				"vtm.be",
 				"www.vtm.be",
 				"vtmkzoom.be",
@@ -16078,47 +13487,6 @@
 			"if-domain": [
 				"vtm.be",
 				"www.vtm.be"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://libs\\.medialaancdn\\.be/data/freewheel/.*//admanager/checkup\\.js",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"if-domain": [
-				"watch.stievie.be"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://pagead2\\.googlesyndication\\.com/pagead/show_ads\\.js",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"if-domain": [
-				"alfaforum.nl",
-				"www.alfaforum.nl"
 			]
 		},
 		"action": {
@@ -16164,11 +13532,7 @@
 			"if-domain": [
 				"2be.be",
 				"www.2be.be",
-				"jim.be",
-				"www.jim.be",
 				"syndication.vmma.be",
-				"vitaya.be",
-				"www.vitaya.be",
 				"vtmkzoom.be",
 				"www.vtmkzoom.be"
 			]
@@ -16417,40 +13781,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://zeelandnet\\.nl/prikbord/assets/.*/advertentie\\.js",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://zeelandnet\\.nl/prikbord/assets/.*/advertenties\\.js",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://2ndhandbrand\\.nl/css/advertisment\\.css",
 			"resource-type": [
 				"image",
@@ -16558,17 +13888,6 @@
 			],
 			"load-type": [
 				"first-party"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://cinema\\.nl/ads/mediaplayer\\.jsp\\?",
-			"resource-type": [
-				"document"
 			]
 		},
 		"action": {
@@ -16703,17 +14022,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://hebbes\\.be..*/AdsImages/",
-			"resource-type": [
-				"image"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://johanpolling\\.com/banners/",
 			"resource-type": [
 				"image",
@@ -16776,40 +14084,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://marktplaats\\.com/gzip_.*/aurora/bundles/adsense-common\\.js",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://marktplaats\\.com/gzip_.*/aurora/res/js/common/AdSense\\.js",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://media\\.shopvip\\.com/banners/",
 			"resource-type": [
 				"image"
@@ -16825,40 +14099,9 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://metdehand\\.nl/var/ads/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"load-type": [
-				"first-party"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://milkinc\\.be/ad\\.php$",
 			"resource-type": [
 				"document"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://myradio\\.nl/sounds/reclame/.*/commercial-",
-			"resource-type": [
-				"media"
 			]
 		},
 		"action": {
@@ -16893,17 +14136,6 @@
 				"www.kinepolis.be",
 				"kinepolis.com",
 				"www.kinepolis.com"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://optimaalfm\\.nl/upload/optimaalfm/Image/reclame/",
-			"resource-type": [
-				"image"
 			]
 		},
 		"action": {
@@ -16981,23 +14213,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://sbat\\.be/pages/banner\\.php",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://studenten\\.net/_cache/uniframe/img/background-728x90\\.snet\\.jpg",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -17099,45 +14314,6 @@
 			"if-domain": [
 				"xxxplaza.nl",
 				"www.xxxplaza.nl"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://zomoto\\.nl/js/advertisement\\.js\\?",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://zuka\\.nl/images/ad_",
-			"resource-type": [
-				"image"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://alfaforum\\.nl/forum/images/misc/vbulletin4_logo\\.png#",
-			"resource-type": [
-				"image"
 			]
 		},
 		"action": {

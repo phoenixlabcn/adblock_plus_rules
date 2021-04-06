@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: N8kfzOMGQiPudr+6Qvtd9g
-! Version: 202103020701
+! Checksum: 3yt8J0hdcm3E/EnOhG4PmQ
+! Version: 202104060801
 ! Title: EasyList Spanish
-! Last modified: 02 Mar 2021 07:01 UTC
+! Last modified: 06 Apr 2021 08:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -454,6 +454,42 @@ xunta.gal#@#div[id^="anuncio"]
 ||tkxiavegstgq.com^$third-party
 ||ipfmbexfdzb.com^$third-party
 ||riminghoggoofy.com^$third-party
+||cdnaqw.com^$third-party
+||clxrggmghevqfu.com$third-party
+||tgvbwjbnxz.com^$third-party
+||yawcoynag.com^$third-party
+||eergithi.com^$third-party
+||edxlewni.com^$third-party
+||gadsatz.com^$third-party
+||ograuwih.com^$third-party
+||hufwitew.com^$third-party
+||pdxgfnnoan.com^$third-party
+||sorryfearknockout.com^$third-party
+||capsheirspages.com^$third-party
+||asuppsttp.com^$third-party
+||bhwcfwjz.com^$third-party
+||hoowooze.net^$third-party
+||gompoozu.net^$third-party
+||alawachi.net^$third-party
+||vilercarpetfolk.com^$third-party
+||jggqgavrqkudu.com^$third-party
+||jcwuzktevijp.com^$third-party
+||basheighthnumerous.com^$third-party
+||pigtisetdilqsi.com^$third-party
+||jggqgavrqkudu.com^$third-party
+||followmalnutritionjeanne.com^$third-party
+||vjkjjhbi.com^$third-party
+||batteryfirmimage.com^$third-party
+||significantlyentering.com^$third-party
+||htuczktvwtsf.com^$third-party
+||oxqxopomikpqk.com^$third-party
+||palasidesdoor.com^$third-party
+||tczzzlwpss.com^$third-party
+||boasstylijoked.com^$third-party
+||dellswhinyrank.com^$third-party
+||soawhoaw.com^$third-party
+||qbgrlltue.com^$third-party
+||ctromgvroh.com^$third-party
 ! *** easylistspanish:easylistspanish/easylistspanish_adservers_popup.txt ***
 ||104.154.237.193^$popup,third-party
 ||35.188.59.75^$popup,third-party
@@ -500,6 +536,13 @@ xunta.gal#@#div[id^="anuncio"]
 ||highrevenuecpm.com^$popup,third-party
 ||humorshieldrecede.com^$popup,third-party
 ||zatythygre.pro^$popup,third-party
+||gadsatz.com^$popup,third-party
+||3r1kwxcd.top^$popup,third-party
+||coolbytesgrill.com^$popup,third-party
+||searsbushelbus.com^$third-party
+||putstairboor.com^$third-party
+||significantlyentering.com^$popup,third-party
+||rainingvital.com^$popup,third-party
 ! *** easylistspanish:easylistspanish_adult/adult_adservers.txt ***
 broced.co^$third-party
 ||cosmeticsgenerosity.com^$third-party
@@ -520,11 +563,14 @@ broced.co^$popup,third-party
 ||d20903hof2l33q.cloudfront.net^
 ||d18t35yyry2k49.cloudfront.net^
 ||boostcpm.su/boost*$third-party
+||allguiderecipes.info^$subdocument,third-party
+||n.gameads.io^$third-party
 ! *** easylistspanish:easylistspanish/easylistspanish_thirdparty_popup.txt ***
 ||goo.gl^$popup,third-party,domain=zonatorrent.es
 ||deliver.vkcdnservice.com^$popup,third-party
 ||badshores.com/*^publisher_code$popup,third-party
 ||streams.lerroyje.xyz^$popup,third-party
+||foxcdn.me/*.htm^$popup,third-party
 ! *** easylistspanish:easylistspanish_adult/adult_thirdparty.txt ***
 ! *** easylistspanish:easylistspanish_adult/adult_thirdparty_popup.txt ***
 !----------------------Specific advert blocking filters-----------------------!
@@ -875,7 +921,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||pescare.com.ar/wp-content/uploads/2015/10/bpg5.jpg
 ||pescare.com.ar/wp-content/uploads/2015/10/solimeno.jpg
 ||pirlotv.es/js/anuncio.js
-||pivigames.blog/wp-content/uploads/*-750x100-
+||pivigames.blog/wp-content/uploads/*750x100
 ||planbnoticias.com.ar/pb/wp-content/uploads/2017/03/IMG_0762.jpg
 ||planbnoticias.com.ar/pb/wp-content/uploads/2017/05/gif-*-de-socios.gif
 ||planbnoticias.com.ar/pb/wp-content/uploads/2017/05/Pauta2017-300x300.jpg
@@ -1021,8 +1067,7 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||mediaserver.emol.cl/*/json*$script
 ||xm0siulufost.com^$script,third-party,domain=4channel.org
 ||dewincubiatoll.com^$script,domain=9movies.yt
-||tontent.powv1deo.cc^$script,subdocument
-||tontent.povwideo.me^$script,subdocument
+||tontent.p*deo.*/*.hh^$script,subdocument
 ||gameflare.com/common/promotions/own-images/$subdocument
 ||moontuftboy.com^$script,third-party,domain=animeblix.com
 ||videoo.tv^$script,domain=aulafacil.com
@@ -1089,6 +1134,24 @@ $third-party,xmlhttprequest,domain=animeflv.net|descargasnsn.com|divxatope.com|d
 ||descargasdd.net/images/amazon.gif
 ||dontorrents.org/images/startgaming*.jpg
 ||elcordillerano.com.ar/uploads/archivos/$image
+||net-storage.tccstatic.com/storage/esfutbol.net/banner/$image
+||net-static.tccstatic.com/template/todoblaugrana.com/tmw/banner/$image
+||recursos.equipohumano.com/*_plubli/enlace.html^$subdocument,domain=valenciaplaza.com
+/public/Image/*banner*^$image,domain=alicanteplaza.es|castellonplaza.com|valenciaplaza.com
+||mercadosonora.com.mx/wp-content/uploads/*/32X320BIOTIQUIN.png
+||googleusercontent.com/proxy^$image,domain=paralelohoy.com.ar
+||notifalcon.com/wp-content/uploads/*/cropped*.jpg
+||animeflv.net/assets/animeflv/img/banner-ember-2.png
+||pelishouse.com/wp-content/uploads/*/descargar.png
+||pelishouse.com/wp-content/uploads/*/ver.png
+||seriesgrey.com/xdc.html^
+||3djuegos.com/*/skins/
+||deia.eus/elementosWeb/gestionCajas/DEI/Image/*//LARIBERA-banner-deia-*.gif^
+||hoyaragon.es/wp-content/uploads/*300x*
+||hoyaragon.es/wp-content/uploads/*_bmw_phev_nunca_tan_libre_descuento_goya_automocion_display_1000x250-*2.jpg
+||hoyaragon.es/wp-content/uploads/*arvesa
+||agma.io/img/agmaAd/
+||seriesypelisonline.com/wp-content/uploads/*/me-corro.png
 ! Anti-Adblock
 ||epasatiempos.es/js/af.js
 ||epasatiempos.es/js/dab.js
@@ -1124,9 +1187,14 @@ $popup,third-party,domain=divxtotal.co|mejortorrentt.net|yourupload.com|embedsit
 ||doramasmp4.com/en.svg$popup
 ||pepeliculas.org/mira-video1^$popup
 /jump/next.php?$popup,domain=yts.mx
-/wp-content/plugins/all-click/sda.php^$popup,domain=gnula.site
+/wp-content/plugins/all-click/sda.php^$popup,domain=gnula.site|cine-calidad.com
 ||ruralvia.com^$popup,domain=horajaen.com
 ||waaw.*/out.php^$popup
+||pctreload1.com/pctn/library/content/template/images/logos/pctreload1.png^$popup
+||foxcdn.me^$popup,domain=telerium.digital
+||tontent.p*deo.*/*.hh^$popup
+||cintent.streanplay.cc^$popup
+/3djuegos_media_v1^$popup,domain=3djuegos.com
 ! *** easylistspanish:easylistspanish_adult/adult_specific_block.txt ***
 /^https?:\/\/spalumi\.com\/\w+\.[a-z]{3}/$image,domain=spalumi.com
 |http://$script,third-party,domain=mujeres-desnudas.com
@@ -1142,7 +1210,6 @@ $popup,third-party,domain=divxtotal.co|mejortorrentt.net|yourupload.com|embedsit
 ||paraisowebcam.com^$subdocument,third-party
 ||pic-upload.xyz/images/2017/02/18/sKh2MNmQ.png
 ||pic-upload.xyz/images/2017/11/13/bannertzvercomics.jpg
-||ra.poringa.net^
 ||tangasmix.com/img-ban-ep/
 ||tangasmix.com/inc/adds/
 ||teatroporno.com/ai/
@@ -1157,6 +1224,7 @@ $popup,third-party,domain=divxtotal.co|mejortorrentt.net|yourupload.com|embedsit
 .me^$script,domain=topmanhwa.net
 ||pornoplay.online/tarot*.webp
 ||mundosexanuncio.com/img_es/banners/
+||pinklabel.com/tools/live-banners^$subdocument,domain=poringa.net
 ! *** easylistspanish:easylistspanish_adult/adult_specific_block_popup.txt ***
 |http://$popup,domain=mujeres-desnudas.com
 !------------------------Specific element hiding rules------------------------!
@@ -2057,6 +2125,40 @@ wordmagicsoft.com###bt_aws_ad_slot_1
 libertaddigital.com###mega-atf
 kiwilimon.com##div[class^="pubcaja"]
 elcordillerano.com.ar##div[class^="contenedor_banner_"]
+telefe.com##.tlf-ad
+mundodeportivo.com##.publi-box
+bernabeudigital.com##.placeholder
+bernabeudigital.com##.center
+todoblaugrana.com###slimbanner
+todoblaugrana.com##div[style^="overflow: hidden"]
+alicanteplaza.es,castellonplaza.com,valenciaplaza.com##.banner--
+castellonplaza.com##.banner--megabanner
+diariodeibiza.es,diariodemallorca.es,laprovincia.es##.no-baldomero
+playpaste.com##a[href*="wg-aff.com/click?"]
+recetasfacilescocina.com#?#section > h3:-abp-contains(Publicidad)
+pivigames.blog##a[href^="https://bstk.me/"]
+futbolhoy.com.ar###custom_html-4
+macrojuegos.com##.gad
+onlineradiobox.com##div[class^="banner--"]
+sport.es###z-sites-na
+sport.es##.ob-p
+laprensagrafica.com##.banner
+laprensagrafica.com##.banner2
+miarevista.es,muyinteresante.es##.mega1
+miarevista.es,muyinteresante.es##.mega2
+miarevista.es##.mega--desktop
+tokyvideo.com##.intensive-add
+tokyvideo.com##.fan
+pelishouse.com###fakeplayer
+seriesgrey.com##.a728
+tudiscovery.com##div[data-testid="test-ads"]
+3djuegos.com###dst_pub_728
+3djuegos.com##div[style="height:334px"]
+elespanol.com##.comments-adv
+hoyaragon.es##.titulo-publicidad
+hoyaragon.es##.addg
+agma.io###advertDialog1
+todomercadoweb.es##div[style="height:270px; padding: 10px 0;"]
 ! Site Specific filters (used with $generichide)
 eleconomista.es##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
 ! Anti-Adblock
@@ -2316,6 +2418,7 @@ pornoplay.online##div[class^="happy-"]
 @@||ads.ampliffy.com/gampad/$domain=videos.memedeportes.com|videos.cuantarazon.com|videos.vistoenlasredes.com|videos.vrutal.com|videos.humorenserie.com
 ! *** easylistspanish:easylistspanish/easylistspanish_allowlist_dimensions.txt ***
 ! *** easylistspanish:easylistspanish/easylistspanish_allowlist_popup.txt ***
+@@|data:text^$popup,domain=atspace.cc
 ! *** easylistspanish:easylistspanish_adult/adult_allowlist.txt ***
 @@||spalumi.com/avatars/$image,domain=spalumi.com
 @@||spalumi.com/clear.gif$image,domain=spalumi.com

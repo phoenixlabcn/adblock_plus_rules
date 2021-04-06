@@ -28004,6 +28004,15 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": "div[id^=\"div-gpt-promo-\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": "div[id^=\"divsda-\"]"
 		}
 	},
@@ -36874,6 +36883,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?expressio\\.fr[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".promoted-vcontainer"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?tf1\\.fr[/:]"
 		},
 		"action": {
@@ -40623,15 +40641,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "a[href^=\"https://www.bing.com/aclk?\"]"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?capital\\.fr[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "a[href^=\"https://www.bod.fr/capital.html?\"]"
 		}
 	},
 	{
@@ -97011,7 +97020,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*://pop\\..*&",
+			"url-filter": "^https?://.*://pop\\..*\\.&",
 			"resource-type": [
 				"popup"
 			]
@@ -97022,7 +97031,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*://pop\\..*\\?",
+			"url-filter": "^https?://.*://pop\\..*\\.\\?",
 			"resource-type": [
 				"popup"
 			]
@@ -97033,7 +97042,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*://pops\\.",
+			"url-filter": "^https?://.*://pops\\..*\\.",
 			"resource-type": [
 				"popup"
 			]
@@ -120513,6 +120522,26 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://pushinpage\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://pushmejs\\.com",
 			"resource-type": [
 				"image",
@@ -133736,6 +133765,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://adtracker2\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://advicethrew\\.com",
 			"resource-type": [
 				"image",
@@ -134077,6 +134123,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://allfreecounter\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://allmobexpo\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -139465,6 +139528,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://divatraffic\\.bid",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://djrvqpg\\.com",
 			"resource-type": [
 				"image",
@@ -140724,6 +140804,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://encoding\\.ovh",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://enflaquat\\.xyz",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -146452,6 +146549,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://installnow\\.pro",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://interedy\\.info",
 			"resource-type": [
 				"image",
@@ -148748,6 +148862,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://laustooh\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://lawnjinsi\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -154714,6 +154845,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://prize-youhere\\.life",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://probrabeuo\\.xyz",
 			"resource-type": [
 				"image",
@@ -157978,6 +158126,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://serverdownload\\.space",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://servw\\.bid",
 			"resource-type": [
 				"image",
@@ -159882,6 +160047,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://susifhfh2d8ldn09\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://susm0q6jys\\.com",
 			"resource-type": [
 				"image",
@@ -161481,6 +161663,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://transfto\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://treat93tubethanks\\.live",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -165850,6 +166049,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://zuzodoad\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://zvetokr2hr8pcng09\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -189788,6 +190004,26 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://app\\.partnerlottery\\.com/widget/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://appleboobs\\.com/images/banner/",
 			"resource-type": [
 				"image",
@@ -197238,6 +197474,40 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://img\\.nuxit\\.com/banners/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://img\\.pmdstatic\\.net/scale/.*/300xauto/.*/picture\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://img\\.pmdstatic\\.net/scale/.*/360xauto/.*/picture\\.gif",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -207049,6 +207319,26 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://terraiptv\\.com/assets/promo/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://test-psycho\\.com/meetic\\.gif",
 			"resource-type": [
 				"image",
@@ -214491,6 +214781,8 @@
 				"www.yggtorrent.ch",
 				"yggtorrent.gg",
 				"www.yggtorrent.gg",
+				"yggtorrent.li",
+				"www.yggtorrent.li",
 				"yggtorrent.pe",
 				"www.yggtorrent.pe",
 				"yggtorrent.se",
@@ -214630,6 +214922,8 @@
 				"www.yggtorrent.ch",
 				"yggtorrent.gg",
 				"www.yggtorrent.gg",
+				"yggtorrent.li",
+				"www.yggtorrent.li",
 				"yggtorrent.pe",
 				"www.yggtorrent.pe",
 				"yggtorrent.se",
@@ -254915,6 +255209,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://telesatellite\\.com/images/tvcorner-",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://tendancehotellerie\\.fr/img/gif/",
 			"resource-type": [
 				"image",
@@ -261543,6 +261854,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://.*korben\\.info#\\?#div\\[class.*=\"sous-article\"\\]:-abp-has\\(a\\[href.=\"http://amzn\\.to/\"\\]\\)",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://.*lebigdata\\.fr#\\?#\\.elementor-widget-wrap:-abp-has\\(a\\[href.=\"http://clickmetertracking\\.com/\"\\]\\)",
 			"resource-type": [
 				"image",
@@ -266525,6 +266853,21 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://bs\\.serving-sys\\.com/Serving/adServer\\.bs\\?",
+			"resource-type": [
+				"popup"
+			],
+			"if-domain": [
+				"guide-epargne.be",
+				"www.guide-epargne.be"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://cdn\\.adswizz\\.com/adswizz/js/SynchroClient2\\.js",
 			"resource-type": [
 				"script"
@@ -268809,6 +269152,8 @@
 				"www.mstream.rocks",
 				"mstream.space",
 				"www.mstream.space",
+				"mstream.tech",
+				"www.mstream.tech",
 				"mstream.website",
 				"www.mstream.website",
 				"mstream.xyz",
@@ -269504,11 +269849,46 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://mscontent\\.net/x/",
+			"resource-type": [
+				"image"
+			],
+			"if-domain": [
+				"mstream.best",
+				"www.mstream.best",
+				"mstream.fun",
+				"www.mstream.fun",
+				"mstream.icu",
+				"www.mstream.icu",
+				"mstream.press",
+				"www.mstream.press",
+				"mstream.rocks",
+				"www.mstream.rocks",
+				"mstream.space",
+				"www.mstream.space",
+				"mstream.tech",
+				"www.mstream.tech",
+				"mstream.website",
+				"www.mstream.website",
+				"mstream.xyz",
+				"www.mstream.xyz",
+				"mystream.to",
+				"www.mystream.to"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://mstream\\.website",
 			"resource-type": [
 				"document"
 			],
 			"if-domain": [
+				"mstream.tech",
+				"www.mstream.tech",
 				"mystream.to",
 				"www.mystream.to"
 			]
@@ -269536,6 +269916,8 @@
 				"www.mstream.rocks",
 				"mstream.space",
 				"www.mstream.space",
+				"mstream.tech",
+				"www.mstream.tech",
 				"mstream.website",
 				"www.mstream.website",
 				"mstream.xyz",
@@ -269567,6 +269949,8 @@
 				"www.mstream.rocks",
 				"mstream.space",
 				"www.mstream.space",
+				"mstream.tech",
+				"www.mstream.tech",
 				"mstream.website",
 				"www.mstream.website",
 				"mstream.xyz",
@@ -269789,6 +270173,8 @@
 				"www.mstream.rocks",
 				"mstream.space",
 				"www.mstream.space",
+				"mstream.tech",
+				"www.mstream.tech",
 				"mstream.website",
 				"www.mstream.website",
 				"mstream.xyz",
@@ -269820,6 +270206,8 @@
 				"www.mstream.rocks",
 				"mstream.space",
 				"www.mstream.space",
+				"mstream.tech",
+				"www.mstream.tech",
 				"mstream.website",
 				"www.mstream.website",
 				"mstream.xyz",

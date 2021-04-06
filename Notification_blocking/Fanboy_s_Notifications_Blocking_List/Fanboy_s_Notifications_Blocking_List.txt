@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: k9UXW2o5BwAXrHAE3D2DMA
-! Version: 202103020701
+! Checksum: bDKTeqTvYqLOpe/F41YoEg
+! Version: 202104060801
 ! Title: Fanboy's Notifications Blocking List
-! Last modified: 02 Mar 2021 07:01 UTC
+! Last modified: 06 Apr 2021 08:01 UTC
 ! Expires: 1 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -110,9 +110,9 @@ _revotas_push.
 ! Mobile notifications
 /app-banner/*$xmlhttprequest
 /jquery.androidbanner.js
-/jquery.smartbanner.js|
-/jquery.smartbanner.min.js|
 /js-mobile-*/header_$script
+/js/jquery.smartbanner.js|
+/js/jquery.smartbanner.min.js|
 /mobile-welcome-overlay/*$script
 !------------------------General element hiding rules-------------------------!
 ! *** easylist:fanboy-addon/fanboy_notifications_general_hide.txt ***
@@ -383,6 +383,7 @@ _revotas_push.
 ||foxpush.com^$third-party
 ||foxpush.net^$third-party
 ||getback.ch^$third-party
+||getpush.net^$third-party
 ||getpushmonkey.com^$third-party
 ||getsupernova.com^$third-party
 ||gravitec.net^$third-party
@@ -444,6 +445,7 @@ _revotas_push.
 ||alibaba.com/sw.js
 ||annahar.com/assets/js/notifications.js
 ||bdstatic.com/linksubmit/push.js
+||gadgetsnow.com/sw.cms
 ||hindustantimes.com^*/ht-notification-
 ||indiatimes.com/pn/
 ||irishtimes.com/assets/js/notify.js
@@ -455,6 +457,8 @@ _revotas_push.
 ||yahoo.com/manifest_desktop_
 ! International
 ||ad-hoc-news.de/js/push.js
+||agazeta.com.br/assets/javascript/notification.js
+||dcnews.ro/sm-
 ||flashscore.fr^*/build/notifications.
 ||horoscope.fr/notifications/
 ||push.neko-san.fr^
@@ -468,6 +472,8 @@ fiercecable.com###pusher-ad
 airship.com##.PushNotification
 reddit.com##.XPromoInFeed
 aliexpress.com##._3KrBP
+investing.com##.allow-notifications-popup-wrapper
+manutd.com##.custom-popup
 chicagotribune.com##.met-flyout
 wowhead.com##.notifications-dialog
 post-gazette.com##.pg-notifybox
@@ -494,14 +500,18 @@ windy.com###open-in-app
 cbsnews.com,yelp.com###smart-banner
 dailymail.co.uk,m.jpost.com###smartBanner
 2br.co.uk,deviantart.com,dw.com,eurosport.com,nzherald.co.nz,photobucket.com,spiegel.de###smartbanner
+reddit.com##.AppSelectorModal__body
 indianexpress.com##.app-btn
 ebay.com##.app-download-banner
 sportskeeda.com##.app-download-modal
 9gag.com##.download-app-container
 9gag.com##.get-the-app-banner
 independent.co.uk##.inline-prompt
+india.com##.open-app
 sportskeeda.com##.sidebar-app-download
 imgur.com,sowetanlive.co.za##.smartbanner
+reddit.com##.upsell_banner
+barandbench.com##div[class^="header-two-m__download-links_"]
 !---------------------------------Allowlists----------------------------------!
 ! *** easylist:fanboy-addon/fanboy_notifications_allowlist_general_hide.txt ***
 audionetwork.com,carlsenfritzoe.no#@##push-container:not(body):not(html)
@@ -514,4 +524,5 @@ arabbank.com.au,operon.pl#@#.push-wrapper:not(body):not(html)
 mobi24.net#@#a[href^="http://www.mobi24.net/"]
 mobi24.net#@#a[href^="https://www.mobi24.net/"]
 ! *** easylist:fanboy-addon/fanboy_notifications_allowlist.txt ***
+@@||inevent.com/js/wizard/pushNotification.js$script,~third-party
 @@||st.mycdn.me/static/*/WebPush.js$script,domain=ok.ru

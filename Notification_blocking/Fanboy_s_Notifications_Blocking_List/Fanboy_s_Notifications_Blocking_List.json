@@ -1396,6 +1396,24 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?investing\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".allow-notifications-popup-wrapper"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?manutd\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".custom-popup"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?chicagotribune\\.com[/:]"
 		},
 		"action": {
@@ -1576,6 +1594,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?reddit\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".AppSelectorModal__body"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?indianexpress\\.com[/:]"
 		},
 		"action": {
@@ -1630,11 +1657,38 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?india\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".open-app"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?sportskeeda\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": ".sidebar-app-download"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?reddit\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".upsell_banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?barandbench\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[class^=\"header-two-m__download-links_\"]"
 		}
 	},
 	{
@@ -3292,43 +3346,43 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*/jquery\\.smartbanner\\.js$",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*/jquery\\.smartbanner\\.min\\.js$",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://.*/js-mobile-.*/header_",
 			"resource-type": [
 				"script"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*/js/jquery\\.smartbanner\\.js$",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*/js/jquery\\.smartbanner\\.min\\.js$",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
 			]
 		},
 		"action": {
@@ -5490,6 +5544,26 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://getpush\\.net",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://getpushmonkey\\.com",
 			"resource-type": [
 				"image",
@@ -6668,6 +6742,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://gadgetsnow\\.com/sw\\.cms",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://hindustantimes\\.com..*/ht-notification-",
 			"resource-type": [
 				"image",
@@ -6832,6 +6923,40 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://agazeta\\.com\\.br/assets/javascript/notification\\.js",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://dcnews\\.ro/sm-",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://flashscore\\.fr..*/build/notifications\\.",
 			"resource-type": [
 				"image",
@@ -6896,6 +7021,20 @@
 		},
 		"action": {
 			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://inevent\\.com/js/wizard/pushNotification\\.js",
+			"resource-type": [
+				"script"
+			],
+			"load-type": [
+				"first-party"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
 		}
 	},
 	{

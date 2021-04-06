@@ -100,15 +100,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?jaldhakanews\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#HTML30"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?tamilarul\\.net[/:]"
 		},
 		"action": {
@@ -487,6 +478,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bankingsansar\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#bigyapan-top"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?arthasarokar\\.com[/:]"
 		},
 		"action": {
@@ -501,6 +501,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#bk_sidebar_3"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bigkhabar\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#bk_sidebar_8"
 		}
 	},
 	{
@@ -595,6 +604,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?suddi9\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#colorcontentasash3"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?humhindustanilive\\.com[/:]"
 		},
 		"action": {
@@ -604,11 +622,29 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?legalvoice24\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#content > .widget_text"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?celluloidonline\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": "#content img.jetpack-lazy-image[src*=\"-march.jpg\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?avikaluttarakhand\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#content section.widget_media_image"
 		}
 	},
 	{
@@ -663,15 +699,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#custom_html-1293"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?kalaroanews\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#custom_html-13"
 		}
 	},
 	{
@@ -838,6 +865,24 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?suddi9\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#featgal + div #colorcontentblock #colorcontentwrap4"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?keralavisiontv\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#foot-ad-wrap"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?rozanakhabarnama\\.com\\.au[/:]"
 		},
 		"action": {
@@ -852,6 +897,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#full-size-Ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?chatganrbani\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#gallery-1"
 		}
 	},
 	{
@@ -1090,11 +1144,29 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?newsuperbharat\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#main .widget_custom_html"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?songbadpratidin\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": "#main .widget_media_image"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?agrilife24\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#main-body .custom"
 		}
 	},
 	{
@@ -1225,38 +1297,11 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?samacharsach\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#media_image-23"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?samrudhaodisha\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": "#media_image-235"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?cg24x7\\.news[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#media_image-25"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?cg24x7\\.news[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#media_image-29"
 		}
 	},
 	{
@@ -1301,16 +1346,16 @@
 		},
 		"action": {
 			"type": "css-display-none",
-			"selector": "#media_image-38"
+			"selector": "#media_image-41"
 		}
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?voiceofbihar\\.in[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?nationaltodaylive\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
-			"selector": "#media_image-41"
+			"selector": "#media_image-42"
 		}
 	},
 	{
@@ -1684,15 +1729,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?cinemapettai\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#mvp-leader-wrap"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?just36news\\.com[/:]"
 		},
 		"action": {
@@ -1707,15 +1743,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#myCarouse4"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?ujyaaloonline\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#myCarousel"
 		}
 	},
 	{
@@ -1756,6 +1783,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?newsuperbharat\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#myVideo1"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?thevoices\\.in[/:]"
 		},
 		"action": {
@@ -1770,6 +1806,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#news-modal"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dailykhowai\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#news_portal_ads_banner-3"
 		}
 	},
 	{
@@ -1990,6 +2035,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?daynikekusherbani\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#right-sidebar .widget_bar a img"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?chennairoyalcinema\\.com[/:]"
 		},
 		"action": {
@@ -2080,11 +2134,11 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?charchitbihar\\.com[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?doabatimes\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
-			"selector": "#secondary section.widget_media_image"
+			"selector": "#secondary-right"
 		}
 	},
 	{
@@ -2251,6 +2305,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?readertimes\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#sidebar .widget_text"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?rjfnews\\.com[/:]"
 		},
 		"action": {
@@ -2269,11 +2332,11 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?newindiatimes\\.news[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?mynews36\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
-			"selector": "#sidebar-right .widget_media_image"
+			"selector": "#sidebar-primary-sidebar .widget_custom_html"
 		}
 	},
 	{
@@ -2395,15 +2458,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?emalayalee\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#slideshow"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?padmatimes24\\.com[/:]"
 		},
 		"action": {
@@ -2445,15 +2499,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#stickyAdBottom"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?pnews\\.co\\.in[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#stream-item-widget-1"
 		}
 	},
 	{
@@ -2508,6 +2553,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#sync3"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?anbnews24\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#text-1"
 		}
 	},
 	{
@@ -2710,6 +2764,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bigkhabar\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#text-69"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?sharebazarnews\\.com[/:]"
 		},
 		"action": {
@@ -2742,6 +2805,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#text-html-widget-25"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?abhitaknewsuk\\.in[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#text-html-widget-3"
 		}
 	},
 	{
@@ -2890,6 +2962,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?hamroeconomy\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#top section.widget img"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?lastnewsbd\\.com[/:]"
 		},
 		"action": {
@@ -3007,11 +3088,38 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv24live\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#widget-sidebar-1"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?breakingaajtaknews\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": "#widget-sidebar-3"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?kewalsachtimes\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#widget_sp_image-10"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?kewalsachtimes\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#widget_sp_image-11"
 		}
 	},
 	{
@@ -3331,6 +3439,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekagaj\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad-block-small"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?vijayapatha\\.in[/:]"
 		},
 		"action": {
@@ -3363,6 +3480,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".ad-half-middle"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?nepalsandesh\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad-sec"
 		}
 	},
 	{
@@ -3466,6 +3592,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?nation1voice\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad_responsive"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?aswamedham\\.com[/:]"
 		},
 		"action": {
@@ -3511,20 +3646,11 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?meghnanews\\.com\\.bd[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?protisomoy\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
-			"selector": ".add img"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?samadhannews\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".add-banner"
+			"selector": ".add img.image"
 		}
 	},
 	{
@@ -3552,6 +3678,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".add-container"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?slogannews\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".add-img"
 		}
 	},
 	{
@@ -3988,6 +4123,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?avikaluttarakhand\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".addtoany_content_bottom ~ div img"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?snn24\\.com[/:]"
 		},
 		"action": {
@@ -4096,6 +4240,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?thecgnews\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ads120_60-widget"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?seithy\\.com[/:]"
 		},
 		"action": {
@@ -4123,6 +4276,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dailyonusondhan\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ads_click_counter"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?janadeshexpress\\.in[/:]"
 		},
 		"action": {
@@ -4146,6 +4308,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".adsimage img:not(.wp-image-143293)"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?janatatimes\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".adsimage img:not(.wp-image-63475)"
 		}
 	},
 	{
@@ -4402,6 +4573,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bankingsansar\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".advertisement-fullwith"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?khabardabali\\.com[/:]"
 		},
 		"action": {
@@ -4582,6 +4762,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?newsatfirst\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".aside-add"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?inbnews24\\.com[/:]"
 		},
 		"action": {
@@ -4623,6 +4812,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".avtg3"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dnewsnetwork\\.in[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".awac img.image"
 		}
 	},
 	{
@@ -4686,6 +4884,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".banner-section"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekagaj\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner-top:not(.first)"
 		}
 	},
 	{
@@ -4825,6 +5032,42 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?janatapati\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".bigyaapan"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?aayomail\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".bigyaapan-box"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?baahrakhari\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".bigyaapan-item"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?janatapati\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".bigyapan-box"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?lokaantar\\.com[/:]"
 		},
 		"action": {
@@ -4884,6 +5127,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".block-wrapper ~ #webbank-ad-section"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dailynewsj\\.online[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".blog-sidebar .widget_custom_html"
 		}
 	},
 	{
@@ -5010,6 +5262,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".category_e_ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?unfoldbangla\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".category_side"
 		}
 	},
 	{
@@ -5208,6 +5469,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".content-holder-valuevision"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?thecgnews\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".content-wrap .e3lan-post"
 		}
 	},
 	{
@@ -5482,20 +5752,20 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?khabardarinews\\.com[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?delhicrimepress\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
-			"selector": ".elementor-widget-image"
+			"selector": ".elementor-image-carousel-wrapper"
 		}
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?muznews\\.online[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?24webnews\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
-			"selector": ".elementor-widget-image-carousel"
+			"selector": ".elementor-widget-slides"
 		}
 	},
 	{
@@ -6013,15 +6283,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?khelpati\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".full-bigyapan"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?dineshkhabar\\.com[/:]"
 		},
 		"action": {
@@ -6081,6 +6342,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".galboxcontainer"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dainikdeshersathe\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".gallery_section"
 		}
 	},
 	{
@@ -6175,15 +6445,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?bengaluruvartha\\.in[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".header-ainfo"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?ratopati\\.com[/:]"
 		},
 		"action": {
@@ -6216,6 +6477,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".header-inner .sidebar-col"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tv24live\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".header-right-adv"
 		}
 	},
 	{
@@ -6333,6 +6603,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".headerad2"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?shirurtaluka\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".headeradvt"
 		}
 	},
 	{
@@ -6486,6 +6765,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".horiz_adv_area"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?nepalcanadanews\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".horizental-ad-image"
 		}
 	},
 	{
@@ -7084,6 +7372,24 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?hkgnews247\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".main-and-sidebar .Image"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?policevarthe\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".main-bg .carousel"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?punjabiakhbaar\\.ca[/:]"
 		},
 		"action": {
@@ -7327,6 +7633,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?shreesamachar\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".middle-aside .news_portal_ads_banner"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?upantaodisha\\.com[/:]"
 		},
 		"action": {
@@ -7350,6 +7665,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".middle_add_image_top"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pradeshdainik\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".min-global-adv"
 		}
 	},
 	{
@@ -7426,20 +7750,20 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?amanpath\\.in[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".mvp-flex-ad"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?somoynews\\.tv[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": ".mySlideBox"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sindhudurglive\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".mySlides"
 		}
 	},
 	{
@@ -7458,15 +7782,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".n13_home_adv4"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?khabreapki\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".n2-ss-slider"
 		}
 	},
 	{
@@ -7565,6 +7880,15 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": ".no-premodal-md"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?narayanionline\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": ".no-vigyapan-section"
 		}
 	},
@@ -7579,20 +7903,20 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dnewsnetwork\\.in[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".np-home-bottom-section"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?sathyamonline\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": ".nsads"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?shreekanchanpath\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".nv-header-ads-area"
 		}
 	},
 	{
@@ -7687,6 +8011,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?shirurtaluka\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".pageadvt"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?startalkbd\\.com[/:]"
 		},
 		"action": {
@@ -7732,6 +8065,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?cglivenews\\.co\\.in[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".post > .a-single"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?jaljalakhabar\\.com[/:]"
 		},
 		"action": {
@@ -7768,6 +8110,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ghatanarabichar\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".post-entry header section.widget"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?purvanchal24\\.com[/:]"
 		},
 		"action": {
@@ -7777,11 +8128,38 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sonalibanglanews\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".post-inner .code-block img"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?mannarkkadlive\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": ".post-inner-image"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?shirurtaluka\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".post-item-description p  a strong"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?shirurtaluka\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".post-item-description p img"
 		}
 	},
 	{
@@ -7827,6 +8205,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".printOff"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?onlinenews7\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".proad"
 		}
 	},
 	{
@@ -8070,6 +8457,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".sb-banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?nepalsamaya\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".sb-bigyaapan"
 		}
 	},
 	{
@@ -8425,6 +8821,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?channelcox\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".single-ditails + .add .widget_area"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?orthosongbad\\.com[/:]"
 		},
 		"action": {
@@ -8641,6 +9046,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?rewanewsmedia\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".slideshow-container"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?mediadabali\\.com[/:]"
 		},
 		"action": {
@@ -8677,6 +9091,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?cglivenews\\.co\\.in[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".soliloquy-container"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?kaumudiplus\\.com[/:]"
 		},
 		"action": {
@@ -8700,6 +9123,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".span-2 a:only-child"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dnewsnetwork\\.in[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".spcp-sidebar"
 		}
 	},
 	{
@@ -8839,15 +9271,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?prabhatvaibhav\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".stream-item-above-header"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?khabarbihar\\.in[/:]"
 		},
 		"action": {
@@ -8866,11 +9289,29 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bankalive\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".stream-item-inline-post"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?tamilveedhi\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": ".stream-item-top"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?abhitaknewsuk\\.in[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".stream-item-widget-content"
 		}
 	},
 	{
@@ -9019,20 +9460,20 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?ttncinema\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".td-main-content-wrap .td-a-rec"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?vadakaravoice\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": ".td-main-sidebar aside"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?nammabantwala\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".td-post-content .td-a-rec"
 		}
 	},
 	{
@@ -9064,20 +9505,20 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?gionews\\.in[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".td-ss-main-sidebar .slider-pro"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?khabarbastar\\.in[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": ".td-ss-main-sidebar > .widget_media_image"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?cgujala\\.in[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".td-ss-main-sidebar > .widget_text"
 		}
 	},
 	{
@@ -9109,11 +9550,29 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?thebharatnews\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".td_block_single_image"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?udupixpress\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": ".td_block_single_image.td-no-img-custom-url"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?khaskhobor\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".td_single_image_bg"
 		}
 	},
 	{
@@ -9235,6 +9694,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sangalokhabar\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".three-col-ads"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?namasteandhra\\.com[/:]"
 		},
 		"action": {
@@ -9303,15 +9771,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".top-ad4"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?beanibazarnews24\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".top-add"
 		}
 	},
 	{
@@ -9604,6 +10063,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ayushindianews\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".vc_images_carousel"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?krushival\\.in[/:]"
 		},
 		"action": {
@@ -9730,6 +10198,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?daunnenews\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".widget-shortcode:not(#custom_html-12)"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?vikatan\\.com[/:]"
 		},
 		"action": {
@@ -9775,15 +10252,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?koshionline\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".widget_advertisement-bar"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?rsnewslive\\.com[/:]"
 		},
 		"action": {
@@ -9816,6 +10284,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".widget_media_image:not(#media_image-3):not(#media_image-26)"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?abhitaknewsuk\\.in[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".widget_media_video"
 		}
 	},
 	{
@@ -9861,6 +10338,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".widget_sp_image"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?jenerakhun\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".widget_text .td-all-devices"
 		}
 	},
 	{
@@ -10243,6 +10729,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dailyoporad\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".wp-image-783"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?odishasambad\\.in[/:]"
 		},
 		"action": {
@@ -10257,6 +10752,24 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".wp-image-9728"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?newstodayjharkhand\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".wp-post-author .code-block img"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?nammabantwala\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".wp-video"
 		}
 	},
 	{
@@ -10279,6 +10792,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?delhicrimepressnews\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".wpb_content_element img"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?hotnewsindia\\.com[/:]"
 		},
 		"action": {
@@ -10288,11 +10810,11 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?alamkikhabar\\.in[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?keralatimes\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
-			"selector": ".wpb_single_image"
+			"selector": ".wpb_images_carousel"
 		}
 	},
 	{
@@ -10369,6 +10891,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekagaj\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".wrapper-box"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?bnnbharat\\.com[/:]"
 		},
 		"action": {
@@ -10441,6 +10972,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?yoyocial\\.news[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[class*=\"  ad-\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?kendrabindu\\.com[/:]"
 		},
 		"action": {
@@ -10455,6 +10995,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "[class*=\"boxad\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pratidhvani\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[class^=\"ad-service\"]"
 		}
 	},
 	{
@@ -10482,6 +11031,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "[data-adid] img"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?garjachhattisgarhnews\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[data-box_nu=\"wb7\"]"
 		}
 	},
 	{
@@ -10518,6 +11076,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "[id^=\"td_uid_3\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?thestellarnews\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[id^=\"thest-\"]"
 		}
 	},
 	{
@@ -11872,6 +12439,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dhadingnews\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[rel*=\"wp-att\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?yespunjab\\.com[/:]"
 		},
 		"action": {
@@ -11913,6 +12489,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "aside > .textwidget"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?daunnenews\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "aside#sidebar-primary-sidebar > .widget_custom_html"
 		}
 	},
 	{
@@ -11985,6 +12570,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "aside.widget_media_image > img"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?nammabantwala\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "aside.widget_media_video"
 		}
 	},
 	{
@@ -12165,6 +12759,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "div[class^=\"aryav-\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?patnapost\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[class^=\"newsf-content\"]"
 		}
 	},
 	{
@@ -12637,6 +13240,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?newsofnepal\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "section.widget > a img"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?karobardaily\\.com[/:]"
 		},
 		"action": {
@@ -12673,6 +13285,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sbharatnews\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "section.widget_media_gallery"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?cityonclick\\.in[/:]"
 		},
 		"action": {
@@ -12687,6 +13308,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "section.widget_text"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?agrilife24\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "section:not(#sp-big-footer-wrapper) .article_anywhere"
 		}
 	},
 	{
@@ -14602,6 +15232,40 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://i0\\.wp\\.com/alorjatra\\.com/wp-content/uploads/2021/03/1615811854068_copy_540x675\\.png",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://i0\\.wp\\.com/avikaluttarakhand\\.com/beta/wp-content/uploads/2020/11/webmediasolutions-ad\\.png",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://i0\\.wp\\.com/buxarkhabar\\.com/wp-content/uploads/2016/04/2-apr-add-iti-2\\.jpg",
 			"resource-type": [
 				"image",
@@ -15011,6 +15675,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://i0\\.wp\\.com/realtykhabar\\.com/wp-content/uploads/2019/08/16920885249106020315\\.png",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://i0\\.wp\\.com/sangbadsarabela\\.com/wp-content/uploads/2020/12/contento_web_service\\.gif",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -16132,6 +16813,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://i1\\.wp\\.com/sangbadsarabela\\.com/wp-content/uploads/2020/10/islami-bank-sangbad-sarabela-add\\.png",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://i1\\.wp\\.com/setvnews24\\.com/wp-content/uploads/2020/05/Untitled-1-copy\\.jpg",
 			"resource-type": [
 				"image",
@@ -16354,6 +17052,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://i1\\.wp\\.com/www\\.eadarsha\\.com/wp-content/uploads/2020/07/Wanted\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://i1\\.wp\\.com/www\\.etajakhabar\\.com/wp-content/uploads/2020/12/banner\\.jpg",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -17884,23 +18599,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://i2\\.wp\\.com/www\\.prasashan\\.com/wp-content/uploads/2019/09/250x300px-1\\.gif",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://i2\\.wp\\.com/www\\.rojdin\\.in/wp-content/uploads/2019/05/273319\\.jpg",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -24460,6 +25158,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://aayomail\\.com/uploads/bigyaapan/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://abckhabar\\.in/wp-content/uploads/2020/08/IMG-20200805-WA0000",
 			"resource-type": [
 				"image",
@@ -25114,6 +25829,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://agraleaks\\.com/wp-content/uploads/2020/03/cancer\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://agrilife24\\.com..*/AllAdd",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -26995,6 +27727,40 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://avadhimag\\.com/wp-content/uploads/2020/08/manipal-ad-red\\.jpeg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://avadhimag\\.com/wp-content/uploads/2020/08/mgccas-ad\\.jpeg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://awaazpunjabi\\.com/wp-content/uploads/2020/05/BRAMPTONMERGED\\.gif",
 			"resource-type": [
 				"image",
@@ -28436,6 +29202,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://banglardinkal\\.com..*/0-2\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://banglarkonthosor\\.com..*/ggg-copy-",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -36314,6 +37097,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://comillatimes\\.com/wp-content/uploads/2020/12/AD-Shawdwesh",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://comillaweb\\.com..*/ibikroy_ads\\.jpg",
 			"resource-type": [
 				"image",
@@ -37408,6 +38208,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://dailykhoborbarisal24\\.com/wp-content/uploads/2020/07/goru-700x426\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://dailykhowai\\.com/wp-content/uploads/2020/07/add\\.jpg",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -39557,6 +40374,30 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://digitaloceanspaces\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			],
+			"if-domain": [
+				"dekhapadhi.com",
+				"www.dekhapadhi.com"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://digitaloceanspaces\\.com..*/275-220\\.gif",
 			"resource-type": [
 				"image",
@@ -40167,6 +41008,91 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://drbtv\\.live/wp-content/uploads/2020/06/Design-Lab-",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://drbtv\\.live/wp-content/uploads/2021/01/IMG-20210120-WA0002-1-1024x1024\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://drbtv\\.live/wp-content/uploads/2021/01/WhatsApp-Image-2021-01-16-at-00\\.36\\.51\\.jpeg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://drbtv\\.live/wp-content/uploads/2021/03/02-2048x256\\.png",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://drbtv\\.live..*/delta-",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://dreamsylhet\\.com/top\\.gif",
 			"resource-type": [
 				"image",
@@ -40668,6 +41594,142 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://ekattorlive\\.com/wp-content/uploads/2016/02/add2\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ekbiharisabparbhari\\.com/wp-content/uploads/2020/02/1680X10001_1-1024x609\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ekbiharisabparbhari\\.com/wp-content/uploads/2020/03/IMG-20200304-WA0015",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ekbiharisabparbhari\\.com/wp-content/uploads/2020/03/IMG-20200306-WA0000-1024x514\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ekbiharisabparbhari\\.com/wp-content/uploads/2020/03/IMG-20200312-WA0000\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ekbiharisabparbhari\\.com/wp-content/uploads/2020/11/IMG-20201109-WA0009-6",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ekbiharisabparbhari\\.com..*/Ad-",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ekbiharisabparbhari\\.com..*/gnsu",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ekbiharisabparbhari\\.com..*/Gopal",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -41871,6 +42933,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://eyetamil\\.ca/upload/banner/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://eyewitnesslivenews\\.com..*adv\\.php",
 			"resource-type": [
 				"image",
@@ -41940,6 +43019,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://fastnewsbd\\.com/images/parasut\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://fastnewsindia\\.co/Ad/96525\\.jpg",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -42607,6 +43703,91 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://ghatanarabichar\\.com/wp-content/uploads/2020/12/Civil-Bank-1200x-150px\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ghatanarabichar\\.com/wp-content/uploads/2020/12/ghat\\.png",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ghatanarabichar\\.com/wp-content/uploads/2020/12/ntc\\.png",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ghatanarabichar\\.com/wp-content/uploads/2021/01/Webp\\.net-gifmaker-2\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ghatanarabichar\\.com/wp-content/uploads/2021/02/Meri-Unilai_Sample\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://ghatanarabichar\\.com..*/ad-10-10-2019\\.jpg",
 			"resource-type": [
 				"image",
@@ -42838,6 +44019,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://glimeindianews\\.in/wp-content/uploads/2020/10/WhatsApp-Image-2020-11-16-at-10\\.16\\.20-AM-667x1024\\.jpeg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://glimeindianews\\.in/wp-content/uploads/2020/10/WhatsApp-Image-2020-12-03-at-4\\.01\\.55-PM-724x1024\\.jpeg",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -44690,6 +45888,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://himalayapost\\.com/wp-content/uploads/2021/02/muktinath-bikas-bank\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://himalayonlinemedia\\.com/wp-content/uploads/2018/10/suvhakamana-8-1024x569\\.jpg",
 			"resource-type": [
 				"image",
@@ -44844,6 +46059,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://himalini\\.com/wp-content/uploads/2020/11/WhatsApp-Image-2020-11-10-at-8\\.34\\.08-PM\\.jpeg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://himalini\\.com/wp-content/uploads/2020/12/Nepal-Life-Add\\.gif",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -48185,9 +49417,43 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://janatatimes\\.com/wp-content/uploads/2020/01/Final-Add-Design-2048x1365\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://janatatimes\\.com/wp-content/uploads/2020/01/Online-Banner__1200-X-100-1",
 			"resource-type": [
 				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://janatatimes\\.com/wp-content/uploads/2020/04/5-Dec-NMB-Generic-GIF-250x180-1\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
 			]
 		},
 		"action": {
@@ -48259,6 +49525,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://janayugomonline\\.com..*/gramakarsha01082018\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://jangathatimes\\.com/wp-content/uploads/2018/04/25c\\.m-x-16c\\.m\\.jpg",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -48807,6 +50090,40 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://kaakai\\.in..*&tableName=advertise",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://kachedure\\.com/media/adds/100620202112517455\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://kachedure\\.com/media/adds/280520202105103420\\.gif",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -52658,6 +53975,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://lakshmipur71\\.com/uploads/ad_image/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://lakviru\\.com/wp-content/uploads/2020/03/newspaper-rec300@2x\\.jpg",
 			"resource-type": [
 				"image",
@@ -52710,6 +54044,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://lalsabuj71\\.com/wp-content/uploads/2020/06/ad-",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://lankadaily\\.com/images/banners/2017/her\\.JPG",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -56514,6 +57865,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://merabharatnews\\.com/wp-content/uploads/2021/02/Step-by-step\\.png",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://meranews\\.com/frontend/_assets/images/navjivan-trust-narrow\\.jpg",
 			"resource-type": [
 				"image",
@@ -56786,7 +58154,24 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://motivatenews\\.com\\.np/wp-content/uploads/2019/09/Can_300x190-px\\.gif",
+			"url-filter": "^https?://motivatenews\\.com\\.np/wp-content/themes/motivate/images/1px\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://motivatenews\\.com\\.np/wp-content/uploads/2019/09/Can_",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -56900,6 +58285,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://muktakhabar\\.net/wp-content/uploads/2020/05/hamdarad1c\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://muktinews24\\.com/wp-content/uploads/2020/12/Add\\.jpg",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -59765,6 +61167,159 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://nationaltodaylive\\.com/wp-content/uploads/2020/11/Capture-2020-11-02-08\\.55\\.21\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://nationaltodaylive\\.com/wp-content/uploads/2020/11/Capture-2020-11-04-11\\.59\\.53\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://nationaltodaylive\\.com/wp-content/uploads/2020/12/Capture-2020-11-19-10\\.57\\.05\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://nationaltodaylive\\.com/wp-content/uploads/2021/02/Capture-2021-01-29-12\\.46\\.10\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://nationaltodaylive\\.com/wp-content/uploads/2021/02/Capture-2021-01-30-13\\.15\\.30\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://nationaltodaylive\\.com/wp-content/uploads/2021/02/Capture-2021-02-01-18\\.52\\.09\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://nationaltodaylive\\.com/wp-content/uploads/2021/02/Capture-2021-02-26-11\\.11\\.07\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://nationaltodaylive\\.com/wp-content/uploads/2021/02/Capture-2021-02-26-13\\.04\\.38\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://nationaltodaylive\\.com/wp-content/uploads/2021/02/Capture-2021-02-27-22\\.06\\.50\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://nativclick\\.com",
 			"resource-type": [
 				"image",
@@ -60907,6 +62462,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://nepalsamaya\\.de/uploads/bigyaapan/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://nepalsandesh\\.com..*430x224\\.jpeg",
 			"resource-type": [
 				"image",
@@ -61711,6 +63283,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://newcinemaexpress\\.com/wp-content/uploads/2020/12/Chiyaangal-BG\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://newcinemaexpress\\.com/wp-content/uploads/2021/02/anbirkiniyal-bg-ad\\.jpg",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -62790,6 +64379,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://newsbangla24\\.com/assets/images/banner/20201001054403\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://newsbarisal\\.com/wp-content/uploads/2019/09/advanced-online-add-300x149\\.jpg",
 			"resource-type": [
 				"image",
@@ -63261,6 +64867,40 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://newsfastweb\\.com/wp-content/uploads/2020/08/WhatsApp-Image-2020-06-23-at-12\\.13\\.49",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://newsflash71\\.com/img/ads\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://newsflash71\\.com/img/t__heal\\.jpg",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -67098,6 +68738,40 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://policevarthe\\.com/wp-content/themes/police/images/ad1\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://policevarthe\\.com/wp-content/themes/police/images/new-img/ad\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://polikai\\.com..*/maestro-185-x-600\\.gif",
 			"resource-type": [
 				"image",
@@ -67199,6 +68873,23 @@
 			"if-domain": [
 				"vijayavani.net",
 				"www.vijayavani.net"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ppbd\\.news/assets/gallery/2020/Meshu/10/General%20Health%20Check-Up\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
 			]
 		},
 		"action": {
@@ -67936,6 +69627,40 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://prajapragathi\\.com..*/FINAL_NAGARAJ\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://prajasatta\\.in/wp-content/uploads/2020/09/BHUSHAN\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://prajasattaknews\\.com/wp-content/uploads/2021/02/ad\\.jpg",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -69653,6 +71378,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://rajdhanidaily\\.com/wp-content/uploads/2020/10/asvertisement-ncess-1200x100px\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://rajdhanidaily\\.com/wp-content/uploads/2020/12/ADBL_New20770512\\.gif",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -74636,6 +76378,40 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://samakalinmunshiganj\\.com/wp-content/uploads/2018/10/add\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://samakalinmunshiganj\\.com/wp-content/uploads/2019/03/mg-ad\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://samakalnews24\\.com/wp-content/uploads/2019/03/bdk\\.png",
 			"resource-type": [
 				"image",
@@ -74824,6 +76600,40 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://sandeshwahak\\.com..*/cardio-cure-300x250\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://sangalokhabar\\.com/wp-content/uploads/2020/04/Jyotish_Hari_Bhandari_ADS\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://sangalokhabar\\.com/wp-content/uploads/2020/10/Gadi_Advt\\.jpg",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -76824,6 +78634,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://shirurtaluka\\.com/share_images/home1advt\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://shobshomoy\\.com..*/Marchblink725X60\\.jpg",
 			"resource-type": [
 				"image",
@@ -76986,6 +78813,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://shreekanchanpath\\.com..*/WhatsApp-Image-2019-12-26-at-12\\.06\\.03-655x1024\\.jpeg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://shyamalsylhet\\.com/images/add/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -77271,6 +79115,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://skytvbd\\.com/wp-content/uploads/2019/12/rec728\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://slogannews\\.com/admin/images/slider/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -79661,6 +81522,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://tamilolli\\.com/wp-content/themes/tamilolli/images/media-asia\\.png",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://tamilsaga\\.com/assets/logo/6247ba780b92449099f952efa1e2c802_bg\\.jpg",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -82474,6 +84352,40 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://tv19online\\.com/advban/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://tv19online\\.com/advnew/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://twentyfournews\\.com..*/Clint\\.jpg",
 			"resource-type": [
 				"image",
@@ -82526,6 +84438,40 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://ujjawalprabhat\\.com/wp-content/uploads/2020/05/Seven-Jackpots\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ukeraa\\.com/images/homeadvertiseimage",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ukeraa\\.com/images/homeadvertisevideo/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -86764,6 +88710,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://wp\\.com.www\\.rojdin\\.in/wp-content/uploads/2019/05/273319\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://wpsoul\\.com",
 			"resource-type": [
 				"image"
@@ -87544,6 +89507,23 @@
 			"if-domain": [
 				"news71online.com",
 				"www.news71online.com"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://lakshmipur71\\.com/uploads/ad_image/PicsArt_11-16-08_58_412\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
 			]
 		},
 		"action": {

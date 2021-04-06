@@ -3619,7 +3619,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?jujutorrent28\\.com[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?jujutorrent30\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
@@ -3655,11 +3655,146 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?torrentweb18\\.com[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?torrentweb19\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": ".mmmainads"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?prskorea\\.co\\.kr[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".small_bnr"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?prskorea\\.co\\.kr[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".imgcarousel1"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dtnews24\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[class*=\"user-banner\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sports\\.chosun\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#breakingNewsTicker"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?us1\\.thetorrent\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#ouibounce-modal"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?us1\\.thetorrent\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".widget-box-banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tfmedia\\.co\\.kr[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".com_ban"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tfmedia\\.co\\.kr[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ht_right"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tfmedia\\.co\\.kr[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ht_leftsexbam1.me###hd_pop"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sexbam1\\.me[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#manner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sexbam1\\.me[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#topBanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sexbam1\\.me[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#bnr"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?joongdo\\.co\\.kr[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#mobitree"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?alldatasheet\\.co\\.kr[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#icbankbannermobile"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?alldatasheet\\.co\\.kr[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#idAD2"
 		}
 	},
 	{
@@ -5002,8 +5137,8 @@
 				"image"
 			],
 			"if-domain": [
-				"torrentview30.com",
-				"www.torrentview30.com"
+				"torrentview32.com",
+				"www.torrentview32.com"
 			]
 		},
 		"action": {
@@ -5077,8 +5212,8 @@
 				"image"
 			],
 			"if-domain": [
-				"wtwt60.com",
-				"www.wtwt60.com"
+				"wtwt65.com",
+				"www.wtwt65.com"
 			]
 		},
 		"action": {
@@ -5092,8 +5227,8 @@
 				"image"
 			],
 			"if-domain": [
-				"blacktoon103.com",
-				"www.blacktoon103.com"
+				"blacktoon106.com",
+				"www.blacktoon106.com"
 			]
 		},
 		"action": {
@@ -5107,8 +5242,8 @@
 				"image"
 			],
 			"if-domain": [
-				"torrentgram14.com",
-				"www.torrentgram14.com"
+				"torrentgram16.com",
+				"www.torrentgram16.com"
 			]
 		},
 		"action": {
@@ -5152,8 +5287,8 @@
 				"image"
 			],
 			"if-domain": [
-				"torrentsir31.com",
-				"www.torrentsir31.com"
+				"torrentsir32.com",
+				"www.torrentsir32.com"
 			]
 		},
 		"action": {
@@ -5167,8 +5302,38 @@
 				"image"
 			],
 			"if-domain": [
-				"torrentwiz20.me",
-				"www.torrentwiz20.me"
+				"torrentqq80.com",
+				"www.torrentqq80.com"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://imgur\\.com",
+			"resource-type": [
+				"image"
+			],
+			"if-domain": [
+				"matown.kr",
+				"www.matown.kr"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://innorame\\.com",
+			"resource-type": [
+				"document"
+			],
+			"if-domain": [
+				"tfmedia.co.kr",
+				"www.tfmedia.co.kr"
 			]
 		},
 		"action": {
@@ -5182,8 +5347,8 @@
 				"image"
 			],
 			"if-domain": [
-				"torrentqq75.com",
-				"www.torrentqq75.com"
+				"torrentwiz23.me",
+				"www.torrentwiz23.me"
 			]
 		},
 		"action": {
@@ -9952,6 +10117,105 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://torrentonly\\.com/data/zn_banner",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://imyongbook\\.com/innoy/main/iyb_bn",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://newspenguin\\.com/bannerpop/uploads/image",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://swiftcoding\\.org/wp-content/uploads..*300x250",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://19guide.*\\.com/img",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://linkmozi\\.com/files/attach/images",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ttking.*\\.me/ad",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://us1\\.thetorrent\\.net/img",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://opinionnews\\.co\\.kr/bannerpop/uploads/image.\\$image\\|\\|joongdo\\.co\\.kr/web//images/banner",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://javzoa\\.com/img",
 			"resource-type": [
 				"image"
 			]

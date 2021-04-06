@@ -8,10 +8,10 @@
 !
 !For more information about this list, see: https://pgl.yoyo.org/adservers/
 !----
-!Last modified: Mon, 01 Mar 2021 23:14:30 GMT
+!Last modified: Fri, 02 Apr 2021 11:10:55 GMT
 !Homepage:      https://pgl.yoyo.org/adservers/
 !Format:        adblockplus
-!Entries:       3563
+!Entries:       3568
 !Credits:       Peter Lowe - pgl@yoyo.org - pgl on github - https://pgl.yoyo.org/
 !This URL:      https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&mimetype=plaintext
 !Policy:        https://pgl.yoyo.org/adservers/policy.php
@@ -33,6 +33,7 @@
 ||2o7.net^
 ||2znp09oa.com^
 ||30ads.com^
+||3337723.com^
 ||33across.com^
 ||360yield.com^
 ||3lift.com^
@@ -94,6 +95,7 @@
 ||acid-adserver.click^
 ||acridtwist.com^
 ||actionsplash.com^
+||actonsoftware.com^
 ||actualdeals.com^
 ||actuallysheep.com^
 ||actuallysnake.com^
@@ -177,7 +179,6 @@
 ||ad.prv.pl^
 ||ad.reunion.com^
 ||ad.sensismediasmart.com.au^
-||ad.seznam.cz^
 ||ad.simflight.com^
 ||ad.simgames.net^
 ||ad.style^
@@ -196,7 +197,6 @@
 ||ad.wsod.com^
 ||ad.wz.cz^
 ||ad.xiaomi.com^
-||ad.xmovies8.si^
 ||ad.xrea.com^
 ||ad.yadro.ru^
 ||ad.zanox.com^
@@ -272,7 +272,6 @@
 ||adform.com^
 ||adform.net^
 ||adformdsp.net^
-||adfries.info^
 ||adfs.senacrs.com.br^
 ||adgardener.com^
 ||adgoto.com^
@@ -463,6 +462,7 @@
 ||ads.cybersales.cz^
 ||ads.dada.it^
 ||ads.dailycamera.com^
+||ads.datingyes.com^
 ||ads.delfin.bg^
 ||ads.deltha.hu^
 ||ads.dennisnet.co.uk^
@@ -645,7 +645,6 @@
 ||ads.programattik.com^
 ||ads.psd2html.com^
 ||ads.pushplay.com^
-||ads.quasaraffiliates.com^
 ||ads.quoka.de^
 ||ads.radialserver.com^
 ||ads.radio1.lv^
@@ -740,7 +739,6 @@
 ||ads.yourfreedvds.com^
 ||ads.youtube.com^
 ||ads.yumenetworks.com^
-||ads.zdnet.com^
 ||ads.zmarsa.com^
 ||ads.ztod.com^
 ||ads1-adnow.com^
@@ -817,7 +815,6 @@
 ||adserver.ekokatu.com^
 ||adserver.freecity.de^
 ||adserver.friendfinder.com^
-||adserver.hardsextube.com^
 ||adserver.html.it^
 ||adserver.hwupgrade.it^
 ||adserver.ilango.de^
@@ -843,7 +840,6 @@
 ||adserver.sciflicks.com^
 ||adserver.scr.sk^
 ||adserver.sharewareonline.com^
-||adserver.spankaway.com^
 ||adserver.theonering.net^
 ||adserver.trojaner-info.de^
 ||adserver.twitpic.com^
@@ -914,11 +910,11 @@
 ||adtegrity.net^
 ||adthis.com^
 ||adthrive.com^
+||adthurst.com^
 ||adtiger.de^
 ||adtilt.com^
 ||adtng.com^
 ||adtology.com^
-||adtoma.com^
 ||adtrace.org^
 ||adtrade.net^
 ||adtrak.net^
@@ -988,7 +984,6 @@
 ||adzones.com^
 ||aerserv.com^
 ||af-ad.co.uk^
-||affbuzzads.com^
 ||affec.tv^
 ||affili.net^
 ||affiliate.1800flowers.com^
@@ -1035,6 +1030,7 @@
 ||alipromo.com^
 ||all4spy.com^
 ||allosponsor.com^
+||aloofvest.com^
 ||alphonso.tv^
 ||als-svc.nytimes.com^
 ||amazingcounters.com^
@@ -1044,7 +1040,6 @@
 ||americash.com^
 ||amplitude.com^
 ||amung.us^
-||analyticin.online^
 ||analytics-production.hapyak.com^
 ||analytics.adpost.org^
 ||analytics.bitrix.info^
@@ -1082,7 +1077,7 @@
 ||anxiousapples.com^
 ||apathetictheory.com^
 ||api.intensifier.de^
-||api.jetlore.com^
+||api.kameleoon.com^
 ||apolloprogram.io^
 ||app-analytics.snapchat.com^
 ||app.pendo.io^
@@ -1109,6 +1104,7 @@
 ||aswpapius.com^
 ||aswpsdkus.com^
 ||at-adserver.alltop.com^
+||at-o.net^
 ||atdmt.com^
 ||athena-ads.wikia.com^
 ||ato.mx^
@@ -1122,7 +1118,6 @@
 ||audience2media.com^
 ||audienceinsights.com^
 ||audit.median.hu^
-||audit.quantcast.mgr.consensu.org^
 ||audit.webinform.hu^
 ||augur.io^
 ||auto-bannertausch.de^
@@ -1298,7 +1293,6 @@
 ||bongacash.com^
 ||boomads.com^
 ||boomtrain.com^
-||boost-my-pr.de^
 ||boredcrown.com^
 ||boringcoat.com^
 ||boudja.com^
@@ -1383,7 +1377,6 @@
 ||cgicounter.puretec.de^
 ||chairscrack.com^
 ||chameleon.ad^
-||channel1vids.com^
 ||channelintelligence.com^
 ||chardwardse.club^
 ||chart.dk^
@@ -1404,14 +1397,15 @@
 ||cjlog.com^
 ||cl0udh0st1ng.com^
 ||claria.com^
-||clearcomb.com^
 ||clevernt.com^
 ||click.a-ads.com^
 ||click.cartsguru.io^
+||click.email.bbc.com^
 ||click.email.sonos.com^
 ||click.fool.com^
 ||click.kmindex.ru^
 ||click.negociosdigitaisnapratica.com.br^
+||click.redditmail.com^
 ||click.twcwigs.com^
 ||click2freemoney.com^
 ||clickability.com^
@@ -1489,6 +1483,7 @@
 ||connextra.com^
 ||consciouschairs.com^
 ||consensad.com^
+||consensu.org^
 ||contadores.miarroba.com^
 ||contaxe.de^
 ||content.acc-hd.de^
@@ -1561,7 +1556,9 @@
 ||culturedcrayon.com^
 ||cumbersomecloud.com^
 ||curtaincows.com^
+||custom.plausible.io^
 ||customad.cnn.com^
+||customers.kameleoon.com^
 ||cutecushion.com^
 ||cuteturkey.com^
 ||cxense.com^
@@ -1569,6 +1566,7 @@
 ||d.adroll.com^
 ||d2cmedia.ca^
 ||dabiaozhi.com^
+||dacdn.visualwebsiteoptimizer.com^
 ||dakic-ia-300.com^
 ||damdoor.com^
 ||dancemistake.com^
@@ -1604,6 +1602,7 @@
 ||detailedglue.com^
 ||detailedgovernment.com^
 ||detectdiscovery.com^
+||dev.visualwebsiteoptimizer.com^
 ||dianomi.com^
 ||didtheyreadit.com^
 ||digital-ads.s3.amazonaws.com^
@@ -1629,6 +1628,7 @@
 ||dmtracker.com^
 ||dmtracking.alibaba.com^
 ||dmtracking2.alibaba.com^
+||dnsdelegation.io^
 ||do-global.com^
 ||docksalmon.com^
 ||dogcollarfavourbluff.com^
@@ -1767,6 +1767,7 @@
 ||facilitategrandfather.com^
 ||fadedprofit.com^
 ||fadedsnow.com^
+||fallaciousfifth.com^
 ||famousquarter.com^
 ||faracoon.com^
 ||farethief.com^
@@ -1785,6 +1786,7 @@
 ||feebleshock.com^
 ||feedbackresearch.com^
 ||feedjit.com^
+||feedmob.com^
 ||ffxcam.fairfax.com.au^
 ||fimserve.com^
 ||findcommerce.com^
@@ -1821,7 +1823,6 @@
 ||freebanner.com^
 ||freecounterstat.com^
 ||freelogs.com^
-||freeonlineusers.com^
 ||freepay.com^
 ||freeskreen.com^
 ||freestats.com^
@@ -1902,9 +1903,7 @@
 ||gunggo.com^
 ||h-bid.com^
 ||h0.t.hubspotemail.net^
-||h3btqpy2abc3.com^
 ||h78xb.pw^
-||h92zbpn4zcv1.com^
 ||habitualhumor.com^
 ||hadskiz.com^
 ||haltingbadge.com^
@@ -2056,7 +2055,6 @@
 ||instrumentsponge.com^
 ||intelliads.com^
 ||intellitxt.com^
-||intentmedia.com^
 ||interactive.forthnet.gr^
 ||intergi.com^
 ||internetfuel.com^
@@ -2083,6 +2081,7 @@
 ||iyfnzgb.com^
 ||j93557g.com^
 ||jadeitite.com^
+||jads.co^
 ||jaizouji.com^
 ||jauchuwa.net^
 ||jcount.com^
@@ -2102,7 +2101,7 @@
 ||justrelevant.com^
 ||justuno.com^
 ||k.iinfo.cz^
-||kameleoon.com^
+||kameleoon.eu^
 ||kanoodle.com^
 ||kargo.com^
 ||karonty.com^
@@ -2261,6 +2260,7 @@
 ||matheranalytics.com^
 ||mathtag.com^
 ||matomo.activate.cz^
+||matomo.hdweb.ru^
 ||matomo.kmkb.ru^
 ||mautic.com^
 ||max.i12.de^
@@ -2273,7 +2273,6 @@
 ||measuremap.com^
 ||media-adrunner.mycomputer.com^
 ||media-servers.net^
-||media.ftv-publicite.fr^
 ||media.funpic.de^
 ||media.net^
 ||media01.eu^
@@ -2508,7 +2507,6 @@
 ||opentag-stats.qubit.com^
 ||openx.actvtech.com^
 ||openx.angelsgroup.org.uk^
-||openx.aosis.co.za^
 ||openx.cairo360.com^
 ||openx.kgmedia.eu^
 ||openx.net^
@@ -2608,6 +2606,7 @@
 ||pix.spot.im^
 ||pixel.adsafeprotected.com^
 ||pixel.condenastdigital.com^
+||pixel.digitru.st^
 ||pixel.keywee.co^
 ||pixel.mtrcs.samba.tv^
 ||pixel.sojern.com^
@@ -2758,7 +2757,6 @@
 ||rate.ru^
 ||ratings.lycos.com^
 ||rayjump.com^
-||rb1.design.ru^
 ||re-directme.com^
 ||reachjunction.com^
 ||reactx.com^
@@ -3061,6 +3059,7 @@
 ||static.a-ads.com^
 ||static.fmpub.net^
 ||static.itrack.it^
+||static.kameleoon.com^
 ||staticads.btopenworld.com^
 ||statistik-gallup.net^
 ||statm.the-adult-company.com^
@@ -3092,6 +3091,7 @@
 ||stickyadstv.com^
 ||stiffgame.com^
 ||storesurprise.com^
+||storetail.io^
 ||stormyachiever.com^
 ||storygize.net^
 ||stoveseashore.com^
@@ -3133,6 +3133,7 @@
 ||taboola.com^
 ||tag.links-analytics.com^
 ||tagan.adlightning.com^
+||tagcommander.com^
 ||tagger.opecloud.com^
 ||tags.tiqcdn.com^
 ||tagular.com^
@@ -3321,6 +3322,7 @@
 ||traktrafficflow.com^
 ||tranquilside.com^
 ||travis.bosscasinos.com^
+||trck.a8.net^
 ||trcking4wdm.de^
 ||trcklion.com^
 ||treasuredata.com^
@@ -3416,6 +3418,7 @@
 ||videoamp.com^
 ||videoegg.com^
 ||videostats.kakao.com^
+||vidible.tv^
 ||vidora.com^
 ||view4cash.de^
 ||viglink.com^
@@ -3437,6 +3440,7 @@
 ||voodoo-ads.io^
 ||vpon.com^
 ||vrs.cz^
+||vrtzcontextualads.com^
 ||vs.tucows.com^
 ||vtracy.de^
 ||vungle.com^
@@ -3445,6 +3449,7 @@
 ||wa.and.co.uk^
 ||waardex.com^
 ||warlog.ru^
+||warmafterthought.com^
 ||waryfog.com^
 ||wateryvan.com^
 ||wd-track.de^
@@ -3500,6 +3505,7 @@
 ||wirecomic.com^
 ||wisepops.com^
 ||witch-counter.de^
+||wizaly.com^
 ||wlmarketing.com^
 ||womanear.com^
 ||wonderlandads.com^
@@ -3556,7 +3562,6 @@
 ||yoggrt.com^
 ||ypu.samsungelectronics.com^
 ||z3dmbpl6309s.com^
-||z501lpfg9x8v.com^
 ||z5x.net^
 ||zangocash.com^
 ||zanox-affiliate.de^
