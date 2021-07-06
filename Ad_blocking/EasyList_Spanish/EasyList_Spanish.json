@@ -4690,15 +4690,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?expreso\\.com\\.mx[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".bannergroup"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?ennaranja\\.com[/:]"
 		},
 		"action": {
@@ -6225,6 +6216,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".pub_lat3_father"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?desdelinux\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".publi"
 		}
 	},
 	{
@@ -8699,7 +8699,7 @@
 		},
 		"action": {
 			"type": "css-display-none",
-			"selector": "#radioisekai"
+			"selector": "#csgoempire"
 		}
 	},
 	{
@@ -9235,6 +9235,168 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?diarioresponsable\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banneritem"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?highstream\\.tv[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".cover"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?verepeliculas\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[class^=\"ano_\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sport\\.es[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".sp-add"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?coches\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".mt-AdvertisingRoadblock-top"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?revistagmgastronomia\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#rev_slider_1_1_wrapper"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?lancelotdigital\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".bannerheader"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?diariodeavisos\\.elespanol\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".pubbox"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pelis24\\.gratis[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[class^=\"fasc\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?larazon\\.es[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".content__ad"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?juegosjuegos\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".Banners-lateral"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?chatytvgratishd\\.me[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[id^=\"cedvtoj-\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bluradio\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".GoogleDfpAd-Content"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pelisplay\\.co[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "tr[data-lang=\"Publicidad\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?elsaltodiario\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".publi-lateral"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?autoscout24\\.es[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".cl-billboad-wrapper"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fichajes\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".gtag"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?astrologiaenlinea\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "td[width=\"728\"][height=\"90\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?eleconomista\\.es[/:]"
 		},
 		"action": {
@@ -9348,15 +9510,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".spu-box"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?rainanime\\.co[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".fake_player"
 		}
 	},
 	{
@@ -10205,6 +10358,28 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://.*&adbIsActive=",
+			"resource-type": [
+				"popup"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*/bjmp.*\\.htm",
+			"resource-type": [
+				"popup"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*/mavenjump\\.htm",
 			"resource-type": [
 				"popup"
 			]
@@ -14515,6 +14690,786 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://sqnwmwnwok\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ndroip\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://encouragementstringsborn\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://harassinganticipation\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://sippansy\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://haremwhipshook\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://thompaur\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://syrvqblsaqcfmt\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://yepteaswont\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://kindnessmarshalping\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://husktheoretical\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://sobatsizniy\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://qzfrmewdbzkcsf\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://hopefulserversnecklace\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://lamforsung\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://reginasfreyr\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://dangerinsignificantinvent\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://bayirksrap\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://wxhiojortldjyegtkx\\.bid",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://outblowtewhit\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://snippystowstool\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://cookliverelk\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ykrssqaufg\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://rhklutlt\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://vukhnosiexl\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://kzfwvqylo\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://chichosebook\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://fryhecticcolonize\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://brrcaqvz\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://coljledqo\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://xqzlgbbe\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://bftrlhesrlfjp\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://orbsclawand\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://guvivqlbh\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://fdrptpyxchzjk\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://eoemyywmjx\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://vattingbalak\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ethnictyrosky\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://apsstoure\\.biz",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://104\\.154\\.237\\.193",
 			"resource-type": [
 				"popup"
@@ -15252,6 +16207,48 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://dlxrlc2ni2\\.com",
+			"resource-type": [
+				"popup"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://oackoubs\\.com",
+			"resource-type": [
+				"popup"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://adfpoint\\.com",
+			"resource-type": [
+				"popup"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://.*broced\\.co",
 			"resource-type": [
 				"image",
@@ -15567,6 +16564,46 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://n\\.gameads\\.io",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://jsc\\.adgage\\.es",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://cdn\\.zxclan\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -25207,6 +26244,356 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://diarioresponsable\\.com/images/castellananorte19032020\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://diarioresponsable\\.com/images/triodos_2019-06\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://diarioresponsable\\.com/images/banners",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://vertelenovelasonline\\.com/wp-content/uploads/.*/Untitled-design-.*\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://verepeliculas\\.com/dowload/MusicaBANNER\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://heybros\\.shop/wp-content/uploads/.*/heybros\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"if-domain": [
+				"simpsons-latino.club",
+				"www.simpsons-latino.club"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://daybooktravel\\.com/banner.*\\.js",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"if-domain": [
+				"pelispop.com",
+				"www.pelispop.com"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://shellshock\\.io/img/promo/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://lancelotdigital\\.com/images/banners/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ytmp3\\.plus/ba",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://infoveloz\\.com/storage/.*/ad_",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://juegosdiarios\\.com/staticfiles\\.juegosdiarios\\.com/pu/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://mangatigre\\.com/im-erogames/im-index\\.js",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://3djuegos\\.com/img3/temp/81_war/",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://kissanime\\.si/api/pop\\.php",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://zapping\\.live/images/uploads/banners/zapping-.*\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://caletadesarrollos\\.com/marketing/banner-pc/banner-pc\\.html",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"if-domain": [
+				"elchubut.com.ar",
+				"www.elchubut.com.ar"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://centent\\.streanplay\\.cc",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://notebookcheck\\.org/fileadmin/Sonstiges/ama_abn2_",
+			"resource-type": [
+				"raw"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://elsoldemexico\\.com\\.mx/cultura/gastronomia/.*_banner-400x250_01\\.jpg",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://elsiglodetorreon\\.com\\.mx/images/banners/",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://elsiglodetorreon\\.com\\.mx/desplegados/banners/",
+			"resource-type": [
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://epasatiempos\\.es/js/af\\.js",
 			"resource-type": [
 				"image",
@@ -25562,6 +26949,34 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://midastouchrt\\.com",
+			"resource-type": [
+				"popup"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://cuntempire\\.com",
+			"resource-type": [
+				"popup"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://bit\\.ly",
 			"resource-type": [
 				"popup"
@@ -25824,6 +27239,58 @@
 			"if-domain": [
 				"3djuegos.com",
 				"www.3djuegos.com"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*\\.pro",
+			"resource-type": [
+				"popup"
+			],
+			"if-domain": [
+				"strtape.tech",
+				"www.strtape.tech"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ytmp3\\.plus/p",
+			"resource-type": [
+				"popup"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*\\.bid/p\\.php\\?",
+			"resource-type": [
+				"popup"
+			],
+			"if-domain": [
+				"pctfenix.com",
+				"www.pctfenix.com"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://cine24\\.online/ads/",
+			"resource-type": [
+				"popup"
 			]
 		},
 		"action": {
@@ -26292,6 +27759,44 @@
 			"if-domain": [
 				"poringa.net",
 				"www.poringa.net"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://blogspot\\.com/-.*/BNO-300x250\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"if-domain": [
+				"erospanish.com",
+				"www.erospanish.com"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://imx\\.to/imx\\.php\\?",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
 			]
 		},
 		"action": {
@@ -27161,7 +28666,9 @@
 			],
 			"if-domain": [
 				"aristeguinoticias.com",
-				"www.aristeguinoticias.com"
+				"www.aristeguinoticias.com",
+				"bluradio.com",
+				"www.bluradio.com"
 			]
 		},
 		"action": {
@@ -28791,6 +30298,8 @@
 				"document"
 			],
 			"if-domain": [
+				"bluradio.com",
+				"www.bluradio.com",
 				"videos.memedeportes.com",
 				"videos.cuantarazon.com",
 				"videos.vistoenlasredes.com",
@@ -28844,6 +30353,17 @@
 				"videos.vistoenlasredes.com",
 				"videos.vrutal.com",
 				"videos.humorenserie.com"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://comunidadcoto\\.com\\.ar/comunidad/resources/publicidad/",
+			"resource-type": [
+				"image"
 			]
 		},
 		"action": {

@@ -572,15 +572,6 @@
 		},
 		"action": {
 			"type": "css-display-none",
-			"selector": ".pub_300x250"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://"
-		},
-		"action": {
-			"type": "css-display-none",
 			"selector": ".pub_first"
 		}
 	},
@@ -951,15 +942,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#pubsec1"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?animalog\\.online[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#sidebar"
 		}
 	},
 	{
@@ -1846,15 +1828,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?uol\\.com\\.br[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "div[id^=\"banner\"]"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?reportermt\\.com\\.br[/:]"
 		},
 		"action": {
@@ -2359,24 +2332,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?bronav\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".bottom-adv-wrap"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?bronav\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".side-adv-wrap"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?oantagonista\\.com[/:]"
 		},
 		"action": {
@@ -2391,6 +2346,276 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".anuncio"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?jogos360\\.com\\.br[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".adv"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?migalhas\\.com\\.br[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".patrocinador"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?consultaremedios\\.com\\.br[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner-wrapper"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?agoravale\\.com\\.br[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".expande-banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?agoravale\\.com\\.br[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[style^=\"background:#FFF\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?agoravale\\.com\\.br[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".EmpresasAnunciantes"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tempo\\.pt[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#bannerDerPC"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?gkpb\\.com\\.br[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".topo-ursinhos"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?agazeta\\.com\\.br[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ads-paragrafo"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?palcomp3\\.com\\.br[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[id^=\"pub-cc\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?geniol\\.com\\.br[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ads-margin-both"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tudoradio\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[class^=\"pub-\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dicionarioinformal\\.com\\.br[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[style=\"height:322px;\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ecoregional\\.com\\.br[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".g-single"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ecoregional\\.com\\.br[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".td-a-rec"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?r7\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".widget-24x1-ultimas__taboola"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?r7\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".r7-flex-adv__placeholder"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?g1\\.globo\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[class^=\"publicidade\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?letras\\.mus\\.br[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[id^=\"pub_\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?portalmaquinasagricolas\\.com\\.br[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href^=\"https://bit.ly\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?portalmaquinasagricolas\\.com\\.br[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".penci-custom-slide"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?onlineradiobr\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ai-placement"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dicionario\\.priberam\\.org[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".pb-pub-1, .pb-pub-2, .pb-pub-3, .pb-pub-4, .pb-pub-5, .pb-pub-8"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dicionario\\.priberam\\.org[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".pb-pub-mobile-banner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dicionario\\.priberam\\.org[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#skyscraper"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mundoeducacao\\.uol\\.com\\.br[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[style=\"display: flex; align-items: center; justify-content: center; margin-top: 20px;\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mundoeducacao\\.uol\\.com\\.br[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[style=\"height:250px; width:300px;\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mundoeducacao\\.uol\\.com\\.br[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner-anuncio"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mrpiracy\\.top[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[class^=\"super-r-button\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?astrologiaenlinea\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "td[width=\"728\"][height=\"90\"]"
 		}
 	},
 	{
@@ -4758,6 +4983,206 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://dellswhinyrank\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://yepteaswont\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://nzbnjdukgaco\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ptcqjliwwkldm\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://abroodeuripi\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://brazenwholly\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://aanqylta\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://samplerpouch\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://loftsbaacad\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://deliriousglowing\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://pweaatek\\.com",
 			"resource-type": [
 				"popup"
@@ -5397,6 +5822,21 @@
 			"if-domain": [
 				"animesonlinebr.co",
 				"www.animesonlinebr.co"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*/banner-via-maquinas\\.png",
+			"resource-type": [
+				"image"
+			],
+			"if-domain": [
+				"portalmaquinasagricolas.com.br",
+				"www.portalmaquinasagricolas.com.br"
 			]
 		},
 		"action": {
@@ -6387,7 +6827,221 @@
 			],
 			"if-domain": [
 				"animesonlinep.com",
-				"www.animesonlinep.com"
+				"www.animesonlinep.com",
+				"animesonlinebr.co",
+				"www.animesonlinebr.co",
+				"superanimes.tv",
+				"www.superanimes.tv"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://migalhas\\.com\\.br/IMGSRC/www\\.migalhas\\.com\\.br.*S=Publicidade",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://agoravale\\.com\\.br/GCWAV/Banners/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://hojemais\\.com\\.br/images/banners/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://atelevisao\\.com/wp-content/themes/.*_100x50\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://wook\\.pt/accounts/default1/banners/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"if-domain": [
+				"obichinhodosaber.com",
+				"www.obichinhodosaber.com"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://minhaconexao\\.com\\.br/_mini/static/images/mp-banner-300x250\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://wixstatic\\.com/media/.*/JIU%20JITSU\\.webp",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"if-domain": [
+				"ouroverdefm.com.br",
+				"www.ouroverdefm.com.br"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*/wp-content/uploads/.*-haribo",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"if-domain": [
+				"gkpb.com.br",
+				"www.gkpb.com.br"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ecoregional\\.com\\.br/wp-content/uploads/.*/BannerSiteEco-sicredi-novo\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ecoregional\\.com\\.br/wp-content/uploads/.*/jardim-pq-.*\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ecoregional\\.com\\.br/wp-content/plugins/icegram/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://notebookcheck\\.info/fileadmin/Sonstiges/ama_abn2_",
+			"resource-type": [
+				"raw"
 			]
 		},
 		"action": {
@@ -6437,7 +7091,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://landings\\.ncmfck\\.com",
+			"url-filter": "^https?://landings\\.ncm.*\\.com",
 			"resource-type": [
 				"popup"
 			],
@@ -6594,6 +7248,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://.*acientistaagricola\\.pt#\\?#div\\[id.=\"media_image\"\\]:-abp-has\\(>div:-abp-contains\\(Pub\\)\\)",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*em\\.com\\.br#\\?#small:-abp-contains\\(Publicidade\\)",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -6793,6 +7464,8 @@
 				"document"
 			],
 			"if-domain": [
+				"estilomma.pt",
+				"www.estilomma.pt",
 				"fct.pt",
 				"www.fct.pt",
 				"ipb.pt",
@@ -6812,6 +7485,44 @@
 			"if-domain": [
 				"eglobalcentralpt.com",
 				"www.eglobalcentralpt.com"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://pa4\\.com\\.br/banners/tags/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*/adsdelivery\\.",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"if-domain": [
+				"adsdelivery.com.br",
+				"www.adsdelivery.com.br"
 			]
 		},
 		"action": {

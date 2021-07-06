@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: clTS6A0hWR+yIcDNFwXcjQ
-! Version: 202104060801
+! Checksum: hf9i9Ld++xMaiJcwP8pX/g
+! Version: 202107060223
 ! Title: IndianList
-! Last modified: 06 Apr 2021 08:01 UTC
+! Last modified: 06 Jul 2021 02:23 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -21,6 +21,7 @@
 /adss/*$domain=tharunaya.us
 /Advertizement/*
 /advt-
+ad-150x600
 !------------------------General element hiding rules-------------------------!
 !---------------------------Third-party advertisers---------------------------!
 ! *** Fetched from: https://raw.githubusercontent.com/mediumkreation/IndianList/master/IndianList/adservers.txt ***
@@ -29,24 +30,30 @@
 ||adsfry.com^$third-party
 ||adstudio.cloud^$third-party
 ||aj2031.online^$third-party
+||budvawshes.ru^
 ||dashboard.adclipse.lk^$third-party
 ||desipearl.com^$third-party,domain=malabarinews.com
 ||faridpurprotidin.com^$third-party,domain=sundarbontimes.com
 ||flickstree.com$third-party
 ||gceleritasads.com^$third-party
+||hentaibaka.one^
 ||limray.com^$third-party,domain=uttranews.com
 ||pc5ads.com$third-party
 ||pclicc1.com^$third-party
 ||rugiomyh2vmr.com
+||surfe.be^$third-party
 ||thegoodplan.ovh/promo.php$popup
 ||tinkerta.com^$third-party
 ||uutew.info^$third-party
 ||wizardsbd.com^$third-party
+||zendplace.pro^$third-party
 !---------------------Specific URL or third-party CDN URL---------------------!
 ! *** Fetched from: https://raw.githubusercontent.com/mediumkreation/IndianList/master/IndianList/cdn_block.txt ***
 ||1.bp.blogspot.com/--9YBT8j6pmI/X4ar3RmtNVI/AAAAAAABsAM/R2B1R2Y1nwE-aS_qJgsTIuPWZkstydYAACLcBGAsYHQ/s1200/1200x100px.gif
 ||1.bp.blogspot.com/-089XEgQTbfM/XYtpWNkrVWI/AAAAAAAAE7Y/YdBehnrpHDE6HgZEe8wYH_CU8MX1glXVgCLcBGAsYHQ/s1600/smart-plan-engineers-plan-estimate-kumbla.jpg
+||1.bp.blogspot.com/-2ets3vX4J84/YGcgmWB4jzI/AAAAAAABR7M/B41VYuw5KwQdu3OCDB3mZX4uDWPhyopwgCLcBGAsYHQ/s16000/neostar%2Bhospital%2Bad%2B2.jpg
 ||1.bp.blogspot.com/-4zNkw3KnzAY/XelWB4gv-OI/AAAAAAAAAy4/jsJymqbSUNQIW0KDS_Qy2eceVr541ua4ACLcBGAsYHQ/s1600/SOFTNETICS.gif%22
+||1.bp.blogspot.com/-9q1VbPkSuzQ/YGRm9J2bdII/AAAAAAAAJIU/Z9mMJsRV1B4LcBDo67tbvUrQAqR1zM6IwCLcBGAsYHQ/s320/IMG_20210331_154025.jpg
 ||1.bp.blogspot.com/-amWRfPd7UhY/Xz3t6JvJC9I/AAAAAAABl60/h8wP58CTq2oT7G22Zf8hzwU3fjOcP9hqwCLcBGAsYHQ/s1600/Arthasarokar.com_1200x110%2Bpxl.gif
 ||1.bp.blogspot.com/-bwl8hX4G3WE/XrqqLKYVAVI/AAAAAAAAATo/xXJ8CJo6Isg4wD3cVnAhponvmSSi2yykgCLcBGAsYHQ/s400/20200512_192007.png
 ||1.bp.blogspot.com/-e9aUgh27aeU/XSmmB3IaZ1I/AAAAAAAACAg/sP_Q4Z_6H-8iL83PJmMlklYpiCR-CE2dQCK4BGAYYCw/s1600/news%2Bsharma%2Btent%2B.jpg
@@ -58,6 +65,7 @@
 ||1.bp.blogspot.com/-JAz170KLs24/Xzl0Vcd2OLI/AAAAAAABNV8/9hdgbd0hfNc6V1jOjjv-78Nyx6pH36eEwCLcBGAsYHQ/s320/arsh%2Bhospital.jpg
 ||1.bp.blogspot.com/-KNOSBm86Wp0/WqeMahwR2zI/AAAAAAAABsU/LOwdzl1JY_k9S09wIxLoUuBfruM0I_QgACK4BGAYYCw/s1600/vinduyal%2Byhu.png
 ||1.bp.blogspot.com/-kxTyEAbQkf4/XnuIOJSGgCI/AAAAAAAAasc/exO_mM_UDLUtrwEIPvTvwXo7UsEXUQQ4gCNcBGAsYHQ/s320/Corona-Footer.png
+||1.bp.blogspot.com/-Mv2jWK6XSYo/YMBKUu5LOWI/AAAAAAABSxE/9RbmR84z4ooViZKH31JPFxdzSQn0R9hCQCLcBGAsYHQ/s400/dr_rathi.jpg
 ||1.bp.blogspot.com/-n0lFoOF2jgc/YAwpyCOfcwI/AAAAAAAABV0/Hp2OjYdT4og0ymNsHLz05R8nTNpd_a89wCPcBGAYYCw/w422-h640/saurabh%2Badvp.jpg
 ||1.bp.blogspot.com/-NRIVABZBK4E/XxGHEbRwqyI/AAAAAAABkVE/oD6x-sDSb8c_Aq7Z9NlOSwtLF4Czy4EDgCLcBGAsYHQ/s1600/Cirizen-Life-animation%2B%25281%2529.gif
 ||1.bp.blogspot.com/-Paz8T9R5VF8/WGJFxXVOMAI/AAAAAAAAoII/Y14AmDkUZJMR7RELW2piHqG0USEnXBXvQCLcB/s1600/728.jpg
@@ -67,6 +75,7 @@
 ||1.bp.blogspot.com/-sp-jG1vCJc0/XXTATOlWXVI/AAAAAAAAE58/FoUD_IzpfHotp63HRVglGaxwjk2jZHPpgCLcBGAs/s1600/text-ad.jpg
 ||1.bp.blogspot.com/-vF46qT7yVOc/Xzf95WoUNkI/AAAAAAAAF1c/YLxgSTI5J2s7kWGolVxiXzK7m22UkQGbACLcBGAsYHQ/s0/WhatsApp+Image+2020-08-15+at+19.41.53.jpeg
 ||1.bp.blogspot.com/-x93ms1hM8sM/X4hER7_RHiI/AAAAAAAAAx0/ngwN68cbHCgXRKKDEj3GWAHjPbFcrlVdwCLcBGAsYHQ/s1200/Coke_Daaraz_1200X100.gif
+||1.bp.blogspot.com/-Xlpy21G1SDw/YEnYXJQf0qI/AAAAAAAAJD4/XQfCVi4vFa4jPqAQGHo513CdAyZIK1zsgCLcBGAsYHQ/s320/IMG_20210311_141021.jpg
 ||1.bp.blogspot.com/-xn3QAeQtBPI/XeQfx-IUqmI/AAAAAAAAArE/9MW7ssw3O4MdgWugrABolkSqLB6BYPytgCLcBGAsYHQ/s1600/AksiOnline.gif
 ||1.bp.blogspot.com/-zvCNbgSaLC8/Xo2XXRUHVFI/AAAAAAAAAkw/TkLReQLUewAr9RE4nJIXklx8P6RFMy5NwCLcBGAsYHQ/s400/columbus.jpeg
 ||2.bp.blogspot.com/-0A7FPNWwEkw/XuZJxLv5pEI/AAAAAAAA7Jg/c7wzBa8rqWwoeInnGC4Ya7pMgSc4N-UJACK4BGAYYCw/s1600/IMG-20200614-WA0022.jpg
@@ -102,11 +111,15 @@
 ||cdn.shortpixel.ai/client/q_glossy,ret_img/https://www.dailyudaipur.com/wp-content/uploads/2019/06/web-design.jpg
 ||cdn.shortpixel.ai/client/q_glossy,ret_img/https://www.dailyudaipur.com/wp-content/uploads/2019/08/dawat_restaurant-1.jpg
 ||cdn.shortpixel.ai/client/q_glossy,ret_img/https://www.dailyudaipur.com/wp-content/uploads/2020/07/lic_add.jpeg
+||cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img/http://www.thamilan.lk/wp-content/uploads/2020/06/19.jpg
+||cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img/http://www.thamilan.lk/wp-content/uploads/2020/12/Blue-ocean.gif
 ||cdn.telugu.gulte.com/wp-content/uploads/2020/06/amaravati-v2.gif
 ||dainiki.com/wp-content/uploads/2020/10/MBL-GIF.gif
+||digitaloceanspaces.com/appharuspace/drishtinews/uploads/2021/04/Cozy-4.gif
 ||enews.bd24report.com/wp-content/uploads/2020/06/safet-gps-01-03.png
 ||fdcdn.prixa.net/media/Dubai_Tech_media_house.gif
 ||fdcdn.prixacdn.net/media/1200x_150px.gif
+||fdcdn.prixacdn.net/media/global_hr_solution_desktop.gif
 ||fdcdn.prixacdn.net/media/NHPF.gif
 ||goo.gl/iqmWie
 ||googleapis.com/production-prothomalo/contents/uploads/media/2020/03/21/e228ecefda1d4ffaf696fdbf60b12bd4-5e75b7d59efd0.gif
@@ -121,8 +134,10 @@
 ||i.postimg.cc/639XNkyt/20190827-203226.jpg
 ||i.postimg.cc/J0gp7X4M/20190827-205158.jpg
 ||i0.wp.com/24x7cg.com/wp-content/uploads/2020/06/photo_2020-06-04_20-36-56.jpg
+||i0.wp.com/aawaznews.com/wp-content/uploads/2021/05/IMG-20210422-WA0001-92.jpg
 ||i0.wp.com/alorjatra.com/wp-content/uploads/2021/03/1615811854068_copy_540x675.png
 ||i0.wp.com/avikaluttarakhand.com/beta/wp-content/uploads/2020/11/webmediasolutions-ad.png
+||i0.wp.com/bibahabd.net/wp-content/uploads/2019/04/A-336x280-ani-2.gif
 ||i0.wp.com/buxarkhabar.com/wp-content/uploads/2016/04/2-apr-add-iti-2.jpg
 ||i0.wp.com/deshjurey.com/wp-content/uploads/2020/04/Untitled-1-copy-419x365-1.jpg
 ||i0.wp.com/khabarchhe.com/assets/front/astro-home-banner.jpg
@@ -158,7 +173,9 @@
 ||i0.wp.com/thepublicnews.live/wp-content/uploads/2020/08/photo_2020-08-15_19-07-51.jpg
 ||i0.wp.com/thepublicnews.live/wp-content/uploads/2020/08/photo_2020-08-15_19-07-58.jpg
 ||i0.wp.com/thepublicnews.live/wp-content/uploads/2020/10/IMG-20201019-WA0000-1.jpg
+||i0.wp.com/udupixpress.com/wp-content/uploads/2020/06/Admissions-Open-21-22-_-For-Class-11th-12th-_-JEE-_-NEET-_-CET-4.png
 ||i0.wp.com/udupixpress.com/wp-content/uploads/2020/06/IMG-20190624-WA0013.jpg
+||i0.wp.com/ujjwalhimachal.com/wp-content/uploads/2021/03/add.jpg
 ||i0.wp.com/vishwakarmakiran.com/wp-content/uploads/2018/03/pachu.jpg
 ||i0.wp.com/vishwakarmakiran.com/wp-content/uploads/2019/07/anil-vish-mumbai.jpg
 ||i0.wp.com/www.24x7cg.com/wp-content/uploads/2020/09/7283a37e-d92f-4ac1-917b-494441dab4c4.jpg
@@ -168,6 +185,7 @@
 ||i0.wp.com/www.filmynepal.com/wp-content/uploads/2020/03/mygg2_web_1000x550.jpg
 ||i0.wp.com/www.hamroeconomy.com/wp-content/uploads/2019/08/salt-trading.gif
 ||i0.wp.com/www.hamroeconomy.com/wp-content/uploads/2020/04/add.gif
+||i0.wp.com/www.independentcitizennews.com/wp-content/uploads/2020/05/our-company.jpg
 ||i0.wp.com/www.joharlive.com/wp-content/uploads/2020/08/2.jpg
 ||i0.wp.com/www.joharlive.com/wp-content/uploads/2020/08/34.jpg
 ||i0.wp.com/www.joharlive.com/wp-content/uploads/2020/08/7.jpg
@@ -187,12 +205,14 @@
 ||i0.wp.com/www.rojdin.in/wp-content/uploads/2019/04/tw-ad2r.png
 ||i0.wp.com/www.siwanonline.com/wp-content/uploads/2020/06/aliahmad.jpg
 ||i0.wp.com/www.tnn.lk/wp-content/uploads/2020/05/TNNAD.jpeg
+||i1.wp.com/aapkanews.com/wp-content/uploads/2021/03/advt11436.jpg
 ||i1.wp.com/buxarkhabar.com/wp-content/uploads/2016/10/3-octu-add-iti.jpg
 ||i1.wp.com/canarabuzz.com/wp-content/uploads/2019/12/IMG-20191213-WA0004.jpg
 ||i1.wp.com/deshjurey.com/wp-content/uploads/2019/05/n.jpg
 ||i1.wp.com/deshjurey.com/wp-content/uploads/2019/11/0000-1-scaled.jpg
 ||i1.wp.com/janadhvani.com/wp-content/uploads/2019/12/fahima-latest.gif
 ||i1.wp.com/janadhvani.com/wp-content/uploads/2019/12/mangalore-travels.gif
+||i1.wp.com/janatarsomoy24.com/wp-content/uploads/2020/12/Ad-for-EditingMe-DLN24-V2.gif
 ||i1.wp.com/ktmdainik.com/wp-content/uploads/2020/06/Garment-Ads-Final-2.gif
 ||i1.wp.com/laligurash.com/wp-content/uploads/2020/02/skep-add.jpg
 ||i1.wp.com/lalitatimes.com/wp-content/uploads/2019/06/rec300.jpg
@@ -212,6 +232,8 @@
 ||i1.wp.com/muznews.online/wp-content/uploads/2019/12/WhatsApp-Image-2019-12-16-at-19.17.40.jpeg
 ||i1.wp.com/muznews.online/wp-content/uploads/2020/05/WhatsApp-Image-2020-05-20-at-14.53.50.jpeg
 ||i1.wp.com/muznews.online/wp-content/uploads/2020/05/WhatsApp-Image-2020-05-20-at-14.53.51.jpeg
+||i1.wp.com/nk.kottayamvartha.com/wp-content/uploads/2021/05/RENI.png
+||i1.wp.com/nk.kottayamvartha.com/wp-content/uploads/2021/05/RVS-2.png
 ||i1.wp.com/paathok.news/assets/files/2019/10/Promote-Banner-Hostrology-Final-copy-e1579033374444.jpg
 ||i1.wp.com/prompttimes.com/wp-content/uploads/2020/10/Pt-Sandeep-Sharma-e1603449024645.jpeg
 ||i1.wp.com/sangbadsarabela.com/wp-content/uploads/2020/10/islami-bank-sangbad-sarabela-add.png
@@ -219,10 +241,10 @@
 ||i1.wp.com/sikhvirsa.com/wp-content/uploads/2020/04/212-1.png
 ||i1.wp.com/sikhvirsa.com/wp-content/uploads/2020/08/WhatsApp-Image-2020-08-07-at-12.28.13-AM-1.jpeg
 ||i1.wp.com/sikhvirsa.com/wp-content/uploads/2020/08/WhatsApp-Image-2020-08-07-at-12.28.13-AM.jpeg
+||i1.wp.com/thebarisal.com/wp-content/uploads/2019/11/Barisal-Education-Board_log.jpg
 ||i1.wp.com/thepublicnews.live/wp-content/uploads/2020/08/Webp.net-gifmaker.gif
 ||i1.wp.com/www.abcnepal.tv/wp-content/uploads/2020/06/nabil-logo-green-bg-2020.png
 ||i1.wp.com/www.abcnepal.tv/wp-content/uploads/2020/10/worldlink-New.gif
-||i1.wp.com/www.arthosuchak.com/wp-content/uploads/2015/12/crown-1dot5sec.gif
 ||i1.wp.com/www.buxarkhabar.com/wp-content/uploads/2016/04/2-apr-add-iti-2.jpg
 ||i1.wp.com/www.countryinsidenews.com/wp-content/uploads/2019/11/1.jpeg
 ||i1.wp.com/www.deshergarjan.net/wp-content/uploads/2019/02/hotel.gif
@@ -248,6 +270,7 @@
 ||i1.wp.com/www.prasashan.com/wp-content/uploads/2020/02/parikar.jpg
 ||i1.wp.com/www.sawalnepal.com/wp-content/uploads/2020/05/1ntc_x_100.gif
 ||i1.wp.com/www.sawalnepal.com/wp-content/uploads/2020/10/puspa-dhirendra.jpg
+||i1.wp.com/www.sawalnepal.com/wp-content/uploads/2021/03/NT-APP-1220x120-1.gif
 ||i1.wp.com/www.siwanonline.com/wp-content/uploads/2020/06/vigyapann.jpg
 ||i1.wp.com/www.tnn.lk/wp-content/uploads/2018/11/IMG-20181126-WA0003.jpg
 ||i1.wp.com/www.tnn.lk/wp-content/uploads/2019/10/250-x-350.jpg
@@ -291,12 +314,14 @@
 ||i2.wp.com/nvr24.com/wp-content/uploads/2020/03/amazon.png
 ||i2.wp.com/nvr24.com/wp-content/uploads/2020/04/WhatsApp-Image-2020-04-18-at-7.52.29-PM-1.jpeg
 ||i2.wp.com/openmalayalam.com/wp-content/uploads/2020/03/Page-Ad-970x90-1.jpg
+||i2.wp.com/orthosongbad.com/wp-content/uploads/2020/06/nbl-1.gif
 ||i2.wp.com/paathok.news/assets/files/2016/04/456bcbfd901961ca3202063d6a0428a4.gif
 ||i2.wp.com/postkhabar.com/wp-content/uploads/2020/10/1120x120-1.gif
 ||i2.wp.com/realtykhabar.com/wp-content/uploads/2019/05/ak_1080_1709117873-1553749950_300x300.jpeg
 ||i2.wp.com/setvnews24.com/wp-content/uploads/2020/05/gggggggg.jpg
 ||i2.wp.com/sgp1.digitaloceanspaces.com/appharus1/khubs3/uploads/2021/02/1460-x-120.gif
 ||i2.wp.com/shomoyerkhabor.com/wp-content/uploads/2020/10/221design.jpg
+||i2.wp.com/thebarisal.com/wp-content/uploads/2019/03/received_383661389584396.jpeg
 ||i2.wp.com/udupixpress.com/wp-content/uploads/2020/06/Muniyal-Admission-1333x200-udupixpress-ad-
 ||i2.wp.com/ukhiyanews.com/wp-content/uploads/13194432968121176931.gif
 ||i2.wp.com/ukhiyanews.com/wp-content/uploads/9934705242568620430.gif
@@ -327,9 +352,13 @@
 ||i2.wp.com/www.sawalnepal.com/wp-content/uploads/2020/10/am-dental.jpg
 ||i2.wp.com/www.siwanonline.com/wp-content/uploads/2020/08/ads.jpeg
 ||i2.wp.com/www.vedantbhoomi.com/wp-content/uploads/2020/09/steelmint-dot-com.jpg
+||i3.wp.com/orthosongbad.com/wp-content/uploads/2019/12/techno-media.gif
 ||ihrc24x7.com/wp-content/uploads/2019/05/anigif.gif
+||ik.imagekit.io/ggvb4lkob/hne/tr:w-390,h-230,c-force/booking/06052021113835.jpg
+||ik.imagekit.io/ggvb4lkob/hne/tr:w-390,h-286,c-force/booking/15042021045819.jpg
 ||innovativedigitalteam.com/125development/sadeaala/wp-content/uploads/2017/12/newspaper-rec
 ||investingpr.com/wp-content/uploads/2018/01/Binance-Banner1.png
+||janmabhumi.s3.ap-south-1.amazonaws.com/static/images/Sreerangom+lead.jpg
 ||kadwahat.com/wp-content/uploads/2020/07/fashion-3.jpg
 ||mawurata.com/wp-content/uploads/Neth.jpg
 ||media.giphy.com/media/co144S0CNDpOMXpDqQ/giphy.gif
@@ -358,6 +387,7 @@
 ||s3-ap-south-1.amazonaws.com/buxarkhabar/wp-content/uploads/2020/03/22184138/15-mar-add-Pradeep_5x25.jpg
 ||s3-ap-southeast-1.amazonaws.com/deshsanchar/wp-content/uploads/2018/01/12151511/HOME_PAGE_DeshSanchar_316x100px.gif
 ||s3.amazonaws.com/deranaarunalk/wp-content/uploads/2020/05/15001939/design-2.jpg
+||s3.amazonaws.com/wp-uploads.topchand.com/2021/01/Arihant-Security-Solutions.jpeg
 ||satkhiraralo.com/wp-content/uploads/2020/01/de-463x300.png
 ||satkhiraralo.com/wp-content/uploads/2020/01/de-768x498.png
 ||satkhiraralo.com/wp-content/uploads/2020/01/de.png
@@ -365,6 +395,31 @@
 ||secureservercdn.net/160.153.137.218/ijy.b57.myftpupload.com/wp-content/uploads/2020/08/ad-laxman-khaati.jpeg
 ||secureservercdn.net/160.153.137.218/ijy.b57.myftpupload.com/wp-content/uploads/2020/08/ad-nagar-panchayat-lalkuan.jpeg
 ||secureservercdn.net/160.153.137.218/ijy.b57.myftpupload.com/wp-content/uploads/2020/08/ad-shivaay-mall.jpeg
+||secureservercdn.net/198.12.144.78/4ce.459.myftpupload.com/wp-content/uploads/2019/06/IMG-20190614-WA0005.jpg
+||secureservercdn.net/198.12.144.78/4ce.459.myftpupload.com/wp-content/uploads/2019/06/IMG-20190614-WA0006.jpg
+||secureservercdn.net/198.12.144.78/4ce.459.myftpupload.com/wp-content/uploads/2020/03/IMG-20200319-WA0010.jpg
+||secureservercdn.net/198.12.144.78/4ce.459.myftpupload.com/wp-content/uploads/2020/03/IMG-20200329-WA0033.jpg
+||secureservercdn.net/198.12.144.78/4ce.459.myftpupload.com/wp-content/uploads/2020/04/IMG-20200420-WA0041.jpg
+||secureservercdn.net/198.12.144.78/4ce.459.myftpupload.com/wp-content/uploads/2020/05/20200514_091153.jpg
+||secureservercdn.net/198.12.144.78/4ce.459.myftpupload.com/wp-content/uploads/2020/05/20200514_091336.jpg
+||secureservercdn.net/198.12.144.78/4ce.459.myftpupload.com/wp-content/uploads/2020/05/20200514_091431.jpg
+||secureservercdn.net/198.12.144.78/4ce.459.myftpupload.com/wp-content/uploads/2020/05/20200514_091532.jpg
+||secureservercdn.net/198.12.144.78/4ce.459.myftpupload.com/wp-content/uploads/2020/07/IMG-20200715-WA0005.jpg
+||secureservercdn.net/198.12.144.78/4ce.459.myftpupload.com/wp-content/uploads/2020/07/IMG-20200717-WA0010.jpg
+||secureservercdn.net/198.12.144.78/4ce.459.myftpupload.com/wp-content/uploads/2020/08/SAMAROH-EVENT-MANAGEMENT
+||secureservercdn.net/198.12.144.78/4ce.459.myftpupload.com/wp-content/uploads/2020/10/IMG-20201002-WA0002.jpg
+||secureservercdn.net/198.12.144.78/4ce.459.myftpupload.com/wp-content/uploads/2020/12/Edu-PTSE-
+||secureservercdn.net/198.12.144.78/4ce.459.myftpupload.com/wp-content/uploads/2020/12/Handbill-Combo-Batch
+||secureservercdn.net/198.12.144.78/4ce.459.myftpupload.com/wp-content/uploads/2021/01/IMG-20210105-WA0017.jpg
+||secureservercdn.net/198.12.144.78/4ce.459.myftpupload.com/wp-content/uploads/2021/01/IMG-20210118-WA0015.jpg
+||secureservercdn.net/198.12.144.78/4ce.459.myftpupload.com/wp-content/uploads/2021/01/IMG-20210118-WA0016.jpg
+||secureservercdn.net/198.12.144.78/4ce.459.myftpupload.com/wp-content/uploads/2021/02/IMG-20210224-WA0036.jpg
+||secureservercdn.net/198.12.144.78/4ce.459.myftpupload.com/wp-content/uploads/2021/03/20210310_155831.jpg
+||secureservercdn.net/198.12.144.78/4ce.459.myftpupload.com/wp-content/uploads/2021/03/IMG-20210309-WA0032.jpg
+||secureservercdn.net/198.12.144.78/4ce.459.myftpupload.com/wp-content/uploads/2021/04/IMG-20210414-WA0021.jpg
+||secureservercdn.net/198.12.144.78/4ce.459.myftpupload.com/wp-content/uploads/2021/04/IMG-20210427-WA0064-01.jpeg
+||secureservercdn.net/198.12.144.78/4ce.459.myftpupload.com/wp-content/uploads/2021/05/IMG-20210509-WA0028.jpg
+||secureservercdn.net/198.12.144.78/4ce.459.myftpupload.com/wp-content/uploads/2021/05/IMG-20210513-WA0098-1536x1536.jpg
 ||secureservercdn.net/198.71.233.107/cmk.e47.myftpupload.com/wp-content/uploads/2020/08/300-x-90-3.gif
 ||secureservercdn.net/198.71.233.107/cmk.e47.myftpupload.com/wp-content/uploads/2020/08/CAMERA-AD
 ||secureservercdn.net/198.71.233.107/cmk.e47.myftpupload.com/wp-content/uploads/2020/08/goldenget.gif
@@ -436,7 +491,9 @@
 ||youtube.com/embed/-pGjd8-iyDQ
 ||youtube.com/embed/5tDSbsDqekU
 ||youtube.com/embed/9olr5bechjI
+||youtube.com/embed/_6eiTXwuYoM
 ||youtube.com/embed/h_PXz0vN5H4
+||youtube.com/embed/iNtajKR6ZCs
 ||youtube.com/embed/iSsvK-L5CWI?$domain=keralatimes.com
 ||youtube.com/embed/M6fO3qmXrhE
 ||youtube.com/embed/MdidROnkjuo
@@ -458,26 +515,28 @@
 -ad.jpg|$domain=channelionline.com|didnews.in|dirt-sheet.com|saghata-news.com|sharetimes24.com|thebarta24.com|timesbd24.com
 -Ad.jpg|$domain=cinemapluz.com
 -ad.jpg|$domain=indiaaajkal.in
--Ad.jpg|$domain=thebdexpress.com
+-Ad.jpg|$domain=kannurmetroonline.com|thebdexpress.com
 -ad.png?$domain=onenewsbd.com
 -Ad.png|$domain=dailyghagot.com
 -ad.png|$domain=snpsports24.com
 -AD_$domain=ptbnewsbd.com
--add-$domain=barishaltimes.com|sankalpanews.com
+-add-$domain=barishaltimes.com|businesshour24.com|sankalpanews.com
 -ADD-$domain=shomoynews.net
 -Add-$image,domain=chauthiduniya.com
 -add-$image,domain=dainikazadi.net|filmyfanda.com|samarneetinews.com
--add.gif|$domain=somoysongbad.com|wenepali.com
+-add.gif|$domain=chandpurreport.com|somoysongbad.com|wenepali.com
 -add.gif|$image,domain=abcnepal.tv|amarsylhet24.com
 -add.jpg|$domain=bangladeshkantha.com|eaajkaal.in|firstsuddi.com|patheo24.com|ramailochha.com|teluguwishesh.com
 -ADD.jpg|$domain=bishwanathbd24.com
--Add.jpg|$domain=suprovatsatkhira.com
+-add.jpg|$domain=panchkulasamachar.com
+-Add.jpg|$domain=pragativahini.com|suprovatsatkhira.com
 -add.png?$domain=osnepal.com
 -add.png|$domain=abcnepal.tv|kalaroanews.com|sangbadsarabela.com
 -Add_$domain=barishaltimes.com
 -adds-$domain=ddnews24x7.com
 -Ads-$domain=asomiyapratidin.in|bdtoday24.com|channelionline.com|dailyceylon.com|gopalganj.org|meelparvai.net
 -ads.jpg|$domain=bigulnews.tv|channelionline.com|ctn24.com
+-ads.png|$domain=ctgsun.com
 -ADV-$domain=brtnepal.com
 -adv.$domain=brtnepal.com
 -adv.gif|$domain=bikashnews.com
@@ -568,9 +627,12 @@
 @@||bbarta24.net/templates/bbarta/images/main-logo.png
 @@||bdjahan.com^*/2020/01/add.jpg
 @@||bonikbarta.net^*/970x90-3-acc.gif
+@@||enewsmp.com/uploaded_files/banner_img/enewsmp.com5f181c1882f7434.jpeg
 @@||habiganj-samachar.com^*/add/samachar2019.jpg
 @@||hindikhabarwaala.com/uploads/blocks/block_60158bda70d87.jpg
 @@||hollywoodkhabar.com/UserUploads/bigyapan/US_Immigration_LOGO.jpg
+@@||i.imgur.com/As2NFl1.jpg
+@@||i.imgur.com/h29ptDV.jpg
 @@||img.setopaty.com/uploads/bigyaapan/1582009187.jpg
 @@||imgur.com^0xhs9wf.png|$domain=news71online.com
 @@||imgur.com^rIebk7K.jpg|$domain=news71online.com
@@ -582,6 +644,8 @@
 @@||newssitelive.co.in/mynewsadmin/img/add/add1520503648.jpeg
 @@||newsxindia.com/Uploads/ad_16.jpg
 @@||samacharprime24.com/img/cust/31.jpg
+@@||samacharvarta.com/matri2/ad_pages/jawano%20ko%20salam.jpg
+@@||samacharvarta.com/matri2/ad_pages/school%20varta%20add.jpg
 @@||shilapatra.com/uploads/bigyapan/1563530826.jpg
 @@||tejastoday.com^*/ADD-TEJAS
 @@||wp.com^*/728X90pxHealth-Banner-Notice-e1575655446543.jpg
@@ -597,6 +661,7 @@ _AD_GIF$domain=kahalenews.com
 _add-$domain=pba.agency
 _add.gif|$domain=malayalamtodayonline.com
 _add.jpg|$domain=gourbarta24.com|politics.lk
+_add.png|$domain=dcnewsbd.com
 _Ads.gif|$domain=deshbarta.news
 _ADS.gif|$domain=focusmohona.com
 _ads.gif|$domain=uttaranews24.com
@@ -615,6 +680,7 @@ ad.jpg|$domain=bslnews24.com
 Ad_.png?$domain=bangladeshonline24.com
 add9.gif|$domain=sorejominbarta.com
 ads.jpg|$domain=meherpurnews.com
+ADVT.jpg|$domain=bhilaitimes.com
 Banner-$image,domain=reportersnepal.com
 clickmandu.gif|$domain=clickmandu.com
 home_right_add$domain=dtvbangla.com
@@ -624,6 +690,12 @@ WebAd.jpg|$domain=vasundharadeep.news
 |bikashnews.com^*/MEGA_MEGA-MAYA-BACHAT-KHATA_300x150pixels.gif
 ||1.bp.blogspot.com/-4dXaC50kzuw/XLeNe_MshcI/AAAAAAABVy0/aRaECnawzkcT9goRLtFBxEJRTdGVK5ZmgCK4BGAYYCw/s1600/Add.tif
 ||2.bp.blogspot.com/-HPD8Q-_QY4c/XIDtfTQVWAI/AAAAAAAAodQ/OkDJ6Lyl7dwciuxwqGgqTjXRFIvGBDstACLcBGAs/s1600/53327642_2040231206054757_8053306401486798848_n%2B%25281%2529.jpg
+||247superfast.com/wp-content/uploads/2021/04/IMG-20210414-WA0024-300x106.jpg
+||247superfast.com/wp-content/uploads/2021/04/IMG-20210414-WA0025-300x146.jpg
+||247superfast.com/wp-content/uploads/2021/05/WhatsApp-Image-2021-05-21-at-3.14.07-PM-300x192.jpeg
+||247superfast.com/wp-content/uploads/2021/05/WhatsApp-Image-2021-05-27-at-6.15.19-PM-300x297.jpeg
+||247superfast.com/wp-content/uploads/2021/05/WhatsApp-Image-2021-05-30-at-9.33.55-AM-e1622641528703-214x300.jpeg
+||247superfast.com/wp-content/uploads/2021/06/add-215x300.jpeg
 ||24ghonta.news/wp-content/uploads/2019/10/musa.gif
 ||24ghonta.news/wp-content/uploads/2019/10/nm-fashion-1.gif
 ||24ghonta.news/wp-content/uploads/2019/10/nurislm.gif
@@ -703,6 +775,9 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||aarthiknews.com^*/Subisu-300x132_-250-Digital-ko-sath-ma.gif
 ||aarthiknews.com^*/unnamed-file.gif
 ||aarvind.in/static/secl1.jpg$third-party
+||aashanews.com/wp-content/uploads/2019/04/Surabhi.jpg
+||aashanews.com/wp-content/uploads/2021/02/Ncc_ad_20201122221417.gif
+||aashanews.com/wp-content/uploads/2021/02/Salt-Trading.gif
 ||aayomail.com/uploads/bigyaapan/
 ||abckhabar.in/wp-content/uploads/2020/08/IMG-20200805-WA0000
 ||abhiyan.com.np^*/Om-Cement-2x5.jpg
@@ -740,6 +815,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||activenews24.com/admin/advertiseimg/5f6c50cee1ea6chanchol.gif
 ||adalytics.prixacdn.net^$third-party,domain=thahakhabar.com
 ||adhunikdaur.com/webdata/ranbhumiexpress.com/media/
+||adkit.in$domain=joharlive.com
 ||admin.thejasnews.com/servlet/RDESController?command=rdm.Picture
 ||adnlive24.com/webdata/adnlive24.com/media/1547646966adn_live_add.JPG
 ||agraleaks.com/wp-content/uploads/2020/03/cancer.jpg
@@ -771,6 +847,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||ajsamachar.com/wp-content/uploads/2020/04/0de714a2180b24abd2fc67dbbe2fa912.gif
 ||akhonsamoy.com/wp-content/uploads/2020/05/al-ac-1.jpg
 ||aktnews.com/mynewsadmin/img/add/add1603208498.jpeg
+||alertnews24.com/wp-content/uploads/2015/10/3a-driving-shcol22.jpg
 ||alive24news.com/wp-content/uploads/2019/10/ananadhospital$image
 ||allindiannews.com/wp-content/uploads/2015/01/Webp.net-gifmaker-1.gif
 ||alokitosakal.com^*/sk-enterprise-300x173.jpg
@@ -778,11 +855,14 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||alokitoshitalakha.com/wp-content/uploads/2020/08/giphy-2.gif
 ||alokitoshitalakha.com/wp-content/uploads/2020/09/ashitalakha@.gif
 ||alokitoshitalakha.com/wp-content/uploads/2020/09/giphy-2woalton.gif
+||alokitoshitalakha.com/wp-content/uploads/2021/02/Baby@Add@0222521.gif
 ||alokitosonargaon.com/wp-content/uploads/2018/09/1.jpg
 ||alorkantho24.news^*/ai1.gif
+||amader-protidin.com/asset/image/add/
 ||amaderkhulna.net/wp-content/uploads/2019/03/01-12.jpg
 ||amaderkothabd.com^*/liton-mujib-borso-amader-kotha
 ||amaderkothabd.com^*/sumon-da-ad-
+||amarbarishal24.com/wp-content/uploads/2017/12/courstika-ad.jpg
 ||amarrajshahi.com/media/PhotoGallery/2018November/001-2003161339.jpg
 ||amazonaws.com/deshsanchar*/nibl_240x103.gif
 ||amritsartimes.com/uploads/blocks/
@@ -792,65 +872,29 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||anmnews.in/wp-content/uploads/2020/06/green-tech.png
 ||anmnews.in/wp-content/uploads/2020/09/sbi-$image
 ||anubhaviaankhennews.com/wp-content/uploads/2018/03/IMG-20180228-WA0003.jpg
+||aponnewsbd.com/wp-content/uploads/2020/03/buy-website-bangladesh.jpg
 ||appusami.com^*/Thejomaya%20Ad1.jpg
 ||appusami.com^*/Thejomaya%20Ad2.jpg
 ||appusami.com^*/thejomayaad3.jpg
 ||appusami.com^*/yogesh.jpg
+||arlivenews.com^*/sojatia-
 ||arthadaily.com/users_upload/simrik-air.gif
-||arthosuchak.com/wp-content/uploads/2018/12/gph-ispat.gif
-||arthosuchak.com/wp-content/uploads/2019/11/lr-global.png
-||arthosuchak.com/wp-content/uploads/2019/11/moshishor.gif
-||arthosuchak.com/wp-content/uploads/2020/02/amar-taka.gif
-||arthosuchak.com/wp-content/uploads/2020/08/rupali-bank-securites-ltd.gif
-||arthosuchak.com/wp-content/uploads/2020/09/Energypac.gif
-||arthosuchak.com/wp-content/uploads/2020/09/lankabangla-final.gif
-||arthosuchak.com/wp-content/uploads/2020/09/Mir-Akhter-Hossian.jpg
-||arthosuchak.com/wp-content/uploads/2020/09/ucb-september.jpg
-||arthosuchak.com/wp-content/uploads/2020/10/IBBL-Islami-bank.gif
-||arthosuchak.com/wp-content/uploads/2020/10/lub-rref.gif
-||arthosuchak.com^*/ASUS-Global-brand.gif
-||arthosuchak.com^*/bank-asia-Q1.jpg
-||arthosuchak.com^*/BO-Renewal-shahjalal-bank-securities-logo.gif
-||arthosuchak.com^*/brb_bank.gif
-||arthosuchak.com^*/capitec-1.jpg
-||arthosuchak.com^*/city-brokerage-bo.gif
-||arthosuchak.com^*/city-general-insurance.jpg
-||arthosuchak.com^*/Coppertech-Industries-Ltd.gif
-||arthosuchak.com^*/Dragon-Sweater-Spinning-Ltd.jpg
-||arthosuchak.com^*/eastern-housing-psi.jpg
-||arthosuchak.com^*/eastern-insurance-1Q-1.jpg
-||arthosuchak.com^*/eastern-insurance-psi.jpg
-||arthosuchak.com^*/envoy-banner.png
-||arthosuchak.com^*/Esquire-ICL-Apparel-Fund.gif
-||arthosuchak.com^*/global-insurance-agm.jpg
-||arthosuchak.com^*/gph-ispat-psi.jpg
-||arthosuchak.com^*/ibbl-silami-bank.gif
-||arthosuchak.com^*/jamuna-logo-new.jpg
-||arthosuchak.com^*/midas-info.jpg
-||arthosuchak.com^*/new-line-ipo-2.jpg
-||arthosuchak.com^*/oimex-psi.jpg
-||arthosuchak.com^*/rak-ceramic.jpg
-||arthosuchak.com^*/right-choice-bd.png
-||arthosuchak.com^*/royel-tulip.gif
-||arthosuchak.com^*/runner-1.gif
-||arthosuchak.com^*/Saif-Power-AD.gif
-||arthosuchak.com^*/shwapno-single.jpg
-||arthosuchak.com^*/silco-2.jpg
-||arthosuchak.com^*/United-Securities-Ltd-bo.gif
-||arthosuchak.com^*/yeakin-polymar-psi.jpg
-||arthosuchak.com^*/zeal-bangla-1Q-banner.jpg
-||arthosuchak.com^*/zeal-bangla-agm-banner.jpg
+||arthosuchak.com/wp-content/uploads/2021/05/Ucb-web-banner.jpg
 ||arthparkash.com/wp-content/uploads/2020/03/brijvashi_.jpg
 ||arthparkash.com/wp-content/uploads/2020/03/c5c02016-f122-4f78-913b-333e10b3532c.jpg
 ||arthparkash.com/wp-content/uploads/2020/03/gopala-2.jpg
+||asbnewsindia.com/wp-content/uploads/2021/05/Amrish-chaudhary.jpg
+||asbnewsindia.com/wp-content/uploads/2021/05/payal-maheshwari.jpg
 ||ashatvbd.com/advimages/
 ||asianmail24.com/wp-content/uploads/2019/04/KNB-Feed-2.jpg
 ||asianmail24.com/wp-content/uploads/2019/05/Sigma.gif
 ||asianmetronews.com^*dcompanie.jpg
 ||asianmetronews.com^*thoolikatv.jpg
 ||asianmirror.lk/images/news_images/May2017/headers/deli.png
+||aswamedham.com/uploads/cms_images/kccna
 ||aswamedham.com^*/flowersadvt.gif
-||atharvnews.com/wp-content/uploads/2020/09/jetsor-300x155.jpg
+||atalstambh.com/wsdata/wwwatalstambhcom/news/202103/atal.jpg
+||atharvnews.com^*/jetsor
 ||athirvu.in^*/Bigg-Boss-Tamil-3-2019-1.png
 ||athirvu.in^*/tamiljournal.jpg
 ||avadh24.in/mynewsadmin/img/add/
@@ -905,6 +949,11 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||bangalorewaves.com/images/BW-Shopping-Ad-03.jpg
 ||bangla-bazaar.com/media/common/bongosoft.gif
 ||bangla-bazaar.com/media/common/small-banner.jpg
+||bangla-sydney.com/2013/nahid-dentist-ad-2013-fp.jpg
+||bangla-sydney.com/2018/three-halal-thai-fp.jpg
+||bangla-sydney.com/2019/macquarie-university-ad-fp.jpg
+||bangla-sydney.com/2021/auntora-dance-school-ekta-creative-fp2.jpg
+||bangla-sydney.com/perm/rabindranath-thakur-er-rochona-shomogro-fp2.jpg
 ||bangla.campuslive24.com^*/dbbl-2016-11-07-10-54-27.jpg
 ||bangla.campuslive24.com^*/hamdard-uni-2016-11-07-10-41-27.gif
 ||bangla.campuslive24.com^*/IBN_SINA-2016-11-07-10-50-29.gif
@@ -930,9 +979,11 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||bangladeshmail.news/wp-content/uploads/2020/07/IMG-20200730-WA0010-1.jpg
 ||bangladeshonline24.com/wp-content/uploads/2020/09/NUB-A4-9-9-20-02.jpg
 ||bangladeshonline24.com/wp-content/uploads/2020/09/Online-News-Fall-2020_Update-scaled.jpg
+||bangladeshtoday.net/wp-content/uploads/2020/05/GV-336x280.gif
 ||bangladhara.com/wp-content/uploads/2018/12/tara-miultimedia-logo1.gif
 ||bangladhara.com/wp-content/uploads/2019/12/Ad.jpg
 ||bangladhara.com/wp-content/uploads/2020/01/01010-1.jpg
+||bangladhara.com/wp-content/uploads/2020/10/1000-x-100.jpg
 ||banglamati.net^*/1414213955.gif
 ||banglamati.net^*/1414214447.gif
 ||banglamati.net^*/Ad-Shopno.jpg
@@ -941,6 +992,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||banglanews24.com^*/woman-world20160731144950.jpg
 ||banglanewstv.com/wp-content/uploads/2020/06/100592520_3100899006596935_6482361266173116416_n.jpg
 ||banglanewstv.com/wp-content/uploads/2020/06/103703283_263702371388228_8895015630326820836_n.jpg
+||banglanewstv.com/wp-content/uploads/2021/03/Screenshot_20210320-190449-300x155.jpg
 ||banglapostbd.com^*/Shah-AManat-Head.png
 ||banglarchithi.com/wp-content/uploads/2018/08/green-house.jpg
 ||banglarchithi.com/wp-content/uploads/2018/09/sarkar-furniture.jpg
@@ -958,8 +1010,15 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||bankbimaarthonity.com/wp-content/uploads/2015/10/Pragati_Life_Insurance_Monthly.gif
 ||bankbimaarthonity.com/wp-content/uploads/2015/10/Progoti-Insurance-AAA.jpg
 ||bankbimaarthonity.com/wp-content/uploads/2015/10/SWADESH-LIFE-AD.gif
+||bankingkhabar.com/wp-content/uploads/2019/03/lumbini-insurance.gif
+||bankingkhabar.com/wp-content/uploads/2021/02/300x-300px-Sarwadhik.gif
 ||bankingkhabar.com^*/1140X100.gif
 ||bankingkhabar.com^*/810x90.gif
+||bankingkhabar.com^*/prabhu
+||barisalbani.com^*/Ad-
+||barisalbani.com^*/ad4-
+||barisalbani.com^*/adbani
+||barisalbani.com^*/Add-
 ||barisaltribune.com/wp-content/uploads/2020/03/air.png
 ||barisaltribune.com^*/engineerbd.png
 ||barisaltribune.com^*/euro.png
@@ -969,8 +1028,10 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||barishalcrimenews.com/wp-content/uploads/2020/01/ShikderAD$image
 ||barishalcrimenews.com/wp-content/uploads/2020/01/SuvoAD1$image
 ||barishalcrimenews.com/wp-content/uploads/2020/01/website-ad$image
+||barishalcrimenews.com/wp-content/uploads/2021/01/Anchor-20.jpg
 ||barishalcrimenews.com^*/Ad$image
 ||barishaltimes.com/wp-content/uploads/2020/04/Diyan-Tex.jpg
+||barishaltimes.com/wp-content/uploads/2021/01/Screenshot.png
 ||barishaltimes.com^*/Anchor-2.png
 ||barishaltimes.com^*/Arafat-Paint.png
 ||barishaltimes.com^*/MEP-Gang-Such.jpg
@@ -983,6 +1044,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||battimedia.lk/wp-content/uploads/2020/02/food_delivery_batticaloa_jc_catering.png
 ||battimedia.lk/wp-content/uploads/2020/02/ramesh_stores.png
 ||battimedia.lk/wp-content/uploads/2020/03/icbt.png
+||battimedia.lk/wp-content/uploads/2021/04/Untitled-1new-724x1024.jpg
 ||battinaatham.net^*/obituary/fgdfg.gif
 ||bbarta24.com/templates/bbarta/images/
 ||bbarta24.net/templates/bbarta/images/
@@ -1036,12 +1098,29 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||bharatdarshannews.com/UploadImages/114591HRH%20City%20Projects%20-%20Vasant%20Valley%20add.jpg
 ||bharatdarshannews.com/UploadImages/182131banke%20bihari%20add.jpg
 ||bharatdarshannews.com/UploadImages/77411Mask%20Extender%20Strap.jpeg
+||bharatsamachartv.in/application/libraries/website/WhatsApp%20Image%202021-01-19%20at%2017.43.11.jpeg
+||bharatsamachartv.in/application/libraries/website/WhatsApp%20Image%202021-01-19%20at%2017.43.20.jpeg
 ||bhartianews.com/wp-content/uploads/2019/07/1.jpg
 ||bhartianews.com/wp-content/uploads/2019/07/9.jpg
 ||bhartianews.com/wp-content/uploads/2019/07/banner-1.jpg
 ||bhartianews.com/wp-content/uploads/2019/07/banner-2.jpg
 ||bhaskarenews.com/wp-content/uploads/2020/10/001-1$image
+||bhavanidvd.com$domain=tupaki.com
+||bhilaitimes.com^*/20210222_113945.gif
+||bhilaitimes.com^*/ADVT
+||bhilaitimes.com^*/carfyad
+||bhilaitimes.com^*/excelclass.gif
+||bhilaitimes.com^*/i-GateAdvertisement.jpg
+||bhilaitimes.com^*/KHMemorialSchoolNew
+||bhilaitimes.com^*/parakhadgif
+||bhilaitimes.com^*/santoshrungtaad
+||bhilaitimes.com^*/sbwarathesirad
+||bhilaitimes.com^*/shankaracharyamedicalcollege.jpg
+||bhilaitimes.com^*/vandematramapartment
+||bhilwarasamwad.com/asse/ads/fx/detailright.gif
+||bhilwarasamwad.com/asse/ads/fx/mleft.gif
 ||bhingatimes.co.in/admin/image_adv/
+||bholabani.com/cloud/archives/fileman/images.jpg
 ||bholahatchitro.com/wp-content/uploads/2019/10/photo_2019-10-02_09-32-23.jpg
 ||bholahatchitro.com/wp-content/uploads/2019/10/photo_2019-10-02_10-21-21.jpg
 ||bholanews.com/wp-content/uploads/2019/10/2292139964833903603-300x37.png
@@ -1052,6 +1131,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||bholanews.com/wp-content/uploads/2019/10/7973912098595037604-696x86.jpg
 ||bholanews.com/wp-content/uploads/2019/10/7973912098595037604.jpg
 ||bholanews.com/wp-content/uploads/2020/04/94991189_583102848979360_5284283454668668928_n-2.jpg
+||bholanews.com^*/BBCbanner0-
 ||bideshbangla24.com^*/Daily-Needs.jpg
 ||bideshbangla24.com^*/IMG_2473
 ||bideshbangla24.com^*/IMG_2701
@@ -1062,9 +1142,13 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||bihardainik.com/wp-content/uploads/2020/08/20200813_100920.jpg
 ||bihardainik.com/wp-content/uploads/2020/08/20200828_002741.jpg
 ||bihardainik.com/wp-content/uploads/2020/08/20200828_010436$image
+||bihardootnews.com/wp-content/uploads/2021/05/ad-tt-2-1.jpeg
+||bihardootnews.com/wp-content/uploads/2021/05/Screenshot-2021-05-06-004138.png
+||biharjharkhandnewsnetwork.com/wp-content/uploads/2021/03/TATA-STEEL.gif
 ||biharnews24.com/images/0.jpg
 ||biharnews24.com/images/1.jpg
 ||biharnewslive.com/wp-content/uploads/2020/07/WhatsApp-Image-2020-07-22-at-16.06.18.jpeg
+||biharpatrika.in^*/rama_masala
 ||bijoyer-alo.com/wp-content/uploads/2020/10/Populer.jpg
 ||bikalpadainik.com/wp-content/uploads/2020/05/Web-Design.gif
 ||bikalpadainik.com/wp-content/uploads/2020/06/bedkot.gif
@@ -1171,6 +1255,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||blogspot.com^*/City%2Bbag%2Bcopy.png$domain=arthasarokar.com
 ||blogspot.com^*/garima%2Bbank%2Bartha%2Bsarokar.gif$domain=arthasarokar.com
 ||blogspot.com^*/Hoarding%2B10x20%2BFeet.jpg$domain=balliaexpress.in
+||blogspot.com^*/hr%2Bad%2B
 ||blogspot.com^*/IMG-20200127-WA0119.jpg$domain=balliaexpress.in
 ||blogspot.com^*/IMG-20200327-WA0043.jpg$domain=balliaexpress.in
 ||blogspot.com^*/IMG-20200328-WA0222.jpg$domain=balliaexpress.in
@@ -1206,6 +1291,8 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||blogspot.com^*web%2Bad$domain=vallikkunnu.com
 ||blogspot.com^*Webp.net-gifmaker$domain=buxarpatrika.com
 ||blogvarta.com/images/viewmefast.png
+||bmnews24.net/wp-content/uploads/2019/09/ctgit-300x194.jpg
+||bmnews24.net^*/add_sor
 ||boichitranews24.com^*/ap-2.jpg
 ||boichitranews24.com^*/islamibank.gif
 ||boichitranews24.com^*/walton.jpg
@@ -1218,6 +1305,8 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||bortomandin.com/admin/home_center_add/
 ||bortomandin.com/admin/home_right_add/
 ||boxoffice70mm.com^*/bg-1.jpg
+||brajeshkibaat.com/wp-content/uploads/2021/01/IMG-20210122-WA0031
+||brajeshkibaat.com/wp-content/uploads/Sunny-
 ||breakingaajtaknews.com/ws/breakingaajtaknewscom/news/201908/breaking_add_new123.JPG
 ||britbangla24.com/wp-content/uploads/2019/09/BANGLACARPETS-1-288x165.jpg
 ||britbangla24.com/wp-content/uploads/2020/07/western_union.jpg
@@ -1229,7 +1318,11 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||btnews24.in/wp-content/uploads/2018/01/fiverr-banner
 ||btnews24.in/wp-content/uploads/2018/01/Original-Sony-banner
 ||burdwantoday.com/wp-content/uploads/2020/03/IMG_20200229_062347
+||businesshour24.com/wp-content/uploads/2020/12/associate-oxyjen-businesshour24.gif
+||businesshour24.com/wp-content/uploads/2020/12/dominej.gif
+||businesshour24.com/wp-content/uploads/2021/05/Baraka-Patenga-Power-Limited.gif
 ||buxarkhabar.com/wp-content/uploads/2018/10/27-octu-add.jpg
+||buxaruptodate.com^*/news-ab-
 ||bvnews.in/mynewsadmin/img/add/
 ||byndoor.com/wp-content/uploads/2016/09/RK-graphics
 ||byndoor.com/wp-content/uploads/2017/05/s-b-m.jpg
@@ -1268,6 +1361,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||canvasmagazine.com.bd^*/Pages-8-489x640.jpg
 ||canvasmagazine.com.bd^*/Pages-8.jpg
 ||canvasmagazine.com.bd^*/Suvastu$image
+||cdn.ibcstack.com/blurb/$domain=cineulagam.com|ibctamil.com
 ||cdn.koshixpress.com/2019/09/IMG-20190607-WA0107
 ||cdn.koshixpress.com/2019/09/IMG-20190921-WA0077
 ||cdn.koshixpress.com/2019/09/IMG-20190925-WA0075-300x150.jpg
@@ -1307,6 +1401,8 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||changetv.press^*/IBBL-1.jpg
 ||changetv.press^*/manarat-1.jpg
 ||channel6bd.com/wp-content/uploads/119906190_655200908435346_6926769665504843771_n-1$image
+||channelindia.news/wp-content/uploads/2020/04/WhatsApp-Image-2020-04-16-at-1.30.09-PM.jpeg
+||channelindia.news^*/Advt_
 ||channelionline.com/wp-content/uploads/2020/03/BSH-Popup-3-Final-online-1-1.gif
 ||channelionline.com/wp-content/uploads/2020/03/GUrdian-ads-2.gif
 ||channelionline.com/wp-content/uploads/2020/08/Laxmibilash_1-350x150.jpg
@@ -1338,6 +1434,10 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||channelionline.com^*/usaid-channelionline.gif
 ||channelionline.com^*/usaid-sobai-binno.gif
 ||chapaibarta24.com/wp-content/uploads/2020/07/250x300-add-demo.jpg
+||chatgarsangbad.net/uploads/ad_image/
+||chattogram24.com/uploads/ad_image/
+||chattogramerpatrika.com/uploads/ad_image/
+||chattolarkhabor.com/wp-content/uploads/2020/09/robi-breaking.gif
 ||chauthiduniya.com/wp-content/uploads/2020/06/For-Cantabae.jpeg
 ||chavakkadonline.com^*/mehandi-add-size-1-1.jpg
 ||chavakkadonline.com^*/SECUDZONE-ADD-IN-ONLINE.jpg
@@ -1352,9 +1452,14 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||chenginews24.com/wp-content/uploads/2019/01/Mojid-Bai.jpg
 ||chhapratoday.com/wp-content/uploads/2020/03/IMG-20200316-WA0027
 ||cinepati.com/upload/0020-05-d8acbdbceff6053683c748a6b01f7edf.gif
+||cityhalchal.com/wp-content/uploads/2019/08/943d2196-7057-4cc4-be32-15c374c94e98-300x241-1-1024x398.jpg
+||cityhalchal.com/wp-content/uploads/2019/11/rl-new.jpg
+||cityhalchal.com/wp-content/uploads/2020/11/98877e68-7fb7-44d0-9c32-a02460fb72fa.jpg
+||cityhalchal.com^*/KANAK
 ||citymirrors.in/wp-content/uploads/2020/08/manoj.jpg
 ||citynewsexpress.com^$third-party,domain=ghazipuraajkal.com
 ||citywatchnews.com/wp-content/uploads/2020/09/patidar
+||clickmandu.com/wp-content/uploads/2019/10/mero-share-gif.gif
 ||clickmandu.com^*/15-Aug-2019-banner-home-loan-300x125.gif
 ||clickmandu.com^*/300by100clickmandu.gif
 ||clickmandu.com^*/300x125.gif
@@ -1397,6 +1502,8 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||cnibd.net/wp-content/uploads/2019/09/Right-6-300x146.jpg
 ||cnibd.net/wp-content/uploads/2019/09/top-5-1024x256.png
 ||cnibd.net/wp-content/uploads/2020/01/Bangladesh-ad-300x185.jpg
+||cnin.co.in/web/Uploads/Adv1/02-06-2021-1622639825.jpg
+||cnin.co.in/web/Uploads/Adv1/19-01-2021-1611054824.jpg
 ||cninews24.com^*/BARTA_BICHITRA_CNI_ad.jpg
 ||cninews24.com^*/DIVINE_GROUP_cni_news.gif
 ||cninews24.com^*/popularserver.gif
@@ -1425,10 +1532,16 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||creativenewsexpress.com^*/Sahas-Homeopathic$image
 ||cricbd24.com/wp-content/uploads/2014/06/Apollo_Ispat.gif
 ||crimenewsnetwork24.com/image/hrsoft.gif
+||crimesuspence.com/gallery/129e9258e4389679faf7e9728a28b22d_270x350.jpg
+||crimesuspence.com/gallery/449307cd2badd178813cace0536a78a8_gallery.jpg
+||crimesuspence.com/gallery/51e705cd729f0ae893cb0bcd295da786_gallery.jpg
 ||crimesylhet.com^*/01-1.gif
 ||ctgjournal.com^*/7e4fe8e7946d4a03add9b1abd44d5529-5d5c1f3717e4a-
 ||ctgjournal.com^*/ad_ctgJournal_OMniVission-
 ||ctgjournal.com^*/ten11$image
+||ctgnews.com/files/uploads/2016/03/eye-min.gif
+||ctgnews.com/files/uploads/2016/03/media.gif
+||ctgnews.com/files/uploads/2021/01/php.gif
 ||ctgsun.com/wp-content/uploads/2020/07/ads.jpg
 ||ctnewsbd.com/wp-content/uploads/2019/03/airbell.gif
 ||ctr24.com/wp-content/uploads/2016/09/Cashpoints-1_gif.gif
@@ -1437,6 +1550,8 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||dailyalokito-chapainawabganj.com/wp-content/uploads/2018/07/add.gif
 ||dailyalokito-chapainawabganj.com/wp-content/uploads/2018/07/add2.gif
 ||dailyalokito-chapainawabganj.com/wp-content/uploads/2018/07/jamuna.jpg
+||dailyamaderbarisal.com/wp-content/uploads/2020/10/buy-website-bangladesh.jpg
+||dailyamaderbarisal.com/wp-content/uploads/2020/10/engineerbd.png
 ||dailybahadur.com/wp-content/uploads/2020/01/ads-400-x-500.png
 ||dailybahadur.com/wp-content/uploads/2020/06/Dr.-PK-Raut.jpg
 ||dailybahadur.com/wp-content/uploads/2020/06/Public-College-Banner-425-140px.jpg
@@ -1463,11 +1578,13 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||dailygazipuronline.com^*/60617657_1102721863245100_7060284768373440512_n
 ||dailyghagot.com/wp-content/uploads/2019/07/Sorno-Vobon.png
 ||dailyindianherald.com/wp-content/uploads/2020/06/chemmanoor_side.jpg
+||dailyjagaran.com/media/creative/walton
 ||dailyjagojonota.com/wp-content/uploads/2020/06/122-1.jpg
 ||dailyjagojonota.com/wp-content/uploads/2020/06/PHB-ADD-v.png
 ||dailyjanatarnews.com^*/123.png
 ||dailyjanatarnews.com^*/janani-new.gif
 ||dailyjournalbd.com/wp-content/uploads/2020/06/101981293_981338158951883_7703882786435418444_n-2.jpg
+||dailyjuboraj.com/wp-content/uploads/2020/11/ads.jpg
 ||dailykesari.com^*/TMV-add-
 ||dailykhoborbarisal24.com/wp-content/uploads/2018/11/buy-website-bangladesh.jpg
 ||dailykhoborbarisal24.com/wp-content/uploads/2020/03/Untitled-2-copy-1$image
@@ -1487,11 +1604,16 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||dailysharebazarprotidin.com/wp-content/uploads/2019/08/Press-AD-Govt.png
 ||dailysharebazarprotidin.com/wp-content/uploads/2020/10/lubref.gif
 ||dailysobujbarta.com/wp-content/uploads/2017/11/Bright-Hash-Promotion-Verticle.gif
+||dailysports24.com^*/blazer
 ||dailysylhetmirror.com//storage/settings/May2020/Rise.jpg
 ||dailysylhetmirror.com/ad65161.jpeg
 ||dailysylhetmirror.com/newrainbow.jpg
+||dainikamaderbangla.com/uploads/ad_image/
+||dainikamaderchattagram.com/uploads/ad_image/
 ||dainikazadi.net/wp-content/uploads/2020/06/BGC_Azadi.gif
 ||dainikazadi.net/wp-content/uploads/2020/06/CIU.gif
+||dainikazadi.net/wp-content/uploads/2021/04/web-GIF.gif
+||dainikazadi.net^*/Creative-University
 ||dainikazadi.net^*/ispahani.gif
 ||dainikcheckpost.com/wp-content/uploads/2019/02/Jp.png
 ||dainikcheckpost.com/wp-content/uploads/2020/06/Tae-Rakib-1-191x300.jpg
@@ -1502,6 +1624,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||dainiklivenews24.com/wp-content/uploads/2021/01/PicsArt_01-01-11.18.59.jpg
 ||dainiklivenews24.com/wp-content/uploads/2021/01/PicsArt_12-31-08.53.24.jpg
 ||dainiklivenews24.com/wp-content/uploads/2021/01/PicsArt_12-31-08.55.14.jpg
+||dainikroorkee.com/assets/uploads/editor_images/
 ||dainikroorkee.com/wp-content/uploads/2020/02/New-Admission-Open-2020-21
 ||dainikroorkee.com/wp-content/uploads/2020/03/FB_IMG_1584767856801.jpg
 ||dainikroorkee.com/wp-content/uploads/2020/03/IMG-20200313-WA0004.jpg
@@ -1551,6 +1674,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||deshbartabd.com/wp-content/uploads/2020/05/abe.png
 ||deshbartabd.com/wp-content/uploads/2020/05/rsz_img_20200527_221011-min-300x201.jpg
 ||desherkonthobd.net/images/ADD.jpg
+||desherpotrika.com/wp-content/uploads/2019/10/Untitled-1.jpg
 ||deshkonews.com/wp-content/uploads/2020/03/1140x100.gif
 ||deshkonews.com/wp-content/uploads/2020/03/875x90.gif
 ||deshkonews.com/wp-content/uploads/2020/03/990x110.gif
@@ -1591,11 +1715,14 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||dhakardak-bd.com^*/Fdr$image
 ||dhakardak-bd.com^*/jamunafuturepark.jpg
 ||dhakardak-bd.com^*/new.jpg
+||dhakatimes24.com/templates/web-v1/images/evaly12-6-21.png
 ||dhakatimes24.com^*/bashundhara.gif
 ||dhakatoday.com^*/belltravelad.jpg
 ||dhakatoday.com^*/pran_milk
 ||dhakatoday.com^*/regent_new
 ||dhangadhikhabar.com/uploads/cphospital_20200921105056.gif
+||dharitri.com/wp-content/uploads/2021/03/BGU-468X300-pixel.png
+||dharitri.com/wp-content/uploads/2021/04/IndianClicks_GVega_Dharitri_320x200_04092021_1_1.gif
 ||dhoomkharidi.com/media/DK%20Promo/site/dhoomkharidibanner.jpg$domain=bhelpoori.com
 ||digicube.net.in^$third-party,domain=benkiyabale.com
 ||digitalbanglanews.com/wp-content/uploads/2019/01/aristaadd.gif
@@ -1605,6 +1732,10 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||digitaloceanspaces.com^*/275-220.gif$domain=nepalaaja.com
 ||digitaloceanspaces.com^*/nlic1100x100ad.gif$domain=nepalaaja.com
 ||dilersamachar.com/ai-content/themes/diler/img/modal-images.jpg
+||dinajpurnews24.com/front_end_assets/img/bulksms.jpg
+||dinajpurnews24.com/front_end_assets/img/ehealthseba
+||dinajpurnews24.com/front_end_assets/img/hrsoft.gif
+||dinajpurnews24.com/front_end_assets/img/schoolmanagement.jpg
 ||dinajpurtv.com/public/website/images/4.jpg
 ||dinamina.lk/sites/default/files/web%20banner%20s.jpg
 ||dinapathippu.com^*/Mobiles-offer-from-amazon-e1507905801190.jpg
@@ -1618,6 +1749,11 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||divaina.com/daily/images/kumara_welgama.jpg
 ||divyahimachal.com/wp-content/uploads/2019/07/728%C3%9790-2.jpg
 ||divyahimachal.com/wp-content/uploads/2020/10/MS_DURGA_SHAKTI.jpg
+||divyahimachal.com/wp-content/uploads/2021/06/Ashirbad-mega-mart.jpg
+||divyalive.com/wp-content/uploads/2020/05/IMG-20200531-WA0006.jpg
+||divyalive.com/wp-content/uploads/2021/01/IMG_20210123_150729.jpg
+||diyopost.com/wp-content/uploads/2018/10/MBL-GIF.gif
+||diyopost.com/wp-content/uploads/2019/12/NEW_GIF_015_JEEVAN_SAHARA_1100-100-1.gif
 ||dizitaltrends.com^$third-party,domain=24timestoday.com
 ||dmoitry.com/wp-content/uploads/2019/01/8958804071048280181.gif
 ||dmoitry.com/wp-content/uploads/2019/02/7901618809467532714.gif
@@ -1671,6 +1807,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||ejalakam.com/wp-content/uploads/2019/04/BEC_Online_App_Launch_Jalakam_Ad_90pxlsX728pxls.jpg
 ||ejalakam.com/wp-content/uploads/2019/04/jemanthidesign.jpg
 ||ejjdin.com^*/one_bank.gif
+||ekagaj.com/media/CG-Brewery_1200x160.gif
 ||ekattorlive.com/wp-content/uploads/2016/02/add2.jpg
 ||ekbiharisabparbhari.com/wp-content/uploads/2020/02/1680X10001_1-1024x609.jpg
 ||ekbiharisabparbhari.com/wp-content/uploads/2020/03/IMG-20200304-WA0015
@@ -1686,6 +1823,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||ekushbd24.com/wp-content/uploads/2016/12/15356101_1250003941712088_895715502_n-1.gif
 ||ekusheypatrika.com/wp-content/themes/ekushey/assets/img/php_family.gif
 ||ekusheysangbad.com/media/common/left-banner-2.gif
+||ekusheysangbad.com/media/common/rupali-bank
 ||ekusheysangbad.com/media/common/side-banner-7.png
 ||ekusheysangbad.com/media/common/sider-banner.gif
 ||ekushnews24.com/wp-content/uploads/2019/01/best-electronics.gif
@@ -1708,6 +1846,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||enepalese.com^*/unnamed-1.png
 ||enepalese.com^*/zen.gif
 ||enews.bd24report.com/wp-content/uploads/2020/06/safet-gps-01-04-1-1.png
+||enewsmp.com/uploaded_files/banner_img/
 ||enkalthesam.com/wp-content/uploads/images-10-200x113.jpg
 ||enkalthesam.com/wp-content/uploads/yarlmann-300x100-update1.jpg
 ||epathram.com^*/clubpenguin.jpg
@@ -1760,6 +1899,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||eyewitnessnewsindia.com/wp-content/themes/nextline_v3.1/images/Spangles-Added1.jpg
 ||fastnewsbd.com/images/parasut.jpg
 ||fastnewsindia.co/Ad/96525.jpg
+||fastnewsnetwork.in/wp-content/uploads/2021/03/Jindal-Panther.jpg
 ||fbcdn.net^$third-party,domain=malayalammedia.one
 ||fbs.com$third-party,domain=tamilleader.com
 ||feedify.net^$third-party,domain=ajabgjab.com
@@ -1781,6 +1921,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||filmykhabar.com/data/web_banner/
 ||financialviews.in/storage/uploads/admin/ads/
 ||firstbihar.com/Media/parcha/
+||fmnews24.com^*/all-Modhu-
 ||foodchannel.com^$third-party,domain=sameera.co.in
 ||freelancerstory.com/wp-content/uploads/2016/09/web-hosting-from-sylhost.png
 ||gadikannadiga.com/promos/1601184138_IMG-20200927-WA0015.jpg
@@ -1835,13 +1976,18 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||godawarinews.com/uploads/bigyapan/1601718451.gif
 ||godawarinews.com/uploads/bigyapan/1603182045.gif
 ||godawarinews.com/uploads/bigyapan/1603972292.jpg
+||gonokantho.com/ad/
 ||goo.gl^$image,domain=kvartha.com
+||googlepokhara.com/wp-content/uploads/2020/09/appsfightCOVID_WHO.gif
+||googleusercontent.com^$third-party,domain=gidhaur.com
 ||gopalganj.org/wp-content/uploads/2020/11/Quoraflix-Click-Button-696x82.jpg
 ||gorkhapatraonline.com/charity_image/5d5a50be9d1e6_67494704_2339248926113058_3981034555648770048_n.gif
 ||gorkhapatraonline.com/charity_image/5d5c94ff576e2_nea.gif
 ||gorkhapatraonline.com/charity_image/5d5c95127fe33_nb_bank.gif
 ||gorkhapatraonline.com/charity_image/5d5c951fdfce2_banijya-bank.gif
 ||gorkhapatraonline.com/charity_image/5d5c95cde861e_nepal_bank_1.png
+||gorkhapatraonline.com/charity_image/5fc3b2ef2716f_RBB-Festive-Auto-Loan-300x200-px.jpg
+||gorkhapatraonline.com/charity_image/5fc6009625712_260x260px.gif
 ||gourbarta24.com^*/bijoy$image
 ||gourbarta24.com^*/kansat-contenental
 ||gourbarta24.com^*/Royel-School-Colleg-Liflet-
@@ -1859,6 +2005,13 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||gsnepalnews.com/wp-content/uploads/2018/10/1000x100-pxl.gif
 ||gsnepalnews.com/wp-content/uploads/2019/11/global-430x90px-new.gif
 ||gsnepalnews.com/wp-content/uploads/2019/11/kcc-ads-sept-2019.gif
+||gsnews24.com/wp-content/uploads/2020/04/1146955927534567190.gif
+||gsnews24.com/wp-content/uploads/2020/04/12101928689273279582.gif
+||gsnews24.com/wp-content/uploads/2020/04/2681928173510499334.gif
+||gsnews24.com/wp-content/uploads/2020/04/8093110977492995141.gif
+||gsnews24.com/wp-content/uploads/2020/04/970x9020200412180953.gif
+||gsnews24.com/wp-content/uploads/2020/04/e80e1c357e130bc9a18d1684400049ac.gif
+||gsnews24.com/wp-content/uploads/2020/04/exim-bank.jpg
 ||gujaratabroad.ca^*/imperial%20pest%20control.jpg
 ||gulfmalayaly.com^*/naseem-$image
 ||guruchandali.com^*/guru_collegest1.png
@@ -1867,6 +2020,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||habiganjexpress.com^*/AD-.jpg
 ||habiganjexpress.com^*/AD-2.jpg
 ||habiganjexpress.com^*/biggapon.gif
+||hakikatnews.com/wsdata/wwwhakikatnewscom/news/202103/hakikat.jpg
 ||haldwanilive.com/wp-content/uploads/2018/11/WhatsApp-Image-2018-11-02-at-2.59.35-PM
 ||haldwanilive.com/wp-content/uploads/2018/11/WhatsApp-Image-2018-11-04-at-11.33.18-AM
 ||haldwanilive.com/wp-content/uploads/2020/02/pavitra-devbhoomi-tour-and-travel
@@ -1879,6 +2033,8 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||haldwanilive.com^*/HALDWANILIVE-
 ||haldwanilive.com^*/max-face-clinic
 ||hamaraghaziabad.com/wp-content/uploads/2020/09/bvoc$image
+||hamarahathras.com/wp-content/uploads/2021/06/Nine-to-9-6x3-2.jpg
+||hamarahathras.com/wp-content/uploads/2021/06/patanjali.jpg
 ||hamrokhelkud.com/wp-content/uploads/2020/03/wai_wai.gif
 ||hamrokhelkud.com^$third-party,domain=visionnepaltv.com
 ||hamrokhelkud.com^*/Annal-Jyoti.gif
@@ -1960,6 +2116,26 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||hotpati.com/wp-content/uploads/2019/11/siddhhartha.gif
 ||hotpati.com/wp-content/uploads/2020/02/New-ADS2.gif
 ||hotpati.com/wp-content/uploads/2020/03/860x100.gif
+||hpnewsatl.com/wp-content/uploads/2021/01/WhatsApp-Image-2021-01-07-at-10.40.43-AM
+||hpnewsatl.com/wp-content/uploads/2021/02/WhatsApp-Image-2021-02-26-at-2.27.18-PM
+||hpnewsatl.com/wp-content/uploads/2021/03/WhatsApp-Image-2021-03-01-at-11.40.14-AM
+||hpnewsatl.com/wp-content/uploads/2021/03/WhatsApp-Image-2021-03-09-at-11.00.11-AM
+||hpnewsatl.com/wp-content/uploads/2021/03/WhatsApp-Image-2021-03-22-at-10.41.12-AM
+||hpnewsatl.com/wp-content/uploads/2021/03/WhatsApp-Image-2021-03-31-at-4.38.32-PM
+||hpnewsatl.com/wp-content/uploads/2021/04/WhatsApp-Image-2021-04-10-at-10.53.42-AM
+||hpnewsatl.com/wp-content/uploads/2021/04/WhatsApp-Image-2021-04-16-at-11.05.30-AM
+||hpnewsatl.com/wp-content/uploads/2021/04/WhatsApp-Image-2021-04-24-at-10.39.39-AM
+||hpnewsatl.com/wp-content/uploads/2021/05/WhatsApp-Image-2021-05-03-at-11.50.22-AM
+||hpnewsatl.com/wp-content/uploads/2021/05/WhatsApp-Image-2021-05-18-at-10.15.23-AM
+||hpnewsatl.com^*/4-$image
+||hpnewsatl.com^*/4.jpg
+||hpnewsatl.com^*/alamana-
+||hpnewsatl.com^*/Amar
+||hpnewsatl.com^*/My-Tyre-Shop
+||hpnewsatl.com^*/neela
+||hpnewsatl.com^*/Scroll-ad-
+||hpnewsatl.com^*/soorya
+||hpnewsatl.com^*/swayamvara
 ||humarabikaner.com/wp-content/uploads/2020/09/IMG-20200901-WA0088.jpg
 ||humarabikaner.com/wp-content/uploads/2020/09/IMG-20200912-WA0025.jpg
 ||humarabikaner.com/wp-content/uploads/2020/09/IMG-20200918-WA0013.jpg
@@ -1971,8 +2147,6 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||i-news24.com/images/iglweb.gif
 ||i0.wp.com/everestdainik.com/wp-content/uploads/2018/08/ime-pay-900x110.gif
 ||i0.wp.com/sajhatv.com/wp-content/uploads/2017/06/Slap-the-Deal-Banner.gif
-||i0.wp.com/www.arthosuchak.com/wp-content/uploads/2015/04/moshishor.gif
-||i0.wp.com/www.arthosuchak.com/wp-content/uploads/2015/06/pisl.gif
 ||i0.wp.com/www.sallerikhabar.com/wp-content/uploads/2020/02/ntc1050x100px_1.gif
 ||i0.wp.com^*/nlic.gif$domain=news24nepal.tv
 ||i1.wp.com/demranews.com/wp-content/uploads/2020/08/Apical-Dental-Surgery$image
@@ -1988,10 +2162,13 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||i2.wp.com^*/amader-Budhbar-300x90.gif$domain=amaderbudhbar.com
 ||i2.wp.com^*/kMoFMF8.gif$domain=news24nepal.tv
 ||i57.tinypic.com/30uwyyq.jpg$domain=tamilolli.com
+||ibb.co^$domain=bhilaitimes.com
 ||ibb.co^$third-party,domain=shahzadpursangbad.com
 ||icetoday.net^*/aura-add-
 ||ichhamoti.com/wp-content/uploads/2016/07/squreadd.gif
 ||ideatvnews.com/wp-content/uploads/2020/07/web_store-front.jpg
+||ilsheypar.com/wp-content/uploads/2020/07/Add-Mayor-Faridgong.jpg
+||ilsheypar.com/wp-content/uploads/2020/07/Untitled-2.jpg
 ||imagekhabar.com/wp-content/uploads/2020/06/ima.gif
 ||imagekhabar.com/wp-content/uploads/2020/06/imgads.gif
 ||imageshack.com^$third-party,domain=karaitivunews.com
@@ -1999,9 +2176,12 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||img.kathmandupress.de/uploads/bigyaapan/
 ||img.nepallive.de/uploads/bigyaapan/
 ||img.setopaty.com/uploads/bigyaapan/
+||imgur.com^$domain=karnalbreakingnews.com
 ||imgur.com^$third-party,domain=aajakosandesh.com|alltophere.com|braveindianews.com|cnchautari.com|dailynpnews.com|esudurkhabar.com|khabarpatrikanp.com|mawanellanews.com|nayapusta.com|nepalinsider.com|nepalipatra.com|news71online.com|wowsansar.com
+||imgur.com^*wc6Qc9Y.jpg
 ||inbcn.in/admin/view/upload/btp.jpg
 ||inbcn.in/admin/view/upload/web%20.jpg
+||independentkhabar.com^*/advt
 ||india.com/wp-content/uploads/2020/04/CULT-WorkoutFH-BANNER-300x250.png
 ||indiaaajkal.in/wp-content/uploads/2018/01/4cd9722a6166e45fb6849cd55c720780-marketing-program-online-marketing
 ||indiaaajkal.in/wp-content/uploads/2018/01/Original-Sony-banner
@@ -2019,6 +2199,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||indianewscentre.in/ojssad.gif
 ||indianewscentre.in/ojssinc.jpg
 ||indianewscentre.in/talhan.jpg
+||indianobservers.com/wp-content/uploads/2017/08/LOGO_Shanti_to_Sandeep_Tyagi_Delhi_Talks.jpg
 ||indiatime24.com/wp-content/uploads/2020/01/IMG-20200108-WA0000-1-300x232.jpg
 ||indiatv18.com/webdata/indiatv18.com/media/
 ||indinompcg.com/wsdata/wwwindinompcgcom/news/201901/Kishor.jpg
@@ -2095,10 +2276,19 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||jagratajanata24.com/wp-content/uploads/2020/07/Addd-300x214.jpg
 ||jagratilahar.com/control/media/1561955585.jpg
 ||jagratilahar.com/control/media/1561955880.jpg
+||jagratilahar.com/control/media/1617262685.jpg
+||jagratilahar.com/control/media/1617263885.jpg
+||jagratilahar.com/control/media/1618988991.jpg
+||jagratilahar.com/control/media/1618989016.jpg
+||jagratilahar.com/control/media/1618989034.jpg
+||jagratilahar.com/control/media/1618989051.jpg
+||jagratilahar.com/control/media/1622749256.jpg
+||jagratilahar.com/control/media/1625073535.jpg
 ||jaijaidinbd.com^*/ad_
 ||jalleda.com/images/blogbook.jpg
 ||jalleda.com/images/keyboard.png
 ||jamalpurlive.com/wp-content/uploads/2020/01/a.jpg
+||jamalpurlive.com/wp-content/uploads/2020/01/output_aoJE5y.gif
 ||janaboli.com/wp-content/uploads/2020/08/add-1.gif
 ||janaboli.com^$third-party,domain=sallerikhabar.com
 ||janamitra.co/wp-content/uploads/2019/07/su.jpeg
@@ -2153,6 +2343,8 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||jayakesarionline.com/wp-content/uploads/2020/06/WhatsApp-Image-2020-06-16-at-12.28.10-PM.jpeg
 ||jdmmc.com.np^$third-party,domain=rastriyakhabar.com
 ||jeewanaadhar.com/wp-content/uploads/2017/05/pennews-banner
+||jhanjhattimes.com/wp-content/uploads/2020/12/IMG-20201208-WA0058-300x300.jpg
+||jhanjhattimes.com/wp-content/uploads/2021/04/WhatsApp-Image-2021-04-16-at-11.06.58-AM
 ||jillavarthakal.com^*/malabargd.jpg
 ||jogiexpress.com/wp-content/uploads/2020/12/IMG-20201213-WA0002-300x150.jpg
 ||jonopotro.com/wp-content/uploads/2020/03/website-ad.jpg
@@ -2174,6 +2366,14 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||jugerbarta.online/wp-content/uploads/2020/04/Untitled-1-copy$image
 ||jugerbarta.online/wp-content/uploads/2020/06/SGHS$image
 ||jungeawaz.in/assets/admin/images/summernote/
+||justmuz.com/wp-content/uploads/2020/12/With-img-FB-Cover-Page.jpg
+||justmuz.com^*/FB_IMG_
+||justmuz.com^*/img-
+||justmuz.com^*/Ptanjali
+||justmuz.com^*/received_
+||justmuz.com^*/Screenshot_20210125-174614_Facebook
+||justmuz.com^*/WhatsApp-Image-2021-01-27-at-17.29.21
+||justmuz.com^*ATITHI
 ||kaakai.in^*&tableName=advertise
 ||kachedure.com/media/adds/100620202112517455.jpg
 ||kachedure.com/media/adds/280520202105103420.gif
@@ -2182,9 +2382,12 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||kalaroanews.com/wp-content/uploads/2017/01/awesome.png
 ||kalaroanews.com/wp-content/uploads/2018/05/JABA-COM2.gif
 ||kalercumilla.com//front-end/assets/img/add/
+||kalerkotha.com/front_end_assets/images/biggapon/
+||kalmunainet.com/wp-content/uploads/2018/12/48398931_1997785360309255_2179217421888389120_n.jpg
 ||kanchanmoni.com/nazrul_ad_logo_1.jpg
 ||kanchanmoni.com/Trust%20Rubber%20Stamps%20bangla%20lok%20samaj%20copy.jpg
 ||kannadachannels.com/images/desktop_kannada-min.webp
+||kannadigaworld.com/wp-content/uploads/images/jyothishya_vani.png
 ||kannadigaworld.com^*/acme.gif
 ||kannadigaworld.com^*/acmemuscat.png
 ||kannadigaworld.com^*/dunes.png
@@ -2280,8 +2483,16 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||khabardabali.com^*/Nb-Bank.gif
 ||khabardabali.com^*/NEW_GIF_005_GRAMIN_850-90-2.gif
 ||khabardabali.com^*/vai-detel-page.gif
+||khabarhp.com^*/Ab-photography
 ||khabarmala.com/wp-content/uploads/2020/03/khabermala-700x80-1.gif
+||khabarsampresan.com/wp-content/uploads/2013/01/1-madan-mike-copy.png
+||khabarsampresan.com/wp-content/uploads/2013/01/atul-subedi-copy.png
+||khabarsampresan.com/wp-content/uploads/2018/10/44669949_350808199058623_2451470420914733056_n.jpg
 ||khabarstate.com/wp-content/uploads/2019/01/final0$image
+||khabarwarrior.com/wp-content/uploads/2021/01/455437bf-8aa9-41ca-b130-f651a1a50937.jpg
+||khabarwarrior.com/wp-content/uploads/2021/01/IMG_20210114_181113-1.jpg
+||khabarwarrior.com/wp-content/uploads/2021/01/IMG_20210114_181614.jpg
+||khabarwarrior.com/wp-content/uploads/2021/01/IMG_20210114_181646.jpg
 ||khabor.com/wp-content/uploads/2020/05/Travel-Agency
 ||khabor.com/wp-content/uploads/2020/05/usbd-vacation
 ||khabor.com^*/728%E0%A6%8290-ad.png
@@ -2319,6 +2530,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||khobor24ghonta.com/wp-content/uploads/2019/07/AD.png
 ||khobor71.com/wp-content/uploads/2020/08/desktopamishvandar.jpg
 ||khojkhobor.net/wp-content/uploads/2016/10/khojkhobor.jpg
+||kholakagojbd.com/new_version/images/kk.PNG
 ||khonjkhobor.in^*/boutiq_new$image
 ||khulaasa.com/uploads/bigyaapan/
 ||khulasaonline.com/wp-content/uploads/2019/09/IMG-20190904-WA0062-1.jpg
@@ -2344,6 +2556,8 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||khullaManch.com^*/suren1.gif
 ||khullaManch.com^*/tibet-nepal.png
 ||khullaManch.com^*/ZenTravels-Sep2017.gif
+||khulnanchal.com/wp-content/uploads/2020/01/add-2-300x143.jpg
+||khulnanchal.com/wp-content/uploads/2020/09/Untitled-8-300x150.jpg
 ||khulnatimes.com/wp-content/uploads/2019/07/Add.jpg
 ||khulnatimes.com/wp-content/uploads/2019/07/Khulna-Digital-Add.-Weekly-Khulna-Times..jpg
 ||khulnatimes.com/wp-content/uploads/2019/10/mehjabinRahman.jpg
@@ -2377,6 +2591,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||koshixpress.com^*/WhatsApp-Image-2019-06-02-at-10.03.01-AM-e1559470765481-300x270.jpeg
 ||kositimes.com^*/IMG-20200216-WA0007.jpg
 ||kositimes.com^*/WhatsApp-Image-2019-12-28-at-12.18.12-PM.jpeg
+||krantimission.com/wp-content/uploads/2021/04/rain-water-harwesting-
 ||krishnanews.com^*/IMG-20190511-WA0001.jpg
 ||krushival.in/news_images/62306860_395003177770738_8818697881763446784_n_ad_06-06-2019401.jpg
 ||krushival.in/news_images/CAREER_Hoarding_c2c-18-22_ad_14-06-201901.jpg
@@ -2406,6 +2621,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||kusenews.com/wp-content/uploads/2020/07/pachajharana-ko.gif
 ||kusenews.com/wp-content/uploads/2020/07/pachal-jharana.gif
 ||kusenews.com/wp-content/uploads/2020/10/ratna-bk-and-8-ward.gif
+||kushtiarbarta.com/media/PhotoGallery/2018November/innovation-service-portal-2002160816.jpg
 ||lakshmipur71.com/uploads/ad_image/
 ||lakviru.com/wp-content/uploads/2020/03/newspaper-rec300@2x.jpg
 ||lalitatimes.com/wp-content/uploads/2019/06/rec728.jpg
@@ -2450,6 +2666,10 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||lekalionline.com^*/yavarest.gif
 ||lifeglint.com^*/Merriboy-Chocolate-Conefetti-250-pxl-x-250-pxl.jpg
 ||lifeglint.com^*/VFPCK%20advertisement%20matter%20new.-page-001-250px.jpg
+||lightnewsbd.com/wp-content/uploads/2020/07/Hnet.com
+||lightnewsbd.com/wp-content/uploads/2020/07/Video-Final.gif
+||lightnewsbd.com^*/37-Years-Celebration-Sign-
+||lightnewsbd.com^*/ads-
 ||like4earn.com/promo/banner.png$domain=patakuri.com
 ||lipuleknews.com/wp-content/uploads/2020/05/Aalital-ad.jpg
 ||lipuleknews.com/wp-content/uploads/2020/05/Amargadhi-ad.gif
@@ -2470,6 +2690,13 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||livekhagaria.in/wp-content/uploads/2020/02/20200210_152622.gif
 ||livekhagaria.in/wp-content/uploads/2020/06/20200603_142010$image
 ||livekhagaria.in/wp-content/uploads/2020/08/20200815_174901-1.gif
+||livekhagaria.in/wp-content/uploads/2021/01/20201230_164945
+||livekhagaria.in/wp-content/uploads/2021/01/20210124_025350.gif
+||livekhagaria.in/wp-content/uploads/2021/01/IMG-20210123-
+||livekhagaria.in/wp-content/uploads/2021/02/IMG-20210216-
+||livekhagaria.in/wp-content/uploads/2021/03/20210322_091541.gif
+||livekhagaria.in/wp-content/uploads/2021/03/IMG_20210323_225505_694.jpg
+||livekhagaria.in^*/BannerMaker_
 ||livemandu.com/wp-content/uploads/2020/08/1000x100-asirbad-e1597429869490.gif
 ||livemandu.com/wp-content/uploads/2020/08/jyotishsewa_bhadra_livemandu_400x220.gif
 ||livemarathi.in/wp-content/uploads/2019/09/add-21.jpg
@@ -2538,6 +2765,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||madhyanhadaily.com^*/1788892882side1.gif
 ||madhyanhadaily.com^*above_slider$image
 ||madhyanhadaily.com^*middleads$image
+||maguranews.com^*/adv-
 ||maithilijindabaad.com/wp-content/uploads/2016/08/14124226_1086875594737067_1297970523_o.jpg
 ||makkalkural.net/news/wp-content/uploads/2020/06/25x4-240x300.jpg
 ||makkalkural.net/news/wp-content/uploads/2020/06/25x4.jpg
@@ -2590,6 +2818,8 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||maloutlive.com/wp-content/uploads/2019/06/food-malout.jpg
 ||maloutlive.com/wp-content/uploads/2020/05/sd-school-malout-1.jpg
 ||malwanews.com/wp-content/uploads/2017/08/ranovation.jpg
+||mangotv.co/wp-content/uploads/2021/01/app-promo-image-sqr.png
+||mangotv.co^*/aisidi-banner-
 ||manithan.xyz^$subdocument,domain=lankamurasu.com
 ||manoramaonline.com^*/promotions/$image
 ||manvadhikartimes.com/wp-content/uploads/2017/11/AdvertiseHere-31-300x54.jpg
@@ -2623,6 +2853,9 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||meelparvai.net^*/Vaiharai-
 ||meghnanews.com.bd/wp-content/uploads/2019/10/ad_pic_112.jpg
 ||meherpurnews.com/wp-content/uploads/2020/03/Milton-Fashion-House-2
+||meherpurnews.com/wp-content/uploads/2020/11/image_2020_11.jpg
+||meherpurnews.com/wp-content/uploads/2021/02/khan.jpg
+||meherpurnews.com/wp-content/uploads/2021/03/image_2021_03_17T03_09_59_327Z.jpg
 ||meherpurnews.com^*/73470436_779370102535371_8106160251851505664_n.gif
 ||meherpurnews.com^*/74698441_535644090315521_5415888717271269376_n.gif
 ||meherpurnews.com^*/78652077_2942187235833189_7470422637261357056_n
@@ -2650,6 +2883,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||metrovaartha.com^*/homebanner/
 ||mhone.in/wp-content/uploads/2018/08/300x400.jpg
 ||mhone.in/wp-content/uploads/2018/08/Web-Strip-730x100.jpg
+||minnambalam.com/archive/ads/
 ||mirrornarayanganj.com/wp-content/uploads/2019/04/Webp.net-gifmaker-3.gif
 ||mirsaraitimes.com/wp-content/uploads/2017/05/imageedit_3_6275212440.gif
 ||mirsaraitimes.com/wp-content/uploads/2017/05/imageedit_9_8259542558.gif
@@ -2664,6 +2898,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||muhurtham.com^*/sidebar-ad.jpg
 ||mukhpatra.in/wp-content/uploads/2014/06/KALP-NEW.jpg
 ||mukhpatra.in/wp-content/uploads/2018/12/Untitled-1-1-1.png
+||mukhpatra.in/wp-content/uploads/2021/03/simran-interior-decor.jpg
 ||mukhpatra.in^*/kalpgrih
 ||muktakhabar.net/wp-content/uploads/2020/05/hamdarad1c.gif
 ||muktinews24.com/wp-content/uploads/2020/12/Add.jpg
@@ -2674,6 +2909,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||muktir-laray.com^*/jamuna_1-300x100.gif
 ||muktir-laray.com^*/pool_1-300x250.jpg
 ||muktir-laray.com^*/SSP-mils-300x100.gif
+||munshiganjtoday.net/wp-content/uploads/2020/11/124683218_404483737580397_922773733168633624_n-
 ||musicjoymedia.com^*/2075-7-16.gif
 ||musicjoymedia.com^*/asian-paints1.gif
 ||musicjoymedia.com^*/film-11-768x225.jpg
@@ -2758,18 +2994,26 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||myliddy.com/Tangoead.gif
 ||mymensinghpratidin.com/wp-content/uploads/2019/01/ADD-03.png
 ||mynews36.com/wp-content/uploads/2020/08/PicsArt_08-14-06.41.32-scaled.jpg
+||mynewsnepal.com/images/nlic2.gif
+||mynewsnepal.com/user_uploads/ads/
 ||n7india.com/uploader/savefiles/0983035252033fa7ec5ad295daeaecc5.jpg
 ||n7india.com/uploader/savefiles/254429cdf3b91ebdcd3398326d5915f3.jpg
+||n7india.com/uploader/savefiles/58a0fb643729c4c7730b2b384ab9a17b.jpg
 ||n7india.com/uploader/savefiles/5ed986cc257dbc2c58e8834a24e8c514.jpg
+||n7india.com/uploader/savefiles/7f2d010fcd26cd44535a7e01778cb718.jpg
 ||n7india.com/uploader/savefiles/9467f02ea481de0702099b0f6538822f.jpg
 ||n7india.com/uploader/savefiles/aba382e18cdb6c8fe48a29948439d724.jpeg
+||n7india.com/uploader/savefiles/ae6008f7acecd7958d6af64f675a2178.jpg
 ||n7india.com/uploader/savefiles/bb974ec56c62d25703381ee321bec0dd.jpg
+||n7india.com/uploader/savefiles/c68f544101e0c8e9e1a8a7f43fa36d71.jpg
 ||nabajug.com/wp-content/uploads/2019/03/6509362905702069118-300x250.gif
 ||nabajug.com/wp-content/uploads/2019/03/ksrm.jpg
 ||nabaz-e-punjab.com/wp-content/uploads/2017/07/Aryans-revised-add-19-07-17.gif
 ||nabaz-e-punjab.com/wp-content/uploads/2017/07/Puca-ADD-16-July-17.jpg
 ||nabaz-e-punjab.com/wp-content/uploads/2018/10/CGC-Jhenjeri-New-Add-25-10-18.gif
 ||nalandalive.com/wp-content/uploads/2018/04/book-domain.png
+||namasteandhra.com/wp-content/uploads/2021/04/469ba03a-0d97-4467-8664-3e54a1beabbf.jpg
+||namasteandhra.com/wp-content/uploads/2021/04/f29ade8c-7e02-4ec4-a606-81ae3d8e3cbf.jpg
 ||namasteandhra.com^*/VisitorsCoverage_Banner.jpg
 ||naogaontimes.com/uploads/images/2020/10/image_750x_5f82aae7a6f23.jpg
 ||naogaontimes.com/uploads/images/2020/11/image_750x_5fa698b38cc79.jpg
@@ -2778,6 +3022,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||narayanganj24.com/pre-content/uploads/2018/12/al-hakim.jpg
 ||narayanganjerkhobor24.com/wp-content/uploads/2020/10/Untitled-1.png
 ||narayanganjprotidin.com/wp-content/uploads/2020/01/add-website-2.1.jpg
+||narayanganjprotidin.com^*/gramenphon-
 ||narayanganjsangbad.com/wp-content/uploads/2017/12/1-300x250.gif
 ||narayanganjsangbad.com/wp-content/uploads/2017/12/2-300x121.gif
 ||narayanionline.com/np/wp-content/uploads/2018/09/1687499844320-x-90.gif
@@ -2906,6 +3151,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||nepalinepali.com^*/unnamed-300x40.png
 ||nepalinepali.com^*/unnamed-696x92.png
 ||nepalinepali.com^*/unnamed.png
+||nepalipatra.com/image/nepalishop.jpg
 ||nepalipost.com^*/aerospace.gif
 ||nepalpage.com/wp-content/uploads/2020/09/300x90-1.gif
 ||nepalpati.com^*/360x265.gif
@@ -2934,10 +3180,16 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||neplays.com^*/NLIC-02.gif
 ||neplays.com^*/RBB.gif
 ||nerariyan.com/wp-content/uploads/2019/05/3973506263588718765.gif
+||nerkazhcha.com/wp-content/uploads/2021/06/jobin_priyan_ad.png
 ||nerpatham.com/vol-no-04/images/2020/ads/soq-reg-3.jpg
 ||nerpatham.com/vol-no-04/images/peaceradio-02.jpg
+||nerpatham.com^*/ads/
 ||nethfm.lk/banners/$domain=nethgossip.lk
 ||nethfm.lk/banners/img/seylan_stay_safe.png
+||netizennepal.com/wp-content/uploads/2020/11/Export-AD-1.gif
+||netizennepal.com/wp-content/uploads/2021/03/1120x120.gif
+||netizennepal.com/wp-content/uploads/2021/03/Hand-wash-GIF_1.gif
+||netizennepal.com/wp-content/uploads/2021/03/maruti-24320200550461-1972020012511-1.gif
 ||netrigun.com^*-316x120
 ||netrigun.com^*/3251gif-kadi.gif
 ||netrigun.com^*/asian-food_city_02.gif
@@ -2960,6 +3212,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||netrigun.com^*/vinayagargif.gif
 ||netrigun.com^*/vithurshan_video_160x10011.gif
 ||netrigun.com^*160x1001.gif
+||netrokonajournal.com^*/Ads-
 ||new.bolbolbollywood.com/wp-content/uploads/2020/07/newspaper-rec
 ||newcinemaexpress.com/wp-content/uploads/2020/12/Chiyaangal-BG.jpg
 ||newcinemaexpress.com/wp-content/uploads/2021/02/anbirkiniyal-bg-ad.jpg
@@ -3052,17 +3305,21 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||newschattogram24.com^*/final-png.png
 ||newschattogram24.com^*/Screenshot_14
 ||newscoxsbazar.com^*/radient-fish-world-02.19.jpg
+||newscreation.in/images/banners/
 ||newscricket24.com/wp-content/uploads/2020/06/ezgif.com-optimize.gif
 ||newscricket24.com/wp-content/uploads/2020/06/mrlinternational.gif
 ||newsdesk24.com^*/local_ad_
 ||newsfastweb.com/wp-content/uploads/2020/06/WhatsApp-Image-2020-06-23-at-12.13.49-1-1024x758.jpeg
 ||newsfastweb.com/wp-content/uploads/2020/07/WhatsApp-Image-2020-07-12-at-19.17.28-1024x734.jpeg
 ||newsfastweb.com/wp-content/uploads/2020/08/WhatsApp-Image-2020-06-23-at-12.13.49
+||newsfirstlive.com/wp-content/uploads/2021/06/ABHAYA-GOLD-LEADER-BOARD-DESTOP-728-x-90.jpg
 ||newsflash71.com/img/ads.jpg
 ||newsflash71.com/img/t__heal.jpg
 ||newsharpal.in/wp-content/uploads/2020/03/adv.jpg
 ||newsharpal.in^*/ITI-Website-Offer
+||newsjatiyobangladesh.com/wp-content/uploads/2020/04/flat-rent-1024x390.png
 ||newskadaba.com/wp-content/uploads/2019/12/TWP_AD_GIF-2.gif
+||newskadaba.com^*/Nk-
 ||newslivemp.com/wp-content/uploads/2018/05/ipl.jpg
 ||newsmindia.com/wp-content/uploads/2020/10/shamford
 ||newsmoments.in^*/Chemmannur.jpg
@@ -3117,7 +3374,10 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||nobodharanews.net/wp-content/uploads/2017/07/Webp.net-gifmaker.gif
 ||nobodharanews.net/wp-content/uploads/2019/11/STF-FINAL.jpg
 ||nongor.news/wp-content/uploads/2020/06/unnamed-copy-copy-scaled.jpg
+||notunerkotha.com/wp-content/uploads/2019/05/Shamiran-Hospital.jpg
+||notunerkotha.com/wp-content/uploads/2019/05/Vip-Hospital-739x1024.jpg
 ||notunerkotha.com/wp-content/uploads/2019/05/walton.gif
+||notunerkotha.com/wp-content/uploads/2019/11/hice.jpg
 ||npg.news/wp-content/uploads/2020/08/kaling-min.jpg
 ||npnews71.com/wp-content/uploads/2020/02/4192907020974906854-1.gif
 ||npnews71.com/wp-content/uploads/2020/02/picasion.com_4890914c3dc0ddfd3a5814ae9f2a26b4.gif
@@ -3164,6 +3424,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||odhikar.news/templates/adhikar-v1/images/jachai_video.mp4
 ||odhikar.news/templates/adhikar-v1/images/Joy-bd.png
 ||odhikar.news/templates/adhikar-v1/images/market24.jpg
+||odhikar.news/templates/adhikar-v1/images/Newspaper-Banner-
 ||odhikar.news/templates/adhikar-v1/images/Niet-Desktop.gif
 ||odhikar.news/templates/adhikar-v1/images/Sonargao.png
 ||odhikar.news^*/nift$image
@@ -3192,6 +3453,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||onsnews.com^*/Ujjwan-Tara-Sachool
 ||onwebbox.com$domain=rakhewaldaily.com
 ||opennewsx24.com/wp-content/uploads/2018/09/KADYAM-2.jpg
+||orthosongbad.com^*/ads-
 ||orthosongbad.com^*/ksrm.jpg
 ||osnepal.com^*/0019-03-8fa7cb78fd69d4e8d3aeccf789aab7ef.jpg
 ||osnepal.com^*/anil-jee.jpg
@@ -3258,6 +3520,9 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||pahareralo.com^*/banner.jpg
 ||pahilopost.com^*/headbanner/
 ||pahilopost.com^*/midadvertise/
+||palikanews.com/wp-content/uploads/2020/08/final-revised-ndf970x120-16th-august-1682020105531.gif
+||palikanews.com/wp-content/uploads/2020/10/ezgif.com-optimize-1.gif
+||palikanews.com/wp-content/uploads/2021/02/mero-share-gif-250x250-1.gif
 ||panchayattantra24.com/images/2019/02/01/panther_creativ_eng_qp_25x16_cm_1-1.jpg
 ||pankourinews.com/wp-content/uploads/2020/03/sylhet-2--300x300.png
 ||paristamil.com/box_client1.php
@@ -3272,6 +3537,8 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||patheo24.com/wp-content/uploads/2019/07/patheo-islahulbd.jpg
 ||patheo24.com/wp-content/uploads/2019/11/1111.jpg
 ||patheo24.com/wp-content/uploads/2020/01/wwwwwwwwwwwwwwwwwwwwwwwwwwww.jpg
+||patheo24.com/wp-content/uploads/2020/06/550.gif
+||patheo24.com/wp-content/uploads/2021/04/IMG-20210409-WA0025.jpg
 ||pathivaraonline.com/wp-content/uploads/2020/02/loksew-asarathi-300x300.gif
 ||pathramonline.com/wp-content/uploads/2020/04/cemmannur-1.jpg
 ||patuakhalipratidin.com/wp-content/uploads/2020/04/Sidebar-Ad$image
@@ -3294,8 +3561,12 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||polikai.com^*/makalsports.jpg
 ||polikai.com^*/misad300x250.gif
 ||polikai.com^*/sivantv.jpg
+||polkholpost.com/wp-content/uploads/2021/05/WhatsApp-Image-2021-05-11-at-11.19.47-1-1.jpeg
+||polkholpost.com^*/d0a86f96-aa0c-4923-b5b5-42c10b21b73e-
+||polkholpost.com^*/f0420c6f-03ea-426c-8d3e-26336e930b02-
 ||pollysangbad.com/wp-content/uploads/2019/09/rec728.jpg
 ||popupmaker.com^$third-party,domain=vijayavani.net
+||poriborton.news/images/seeds.jpg
 ||ppbd.news/assets/gallery/2020/Meshu/10/General%20Health%20Check-Up.jpg
 ||ppbd.news/templates/web-v1/images/CDBL-Newspaper-AD.jpg
 ||ppbd.news/templates/web-v1/images/idcol.jpg
@@ -3405,8 +3676,6 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||pulikalinkuralradio.com^*/veeravenkkaikal-300x65.png
 ||punjabenews.com/gif1.gif
 ||punjabenews.com/gif2.gif
-||punjabenews.com/hamilton.JPG
-||punjabenews.com/rsglobal.gif
 ||punjabibulletin.in/wp-content/uploads/2020/01/bagministeradvtheader3.jpg
 ||punjabibulletin.in/wp-content/uploads/2020/01/punjabibulletinadvt2.jpg
 ||punjabinewsonline.com^*/ads.jpg
@@ -3487,6 +3756,8 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||rapidprnews.com^*/bb.gif
 ||rapidprnews.com^*/dream.jpg
 ||rapidprnews.com^*/islami_bank.gif
+||rashtradeepam.com/wp-content/uploads/2020/01/rd-ads-kunnathu-pharma-final-428-x-1160.png
+||rashtradeepam.com/wp-content/uploads/2020/08/ads-driver-360-x730-2.png
 ||rashtriyajandhara.com/wp-content/uploads/2020/02/bv-2
 ||rastrasamvad.com/wp-content/uploads/2019/02/Saipoly-clinic-copy-web.jpg
 ||rastrasamvad.com/wp-content/uploads/2019/10/footer-add.jpg
@@ -3675,6 +3946,8 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||rosemalayalam.com^*/long.jpg
 ||royalharbinger.com^$third-party,domain=pressnote.in
 ||rsnews24.com/mynewsadmin/img/add/
+||rtnnbd.net/bangla/ad/
+||rtnnbd.net/bangla/ads/
 ||rtvonline.com/templates/rtv-v1/images/bangal_dtl.gif
 ||rtvonline.com/templates/rtv-v1/images/bangal_h.gif
 ||rtvonline.com/templates/rtv-v1/images/bengal_dtl.jpg
@@ -3711,6 +3984,8 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||sabjanta.info^*/SolutiontechBanE.jpg
 ||sabujsylhet.com/files/uploads/2020/06/83021703_1479323672239105_8436704327525584990_n-copy-1.jpg
 ||sachetonbarta.com.bd/wp-content/uploads/2019/07/latest.gif
+||sachkitop.com/wp-content/uploads/2021/02/logo-1-324x235.jpg
+||sadhinbarta24.com/wp-content/uploads/2021/04/001.jpg
 ||safalkhabar.com/uploads/media/1100x100_20200328145621.gif
 ||safalkhabar.com/uploads/media/1140x100_20200407073952.gif
 ||safalkhabar.com/uploads/media/1440-120_20200430073647.gif
@@ -3736,6 +4011,9 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||samachar4media.com^*/bw6jan16.jpg
 ||samachar4media.com^*/IDMA-Banner-277X277.gif
 ||samachar4media.com^*/s4mhome1.jpg
+||samacharfirst.com/media/fortis_hospital_
+||samacharfirst.com/media/gallery/images/image
+||samacharfirst.com/media/shanti_ad.jpg
 ||samacharhouse.com/banner/
 ||samacharjagat.com^images/rajasthantourism.gif
 ||samacharjagat.com^images/tourism/Rajasthan-Tourism-App-Download.png
@@ -3744,10 +4022,15 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||samacharprime24.com/img/cust/
 ||samacharsamay.com/wp-content/uploads/2018/10/sidebar-banner4$image
 ||samacharsamay.com/wp-content/uploads/2018/12/middle_ad$image
+||samacharvarta.com/matri2/ad_pages/
+||samajalive.in/wp-content/uploads/2020/10/capital.jpg
+||samajalive.in/wp-content/uploads/2021/03/Gif.gif
 ||samajbad.tv/wp-content/uploads/2019/04/webpal-ad.gif
+||samajkihalchal.com/admin/upload/heading_ads_
 ||samakalinmunshiganj.com/wp-content/uploads/2018/10/add.gif
 ||samakalinmunshiganj.com/wp-content/uploads/2019/03/mg-ad.gif
 ||samakalnews24.com/wp-content/uploads/2019/03/bdk.png
+||samarindialive.in^*/traffic-tail
 ||samayapost.com/wp-content/uploads/2020/04/250x250px.gif
 ||samayshehar.com/mynewsadmin/img/add/add1564065123.jpeg
 ||samayshehar.com/mynewsadmin/img/add/add1564065138.jpeg
@@ -3759,6 +4042,8 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||samudrapari.com/wp-content/uploads/2016/07/Inside-5.-MRP.gif
 ||sanatan.org^*/swabhavdosh_part2_H.gif
 ||sandeshwahak.com^*/cardio-cure-300x250.jpg
+||sandhyadesh.com/uploads/023645.jpg
+||sandhyadesh.com/uploads/042546.jpg
 ||sangalokhabar.com/wp-content/uploads/2020/04/Jyotish_Hari_Bhandari_ADS.jpg
 ||sangalokhabar.com/wp-content/uploads/2020/10/Gadi_Advt.jpg
 ||sangbad-gallery.com^*/add-09.jpg
@@ -3766,6 +4051,8 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||sangbad-gallery.com^*/webnewsdesign.com_
 ||sangritimes.com/laravel/public/front/img/content/placeholder_$image
 ||sanjeevanisamachar.com/wp-content/uploads/2020/01/Vanya-add
+||sanjeevanisamachar.com/wp-content/uploads/2021/01/Screenshot_2021-01-29-08-38-41-963_com.google.android.apps_.docs_.jpg
+||sanjeevanisamachar.com/wp-content/uploads/2021/02/Screenshot_2021-02-22-19-51-59-981_com.google.android.apps_.docs_.jpg
 ||sanjevani.com/sanjevani/wp-content/uploads/2020/03/SJS-internest-1.jpg
 ||sanjevani.com/sanjevani/wp-content/uploads/2020/05/patel.jpg
 ||sanjevani.com/sanjevani/wp-content/uploads/2020/05/rudashram.jpg
@@ -3811,12 +4098,17 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||satkhiraralo.com/wp-content/uploads/2020/01/tanisha$image
 ||satkhiraralo.com/wp-content/uploads/2020/07/myshops.gif
 ||satkhiratimes24.com/wp-content/uploads/2020/02/banner.png
+||satyamlive.com/wp-content/uploads/2019/01/PHF-Back-Banner.jpg
 ||sawalnepal.com/wp-content/uploads/2020/05/1ntc_x_100.gif
 ||sawalnepal.com/wp-content/uploads/2020/05/first-link
 ||sawalnepal.com/wp-content/uploads/2020/07/damak-nagar-ad-gif.gif
 ||sawalnepal.com/wp-content/uploads/2020/10/am-dental
+||sawalnepal.com/wp-content/uploads/2021/03/NT-APP-1220x120-1.gif
+||sawalnepal.com/wp-content/uploads/2021/03/think-oli-1-768x432.png
+||sb24live.com/wp-content/uploads/2021/03/FB_IMG_16164998758863187-212x300.jpg
 ||secureservercdn.net/160.153.137.14/28c.946.myftpupload.com/wp-content/uploads/2019/08/Rotti-Shop-New1$image
 ||secureservercdn.net/198.71.233.107/cmk.e47.myftpupload.com/wp-content/uploads/2020/08/Gokarneshwar-Nagarpalika
+||secureservercdn.net/198.71.233.86/cmk.e47.myftpupload.com/wp-content/uploads/2021/03/MBL-GIF
 ||secureservercdn.net^*/IMG-20191114-WA0006$domain=samastipurtown.com
 ||secureservercdn.net^*/IMG-20191114-WA0007$domain=samastipurtown.com
 ||secureservercdn.net^*/IMG-20191217-WA0010$domain=samastipurtown.com
@@ -3831,6 +4123,9 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||shamolbangla24.com^*/Ad-ok.jpg
 ||shamolbangla24.com^*/Hashem.gif
 ||shamolbangla24.com^*/Hostshine-AD.gif
+||shamolynews24.com/wp-content/uploads/2018/12/7262649343556923917.gif
+||shamolynews24.com/wp-content/uploads/2019/08/01.jpg
+||shamolynews24.com/wp-content/uploads/2019/08/02.jpg
 ||shamoybarta.com/wp-content/uploads/2020/10/Hridoy-2-1-1.gif
 ||shamprotikshawdesh.com/wp-content/uploads/2018/03/17082134985382385007.gif
 ||shamprotikshawdesh.com/wp-content/uploads/2018/03/2082960018166895259.gif
@@ -3917,12 +4212,16 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||smj24.com/wp-content/uploads/2019/11/ALHAJ-TEX.jpg
 ||smj24.com/wp-content/uploads/2020/02/AD-1.jpg
 ||smj24.com/wp-content/uploads/2020/03/s0.gif
+||smj24.com/wp-content/uploads/2021/03/AD.jpg
+||smj24.com/wp-content/uploads/2021/03/afc.jpg
+||smj24.com/wp-content/uploads/2021/03/IBBL-Web-300X250.gif
 ||sntv.news/uploads/ad_image/down1-slide.jpg
 ||socialsamvad.com/wp-content/uploads/2020/07/header-ads.jpg
 ||sokaleralo.com^*/rongdhong-ad-
 ||sokalerkotha.com/wp-content/uploads/2020/01/newspaper-rec$image
 ||sokalerkotha.com/wp-content/uploads/2020/01/Northan.jpg
 ||somoysongbad.com/wp-content/uploads/2020/05/Rohman-honda.gif
+||sonalinews.com/media/creative/
 ||sonalisangbad.com^*-ad-
 ||sonalisangbad.com^*/ad-
 ||sottersondhane24.com/assets/uploads/add1.jpg
@@ -3947,6 +4246,8 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||startalkbd.com^*/facebook-pag-1
 ||startalkbd.com^*/web-Q-Bd
 ||state7online.com/wp-content/uploads/2020/08/Nisarga-Hospital.gif
+||steelcity.online/bl-content/uploads/pages/f88e1a29637fd3dc52728574dc79dc68/ADD.jpg
+||steelcity.online/bl-content/uploads/pages/f88e1a29637fd3dc52728574dc79dc68/SUDHIRGANGEY.jpg
 ||stocktimes24.com^*/adnfileiamge.gif
 ||stocktimes24.com^*/ougol.gif
 ||stocktimes24.com^*/ring-shine.gif
@@ -3995,6 +4296,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||suprovatsatkhira.com/wp-content/uploads/2019/06/china.gif
 ||suprovatsatkhira.com/wp-content/uploads/2019/11/Barsa-Resort-Tourism-Add-
 ||suprovatsatkhira.com/wp-content/uploads/2019/11/CHINA-BANGL-ADD-
+||surmanews24.com/files/uploads/2019/06/137246833_259072185566759_2068188373512962998_n.jpg
 ||surmanews24.com^*/86848839_2792229974201639_4924484861642670080_n.jpg
 ||surmanews24.com^*/mirror-e1559380548934.jpg
 ||surmanews24.net/frontend/uploads/2016/03/adv.jpeg
@@ -4003,6 +4305,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||sustnews24.com^*_n-300x54
 ||sustnews24.com^*_n-495x89
 ||swadhikar.in/wp-content/uploads/2020/12/SOA-NEW-YEAR-2021
+||swadhikar.in/wp-content/uploads/2021/04/Admission-
 ||swarajnewstoday.com/images/all/154713118520476064_1981108022176040_7001996643496213084_n.jpg
 ||swarajnewstoday.com/images/all/1547279417banner.png
 ||swarajnewstoday.com/images/all/1547281124LYQA-460X60PX-2.jpg
@@ -4026,10 +4329,22 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||sylhetsomachar.com/media/PhotoGallery/2018November/10965051941004046986-2002161011.gif
 ||sylhetsomachar.com/media/PhotoGallery/2018November/maxresdefault-2002161011.jpg
 ||sylhetsomachar.com/media/PhotoGallery/2020April/11120884426894159701-2011301305.gif
+||sylhetsurma.com/wp-content/uploads/2018/12/01-2-1.gif
 ||sylhetvoice.com/wp-content/uploads/2019/06/adlink2.png
 ||sylhetvoice.com/wp-content/uploads/2019/10/add_26102019$image
 ||taftishofcrime.com/wp-content/uploads/2019/12/aro-1-300x300.jpg
 ||taftishofcrime.com/wp-content/uploads/2020/12/11.jpg
+||tahalka24x7.com/wp-content/uploads/2021/02/IMG-20210110-WA0044
+||tahalka24x7.com/wp-content/uploads/2021/02/IMG-20210112-WA0072
+||tahalka24x7.com/wp-content/uploads/2021/04/IMG-20210330-WA0027
+||tahalka24x7.com/wp-content/uploads/2021/05/IMG-20210205-WA0050
+||tahalka24x7.com/wp-content/uploads/2021/05/IMG-20210503-WA0096
+||tahalka24x7.com/wp-content/uploads/2021/05/IMG-20210503-WA0097
+||tahalka24x7.com/wp-content/uploads/2021/05/IMG-20210503-WA0097.jpg
+||tahalka24x7.com/wp-content/uploads/2021/05/IMG-20210510-WA0058
+||tahalka24x7.com/wp-content/uploads/2021/05/WhatsApp-Image-2021-05-03-at-9.22.20-PM
+||tahalka24x7.com/wp-content/uploads/2021/05/WhatsApp-Image-2021-05-03-at-9.22.24-PM
+||tahalka24x7.com/wp-content/uploads/2021/05/WhatsApp-Image-2021-05-16-at-8.16.18-AM
 ||tajakhabaruttarakhand.com/gallery/photo-gallery.php
 ||talentedindia.co.in/wp-content/uploads/2020/05/10cric-300x250.jpg
 ||talentedindia.co.in/wp-content/uploads/2020/05/Seven-Jackpots-300x129.jpg
@@ -4062,6 +4377,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||tamilvanakkam.com/wp-content/uploads/2019/08/Royal-Medical-8.5X11-Version-1-e1566277122343.jpg
 ||tamilvanakkam.com/wp-content/uploads/2020/06/HLGTA-20-12.jpg
 ||tamilvanakkam.com/wp-content/uploads/2020/06/Ramada-Inn-Ad-re2-scaled.jpg
+||tamilvanakkam.com^*/HLGTA-
 ||tamilveedhi.com/wp-content/uploads/2020/12/New-Project-2020-12-16T182723.964.jpg
 ||tamilvoicenews.com^*/cinefield300x250-1.gif
 ||tamilvoicenews.com^*/tamiltv300x250-1.gif
@@ -4090,6 +4406,8 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||tejastoday.com/storage/2020/08/Pizza$image
 ||tejastoday.com/storage/2020/08/The-grand-opening-of-the-much-awaited-restaurant-Pizza-Paradise-in-Jaunpur-TEJASTODAY
 ||teknafnews24.com^*/71489491_496192041171769_5843779348145897472_n.jpg
+||teknaftoday.com/wp-content/uploads/2020/08/118316583_669803983632411_3089937268982842797_n.jpg
+||teknaftoday.com/wp-content/uploads/2021/05/177795820_4223157277798782_4396174215005364054_n-1.jpg
 ||teknaftoday.com^*/82108662_776442482841664_2469380348639707136_n
 ||teknolozee.com^*/rezistro-banner.png
 ||tekserv.nyc^$domain=usanewsonline.com
@@ -4176,6 +4494,12 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||timeskerala.com^*/970X90_ONAM_TIMESKERALA_ONLINE_19AUG19_MJ.jpg
 ||timesofnellore.com/wp-content/uploads/2018/09/naturesvalley.jpg
 ||tips4blog.com^*/domain-registration.png
+||today24.in/news/wp-content/uploads/2021/04/WhatsApp-Image-2021-04-24-at-6.24.08-PM-300x169.jpeg
+||today24.in/news/wp-content/uploads/2021/04/WhatsApp-Image-2021-04-24-at-6.24.08-PM-768x432.jpeg
+||today24.in^*/iism
+||today24.in^*/sagar
+||today24.in^*/sankalp
+||todaybiharnews1.files.wordpress.com/2017/07/wp-1501409348056.jpg
 ||tollywood.net/wp-content/uploads/2021/01/Sai-Kaarthik-City-Center-30-000-SFT-retail-space-for-rent.jpg
 ||tollywood.net^*/landing_page$image
 ||topnewskerala.com^*/newspaper-rec728.jpg
@@ -4220,13 +4544,19 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||truevisionnews.com/wp-content/uploads/2018/04/300-x-250-pix.jpg
 ||truevisionnews.com/wp-content/uploads/2020/01/CHEMMANNUR-copy.jpg
 ||trustnews24.com/wp-content/uploads/2020/09/raipur-auto-rice.gif
+||ttinews.in//add/grp07662abf6d.jpg
+||ttinews.in//add/grp712cf92d6f.jpg
 ||ttinews.in/images/wa.jpeg
 ||tv19online.com/advban/
 ||tv19online.com/advnew/
 ||twentyfournews.com^*/Clint.jpg
 ||udaipurkiran.com/wp-content/uploads/2020/05/mds-600x600.jpg
+||udayindiahindi.in/wp-content/uploads/2021/02/1.gif
+||udayindiahindi.in/wp-content/uploads/2021/02/2.gif
+||udayindiahindi.in/wp-content/uploads/2021/02/3.gif
 ||ujjawalprabhat.com/wp-content/uploads/2020/05/10cric-1.jpg
 ||ujjawalprabhat.com/wp-content/uploads/2020/05/Seven-Jackpots.jpg
+||ujjawalprabhat.com^*/News-Portal-Designing-Service
 ||ukeraa.com/images/homeadvertiseimage
 ||ukeraa.com/images/homeadvertisevideo/
 ||ukhiyanews.com^*/13194432968121176931.gif
@@ -4336,6 +4666,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||varendrabarta.com^*/mbl.jpg
 ||varendrabarta.com^*/Varendra-Barta.jpg
 ||varthabharati.in^*/WSN-UDAYAVANI-1.gif
+||vatakara.truevisionnews.com/vatakara-news/uploads/2017/06/TB-15-6-17-B.gif
 ||vavuniyanet.com^*/Singer.jpg
 ||vavuniyanet.com^*Advent$image
 ||vavuniyanet.com^*Poonthottam$image
@@ -4344,6 +4675,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||veeravengaikal.com^*/ew.png
 ||veeravengaikal.com^*/verkal.png
 ||velippadai.com/wp-content/uploads/2021/01/19187589.jpg
+||vellinakshatram.com^*chemmanoor
 ||vijayabhanunews.com/public/images/inline.jpg
 ||vijayabhanunews.com/public/images/Untitled-1ad.jpg
 ||vijaykarnatakaepaper.com^*external_72890$image
@@ -4351,6 +4683,8 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||visalaandhra.com^*-add-*.jpg
 ||visionnepaltv.com^*/Ads-Vision.jpg
 ||vismayamadyama.com/wp-content/uploads/2018/12/970x90-1
+||vknews.in/wp-content/uploads/2020/04/WhatsApp-Image-2020-03-21-at-1.50.42-PM.jpeg
+||vknews.in/wp-content/uploads/2020/10/a92a6603-7a6a-4545-85c6-787e415c2f75.jpg
 ||vnewsbd.com/wp-content/uploads/2020/06/Poster.png
 ||voiceofbihar.in/wp-content/uploads/2020/09/IMG-20200910-WA0048.jpg
 ||voiceofchandpur.com/wp-content/uploads/2018/11/c-1
@@ -4361,6 +4695,12 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||voiceoffaridpur.com/wp-content/uploads/2017/03/farhan-designe.png
 ||voiceoffaridpur.com/wp-content/uploads/2017/03/MASRANGA.png
 ||voiceoffaridpur.com/wp-content/uploads/2017/03/PADMA.png
+||voiceofinsaf.com/wp-content/uploads/2021/02/11120884426894159701.gif
+||voiceofinsaf.com/wp-content/uploads/2021/02/16583059285362721716.gif
+||voiceofinsaf.com/wp-content/uploads/2021/02/17867281950639098745.gif
+||voiceofinsaf.com/wp-content/uploads/2021/02/3219362039419778618.png
+||voiceofinsaf.com/wp-content/uploads/2021/02/4318859048951678352.gif
+||voiceofinsaf.com/wp-content/uploads/2021/02/9236853301989104353.gif
 ||voiceofmedia.lk/wp-content/uploads/2019/02/pepsi
 ||voiceofmedia.lk/wp-content/uploads/2019/12/CheezIt_Teaser1_Still
 ||voiceofnarayanganj24.com/wp-content/uploads/2018/06/13.gif
@@ -4379,6 +4719,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||webnewsindia.com/admin/usercontent/image/clg_ad.jpg
 ||webreporter.co.in/wp-content/uploads/2020/06/Agrawal-Family_25X16-sq-cm_page-
 ||websquash.com^$third-party,domain=pahaltoday.com
+||weeklydesh.co.uk/files/uploads/2016/03/154969755_3636122846514913_4696675251267029191_o-1.jpg
 ||weeklydesh.co.uk/files/uploads/2016/03/download-4.png
 ||weeklydesh.co.uk/files/uploads/2016/03/download-8.png
 ||weeklydesh.co.uk/files/uploads/2016/03/Small-world-banner-new-1.png
@@ -4402,9 +4743,14 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||wenepali.com^*/the_british_college.gif
 ||wenepali.com^*/travel_cons.gif
 ||wenepali.com^*/verma.gif
+||wienbd.com/mAD$third-party,domain=mirsaraikhobor.com
 ||worldmediatimes.com/wp-content/uploads/2019/03/d1320791-fc21-411f-a54f-a14411502c04.jpg
 ||worldtamilswin.com^*/addimages/
+||wp.com/siwannews.in/wp-content/uploads/2021/03/picsart_03-16-083880916255439304677-
+||wp.com/thebarisal.com/wp-content/uploads/2019/03/belban
 ||wp.com/tv5news.in/wp-content/uploads/*_Landing.$domain=tv5news.in
+||wp.com/ujjwalhimachal.com^*/bhusan
+||wp.com/ujjwalhimachal.com^*/budhamal
 ||wp.com/www.24x7cg.com/wp-content/uploads/2020/10/ad-amazon-
 ||wp.com/www.achhisoch.com*/newzoninfotech$image
 ||wp.com/www.achhisoch.com/wp-content/uploads/*/ad-sidebar.jpg
@@ -4478,6 +4824,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||wp.com^*www.ramailochha.com/$domain=sajhatv.com
 ||wp.com^www.rojdin.in/wp-content/uploads/2019/05/273319.jpg
 ||wpsoul.com^$image,domain=shokherkrishi.com
+||xxx-indian-porn.com/js/func.js
 ||yarlminnal.com^*/ghgh-e1551257184437.jpg
 ||yespunjab.com^*/Capt-Independence-Day-Eng.gif
 ||yespunjab.com^*/Innocent-14-Aug-2020.jpg
@@ -4490,6 +4837,16 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||yespunjab.com^*/SVEEP-2019.jpg
 ||youngvarta.com/uploads/blocks/
 ||youngvarta.com/uploads/images/img_5eb60e9adf0a08-58588082-48284153.gif
+||youthmukam.com/wp-content/uploads/2021/03/IMG-20210306-WA0002-1024x691.jpg
+||youthmukam.com^*/catenation-
+||youthmukam.com^*/champaran-hostel
+||youthmukam.com^*/dr-
+||youthmukam.com^*/dr-raj
+||youthmukam.com^*/mantrasu
+||youthmukam.com^*/raman-sir
+||youthmukam.com^*/real-physics
+||youthmukam.com^*/super40-
+||youthmukam.com^*/vijayshree
 ||youtube.com/embed/1ljpiLRAAho
 ||youtube.com/embed/ixacW9YeJD0
 ||youtube.com/embed/o19SibpQEcI
@@ -4498,6 +4855,7 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||yugabdha.com/wp-content/uploads/2020/10/banner.jpg
 ||yugadhar.com/mynewsadmin/img/add/add1591631827.jpeg
 ||yugadhar.com/mynewsadmin/img/add/add1593864155.jpeg
+||yugpradesh.com/wp-content/uploads/2016/12/SH-Collage.png
 ||zestkhabar.com/wp-content/uploads/2020/05/bachpan-school.gif
 ||zestkhabar.com/wp-content/uploads/2020/05/Site-ba-Organc-Krishi-Farm.gif
 ||zoftcdn.com^*/andracards_banner_300x80.png
@@ -4505,6 +4863,8 @@ WebAd.jpg|$domain=vasundharadeep.news
 ||zoftcdn.com^*/citysun.jpg
 ||zoftcdn.com^*/vesta.jpg
 ||zoombangla.com/wp-content/uploads/2020/06/Zoombangla_1280X90.jpg
+||zoombangla.com/wp-content/uploads/2021/03/1290X90-1.jpg
+||zoombangla.com^*/AIBL-Web
 !------------------------Specific element hiding rules------------------------!
 ! *** Fetched from: https://raw.githubusercontent.com/mediumkreation/IndianList/master/IndianList/specific_hide.txt ***
 eelamtimes.com###AutoNumber1
@@ -4514,25 +4874,28 @@ arerajdarshan.com###FullWidthWidget-Top
 hamaramahanagar.in,kathiravan.com,khantinews.blogspot.com,lankamurasu.com,rajsamachar.com,unmaikal.com###HTML1
 chilahatiweb.com,jaldhakanews.com###HTML10
 jaldhakanews.com###HTML101
-kasargodvartha.com,khantinews.blogspot.com,newscity.co.in,rewanewsmedia.com###HTML11
+dailyhealthletters.com,kasargodvartha.com,khantinews.blogspot.com,liveaaryaavart.com,newscity.co.in,rewanewsmedia.com###HTML11
+dailyhealthletters.com,liveaaryaavart.com###HTML12
 jaldhakanews.com###HTML123
 thattungal.com###HTML13
+dailyhealthletters.com###HTML15
 madhepurakhabar.com,thattungal.com###HTML16
 madhepurakhabar.com,thattungal.com###HTML18
 obolokon24.com###HTML19
 aapkimedia.com,chilahatiweb.com###HTML2
 24upnews.com###HTML2 .separator img
 kasargodvartha.com###HTML20
+kasargodvartha.com###HTML21
 importmirror.com###HTML27
 battinews.com,thattungal.com###HTML3
 gramsamachar.com,jaldhakanews.com###HTML30
-chilahatiweb.com,shaharaman.com###HTML4
+chilahatiweb.com,eluvannews.com,shaharaman.com###HTML4
 tamilarul.net###HTML42
 battinews.com,chapainawabganjnews.com,eelanesan.com,malabarflash.com,visarnews.com###HTML5
 madhepurakhabar.com###HTML6
 chapainawabganjnews.com,madhepurakhabar.com,rewanewsmedia.com,vyganews.com###HTML7
-jaldhakanews.com,khantinews.blogspot.com,madhepurakhabar.com,rknewsofindia.com###HTML8
-jaldhakanews.com###HTML9
+dailyhealthletters.com,jaldhakanews.com,khantinews.blogspot.com,madhepurakhabar.com,rknewsofindia.com###HTML8
+jaldhakanews.com,top99breakingnews.blogspot.com###HTML9
 bhopalsamachar.com,digitalindia18.com,dth.news,evisionnews.co,gidhaur.com,hamaramahanagar.in,madhepuratimes.com,malabarflash.com,nayasabera.com,pinkcitynews.in,probashbd.news,rewanewsmedia.com,thattungal.com,unmaikal.com,vanniexpressnews.com,vijaytimes.com###Image1
 ceylonmuslim.com,evisionnews.co,madhepuratimes.com,malabarflash.com,nepalmother.com,thattungal.com###Image10
 evisionnews.co,inahardoi.com,madhepuratimes.com,malabarflash.com,nepalmother.com,thattungal.com###Image11
@@ -4540,29 +4903,30 @@ poonththalir.blogspot.com###Image119
 madhepuratimes.com,nepalmother.com,thattungal.com###Image12
 poonththalir.blogspot.com###Image125
 madhepuratimes.com,thattungal.com###Image13
-arthasarokar.com,madhepuratimes.com,thattungal.com###Image14
+arthasarokar.com,kalvinews.com,madhepuratimes.com,thattungal.com###Image14
 madhepuratimes.com,thattungal.com###Image15
 madhepuratimes.com,nepalmother.com,poonththalir.blogspot.com,thattungal.com###Image16
 arthasarokar.com,madhepuratimes.com,thattungal.com###Image17
 madhepuratimes.com,nepalmother.com,thattungal.com###Image18
 madhepuratimes.com,nepalmother.com,thattungal.com###Image19
-battinews.com,chetaktimes.com,hamaramahanagar.in,inahardoi.com,madawalaenews.com,madhepuratimes.com,malabarflash.com,nayasabera.com,poonththalir.blogspot.com,rajsamachar.com,thattungal.com###Image2
+battinews.com,chetaktimes.com,dailyhealthletters.com,hamaramahanagar.in,inahardoi.com,madawalaenews.com,madhepuratimes.com,malabarflash.com,nayasabera.com,poonththalir.blogspot.com,rajsamachar.com,thattungal.com###Image2
 madhepuratimes.com,thattungal.com###Image20
 madhepuratimes.com###Image21
 madhepuratimes.com###Image22
 madhepuratimes.com,nepalmother.com###Image23
 poonththalir.blogspot.com###Image25
-bestghazals.net,ceylonmuslim.com,chetaktimes.com,evisionnews.co,madawalaenews.com,madhepuratimes.com,malabarflash.com,probashbd.news,rajsamachar.com,thattungal.com,vyganews.com###Image3
+bestghazals.net,ceylonmuslim.com,chetaktimes.com,dailyhealthletters.com,evisionnews.co,madawalaenews.com,madhepuratimes.com,malabarflash.com,probashbd.news,rajsamachar.com,thattungal.com,vyganews.com###Image3
 poonththalir.blogspot.com###Image33
 nepalmother.com###Image39
 engrsvoice.com,gidhaur.com,hamaramahanagar.in,madawalaenews.com,madhepuratimes.com,malabarflash.com,nepalmother.com,poonththalir.blogspot.com,priyokulaura.com,thattungal.com,vanniexpressnews.com###Image4
 hamaramahanagar.in,madhepuratimes.com,malabarflash.com,priyokulaura.com,thattungal.com,vanniexpressnews.com###Image5
 engrsvoice.com,evisionnews.co,madhepuratimes.com,malabarflash.com,thattungal.com,vijaytimes.com###Image6
-hamaramahanagar.in,madhepuratimes.com,malabarflash.com,priyokulaura.com,thattungal.com###Image7
+hamaramahanagar.in,madhepuratimes.com,malabarflash.com,priyokulaura.com,singhamnewstv.in,thattungal.com###Image7
 importmirror.com,nepalmother.com,thattungal.com###Image8
 poonththalir.blogspot.com###Image85
-chetaktimes.com,madhepuratimes.com,malabarflash.com,priyokulaura.com,thattungal.com,vanniexpressnews.com###Image9
+chetaktimes.com,kalvinews.com,madhepuratimes.com,malabarflash.com,priyokulaura.com,thattungal.com,vanniexpressnews.com###Image9
 poonththalir.blogspot.com###LinkList21
+rajbem.com###MenuAlertAD
 pundrokotha.com.bd###PageSideAd1
 arthasarokar.com###RoadBlock
 pnews.co.in###SidebarWidgets-S1
@@ -4571,7 +4935,7 @@ puthiyathalaimurai.com###__ads1
 puthiyathalaimurai.com###__ads2
 raajdhaninews.com###a2a_follow_widget-8
 dailykaratoa.com,malabarflash.com,mewartimes.com###ad
-headline24x7.com###adAboveHeader
+headline24x7.com,rkexpose.com###adAboveHeader
 thereport24.com###add-place
 malayalamtodayonline.com###add_slider_header_banner
 lnstarnews.com###add_wrapper
@@ -4579,6 +4943,7 @@ professorsbd.com###addv
 malayalamdaily.in###adrotate-wrapper
 udayavani.com###ads
 seithy.com###ads400px
+press4news.live###adsBanner
 news24nepal.tv###adv
 torontotamil.com###advertsub2
 ap7am.com###advt-dtindex
@@ -4587,11 +4952,15 @@ andhrajyothy.com###aimgMain
 andhrajyothy.com###aimgMainMob
 chakarianews.com###akismet_widget-2
 padmatimes24.com###aside #sidebar
+fmnews24.com###attachment_10392
+fmnews24.com###attachment_10590
+fmnews24.com###attachment_11003
 kahalenews.com###attachment_43256
 kahalenews.com###attachment_44092
 dhaka18.com###awaken_video_widget-4
 dinamina.lk,ilamai.com,sitakundabarta.com###banner
 devbhoomidarshan17.com###banner-10
+truevisionnews.com###bannerCarousel1
 bangalorewaves.com###bannerclassfd
 kusenews.com###belowflash
 kusenews.com###belowmainnews
@@ -4603,51 +4972,54 @@ tibrakhabar.com,tibrakhabar.com.np###black-studio-tinymce-30
 londonbdnews24.com###block-10
 sakshi.com###block-block-141--2
 sakshi.com###block-block-145
+varthabharati.in###block-block-253--2
 varthabharati.in###block-block-263--2
 varthabharati.in###block-block-338
 seemanchalnews.com###block-views-side-ads-block
 paristamil.com###box
 malayalamtodayonline.com###boxes
 amankishaan.news###bxnzmefcd-3
+nzpunjabinews.com###carouselExampleControls
 bangalorewaves.com###classlistmain
 suddi9.com###colorcontentasash3
+focusmohona.com###content .abv-container
 humhindustanilive.com###content .master-slider-parent
 legalvoice24.com###content > .widget_text
+samajalive.in###content div[data-adid]
 celluloidonline.com###content img.jetpack-lazy-image[src*="-march.jpg"]
 avikaluttarakhand.com###content section.widget_media_image
 odiannews.com###content section.widget_text
 haryananewsexpress.com###covernews_posts_carousel-7
 valampurii.lk###custom-ads-2
-jaunpur24.com,thesunrisetoday.com###custom_html-10
-satyagrahanews.com,thepublicworld.com,thesunrisetoday.com###custom_html-11
+dvgsuddi.com,jaunpur24.com,thesunrisetoday.com###custom_html-10
+dvgsuddi.com,jaihindtimes.in,satyagrahanews.com,thepublicworld.com,thesunrisetoday.com###custom_html-11
 metroplus.online,thesunrisetoday.com###custom_html-12
 sharebazarnews.com###custom_html-1291
 sharebazarnews.com###custom_html-1292
 sharebazarnews.com###custom_html-1293
-ausamachar.com,kalaroanews.com###custom_html-13
+ausamachar.com,jaihindtimes.in,kalaroanews.com###custom_html-13
 sharebazarnews.com###custom_html-1371
 uluberiasambad.in###custom_html-14
-arthosuchak.com###custom_html-16
 muznews.online,notunerkotha.com###custom_html-17
-ggsnews24.com###custom_html-19
-amritvarshanews.in,buxaruptodate.com,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,januday.com,minoritiesnews.com,news127.com,newschutney.com,satyagrahanews.in,tamilvoicenews.com,thamilan.lk###custom_html-2
+bharatnewslive24.in,ggsnews24.com###custom_html-19
+amritvarshanews.in,biharnewslive.com,buxaruptodate.com,ekushershokal.com,filmaniaentertainment.com,gharkavaidya.com,hastakshep.com,janadeshnews.in,januday.com,kishorgonj.com,kushtiabd.com,minoritiesnews.com,news127.com,newschutney.com,satyagrahanews.in,tamilvoicenews.com,thamilan.lk###custom_html-2
 ptbnews.in###custom_html-2 img
 chhattisgarhvaibhav.com,satyaketansamachar.com,siwanonline.com###custom_html-21
 ddnews24x7.com###custom_html-26
-barisaltoday.com,dubaivartha.com,ekushershokal.com,hastakshep.com,jagprerna.com,kalyankesari.com,khabarok.com,khabarstate.com,livehalchal.com,marginalised.in,muznews.in,samastipurtown.com,usanewsonline.com###custom_html-3
+barisaltoday.com,crimemukhbir.com,dubaivartha.com,ekushershokal.com,hastakshep.com,jagprerna.com,kalyankesari.com,khabarok.com,khabarstate.com,kushtiabd.com,livehalchal.com,marginalised.in,muznews.in,newswayanad.in,samastipurtown.com,usanewsonline.com###custom_html-3
 ddnews24x7.com,thedastak24.com###custom_html-31
 ddnews24x7.com###custom_html-39
-news127.com,newshaat.com,uttarakhandhindinews.com###custom_html-4
+news127.com,newshaat.com,tahalka24x7.com,uttarakhandhindinews.com###custom_html-4
 ddnews24x7.com###custom_html-44
 ddnews24x7.com###custom_html-47
 ddnews24x7.com###custom_html-48
-bdcrictime.com,jagprerna.com,muznews.net,newsganj.com,pradhanavartha.in,techtamil.com###custom_html-5
+247superfast.com,bdcrictime.com,dvgsuddi.com,globalpunjabtv.com,jagprerna.com,ktmdainik.com,muznews.net,newsganj.com,newstodayinhindi.com,pradhanavartha.in,techtamil.com###custom_html-5
 ddnews24x7.com###custom_html-51
 ddnews24x7.com###custom_html-53
-newschutney.com,sanskardarshan.in###custom_html-6
-barisaltoday.com,bdcrictime.com,emediacreative.in,kalaroanews.com###custom_html-7
+dvgsuddi.com,kositimes.com,newschutney.com,primepunjab.com,sanskardarshan.in###custom_html-6
+barisaltoday.com,bdcrictime.com,desherpotrika.com,emediacreative.in,kalaroanews.com,newstodayinhindi.com,onlinenepal.com###custom_html-7
 mynews36.com,pradhanavartha.in###custom_html-8
-aajtak24live.in,filmaniaentertainment.com,ggsnews24.com,satyaketansamachar.com,uttranews.com###custom_html-9
+aajtak24live.in,bharatnewslive24.in,filmaniaentertainment.com,ggsnews24.com,satyaketansamachar.com,uttranews.com###custom_html-9
 manithan.com###dfp_banner_header_panel + span
 pudhari.news###div-clmb-ctn-209151-1
 teluguwishesh.com###djslider875
@@ -4655,19 +5027,22 @@ barishalcrimenews.com###elementor-popup-modal-114022
 elokasha.com###eloka-google
 cellitnews.com###example
 suddi9.com###featgal + div #colorcontentblock #colorcontentwrap4
+nerpatham.com###floating-sidebar .custom
+narmadanchal.com###fn-before-content-sidebar
 keralavisiontv.com###foot-ad-wrap
 rozanakhabarnama.com.au###front-widget .front-widget:nth-child(2)
 importmirror.com###full-size-Ad
-chatganrbani.com###gallery-1
+chatganrbani.com,uttareralo24.com###gallery-1
 jaianndata.com###gdgallery-container-2
 telugu.gulte.com###gulte-text-html-widget-2
 puttalamonline.com###head-imgput
 anytechtune.com###headadd
-crimecapital.in###header #sidebar
+chattolarkhabor.com,crimecapital.in,sakalakhabar.com###header #sidebar
 prothomshomoy.com,punjabinational.ca###header-aside
 nationaltodaylive.com###header-banner
 ethiri.com###header-helpful
-primepunjab.com,sanjeevanisamachar.com###header-right-section
+primepunjab.com,sehattimes.com###header-right-section
+thepunjabwire.com###header-right-sidebar
 anuragdarshan.com###header-right-sidebar .widget_media_image:not(#media_image-7)
 livekeralanews.com###headermain .sp7
 bspabla.com###heatmapthemead-primary-sidebar
@@ -4689,6 +5064,9 @@ newscity.co.in###leaderboard-content
 vorerbangladesh.com###left-sidebar aside.widget_text
 edainikazadi.net,edainikpurbokone.net###left-top-holder
 enepalese.com###logo_middle
+cellitnews.com###logoright
+voiceoffreedom.in###magazine-plus-image-6
+voiceoffreedom.in###magazine-plus-image-8
 newsuperbharat.com###main .widget_custom_html
 songbadpratidin.com###main .widget_media_image
 agrilife24.com###main-body .custom
@@ -4698,69 +5076,80 @@ laxminews24x7.com,theexclusivestory.com###main-content .e3lan
 p2pnews.co###main-content > .ml-slider
 newcinemaexpress.com###main-head .right
 kathmandutoday.com###main_body
+abnews24.com###main_content .d-sm-block
 valampurii.lk###main_middle_right_advert
 samvadexpress.com###media_gallery-10
-jantabulletin.wordpress.com###media_gallery-2
+bharatsarathi.com,jantabulletin.wordpress.com###media_gallery-2
 jalauntimessite.wordpress.com###media_gallery-28
 jantabulletin.wordpress.com###media_gallery-3
+todaybiharnews1.wordpress.com###media_gallery-33
 pressbangla24.com,webreporter.co.in###media_gallery-4
+todaybiharnews1.wordpress.com###media_gallery-41
+todaybiharnews1.wordpress.com###media_gallery-43
 aryavartposts.com,bijoynewsbd24.com,canvasmagazine.com.bd,deshajtimes.com,dhakardak-bd.com,news21live.in,parbatyachattagram.com,postpati.com,samnanews.com###media_image-10
-canvasmagazine.com.bd,news127.com,samnanews.com,scgnews.in###media_image-11
+canvasmagazine.com.bd,nationissue.com,news127.com,samnanews.com,scgnews.in###media_image-11
 samrudhaodisha.com###media_image-115
 jansaamna.com,samnanews.com###media_image-12
 aryavartposts.com,dgnews.co.in,jansaamna.com,samnanews.com###media_image-13
-aryavartposts.com,jansaamna.com,mirrortoday.in###media_image-14
-anewsoffice.com,manzilnews.in,punjabbaani.com,radiobihani.org,tazakhabar36garh.com,uttranews.com###media_image-15
+aryavartposts.com,bplnews24.in,hindvatannews.com,jansaamna.com,mirrortoday.in,odishatime.com,sabkasandesh.com###media_image-14
+anewsoffice.com,hindvatannews.com,manzilnews.in,punjabbaani.com,radiobihani.org,tazakhabar36garh.com,uttranews.com###media_image-15
 flowersoriginals.com###media_image-16
 dailysamvad.com###media_image-17
 canvasmagazine.com.bd,webreporter.co.in###media_image-18
 canvasmagazine.com.bd,samnanews.com,webreporter.co.in###media_image-19
-aajtakmedia.net,amanshantinews.com,banglatelegraph.com,barisaltoday.com,bhaskarenews.com,dainikjanatarkotha.com,dainikkhojkhabar.live,dainiknayak.com,darpansamachar.com,deshersangbad.com,dhenkanalupdate.com,ekhansangbad.com,himalayonlinemedia.com,hindlives.com,indianvoice24.com,jabalpurdarpan.in,laxminews24x7.com,meherpurnews.com,meruraibar.com,national18news.com,nationaldunia.com,newsbrahmanbaria.com,newschutney.com,odishanewsservice.com,pathivaraonline.com,punjablivekhabarnama.com,puthusudar.lk,raftaarindianews.com,sasthabangla.com,thebiharnews.com,upnewz.in,ziotamil.in###media_image-2
+aajtakmedia.net,amanshantinews.com,banglatelegraph.com,barisaltoday.com,bhaskarenews.com,dainikjanatarkotha.com,dainikjayantnews.com,dainikkhojkhabar.live,dainiknayak.com,darpansamachar.com,deshersangbad.com,dhenkanalupdate.com,dokkinchattala.com,ekhansangbad.com,himalayonlinemedia.com,hindlives.com,indianvoice24.com,jabalpurdarpan.in,laxminews24x7.com,meherpurnews.com,meruraibar.com,national18news.com,nationaldunia.com,newsbrahmanbaria.com,newschutney.com,odishanewsservice.com,pathivaraonline.com,prameya.com,punjablivekhabarnama.com,puthusudar.lk,raftaarindianews.com,sasthabangla.com,thebiharnews.com,upnewz.in,ziotamil.in###media_image-2
 samrudhaodisha.com###media_image-205
-ggsnews24.com,gnews5.com,samnanews.com###media_image-21
+amanshantinews.com,ggsnews24.com,gnews5.com,samnanews.com###media_image-21
+amanshantinews.com,divyalive.com,sabsach.in###media_image-22
 cgnews24x7.wordpress.com,samacharsach.com###media_image-23
 samrudhaodisha.com###media_image-235
 chapaidarpon.com,voiceofbihar.in###media_image-24
 cg24x7.news,cgnews24x7.wordpress.com###media_image-25
 ggsnews24.com,voiceofbihar.in###media_image-26
-ggsnews24.com,madhyabhoomikeboal.com###media_image-27
-ggsnews24.com,voiceofbihar.in###media_image-28
+ggsnews24.com,khabarpahad.com,madhyabhoomikeboal.com###media_image-27
+ggsnews24.com,khabarpahad.com,voiceofbihar.in###media_image-28
 cg24x7.news,cgnews24x7.wordpress.com###media_image-29
-alokitonewstv.com,amanshantinews.com,amritvarshanews.in,ayushindianews.com,bangladaily24.com,dainikkhojkhabar.live,darpansamachar.com,dgnews.co.in,fenirzamin.com,globalsylhet.com,hindustandailynews.com,jobareabd.com,karmalamadhanews24.com,keralaonlinenews.com,khabar36.com,mirsaraitimes.com,muzaffarpurwow.com,nationaldunia.com,nationalvision.news,odisha24.com,pahar24.com,puthusudar.lk,sasthabangla.com,theblastkhabar.com###media_image-3
-cg24x7.news,cgnews24x7.wordpress.com,starbanglanews.net###media_image-31
+alokitonewstv.com,amanshantinews.com,amritvarshanews.in,ayushindianews.com,bangladaily24.com,chandpurreport.com,dainikkhojkhabar.live,darpansamachar.com,dgnews.co.in,fenirzamin.com,globalsylhet.com,hindustandailynews.com,independentcitizennews.com,jobareabd.com,karmalamadhanews24.com,keralaonlinenews.com,khabar36.com,madhubaninews.in,mirsaraitimes.com,muzaffarpurwow.com,nationaldunia.com,nationalvision.news,newshunter.online,odisha24.com,pahar24.com,puthusudar.lk,sasthabangla.com,theblastkhabar.com,ulipur.com###media_image-3
+purbelinews.com###media_image-30
+cg24x7.news,cgnews24x7.wordpress.com,news20live.com,starbanglanews.net###media_image-31
 starbanglanews.net###media_image-32
-starbanglanews.net###media_image-33
-starbanglanews.net###media_image-34
-starbanglanews.net###media_image-35
-pressbangla24.com,voiceofbihar.in###media_image-36
+news20live.com,starbanglanews.net###media_image-33
+news20live.com,starbanglanews.net###media_image-34
+news20live.com,starbanglanews.net###media_image-35
+crimebarta.com,pressbangla24.com,sabkasandesh.com,voiceofbihar.in###media_image-36
+thefourthmirror.com###media_image-37
 mpnewscast.com,voiceofbihar.in###media_image-38
-berartimes.com,dailykagojkolom.com,dainandini.in,dhinakkavalan.com,ejanakpurtoday.com,laxminews24x7.com,muldharpost.com,news21live.in,samacharkyari.com,sasthabangla.com,thebiharnews.com###media_image-4
-voiceofbihar.in###media_image-41
-nationaltodaylive.com###media_image-42
-amanshantinews.com,dainandini.in,dainikkhojkhabar.live,dgnews.co.in,himalipatrika.com.np,indianvoice24.com,keralaonlinenews.com,khabar36.com,khabarmala.com,manvadhikartimes.com,muldharpost.com,newsplus.lk,prothomshomoy.com###media_image-5
+berartimes.com,dailykagojkolom.com,dainandini.in,dhinakkavalan.com,ejanakpurtoday.com,fourthpost.com,himachalnewsdaily.com,laxminews24x7.com,muldharpost.com,news21live.in,samacharkyari.com,sasthabangla.com,thebiharnews.com###media_image-4
+khabarpahad.com,voiceofbihar.in###media_image-41
+khabarpahad.com,nationaltodaylive.com###media_image-42
+bharatsarathi.com,shreenews.in###media_image-43
+crimebarta.com,shreenews.in###media_image-44
+amanshantinews.com,dainandini.in,dainikkhojkhabar.live,dgnews.co.in,himalipatrika.com.np,indianvoice24.com,keralaonlinenews.com,khabar36.com,khabarmala.com,manvadhikartimes.com,mirsaraitimes.com,muldharpost.com,newsplus.lk,odishatime.com,prothomshomoy.com###media_image-5
 madhyabhoomikeboal.com###media_image-50
 madhyabhoomikeboal.com,onlinepana.com###media_image-51
 madhyabhoomikeboal.com###media_image-52
 madhyabhoomikeboal.com###media_image-53
 madhyabhoomikeboal.com###media_image-56
-bijoynewsbd24.com,dainikkhojkhabar.live,fenirzamin.com,jansaamna.com,kannurvarthakal.in,lambasafar.com,mirrortoday.in,muldharpost.com,newindiatimes.news,odishalink.com,prajawani.in,sasthabangla.com,theblastkhabar.com###media_image-6
+anewsoffice.com###media_image-57
+bijoynewsbd24.com,dainikkhojkhabar.live,fenirzamin.com,jansaamna.com,kannurvarthakal.in,lambasafar.com,mirrortoday.in,muldharpost.com,newindiatimes.news,newswayanad.in,odishalink.com,prajawani.in,sasthabangla.com,theblastkhabar.com###media_image-6
 aligarhmedia.com###media_image-6 img
 madhyabhoomikeboal.com###media_image-60
 mahanaad.com###media_image-67
-bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5.com,jansaamna.com,khabar36.com,manvadhikartimes.com,parbatyachattagram.com,patnapost.com,prajawani.in,pratidin24x7.in,samnanews.com,swatantradastak.com###media_image-7
+amanshantinews.com,bijoynewsbd24.com,dainikkhojkhabar.live,filmybahar.com,gnews5.com,jansaamna.com,khabar36.com,manvadhikartimes.com,parbatyachattagram.com,patnapost.com,prajawani.in,pratidin24x7.in,samnanews.com,swatantradastak.com###media_image-7
 mahanaad.com###media_image-71
 madhyabhoomikeboal.com###media_image-72
-bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,livestorytime.com,newsplus.lk,prajawani.in,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
+bijoynewsbd24.com,chandrikadaily.qa,dainikkhojkhabar.live,deshbartabd.com,dhakardak-bd.com,kannurvarthakal.in,khabar36.com,livestorytime.com,newsplus.lk,odishatime.com,prajawani.in,sasthabangla.com,scgnews.in,theblastkhabar.com###media_image-8
 madhyabhoomikeboal.com###media_image-82
 madhyabhoomikeboal.com###media_image-84
 dainikkhojkhabar.live,dhakardak-bd.com,filmybahar.com,khabar36.com,khabarok.com,odishalink.com,samnanews.com,scgnews.in,tamilnewsstar.com,tazakhabar36garh.com,upantaodisha.com###media_image-9
 samrudhaodisha.com###media_image-95
+smj24.com###media_video-1
 dainikkhabarlayehain.com###media_video-13
 derbykhabar.com###media_video-16
 derbykhabar.com###media_video-17
 derbykhabar.com###media_video-18
 dubaivartha.com,globalnews24x7.com,hpnewsatl.com###media_video-2
-thesunrisetoday.com###media_video-3
+apnades.in,jeevanutsahnews.in,newswayanad.in,thesunrisetoday.com###media_video-3
 khabrainabhitak.org###media_video-4
 madhyabhoomikeboal.com,samnanews.com###media_video-5
 democratictvnews.com###media_video-6
@@ -4783,28 +5172,34 @@ legendnews.in###metaslider_714
 biharpatrika.in###metaslider_7568
 biharpatrika.in###metaslider_7646
 biharpatrika.in###metaslider_7731
-abhitaknewsuk.in,biharpatrika.in,januday.com,mahekasansar.com,pnews.co.in###metaslider_widget-2
-24expressnews.in,digitalnewslive.com,januday.com,mahekasansar.com,npg.news###metaslider_widget-3
-mahekasansar.com,npg.news###metaslider_widget-4
-digitalnewslive.com###metaslider_widget-5
+abhitaknewsuk.in,biharpatrika.in,himachalnewsdaily.com,januday.com,mahekasansar.com,omexpress.in,pnews.co.in,samacharsach.com###metaslider_widget-2
+24expressnews.in,digitalnewslive.com,januday.com,mahekasansar.com,npg.news,tarunchhattisgarhkorba.com###metaslider_widget-3
+mahekasansar.com,npg.news,tarunchhattisgarhkorba.com###metaslider_widget-4
+digitalnewslive.com,npg.news,tarunchhattisgarhkorba.com###metaslider_widget-5
 npg.news###metaslider_widget-6
+thefourthmirror.com###metaslider_widget-7
 tharunaya.us###module_03_ads300x250
 cinemapettai.com,lankac.news###mvp-leader-wrap
+channelindia.news###mvp-side-wrap .widget_media_image
 just36news.com###myCarouse3
 just36news.com###myCarouse4
 himachalabhiabhi.com,ujyaaloonline.com###myCarousel
 rosemalayalam.com###myCarousel2
 cialive.in###myCarouselv
-kathmandupati.com###myModal
+bhilwarahalchal.com,kathmandupati.com###myModal
 lankadeepa.lk###myModal1
 newsuperbharat.com###myVideo1
 thevoices.in###mycarousel-273
 ratopati.com###news-modal
+indianewscentre.in,punjabenews.com###newsSection img
 dailykhowai.com###news_portal_ads_banner-3
+citiupdate.com###newscard_horizontal_vertical_posts-3 .col-md-4:not(.first-col)
+citiupdate.com###newscard_horizontal_vertical_posts-8
 taftishofcrime.com###newsphere_posts_slider-7
 onlinekhabar.com###ok18-roadblock-wrap
 saaravita.lk###openModal1
-crickethimalaya.com,surabhisaloni.co.in###ouibounce-modal
+patnalive.co.in###oppopo
+crickethimalaya.com,surabhisaloni.co.in,vijayavani.net###ouibounce-modal
 ratantimes.com###owl-demo1
 daynikekusherbani.com###p-add
 importmirror.com###p-vila
@@ -4814,11 +5209,13 @@ muznews.net###panel-38-0-1-1
 chhapratoday.com###pg-22-3
 chhapratoday.com###pg-22-5
 kusenews.com###pgc-7-1-1
+dineshkhabar.com###popBlkAd
 rojgarlive.com###popup_indiv2
 jagprerna.com###post-7708
 upayuktha.com###primary .nivoSlider
 alokitoshitalakha.com###primary aside.widget_text
 bhalukanews.com###primary img[alt="ads"]
+koshionline.com###primary section.widget_media_image
 industryhit.com###pum-15632
 nirapadnews.com###quads-adad11_widget
 goodnewsbharat.com###recent-post-slider-1
@@ -4835,11 +5232,15 @@ pressnote.in###sb-container
 kodanki.in,nayabharat.live,primepunjab.com###secondary
 beanibazarnews24.com###secondary .side-widget:first-child
 fenirshomoy.com###secondary .vl-advertisment
-aajkakanpur.com,jogiexpress.com,ptbnews.in,vishwanews24.com###secondary .widget_media_image
+aajkakanpur.com,aapkachannelnews.co.in,ideaciti.com,jogiexpress.com,justmuz.com,ptbnews.in,vishwanews24.com###secondary .widget_media_image
+legendnews.in###secondary .widget_metaslider_widget
 nagarikbahas.com###secondary .widget_sp_image
-charchitbihar.com###secondary aside.widget_media_image
+phaddalo.com###secondary .widget_text
+techalonews.com###secondary aside.widget_custom_html
+charchitbihar.com,dnspnews.in###secondary aside.widget_media_image
 bhartiyanews.in###secondary aside.widget_text
-charchitbihar.com,uttarakhandkesari.in###secondary section.widget_media_image
+newshunter.online###secondary section.widget_block
+chandpurnews.com,charchitbihar.com,expressherald.com,mithapukur24news.com,uttarakhandkesari.in,vtv24x7.com###secondary section.widget_media_image
 doabatimes.com###secondary-right
 kannadaprabha.com###section_content_check_452
 kannadaprabha.com###section_content_check_454
@@ -4866,13 +5267,15 @@ readertimes.com###sidebar .widget_text
 rjfnews.com###sidebar > .widget_media_image
 haryananewsonline.com###sidebar-primary-sidebar
 mynews36.com###sidebar-primary-sidebar .widget_custom_html
-newindiatimes.news,trustnews24.com###sidebar-right .widget_media_image
+hind24news.com,npg.news###sidebar-primary-sidebar .widget_media_image
+chirantannews.in,newindiatimes.news,prameyanews7.com,trustnews24.com###sidebar-right .widget_media_image
 newsportals.in###sidebar-right > .widget_media_gallery
 newsportals.in,telugu99.com###sidebar-right > .widget_media_image
 madawalaenews.com###sidebar-right > div:not(#HTML8):not(#PopularPosts1)
 haryananewsonline.com###sidebar-secondary-sidebar
 zamania.in###sidebar-section-top
 pradeepamonline.com###sidebar1
+kulalaworld.com###simpleimage-13
 muslimmedia.info###simpleimage-6
 sawalnepal.com###sing_cont .ad
 currentkhabar.com###sitebox-ad125-3
@@ -4886,7 +5289,9 @@ emalayalee.com,pravasi.us###slideshow2
 emalayalee.com,pravasi.us###slideshow3
 padmatimes24.com###small-news
 shrinaradmedia.com###smartslider3-2
+shasakprashasak.com###sp-user2
 techtamil.com###sp_widget_post_slider-2
+khulasanewslive.in###sp_widget_post_slider-3
 ourislam24.net###spc-ads
 lokaantar.com###stickyAdBottom
 buxaruptodate.com,pnews.co.in###stream-item-widget-1
@@ -4899,35 +5304,39 @@ punnalaikkadduvan.com###supermag_ad-3
 swarajnewstoday.com###sync3
 anbnews24.com###text-1
 jagprerna.com,medianp.com,moonbreaking.com,samnanews.com,tamil.com,vanakkamlondon.com###text-10
-anaicoddai.com,arthparkash.com,cibindianews.com,jagprerna.com,k24news.in,khagracharipratidin.com,muslimkural.com,onlinesaptari.com,samnanews.com,swadeshbani.com,tamil.com,tnilive.com,vyavasthadarpan.com###text-11
-ekhansangbad.com,globaltamilnews.net,jagprerna.com,samudrapari.com###text-12
+anaicoddai.com,arthparkash.com,cibindianews.com,jagprerna.com,k24news.in,khagracharipratidin.com,livekhagaria.in,muslimkural.com,onlinesaptari.com,samnanews.com,swadeshbani.com,tamil.com,tnilive.com,vyavasthadarpan.com###text-11
+divyalive.com,ekhansangbad.com,globaltamilnews.net,jagprerna.com,samudrapari.com###text-12
 moonramkonam.com###text-124
-irinjalakudalive.com,janakhabar.com,livekhagaria.in,newsi.in,samnanews.com,swisspungudutivu.com,tamil.com,vyavasthadarpan.com###text-13
+bn.bdcrictime.com,irinjalakudalive.com,janakhabar.com,livekhagaria.in,newsi.in,samnanews.com,swisspungudutivu.com,tamil.com,vyavasthadarpan.com###text-13
 anaicoddai.com,bdcrictime.com,dailypunjabtimes.com,irinjalakudalive.com,livekhagaria.in,porospor.com,sambadsaradin.com,samnanews.com,swadeshbani.com,tnilive.com,vyavasthadarpan.com###text-14
-dailypunjabtimes.com,swadeshbani.com,trttamilolli.com###text-15
-kalaroanews.com,manvadhikartimes.com,samnanews.com,trttamilolli.com,zoombangla.com###text-16
+dailypunjabtimes.com,hindvatannews.com,swadeshbani.com,trttamilolli.com###text-15
+fatehnagarnews.com,kalaroanews.com,manvadhikartimes.com,samnanews.com,trttamilolli.com,zoombangla.com###text-16
 anaicoddai.com,apnades.in,e-jaffna.com,kalaroanews.com,maithilijindabaad.com,manvadhikartimes.com,samnanews.com,theblastkhabar.com,vanakkamlondon.com###text-17
-achhisoch.com,banglarkonthosor.com,sambadsaradin.com###text-18
+achhisoch.com,banglarkonthosor.com,chirantannews.in,sambadsaradin.com###text-18
 anytechtune.com,bdtodays.net,gnewsindia.com,sambadsaradin.com###text-19
-anaicoddai.com,attachowk.com,currentkhabar.com,dailymomenshahi.com,gobikhobor.com,hindi24news.com,jagprerna.com,komashisha.com,kositimes.com,moviemandu.com,parichowk.com,postpatrika.com,priyochandpur.com,punjabimaaboli.com,sidhakura.net,udaipurnewschannel.in,vijaychowk.com,yarlosai.com###text-2
+anaicoddai.com,attachowk.com,currentkhabar.com,dailymomenshahi.com,fatehnagarnews.com,gobikhobor.com,hindi24news.com,indokalingtimes.com,jagprerna.com,joyparajoy.com,komashisha.com,kositimes.com,moviemandu.com,parichowk.com,postpatrika.com,priyochandpur.com,punjabbaani.com,punjabimaaboli.com,sidhakura.net,udaipurnewschannel.in,uttarakhandkesari.in,vijaychowk.com,yarlosai.com###text-2
 kanodnews.com###text-2 p ~ p
-gnewsindia.com,hindi24news.com,tnilive.com,vanakkamlondon.com###text-20
+chirantannews.in,gnewsindia.com,hindi24news.com,tnilive.com,vanakkamlondon.com###text-20
 anytechtune.com,vanakkamlondon.com###text-21
 dainiksatkhira.com,vanakkamlondon.com###text-22
 thepublicworld.com,tnilive.com###text-23
-achhisoch.com,tnilive.com,trttamilolli.com###text-24
-aapkisafalta.com,achhisoch.com,thepublicworld.com,trttamilolli.com###text-25
+achhisoch.com,apnades.in,chirantannews.in,tnilive.com,trttamilolli.com###text-24
+aapkisafalta.com,achhisoch.com,apnades.in,thepublicworld.com,trttamilolli.com###text-25
 tnilive.com###text-27
-anaicoddai.com,gvtjob.com###text-29
-aryandigitalseva.com,bdkhobor24.com,cnewsbangla.com,currentkhabar.com,dailymomenshahi.com,demokraticfront.com,indiasamachar24.com,jagprerna.com,livehalchal.com,maloutlive.com,minoritiesnews.com,moviemandu.com,nayaindia.com,odishanews365.com,orthosongbad.com,parichowk.com,punjabbaani.com,tennews.in,theneeweb.net,tnilive.com###text-3
+indianow24.com###text-28
+anaicoddai.com,fatehnagarnews.com,gvtjob.com###text-29
+aryandigitalseva.com,bdkhobor24.com,cnewsbangla.com,currentkhabar.com,dailymomenshahi.com,demokraticfront.com,indiasamachar24.com,jagprerna.com,livehalchal.com,maithilijindabaad.com,maloutlive.com,minoritiesnews.com,moviemandu.com,nayaindia.com,odishanews365.com,orthosongbad.com,parichowk.com,punjabbaani.com,tennews.in,theneeweb.net,tnilive.com###text-3
 kanodnews.com###text-3 p ~ p
 achhikhabar.com,live18h.com###text-30
-e-jaffna.com,trttamilolli.com###text-31
+e-jaffna.com,fatehnagarnews.com,satyamlive.com,trttamilolli.com###text-31
 allaiyoor.com###text-32
-anaicoddai.com###text-36
-anaicoddai.com###text-37
+satyamlive.com###text-33
+satyamlive.com###text-35
+anaicoddai.com,satyamlive.com###text-36
+anaicoddai.com,satyamlive.com###text-37
 anaicoddai.com###text-38
-ajithfans.com,aryandigitalseva.com,cnewsbangla.com,dailypunjabtimes.com,himachalvarta.com,jagprerna.com,karaihinducanada.com,moviemandu.com,orthosongbad.com,padmatimes24.com,punjabbaani.com,raftaarindianews.com,sabjanta.info,swadeshbani.com,vakeesam.com,vanakkamlondon.com###text-4
+satyamlive.com###text-39
+ajithfans.com,aryandigitalseva.com,cnewsbangla.com,dailypunjabtimes.com,himachalvarta.com,jagprerna.com,jeevanutsahnews.in,karaihinducanada.com,moviemandu.com,orthosongbad.com,padmatimes24.com,punjabbaani.com,raftaarindianews.com,sabjanta.info,swadeshbani.com,vakeesam.com,vanakkamlondon.com###text-4
 himalini.com,trttamilolli.com###text-40
 trttamilolli.com###text-42
 udaydarpan.com###text-44
@@ -4936,7 +5345,7 @@ careerintelligencebd.com###text-47
 mbmnewsnetwork.com###text-48
 udaydarpan.com###text-49
 achhikhabar.com###text-49 a
-biharpatrika.in,chandankesari.com,jagprerna.com,navsancharsamachar.com,orthosongbad.com,padmatimes24.com,punjabbaani.com,satkhira24news.com,shadhinkhobor.com,shoutmehindi.com,tamilcinemaz.com,tnilive.com,vakeesam.com###text-5
+biharpatrika.in,chandankesari.com,jagprerna.com,navsancharsamachar.com,news85.in,orthosongbad.com,padmatimes24.com,punjabbaani.com,satkhira24news.com,shadhinkhobor.com,shoutmehindi.com,tamilcinemaz.com,tnilive.com,vakeesam.com###text-5
 mbmnewsnetwork.com,recentnepal.com,udaydarpan.com###text-50
 achhikhabar.com###text-50 a
 udaydarpan.com###text-51
@@ -4945,20 +5354,22 @@ aapkisafalta.com###text-54
 anaicoddai.com,himalayapost.com###text-57
 irruppu.com###text-577
 anaicoddai.com###text-58
-banglarkonthosor.com,barisaltoday.com,bdtodays.net,dailypunjabtimes.com,jagprerna.com,medianp.com,mitanbhoomi.com,orthosongbad.com,udaipurkiran.in###text-6
+banglarkonthosor.com,barisaltoday.com,bdtodays.net,dailypunjabtimes.com,jagprerna.com,k24news.in,kalmunainet.com,lenseyenews.com,medianp.com,mitanbhoomi.com,orthosongbad.com,udaipurkiran.in###text-6
+punjabbaani.com###text-600060003
 aapkisafalta.com###text-61
 bdmetronews24.com###text-68
 bigkhabar.com###text-69
-apnades.in,barisaltoday.com,bdtodays.net,ekhansangbad.com,jagprerna.com,maithilijindabaad.com,shomoynews.com,vanakkamlondon.com###text-7
-dmoitry.com,ekhansangbad.com,globaltamilnews.net,legalvoice24.com,muslimkural.com,sambadsaradin.com,siwanbazar.com,udaipurkiran.in,vyavasthadarpan.com,westerntimesnews.in###text-8
+apnades.in,barisaltoday.com,bdtodays.net,ekhansangbad.com,indianow24.com,jagprerna.com,kalmunainet.com,lenseyenews.com,maithilijindabaad.com,shomoynews.com,vanakkamlondon.com###text-7
+dmoitry.com,ekhansangbad.com,globaltamilnews.net,jeevanutsahnews.in,legalvoice24.com,muslimkural.com,sambadsaradin.com,siwanbazar.com,udaipurkiran.in,vyavasthadarpan.com,westerntimesnews.in###text-8
 sharebazarnews.com###text-882
-himachalvarta.com,jagprerna.com,kositimes.com,muslimkural.com,porospor.com,sambadsaradin.com,shreekanchanpath.com,vaarte.com###text-9
+divyalive.com,himachalvarta.com,jagprerna.com,kositimes.com,muslimkural.com,porospor.com,sambadsaradin.com,shreekanchanpath.com,vaarte.com###text-9
 janamtv.com###text-html-widget-11
 janamtv.com###text-html-widget-12
 globalnews24x7.com,uttareralo24.com###text-html-widget-2
 bdtoday24.com###text-html-widget-25
-abhitaknewsuk.in###text-html-widget-3
+abhitaknewsuk.in,globalpunjabtv.com###text-html-widget-3
 bdtoday24.com###text-html-widget-35
+globalpunjabtv.com###text-html-widget-4
 bdtoday24.com###text-html-widget-41
 sarkarimanthan.com###text-html-widget-6
 notunerkotha.com###tie-block_1375
@@ -4979,10 +5390,12 @@ lastnewsbd.com###top-banner
 bhaskar.com###top-nav15
 vorerbangladesh.com###top-stories
 gossiplankanews.com###top1
+thamilan.lk###topbanneer
 chennairoyalcinema.com###topbanner
 janamsakshi.org###topleftAd
 janamsakshi.org###toprightAd
 mediapunjab.com###up_height img[src^="data:image"]
+crimesuspence.com###wb_element_instance35
 moviemandu.com,punjablivekhabarnama.com###wds_container1_0
 pannagam.com###webs-bin-5836d5a9170f38d57b00df0a
 pannagam.com###webs-bin-5bd3752bd8b6aa0001ca1138
@@ -4990,13 +5403,15 @@ pannagam.com###webs-bin-5bd3762dd8b6aa0001ca1164
 ejjdin.com###welcome
 breakingaajtaknews.com###widget-sidebar-0
 tv24live.com###widget-sidebar-1
-breakingaajtaknews.com###widget-sidebar-3
+sameera.co.in###widget-sidebar-2
+breakingaajtaknews.com,hakikatnews.com###widget-sidebar-3
 kewalsachtimes.com###widget_sp_image-10
 kewalsachtimes.com###widget_sp_image-11
 himalayonlinemedia.com###widget_sp_image-12
 kewalsach.com###widget_sp_image-14
-despardesweekly.co.uk###widget_sp_image-2
+despardesweekly.co.uk,sehattimes.com###widget_sp_image-2
 despardesweekly.co.uk###widget_sp_image-3
+dainikazadi.net###widget_sp_image-6
 despardesweekly.co.uk###widget_sp_image-7
 ddnews24x7.com###wonderplugincarousel-1
 gautamsandesh.com###wonderpluginslider-container-3
@@ -5010,9 +5425,11 @@ punjabiinholland.com##.AdvtRight
 janashaktinews.com##.CMAC_AdChangerWidget
 eyenews.news##.DADD
 dainiksylhet.com,surmanews24.com,weeklydesh.co.uk##.DAdd
+sylheterdak.com.bd##.DAdd img
 bdprojonmo71.com##.DAdvertisement
 ajkermymensingh.com##.DHeaderBanner
 banglanewsca.com##.Front-page-Right-Side-Ad
+preyopathok.com##.Hero-ads-banner
 khabarpahad.com##.InArtilce-AdSlot01
 lastnewsbd.com##.Photo_top_banner
 banglanewsca.com##.Single-Post-Left-Side-Ad
@@ -5023,8 +5440,9 @@ weeklynepal.com##.a-15
 keralakaumudi.com##.a-300-250
 keralakaumudi.com##.a-728-90
 gujarattimesusa.com,rajdhanidaily.com##.a-single
-business24bd.com##.a-widget
+bartabangla.com,business24bd.com##.a-widget
 gyanipandit.com##.aalb-product-carousel-unit
+abbiharnews.com##.abbih-widget
 kushtianews24.com##.above-banner
 dailybhorerkolam.com##.abv-container:not(.p-right-0)
 ekagaj.com,ekusheysangbad.com,malayalamuk.com,mazzakoonline.com,nepaljapan.com,onenewsbd.com,shomoynews.net,ujyaaloonline.com,virakesari.lk##.ad
@@ -5040,10 +5458,15 @@ vijayapatha.in##.ad-description + .widget-ad-image
 malayalamuk.com##.ad-half
 khabardabali.com##.ad-half-middle
 edainikazadi.net,edainikpurbokone.net##.ad-left-holder
-nepalsandesh.com##.ad-sec
+emalayalee.com,pravasi.com##.ad-on-header
+koshionline.com,nepalsandesh.com##.ad-sec
 esidhakura.com##.ad-sec > .widget_media_image
 alarmindia.in##.ad-slide
+news24bd.tv##.ad-ticker-right
+state7online.com##.ad-title ~ * > img:not([src*="BARON-"])
+state7online.com##.ad-title ~ img:not([src*="BARON-"])
 alorkantho24.news,saaravita.lk,uttaranews24.com##.ad1
+dainikroorkee.com##.ad2
 alorkantho24.news##.ad3
 alorkantho24.news##.ad4
 arthasarokar.com##.ad50
@@ -5056,31 +5479,34 @@ lifeglint.com##.ad_bottom_lip
 nation1voice.com##.ad_responsive
 aswamedham.com##.ad_sec
 farakdhar.com,ratopati.com##.adalyticsblock
-kdnewslive.in,khabor.com,pchelplinebd.com,rajnitiprotidin.com##.adcontainer
-ajkersylhet.com,alokitoteknaf.com,alorjatra.com,aznewsbd24.com,banglarkagoj.net,banglarsakal.com,barishalnews24.com,bibartonbd.com,borendronews.com,coxsbazartimes.com,dailyshowadesherkhobor24.com,dailysports24.com,dokhinercrime.com,gtbnews24.com,hamroeconomy.com,jagocomilla.com,kannada.news18.com,kathmandupati.com,lalsobujerkontho.com,natunbazar24.com,news18.com,newsatfirst.com,prabhatkiran.net,rangpursangbad.com,satkhiraprobaho.net,satkhiratoday.com,satkhiravision.com,shahnamabd.com,sharebiz.net,shilonbangla.com,somoyerkantha.com,somoyersangbad.com,sudinamonline.com,sunamganjersomoy.com,tazakhobor24.com,uttorersomoy.com##.add
+arthikawaj.com,kdnewslive.in,khabor.com,pchelplinebd.com,rajnitiprotidin.com##.adcontainer
+ajkersylhet.com,alokitodigantonews24.com,alokitoteknaf.com,alorjatra.com,amaderkuakata.com,aznewsbd24.com,bangla71news.com,banglarjamin24.com,banglarkagoj.net,banglarsakal.com,barishalnews24.com,bibartonbd.com,bijoysamachar.com,borendronews.com,businesshour24.com,coxsbazartimes.com,dailynagorikdabi.com,dailyshowadesherkhobor24.com,dailysports24.com,dokhinercrime.com,gnewsbd24.com,gorkhapatraonline.com,gtbnews24.com,hamroeconomy.com,jagocomilla.com,kannada.news18.com,kathmandupati.com,lalsobujerkontho.com,natunbazar24.com,news18.com,newsatfirst.com,paharkantho.com,prabhatkiran.net,rangpursangbad.com,satkhiraprobaho.net,satkhiratoday.com,satkhiravision.com,shahnamabd.com,sharebiz.net,shilonbangla.com,somoyerkantha.com,somoyersangbad.com,sudinamonline.com,sunamganjersomoy.com,tazakhobor24.com,thebarisal.com,uttorersomoy.com##.add
 newsbijoy.com##.add .textwidget > h3.title
-bholahatchitro.com##.add .widget_area > img
+bholahatchitro.com,sunbanglanews.com##.add .widget_area > img
 dailysangbadprotidin.com##.add .widget_area ~ .widget_area
-dailylalsabujer11nosectorofbd.com,shamoybarta.com##.add > .widget_area img
+ccnews24.com,dailylalsabujer11nosectorofbd.com,dailynotundiganto.com,deshtimes24.news,shamoybarta.com##.add > .widget_area img
 gnewsbd24.com##.add iframe
-doiniksokalerbarta24.com,gangnirchokh.com,meghnanews.com.bd,meherpurpress.com##.add img
+alokitoshitalakha.com,barishalsomoynews.com,bonggonews.com,crimebd.com,deshprotidin.com,doiniksokalerbarta24.com,faridpursamachar.com,gangnirchokh.com,kholahawa24.com,meghnanews.com.bd,meherpurpress.com##.add img
 protisomoy.com##.add img.image
+dainikshokalerchattogram.com##.add img:not(.wp-image-487)
 motivatenews.com.np,onlinedabali.com,ratopost.com,sancharkendra.com##.add-2
 newsatfirst.com,samadhannews.com##.add-banner
 samadhannews.com##.add-banner-s
 khobor24ghonta.com##.add-bg-02
 aajkasach.in,jaianndata.com##.add-block
 nagariknetwork.com##.add-container
+dailygazipuronline.com##.add-high
 ajkersylhet.com,sambadsaradin.com##.add-image
 slogannews.com##.add-img
 sharebarta.com##.add-imgae
 janaboli.com,khabar247.com,newsbarisal.com,rajbari.com,sheershanews.com,thepratyeknews.com##.add-inner
 u71news.com##.add-left
 dailysabuj.com##.add-longhead
-bnewskolhapur.com##.add-place
+bnewskolhapur.com,shikkhakantho.com##.add-place
 u71news.com##.add-right
 thebengalitimes.com##.add-sec
 malisamajsocial.com,nagariknetwork.com,thebengalitimes.com##.add-section
+nandighoshatv.com##.add-section-home.right
 thebengalitimes.com##.add-sectionb
 thebengalitimes.com##.add-sectionw
 gourbarta24.com##.add-slider
@@ -5092,6 +5518,7 @@ dirt-sheet.com##.add-widget
 deshkonews.com##.add-wrap
 sangbad-gallery.com##.addAd
 bharatkiawaj24.com##.addBox
+newspagebd.com##.addMidle
 dainikpurbokone.net##.addVertise
 dailynewsbd24.com##.add_01
 dailynewsbd24.com##.add_02
@@ -5100,6 +5527,7 @@ sylhetview24.net##.add_2_part
 shobshomoy.com##.add_440
 shobshomoy.com##.add_910
 onlinekhabar.com##.add__fullwidth
+gouripurnews.com##.add_add
 snn24.com##.add_after_scroller
 dainikdeshersathe.com,europemalayali.co.uk,fenirkotha.com,natuncumilla.com##.add_area
 fenitribune.com##.add_area > .textwidget
@@ -5113,55 +5541,61 @@ rosemalayalam.com##.add_img_left_new_2
 rosemalayalam.com##.add_img_mid
 europemalayali.co.uk##.add_inner_news
 narayanionline.com##.add_middle
+bslnews24.com##.add_pad_bottom
 sancharkendra.com##.addb
 onlinedabali.com##.addb > a img
 motivatenews.com.np##.addc img
-aznewsbd24.com,mediadabali.com,natunbazar24.com,shahnamabd.com##.addd
+aznewsbd24.com,barishalsomoynews.com,dailyjuboraj.com,mediadabali.com,natunbazar24.com,shahnamabd.com,songkalpo.net,uttorersomoy.com##.addd
 bangalorewaves.com##.addima
 khabarwaale.com,otvnepal.com,protikhon.com##.adds
 jubokantho.com##.adds-block
 gourbarta24.com##.adds-lg
 onlinemajdoor.com##.adds-sec
 gourbarta24.com##.adds-sm
-gandakitimes.com,otvnepal.com,swadeshnepal.com##.adds_menu
+gandakitimes.com,gokarneshworonline.com,otvnepal.com,swadeshnepal.com##.adds_menu
 otvnepal.com##.adds_rajn
 otvnepal.com##.adds_side
 gandakitimes.com##.adds_taja img
 ntnews.com##.addsn
 avikaluttarakhand.com##.addtoany_content_bottom ~ div img
 snn24.com##.addtop_header
+jugerkanthobd.com##.addtop_inner
 snn24.com##.addtop_inner img[data-filename]
 agrinewsnetwork.in##.ader_ads
 udayavani.com##.adliadworld
 hamrosandesh.com##.admana-plugin
 deshabhimani.com##.adone > div
-anusandhan24.com,arthadabali.com,canadanepal.com,chapaibarta24.com,dailymatobad.com,dainikeenews.com,ekusheysangbad.com,gournadi24.com,ideatvnews.com,indrenisamaj.com,jagran.com,jaljalakhabar.com,jnewsbd.news,laligurash.com,livegandaki.com,mediadabali.com,motivatenews.com,nepalesediaspora.com,nepalface.com,news24bd.net,newsbihani.com,onlinepana.com,onlinepatrika.com,pariwartankhabar.com,punjabstar.com,reportersnepal.com,sokalerkhobor24.com,sutranews.com,tamilan24.com##.ads
+anusandhan24.com,arthadabali.com,ashakakiran.com,canadanepal.com,chandpur24.net,chapaibarta24.com,dailymatobad.com,dainikeenews.com,ekusheysangbad.com,gokarneshworonline.com,gournadi24.com,ideatvnews.com,indrenisamaj.com,jagran.com,jaljalakhabar.com,jnewsbd.news,laligurash.com,livegandaki.com,mayurpati.com,mediadabali.com,motivatenews.com,narayanganjprotidin.com,nepalesediaspora.com,nepalface.com,news24bd.net,newsbihani.com,onlinepana.com,onlinepatrika.com,pariwartankhabar.com,punjabstar.com,reportersnepal.com,sokalerkhobor24.com,sutranews.com,tamilan24.com##.ads
 mirmireonline.com##.ads .widget_media_image:not(#media_image-53)
 gandakitimes.com##.ads aside:not(#custom_html-7)
 madawalaenews.com##.ads-big
 nepalbahas.com##.ads-conatiner
 khullamanch.com,thenepaltoday.com##.ads-container
 vijayapatha.in#@#.ads-image
+ekattorbanglanews.com##.ads-rightside
 agnijwala.com##.ads-sec
 hindi.cricketnmore.com##.ads-space
 thecgnews.com##.ads120_60-widget
 seithy.com##.ads400pxinner
 eenadu.net##.ads680-30
 epaper.lokmat.com##.ads_699
-dailyonusondhan.com##.ads_click_counter
+dailyonusondhan.com,passengervoice.net##.ads_click_counter
 janadeshexpress.in##.ads_top_disp
+himachalnownews.com##.adsen
 nepalesediaspora.com##.adsgo
 nepalpage.com##.adsimage img:not(.wp-image-143293)
 janatatimes.com##.adsimage img:not(.wp-image-63475)
+chakrapath.com,zoombangla.com##.adspace
 onlinetajakhabar.com##.adspace img
 arthasarokar.com##.adsspace
 4malayalees.com##.adsvnment
 bdrtnn.net,dainiksylhet.com,hamrakura.com,samakal.com,thuglak.com,ukeraa.com,uttamhindu.com,weeklynepal.com##.adv
 gorkhalikhabar.com##.adv-box-wrap
-orthosongbad.com##.adv-img
+orthosongbad.com,sonalinews.com##.adv-img
 drishtinews.com##.adv-item
 sunnews24x7.com##.adv-load
 khabardabali.com##.adv-margin-bottom
+barnanmedia.com##.adv__sidebar
 doolnews.com##.adv_box_3x25
 weeklynepal.com##.adv_side
 alokitomymensingh24.com##.adv_single
@@ -5172,7 +5606,7 @@ radionrn.com##.adver-mkks
 radionrn.com##.adver-rightmkks
 yugabdha.com##.adver-sec
 khabrainabhitak.org##.adver_banner
-ada.lk,manithan.com,tamilan24.com##.advert
+ada.lk,divyahimachal.com,manithan.com,tamilan24.com##.advert
 ada.lk##.advert-single
 janakhabar.com##.advert_sec1_left
 janakhabar.com##.advert_sec2
@@ -5182,8 +5616,9 @@ narayanionline.com##.advertiesment-main > a:only-child
 bikashnews.com,gorkhalikhabar.com##.advertise
 livestorytime.com##.advertise-area
 nobat.com##.advertise-ifrme
+pokharaexpress.com##.advertise-sec-header
 bonikbarta.net##.advertise_space2
-bdlive24.com,chandpur-kantho.com,dekhapadhi.com,ekushnews24.com,gujaratabroad.ca,jugantor.com,lakshmipur24.com,nepalpana.com,news71online.com,newspolar.com,onlinemajdoor.com,ournewsbd.net,prothomalo.com,shikshapratidin.com,tharunaya.com,timesofmalwa.in##.advertisement
+bdlive24.com,chandpur-kantho.com,dekhapadhi.com,ekushnews24.com,gujaratabroad.ca,jugantor.com,lakshmipur24.com,nepalawaj.com,nepalpana.com,news71online.com,newspolar.com,onlinemajdoor.com,ournewsbd.net,prothomalo.com,shamolynews24.com,shikshapratidin.com,tharunaya.com,timesofmalwa.in##.advertisement
 kanchanjanghaonline.com##.advertisement img
 bankingsansar.com##.advertisement-fullwith
 khabardabali.com##.advertisement-primary
@@ -5195,12 +5630,14 @@ divaina.com##.advertisments
 chapainews.com##.advrts
 dainiksylhet.com##.advsingle
 andhrajyothy.com##.advt-bg
+parthokko.com.bd##.advt-col
 dainiknepal.com,enepalese.com,samayapost.com##.advt_bx
 enepalese.com,samayapost.com##.advt_r
 newsplus24x7.com##.advtertise
 updatenews360.com##.aft-sticky-sidebar
 ntcnewsmedia.com##.ai-attributes
 ajakoartha.com##.ajako_artha-advertisement-series
+malabarnews.com##.alertAdd
 osnepal.com##.alignnone.size-full
 hulchalnews24.com##.alignnone.size-medium
 sansarpost.com##.allrounder-advertisement
@@ -5215,16 +5652,18 @@ omexpress.in##.at-above-post ~ p img[sizes]
 osnepal.com##.attachment-full.size-full:not(.wp-image-644950)
 hindustanvision.com##.avtg3
 dnewsnetwork.in##.awac img.image
+barnanmedia.com##.axdvertisement
 manabadi.co.in##.backg-g
-alokitoteknaf.com,aznewsbd24.com,banglanewstv.com,banglarkagoj.net,borendronews.com,coxsbazartimes.com,cplusbd.net,crimeseen24.com,dailynotunsongbad.com,dainikmymensinghpratidin.com,ektibd.com,fenitribune.com,fulbarianews24.com,gtbnews24.com,haimcharbarta.com,haorbarta24.com,kansatnews24.com,lalsobujerkontho.com,news24bd.net,newsbna.com,newspabna.com,rajshahinews24.com,satkhiratoday.com,setvnews24.com,shikkhapotrika.com,somoyerdak24.com,sylhetmail24.com,sylhetprotidin24.net##.bannar
+71barta24.com,alochitosokal.com,alokitoshitalakha.com,alokitoteknaf.com,aznewsbd24.com,bangla71news.com,banglanewstv.com,banglarkagoj.net,barishalsomoynews.com,bholatimes24.com,borendronews.com,businesshour24.com,ccnews24.com,coxsbazartimes.com,cplusbd.net,crimeseen24.com,dailynotunsongbad.com,dainikmymensinghpratidin.com,deshprotidin.com,ektibd.com,fenitribune.com,firstbdnews.net,fulbarianews24.com,gtbnews24.com,haimcharbarta.com,haorbarta24.com,kansatnews24.com,lalsobujerkontho.com,munshiganjvision.com,news24bd.net,newsbna.com,newspabna.com,rajshahinews24.com,satkhiratoday.com,setvnews24.com,shikkhapotrika.com,somoyerdak24.com,sylhetmail24.com,thebarisal.com,weeklyhajiganj.com##.bannar
 asianmetronews.com,crimeexpressbd.com,dcnepal.com,globalmalayalam.com,kanchanjanghaonline.com,khobor24ghonta.com,postpati.com,punjabmailusa.com,safalkhabar.com,tamilveedhi.com,tezsamachar.in##.banner
 alokitomymensingh24.com##.banner-ad-01
 creativenewsexpress.com##.banner-ad-bottom-single
 creativenewsexpress.com##.banner-ad-top-single
 kahalenews.com,sheikhpuranews.com##.banner-ad-wrap
 musicjoymedia.com##.banner-half
+enewsmp.com##.banner-header
 bholarbani.com,newsportals.in##.banner-img
-ambalacoverage.com,biharnewstv.in,cibindianews.com,delhiuptodate.com,dotooknews.com,filmaniaentertainment.com,himalini.com,janashaktinews.com,khabarworld.com,navpradesh.com,pularvu.com,shaktialmora.com,sorejomin.com,thefactshala.in,vishwakarmakiran.com##.banner-promotions-wrapper
+ambalacoverage.com,biharnewstv.in,cibindianews.com,cobranews24.com,delhiuptodate.com,dotooknews.com,filmaniaentertainment.com,globalhimachaltimes.com,himalini.com,janashaktinews.com,kannurvarthakal.com,khabarworld.com,livekhabar.com,navpradesh.com,odiabarta.in,pularvu.com,real4news.com,shaktialmora.com,sorejomin.com,thefactshala.in,thepressnepal.com,vishwakarmakiran.com##.banner-promotions-wrapper
 gramajyothi.com##.banner-right
 ekusheypatrika.com##.banner-section
 ekagaj.com##.banner-top:not(.first)
@@ -5243,10 +5682,11 @@ arthasarokar.com##.below-author-bigyapan
 gorkhapatraonline.com##.below-samachar-add
 filmykhabar.com##.belowslideshow
 onlinepana.com##.betn-add
-crimeexpressbd.com##.biggapon
+andhrajyothy.com##.bgg.eng
+bangla71news.com,banglarjamin24.com,crimeexpressbd.com##.biggapon
 janatapati.com##.bigyaapan
-aayomail.com##.bigyaapan-box
-baahrakhari.com##.bigyaapan-item
+aayomail.com,himalkhabar.com##.bigyaapan-box
+baahrakhari.com,himalkhabar.com##.bigyaapan-item
 eadarsha.com,everestawaj.com,safalawaj.com,safalkhabar.com##.bigyapan
 janatapati.com##.bigyapan-box
 lokaantar.com,thahakhabar.com##.bigyapan-gif-gallery
@@ -5255,24 +5695,30 @@ arthasarokar.com##.bigyapan_banner
 bizmandu.com##.biz-header-ad
 wnepal.com##.bk-rect-fullWidth-desktop-vigyapan--1 img
 sankathi24.com##.block-adverts
+pnn24.in##.block-custom-content
 sudurpress.com##.block-inline-blockad-block
 nigranee.com##.block-wrapper ~ #webbank-ad-section
 dailynewsj.online##.blog-sidebar .widget_custom_html
 bn24live.in##.bn-lg
 nirpakhawaaz.in,timetovisit.in##.bookingaff
+horizonhind.com##.borderLeftGray.col-sm-4
 bbcpunjab.com##.bot-ads
 nagariknetwork.com##.box-news-ad
+yugabdha.com##.box-sec-bg .slider
 ethiri.com##.brand_wrapper .tagline
 mathrubhumi.com##.branding_logo
 seithy.com##.briefNewsAd
+patnalive.co.in##.bs-listing-single-tab + .bs-listing-listing-grid-1
 budaunamarprabhat.com##.bs-vc-block .wonderpluginslider-container
+zoombangla.com##.bsac-link
 everestdainik.com##.bstyle-list ~ .post
-kaimurlive.com##.bwg_container
+cgjanadesh.com,kaimurlive.com##.bwg_container
+cgjanadesh.com##.bwp_gallery_slideshow
+himachalnownews.com##.c_ad
+malayalamtodayonline.com##.carousel
 rajtantra.com##.category-covid19_corona .pf-content figure.wp-block-image:first-child
 doshdik.com##.category_ad_space
 nepaljapan.com##.category_ads_3_cols
-arthosuchak.com##.category_c_ad
-arthosuchak.com##.category_e_ad
 unfoldbangla.com##.category_side
 makalukhabar.com##.cdbofrqam
 chandrikadaily.qa##.chand-before-content_5
@@ -5280,19 +5726,25 @@ chandrikadaily.qa##.chand-widget
 tamilmithran.com##.cine_ad
 madhyamam.com##.clock-container
 tamil.oneindia.com##.cmscontent-top
-gujaratexclusive.in,lankamurasu.com,mbmnewsnetwork.com,mediavisionnews.in##.code-block
+livetvkerala.com##.cntarea img
+chandaulisamachar.com,gujaratexclusive.in,lankamurasu.com,mbmnewsnetwork.com,mediavisionnews.in##.code-block
 samajbad.tv##.code-block > img
 media24news.in##.code-block img
 newstodaynetwork.com,theexclusivestory.com##.code-block-1
 kahalenews.com,thebiharnews.com##.code-block-3
+ideaciti.com##.code-block-4
 lankasudar.com,thebiharnews.com##.code-block-6
 bankingkhabar.com##.codeneric_uam_link
 tezsamachar.in##.col-lg-4 .gdgallery-gallery-container
 channelrb.com##.col-md-3 .master-slider
+banglanewstv.com##.col-md-3 .widget_text.widget_area + .widget_area
 janatasamachar.com##.col-md-3 section.widget > a:only-child
 newsbijoy.com##.col-md-8 .add .textwidget
-3pm.in,kathir.news,manoranjannama.com##.colombiatracked
+odishareporter.in##.colombia
+uttarakhandpost.com##.colombiaonesuccess a:not(:only-child)
+3pm.in,cinereporters.com,janprahar.com,kathir.news,manoranjannama.com,uttarakhandpost.com##.colombiatracked
 sajhapost.com##.commercial-add
+sharebazarnews.com##.company-ads
 samayapost.com##.cont_break_ads
 news24delhi.com##.container .container #page-sidebar
 reportersnepal.com##.container .pt-3 section
@@ -5301,14 +5753,17 @@ bikashnews.com##.containerhome a[target="_blank"] img:only-child
 teluguwishesh.com##.content-holder-tvshowvaluevision
 teluguwishesh.com##.content-holder-valueparma
 teluguwishesh.com##.content-holder-valuevision
-dthreeonline.com,nagarikbahas.com##.content-middle-ads
+dthreeonline.com,googlepokhara.com,nagarikbahas.com##.content-middle-ads
 thecgnews.com##.content-wrap .e3lan-post
+bhilwarasamwad.com##.content_top:first-child .latest_slider
 pratyeknewslive.com##.counter--section
 shoutmehindi.com##.coupon_dealtop
 roorkeehub.com##.custom-banners-cycle-slideshow
 khonjkhobor.in##.custom-group-ads
 teluguwirals.com##.custom-header
+arthosuchak.com##.custom-html-widget a:not([href*="arthosuchak.com"])
 gtamilnews.com##.custom-html-widget iframe
+divyahimachal.com##.customad
 deshabhimani.com##.db-scnAd2
 kholakagojbd.com,poriborton.com##.desktop-ad-nilsagor
 baahrakhari.com##.detail-bigyapan
@@ -5316,7 +5771,7 @@ ekusheysangbad.com##.details-big-banner
 ekusheysangbad.com##.details-page-side-banner
 dhakanewsexpress.com##.dhaka-content
 nethgossip.lk##.display-lap
-biniyougbarta.com##.divAdvertisement
+biniyogbarta.com,biniyougbarta.com##.divAdvertisement
 ukmalayalampathram.com##.div_ad_rgt
 kannadaprabha.com##.div_main_right_banner_other
 prajavani.net##.dk_only
@@ -5325,11 +5780,11 @@ doolnews.com##.dool-ad
 drishtinews.com##.drishti-inner-ads
 manabadi.co.in##.dsc-banners
 doshdik.com##.duble_advertisement
-dailysamvad.com,ghazipurkhabar.co.in,greenbanglanews.com,jamunanewsbd.com,jansaamna.com,kasaragod.com,parbatyachattagram.com,punjabnewslive.co.in,purvanchalnews.com,sarkarimanthan.com,thelastpagenews.com##.e3lan
+belagavisuddi.com,dailysamvad.com,ghazipurkhabar.co.in,greenbanglanews.com,jagatbhumi.com,jamunanewsbd.com,jansaamna.com,kasaragod.com,news85.in,parbatyachattagram.com,punjabnewslive.co.in,purvanchalnews.com,sarkarimanthan.com,thelastpagenews.com##.e3lan
 gvtjob.com,news127.com,yarlosai.com##.e3lan-below_header
 deshersangbad.com,news127.com,patrikajagat.com,shriramjankitimes.com##.e3lan-bottom
 deshersangbad.com,news127.com##.e3lan-post
-ceylonradio.co.uk,deshersangbad.com,laxminews24x7.com,news127.com,thecgnews.com##.e3lan-top
+ceylonradio.co.uk,chandpurtimes.com,deshersangbad.com,indiaupdate.co.in,laxminews24x7.com,news127.com,thecgnews.com##.e3lan-top
 uluberiasambad.in##.eaa-ad
 uukmanews.com##.each-side-ads > a
 tamilwin.com##.eds-box
@@ -5341,24 +5796,31 @@ himalipatrika.com.np##.elementor-image
 newsportals.in##.elementor-image > a[href="#"] img
 delhicrimepress.com##.elementor-image-carousel-wrapper
 khabardarinews.com,sitakundabarta.com##.elementor-widget-image
+namasteandhra.com##.elementor-widget-image img:not([srcset])
 24webnews.com,muznews.online##.elementor-widget-image-carousel
 24webnews.com##.elementor-widget-slides
 himalipatrika.com.np##.elementor-widget-text-editor
-keralaonlinenews.com##.elementor-widget-wp-widget-advads_ad_widget
+abbiharnews.com,keralaonlinenews.com##.elementor-widget-wp-widget-advads_ad_widget
 metrovaartha.com##.embed-responsive-16by9
 kannurmetroonline.com##.embed-responsive-4by3
 kamuktastories.com##.enhanced-text-widget
+jagatbhumi.com##.entry img
 dainiknayak.com##.entry img.alignnone
 bdbarrta24.com,orthosongbad.com##.entry-ads-top
 malayalamemagazine.com##.entry-banner
 newswings.online##.entry-content .alignnone:only-child
+punjabbaani.com##.entry-content .stream-item
 prabhatvaibhav.com##.entry-content > div > img
+abbiharnews.com##.entry-content > figure.wp-block-image
 emaatimes.com,jangathatimes.com##.entry-content > p img
 duniyasamachar.com##.entry-content a img
+dailysatnadee.com##.entry-content div[data-adid]
 channelrb.com##.entry-content figure img[width="600"]
-kannurnewsonline.com##.entry-content figure.wp-block-image
+abbiharnews.com##.entry-content figure.is-resized
+ekattorbanglanews.com,kannurnewsonline.com,koyilandydiary.com##.entry-content figure.wp-block-image
 news1hindustan.com##.entry-content iframe
 dainiknayak.com,khabardekho.com,newsportals.in##.entry-content img
+theeditors.net##.entry-content p img
 newskadaba.com##.entry-content p img:only-child
 chhapratoday.com##.entry-the-content img.aligncenter.size-full
 chhapratoday.com##.entry-the-content img.alignnone.size-full
@@ -5368,12 +5830,12 @@ himalayapost.com##.et-waypoint
 himalayapost.com##.et_pb_code_8
 tandavnews.com##.euvradxs
 chauthiduniya.com##.evo-header-banner
+khabarexpert.in##.ewic-slider
 parichaya.com##.exv-image
 channelionline.com##.eyli
 lankasri.com##.f-single
 onnodristy.com##.facebook_title + .video
 bbc24news.com##.featad
-arthosuchak.com##.feature_area_lead_news_ad
 pchelpcenterbd.com##.featured-post-ads
 sudurpress.com##.field--name-field-ad-image
 nagariknetwork.com##.first-add
@@ -5385,10 +5847,12 @@ sahilonline.net##.flexslider-eid
 thefollowup.in##.flip-box img
 donetbd.com##.floating_ad_single
 telegramnews24.com##.fluid-width-video-wrapper
+narmadanchal.com##.fn-widget-image
 wishmaya.com##.footer-add
 mymensinghnews.com##.footer-addds
 goodmorningindia.net,rkexpose.com##.footer-adv
 news127.com##.footer-bottom
+odishatime.com##.footer-sidebar .widget_media_image
 gionews.in##.footer-widget .widget_media_image
 vorerbangladesh.com##.footer-widgets aside.widget_text
 raisingvoice.com##.footer-widgets-area section.widget_media_image
@@ -5413,27 +5877,33 @@ hotnewsindia.com##.fullwidthbanner-container
 ctgpratidin.com##.fxozitmah
 trttamilolli.com##.galboxcontainer
 dainikdeshersathe.com##.gallery_section
-dcnepal.com,merofilm.com##.gam-ad-position-wrap
+dcnepal.com,merofilm.com,nepalpress.com##.gam-ad-position-wrap
+nepalpress.com##.gam-each-ad
 sithmalyaya.com##.gear-best
-joynewsbd.com,rajdhanidaily.com##.gofollow
+joynewsbd.com,ourbiratnagar.net,rajdhanidaily.com##.gofollow
 natunsomoy.net##.google-ads-banner
 paristamil.com##.group1
 paristamil.com##.group2
 paristamil.com##.group3
 bdbarrta24.com,orthosongbad.com##.h_ads
+haldwanilive.com##.haldw-content
 myfirstshow.com##.hb-img
+dailysports24.com##.head-banner
 alokitosonargaon.com##.head_bottom_add
+mbpratidin.com##.header .mom-e3lanat
 newsdnntv.com##.header--ad
 corporatesangbad.com##.header-add
 bnewskolhapur.com##.header-add-place
 chhattisgarhvaibhav.com,dainikpana.com,hindi24news.com,indore-samachar.in,makkalkural.net,malayalees.ch,news1hindustan.com,omexpress.in##.header-ads-wrapper
 alokitoshitalakha.com,thepublicworld.com##.header-advertise
 bengaluruvartha.in,doabatimes.com,gujaratmirror.in##.header-ainfo
-anbnews24.com,anewsoffice.com,biharnews7.com,ekuruvi.com,onlinespardha.com##.header-banner
+anbnews24.com,anewsoffice.com,biharnews7.com,ekuruvi.com,odishatime.com,onlinespardha.com##.header-banner
 ratopati.com##.header-blocks-aspace
 purvanchalpost.com##.header-image-wrap
 budaunamarprabhat.com##.header-inner #sidebar
 digitalbharatnews.in##.header-inner .sidebar-col
+firstbihar.com##.header-middle-area
+jandarshannews.com##.header-nav-main.nav-right
 chattogramersomoy.com,malayalamnewstimes.com##.header-right
 tv24live.com##.header-right-adv
 manoramaonline.com##.header-sponser-left
@@ -5447,6 +5917,7 @@ updatenews360.com##.header_ads_slide
 newstaglive.com##.header_adver
 natunjug.com##.header_biggapon
 univarta.com##.header_bottom_ad
+bhilwarasamwad.com,nagarprabha.org##.header_bottom_right
 fenirkotha.com,natuncumilla.com##.header_date_sidebar
 banglanewsca.com##.header_top_ad_area_2
 fenirkotha.com##.header_top_banner
@@ -5454,19 +5925,23 @@ telugumirchi.com##.headerad2
 shirurtaluka.com##.headeradvt
 nepaljapan.com##.headline_below_ad
 indiasamachar24.com##.herald-sidebar .widget_metaslider_widget
+himachalmedia.co##.himac-widget
 himalayapost.com##.himal-content_3
 mediasaheb.com##.hm-header-sidebar
 setoshikhar.com##.hmxbiekzq
 bangla-news24.com##.home-e3lan
 dabangmedia.com##.home-gallery.photo-gallery
 tamiltradepost.com##.home-mid-banner
+sharebazarnews.com##.home-page-ads a:not([href*="sharebazarnews.com"])
 chttoday.com##.home-page-top-right-add
 tamilcnnlk.com##.home-section-ad
+biniyogbarta.com##.home-sidebar-banner
 muhurtham.com##.home-small-ad
 sylhettoday24.news##.home_add
-news71online.com##.home_last_ad
+news71online.com,shamolynews24.com##.home_last_ad
 newsbangla24.com##.home_popup
 pressbarta.com##.home_right_ads
+shamolynews24.com##.home_widget
 dinakaran.com##.homead300le10
 doolnews.com##.horiz_adv_area
 nepalcanadanews.com##.horizental-ad-image
@@ -5476,8 +5951,10 @@ tips4blog.com##.hot_rwc_ads
 daijiworld.com##.hpRightAdvt
 knrchannel.com##.hr_ad_block
 thereport24.com##.idlc
+bhilwarahalchal.com##.image-post-slider
 samacharplus.com##.img-add
 neervely.ca##.img-ads > li > img
+cgmitan.com##.img-fluid.advt-right-img:not([src*="IMG_20201006_082333"])
 rosemalayalam.com##.img_1_logo
 rosemalayalam.com##.img_2_logo
 pratyeknews.com##.imgad1
@@ -5491,32 +5968,39 @@ ratopati.com##.inline_disp
 mannarkkadlive.com##.inner-add
 nepalpati.com##.inner-page-ful-ad-btm
 malabarflash.com##.inner-post-ads
+laxminews24x7.com##.inner-wrapper .e3lan-below_header
 globalmalayalam.com##.innerAdColum
 bikashnews.com##.innercontainer a[target="_blank"] img
 innews16.com##.innew-before-content
 innews16.com##.innew-widget
+sathyamonline.com##.inven-before-content_6
 emalayalee.com##.item1
 emalayalee.com##.item3
 emalayalee.com##.item4
 dainikjharkhand.com##.ixnf
 sankalpsavera.com##.jeg-vc-wrapper iframe
+jonopodsangbad.com##.jonop-content
 kakakhabarilaal.com##.kakak-after-content
 karobardaily.com##.kd-ad-horizontal
 khabardabali.com##.kdb-topAdd
 keralaonlinenews.com##.keral-widget
 khabarhub.com##.khabarhub-inner-ads
+khulasanewslive.in##.khulasanewslivewidget
+koyilandydiary.com##.koyil-widget
 sabaikosamachar.com##.kp-header-logo--section .d-sm-block
 sabaikosamachar.com##.kp-rect-desktop-vigyapan--1
 sabaikosamachar.com##.kp-rect-fullWidth-desktop-vigyapan--1
+malayalamexpress.in##.kptcae-pubadban
 kannurnewsonline.com##.ktmjq
 lagatar.in##.lagat-between-content
 dhenkanalupdate.com##.laneqsopxy-loc-block-ad
 prakashkhabar.com##.last_ads
 lastnewsbd.com##.lastnews_add_1
+punjabenews.com##.latest_post > img
 mewartimes.com##.latest_postnav
-arthosuchak.com##.lead-after
 jayhosh.com##.leaderboard-wrapper
 setvnews24.com##.leadnews .widget_area
+sharebazarnews.com##.lef-sidebar-ads
 thebengalitimes.com##.lefr-box
 tnilive.com##.lefta
 lekalionline.com##.lekali_online_adv
@@ -5525,9 +6009,12 @@ nepaldubai.com##.logo-ads
 nepaldubai.com##.logo-ads-header
 nepaldubai.com##.logo-ads-singlepage
 radionrn.com##.logo-adverimg
-vtv24x7.com##.logo-right-wrapper
+sylhetprotidin24.net##.logo-banner .pull-right
+bcsuddi.com,vtv24x7.com##.logo-right-wrapper
 metrovaartha.com##.logoBgAd
 dhunkhabar.com##.logo__ads
+weeklydesh.co.uk##.logoright
+palikanews.com##.long-ad
 ebrightnepal.com,filmyfanda.com,sudurpatra.com##.long-ads
 khabardabali.com##.long-vertical-ad
 nationalpowernews.com##.long_ads1
@@ -5538,13 +6025,18 @@ beautynewsnepal.com##.lwig
 dhadingupdate.com##.main-1
 newsfirst.lk##.main-ad-half
 hkgnews247.com##.main-and-sidebar .Image
+ajbangla.com##.main-banner
 policevarthe.com##.main-bg .carousel
 punjabiakhbaar.ca##.main-content .stream-item
+sharebazarnews.com##.main-header-ads
+subhechhanews.com##.main-headera .advertise
 samudrapari.com##.main-news-ads
-bastarkiaawaz.com##.main-sidebar .widget_media_image
+bastarkiaawaz.com,colombotoday.com##.main-sidebar .widget_media_image
 reporterseye.com##.main-sidebar > .widget_text:not(:last-child)
 jaianndata.com##.main-tp-adds
+digitalkhabar.com##.main-wrap div[data-adid]
 vijaykarnatakaepaper.com##.mainEpaperR1R2 ~ div
+hindustanvision.com##.main_header .ws_images
 gnewsbd24.com##.mainada
 fastnewsbd.com##.mainadvert
 fastnewsbd.com##.mainadvert2
@@ -5552,10 +6044,13 @@ fastnewsbd.com##.mainadvert3
 fastnewsbd.com##.mainadvert6
 fastnewsbd.com##.mainadvert7
 fastnewsbd.com##.mainadvert8
+malabarnews.com##.malab-article-top-ads
+malabarnews.com##.malab-home-page-sidebar-2
 gnewsbd24.com##.maniio
 cninews24.com##.map
 ideatvnews.com##.marquee-ads
 ayushindianews.com,hpnewsatl.com,khabarpahad.com##.master-slider
+newsspecial.in##.master-slider-main-widget
 divyamarathi.bhaskar.com##.mb_ads_title
 thamilan.lk##.mbs
 bikashnews.com##.menu_ad
@@ -5563,7 +6058,9 @@ bikashnews.com##.menu_ad + hr
 bankingkhabar.com##.meroads
 lalitpurfastnews.com,satwadhara.news,swatantraawam.in##.metaslider
 glimeindianews.in##.metaslider:not(.metaslider-45160):not(.metaslider-41291)
+newskadaba.com##.mh-header-widget-2
 punjabtimesusa.com##.mh-widget-col-1 .widget_media_image
+newsdeskkannada.com##.mid-adv .row
 ekuruvi.com##.mid-had
 clickmandu.com##.mid_box
 tips4blog.com##.mid_rwc_ads
@@ -5573,33 +6070,38 @@ upantaodisha.com##.middle-aside section.widget_media_image
 samudrapari.com##.middle-block-ads .widget_sp_advertisement_1
 rosemalayalam.com##.middle_add_image_top
 pradeshdainik.com##.min-global-adv
-bigtvnews.com,ptbnews.in,sharpbharat.com,smacharaajtak.com##.ml-slider
+bigtvnews.com,merabharatnews.com,npg.news,ptbnews.in,samacharsach.com,sharpbharat.com,smacharaajtak.com,ujjwalhimachal.com##.ml-slider
 manoramaonline.com##.mm-other-ad
 prajavani.net##.mob_only
 news13.in##.mobadv-4
-kathmandupati.com##.modal-backdrop
+bhilwarahalchal.com,kathmandupati.com##.modal-backdrop
 jagratilahar.com##.modal-body
 banglasangbad24.com,suryakhabar.com##.mom-e3lan
 everesttimes.net,newswings.online,pclive7.com##.mom-e3lanat
-24newspress.com,48bangla.tv,bn24live.in,bornamelanews24.com,vishalindia.in##.mom-e3lanat-wrap
+24newspress.com,48bangla.tv,bn24live.in,bornamelanews24.com,mukhpatra.in,vishalindia.in##.mom-e3lanat-wrap
 janatarishtehaar.com##.mom_box_sc
 chattogramersomoy.com##.mom_e3lan-empty
 malayalamnewstimes.com##.momizat-video
+malayalamexpress.in##.mtk-pubadban
 amanpath.in,thepublicnews.live##.mvp-flex-ad
 abnews24.com,odhikar.news,ppbd.news##.myAdBox
 somoynews.tv##.mySlideBox
-sindhudurglive.com##.mySlides
+sindhudurglive.com,youngvarta.com##.mySlides
 lastnewsbd.com##.myadd
+news13.in##.n13_adv
 news13.in##.n13_home_adv4
+news13.in##.n13_home_adv5
 ausamachar.com,bordernewsmirror.com,canadauthayan.ca,mahadbd.com,newstodaynetwork.com,zamania.in##.n2-section-smartslider
 khabreapki.com,shaktialmora.com##.n2-ss-slider
-celluloidonline.com,chhattisgarhcrimes.in,kannurvarthakal.in,khabardarinews.com,kilinochchinews.com,odiannews.com,prajawani.in,punjabiakhbar.com,sbharatnews.com##.navbar-ad-section
+celluloidonline.com,chhattisgarhcrimes.in,dainiktimes.co.in,kannurvarthakal.in,khabardarinews.com,kilinochchinews.com,mediapoint24.com,odiannews.com,prajawani.in,punjabiakhbar.com,sbharatnews.com##.navbar-ad-section
 daijiworld.com##.navbar-static-top a[target="new"]
 nepalijanta.com##.nepalijanta-ad
 sudinamonline.com##.news-addheight
+gorkhapatraonline.com##.news-inline-add
 sansarnews.com##.news-style-six-ads
+bangla24x7.news##.news247_ads_banner_widget
 prothomalo.com##.news_inner_spcl_ad
-biswabanglanews.com,currentpoltics.in,dnewsnetwork.in,mirrorlive24.com,nayabihar.com,upantaodisha.com##.news_portal_ads_banner
+atnbanglaonline.tv,biswabanglanews.com,currentpoltics.in,dnewsnetwork.in,janadeshnews.in,mirrorlive24.com,nayabihar.com,trendnew.in,upantaodisha.com##.news_portal_ads_banner
 newsbindass.com##.newsb-adlabel
 kushiyaranews.com##.newspack_global_ad
 bishwanathbd24.com##.newspaper-advertisement
@@ -5610,6 +6112,7 @@ narayanionline.com##.no-vigyapan-section
 narayanionline.com##.no-vigyapan-single
 currentpoltics.in,dailysharebazarprotidin.com,dainikayodhyatimes.in,dnewsnetwork.in##.np-header-ads-area
 dnewsnetwork.in##.np-home-bottom-section
+up18news.com##.np-home-bottom-section .news_portal_ads_banner
 sathyamonline.com##.nsads
 shreekanchanpath.com,swadeshbani.com##.nv-header-ads-area
 patrikai.com##.oad
@@ -5622,12 +6125,13 @@ newsbrahmanbaria.com##.oit-ad-code
 onlinekhabar.com##.okam-each-ad
 ournewsbd.net##.onads
 himalayapost.com##.otw-sidebar a[target="_new"] img:only-child
-nawidunia.com##.owl-carousel
+24x7cg.com,firstbihar.com,nawidunia.com##.owl-carousel
 shirurtaluka.com##.pageadvt
 breakingtube.com,hindlives.com,kheldhaba.com,lankasudar.com,newsallbangladesh.com,upayuktha.com##.penci-banner-box
 startalkbd.com##.penci_single_ad_after_content
 rajtantra.com##.pf-content div.wp-block-image:not(:first-child)
 jugantor.com##.pg-ad
+tupaki.com##.piller_main
 prajavani.net##.pj-ad-card
 bonikbarta.net##.popupCloseButton
 abnews24.com,rtvonline.com##.popup_blackoverlay
@@ -5637,6 +6141,7 @@ jaljalakhabar.com##.post aside.widget_media_image
 narayanionline.com##.post-advertiesment
 nayasabera.com##.post-body .tr-caption-container
 agraleaks.com##.post-content > figure > img:only-child
+khasokhas.com##.post-entry .code-block
 ghatanarabichar.com##.post-entry header section.widget
 purvanchal24.com##.post-footer [trbidi]
 sonalibanglanews.com##.post-inner .code-block img
@@ -5644,10 +6149,10 @@ mannarkkadlive.com##.post-inner-image
 shirurtaluka.com##.post-item-description p  a strong
 shirurtaluka.com##.post-item-description p img
 telugutimes.net##.post-sidebar-area
-hindikhabarwaala.com##.post-text img
+hindikhabarwaala.com,sylhetprotidin24.net##.post-text img
 todaysheoharnews.com,varchasvnews.com,viznews.in##.prachar
 pchelpcenterbd.com##.pragads
-keralatimes.com##.prettyphoto
+keralatimes.com,paathok.news##.prettyphoto
 bankbimaarthonity.com##.printOff
 onlinenews7.com##.proad
 kdnewslive.in##.progressContainer
@@ -5660,8 +6165,11 @@ publictv.in##.pt-adv
 pagetamil.com##.pum-content
 purvanchalpost.com##.purva-widget
 ap7am.com##.pvt-ads-column
+pangighatidanikapatrika.in##.quads-highlight-adblocked
 rajnitiprotidin.com##.qvzk
+madhyamam.com##.ramdan-ad-wrapper
 nepalipatra.com##.rd-ads
+jhilko.com##.rd-ads img:not(.wp-image-2735)
 anytechtune.com##.reseller-add
 pakwangali.in##.right-add
 adnlive24.com##.right_adbox iframe
@@ -5675,6 +6183,7 @@ deshprotikhon.com##.rishtside_img
 bizmandu.com##.roadblock
 ns7.tv##.roadblockpopup
 nepalpati.com##.rojgar-img-blk
+amarbarishal24.com##.row + .single_side_bar
 sathyamonline.com##.sAds
 theindianstate.in##.sb-banner
 nepalsamaya.com##.sb-bigyaapan
@@ -5688,9 +6197,10 @@ banglatelegraph.com##.sentbe-top
 gulfmalayaly.com##.sep
 agraleaks.com,raigadtimes.co.in##.sgpb-popup-dialog-main-div-wrapper
 agraleaks.com,onlinemajdoor.com,raigadtimes.co.in,vakeesam.com##.sgpb-popup-overlay
-arthosuchak.com##.share_market_ad1
 newsmoments.in##.side-300x100
 newsmoments.in##.side-300x250
+sagarmatha.tv##.side-adv
+gayanews.in##.side-bar > .widget:nth-child(2)
 ayodhyasamachar.com##.side-bar center > embed
 ekuruvi.com##.side-bar-big-ads
 baahrakhari.com##.side-bigyaapan
@@ -5702,8 +6212,13 @@ onlinekhabar.com##.side__add
 motivatenews.com.np,sancharkendra.com##.sidea
 cknewsgroup.ca##.sideadholder
 urjanchaltiger.in##.sideads-sec
+dailyjuboraj.com##.sidebar .s-widget img[src*="_n-"]
+pokharasports.com##.sidebar .stream-item-widget
+bhartianews.com##.sidebar .stream-item-widget:not(#stream-item-widget-18)
 24upnews.com,buxarpatrika.com##.sidebar .widget.Image
 barlekhanews24.com##.sidebar .widget_black_studio_tinymce
+bartabangla.com##.sidebar .widget_custom_html
+aviralsamachar.com,newsnow24.com##.sidebar .widget_media_image
 chandankesari.com##.sidebar .widget_media_image:not(#media_image-8)
 hotnewsindia.com##.sidebar > .widget_custom_html
 yuvabrigade.net##.sidebar > .widget_media_image
@@ -5718,7 +6233,7 @@ sanjevani.com##.sidebar-right > .widget_text > h5
 mahadbd.com##.sidebar-widget-wrapper > aside.widget_media_image
 sajhapost.com##.sidebarAd-new
 ambalanews24.com##.sidebarVoteAd
-arthosuchak.com##.sidebar_google_ad
+himachalcrimenews.blogspot.com##.sidebar_top_wrapper
 mznnews.com##.sidebars-area
 manithan.com##.siderbar-eds
 himalayonlinemedia.com##.simple-image
@@ -5726,34 +6241,44 @@ channelcox.com##.single-ditails + .add .widget_area
 orthosongbad.com##.single-left-col
 nepaljapan.com##.single-news-ad
 beanibazarnews24.com##.single-news-widget > img.size-full
+ktmdainik.com##.single-post aside.widget_media_image
 haryananewsonline.com##.single-post-content > p img:only-child
 ghazipuraajkal.com##.single-post-content img.alignnone
 sansarnews.com##.single-sidebar-ads
+sawalnepal.com##.single-up img
 ctgtimes.com##.single_ads_top
 snn24.com##.single_after_ad
 snn24.com##.single_before_ad
 banglanewstv.com##.single_details .widget_area
+nagarprabha.org##.single_featured_slide
 somoyersangbad.com##.single_page > .widget_area
+songkalpo.net##.single_page_ad
 ayodhyasamachar.com##.singlepage center > embed
-janatakoaawaj.com,nagarikbahas.com,samabesionline.com##.site-header-ads
+uttareralo24.com##.singlepage-section .add
+khulasanewslive.in##.site-footer .featured-stories
+googlepokhara.com,janatakoaawaj.com,nagarikbahas.com,samabesionline.com##.site-header-ads
 sanjevani.com##.site-header-banner
 ajkersylhet.com##.siteber-add-section
 tibrakhabar.com##.siteorigin-widget-tinymce
 sancharkendra.com##.skada
 sancharkendra.com##.skadd
+onlinedabali.com##.skpa
 dainik4media.com##.slick-slide
 jagratilahar.com##.slider img:not([src*="1595764637"])
 newsbritant.com##.slider-ad1
-dhenkanalupdate.com,jalauntimes.com,newsoneindia.com,newstodayjharkhand.com##.slider-pro
+dhenkanalupdate.com,frontline24.com,jalauntimes.com,newsoneindia.com,newstodayjharkhand.com##.slider-pro
 avnpost.com##.slider-section
-bhilwarahalchal.com##.slider2
+bhilwarahalchal.com,samajkihalchal.com##.slider2
 digitalnewslive.com##.slider_2
 digitalnewslive.com##.slider_3
 rewanewsmedia.com##.slideshow-container
 mediadabali.com##.sm-ads
+rashtranayaknews.com##.small-adv
 reportersnepal.com##.small-arthik-widget
+agaminews.com##.small-banner-2
 sonalinews.com##.small-side-banner-wrapper
 nittaa.com##.smashwords-widget
+dinajpurnews24.com##.software
 cglivenews.co.in##.soliloquy-container
 kaumudiplus.com##.sp-ad-row
 alorkantho24.news##.spad
@@ -5772,57 +6297,77 @@ keralanewshunt.com##.st-banner
 tedmnews.com##.stay-connected-ads
 khabardekho.com,khabarwarrior.com##.sticky-sidebar .widget_media_image
 khabardarinews.com##.sticky-sidebar > section.widget_media_image
-satyagrahnews.in##.sticky-sidebar section.widget_media_image
+punjabiakhbar.com,satyagrahnews.in##.sticky-sidebar section.widget_media_image
 doolnews.com##.story-ad250
 bankura24x7.com##.story_content > .image-and-caption-wrapper
-cinenxt.com,gandakivoice.com,jugasankha.in,liveupweb.com,navakeralanews.com,pokharanews.com##.stream-item
+cinenxt.com,gandakivoice.com,jugasankha.in,liveupweb.com,mitanbhoomi.com,navakeralanews.com,pokharanews.com,pokharasports.com,ujjawalprabhat.com##.stream-item
+pangighatidanikapatrika.in##.stream-item stream-item-above-footer
 prabhatvaibhav.com,tazakhabar36garh.com##.stream-item-above-header
 gnebangla.in,jaunpur24.com,mitanbhoomi.com##.stream-item-above-post
-khabarbihar.in##.stream-item-above-post-content
+khabarbihar.in,pangighatidanikapatrika.in##.stream-item-above-post-content
 abhitaknewsuk.in,gnebangla.in,postpatrika.com##.stream-item-below-header
 jaunpur24.com##.stream-item-below-post
-abhitaknewsuk.in,azkersylhet.com,banglapostbd.com,hapurhulchul.com,jaunpur24.com,mitanbhoomi.com,pahar24.com##.stream-item-below-post-content
-bankalive.net##.stream-item-inline-post
-eastcoastdaily.com,natunbarta.com##.stream-item-mag
-tamilveedhi.com##.stream-item-top
+abhitaknewsuk.in,azkersylhet.com,banglapostbd.com,hapurhulchul.com,himachalnewsdaily.com,jaunpur24.com,mitanbhoomi.com,pahar24.com##.stream-item-below-post-content
+amritvichar.com,bankalive.net##.stream-item-inline-post
+amritvichar.com,eastcoastdaily.com,natunbarta.com##.stream-item-mag
+bhartianews.com,news20live.com,tamilveedhi.com##.stream-item-top
 jagatbhumi.com,natunbarta.com,newschutney.com,pahar24.com,thetadkanews.com##.stream-item-top-wrapper
-keralabhooshanam.com,natunbarta.com,punjabiakhbaar.ca,thetadkanews.com##.stream-item-widget
+keralabhooshanam.com,natunbarta.com,punjabbaani.com,punjabiakhbaar.ca,thetadkanews.com,vaanishreenews.com##.stream-item-widget
 abhitaknewsuk.in##.stream-item-widget-content
 voiceofjhabua.com##.stream-title
+youthmukam.com##.su-image-carousel
 awajnews.com##.supsystic-slider-wrapper
 ibctamil.com##.t-eds
 adhunikdaur.com##.tab_265top_left
+xxx-indian-porn.com##.tac
+onlinedabali.com##.tadd
 otvnepal.com##.taja-adds
 tamiltradepost.com##.tamil-widget
 nepaljapan.com##.taza_ad
-ajkerarban.com,aloron71.com,anmnews.in,avadhtimes.net,bdindianews.in,bilaspurlive.com,cinemapressclub.com,corporatebarta.com,cplusbd.net,crimecontrolnews.com,ekattorer-kotha.com,goodmorningnews.in,hamariawaz.in,himachalplus.com,himwantpradeshnews.com,karavaldaily.com,khabarexclusive24.com,kochivattom.com,kohramlive.com,lawyerteluguweekly.com,lokjantoday.com,mahendranagarpost.com,manobshongbad.com,marudharbulletin.in,matopath.com,moviemirchi24.com,muhimmathonline.com,nationone.tv,newsics.com,newsncr.in,newstodaynetwork.com,pardaphashnews.live,prabhattimes.com,prahaarkonkan.com,pudhuvaioli.com,punjabinewsonline.com,raibaaruttarakhand.com,raigarhnews24.in,samayviews.com,saurashtrakranti.com,techvision24.com,theappealnews.com,thepunchlineexpose.com,thestellarnews.com,touringtalkies.co,vidarbhaapla.com##.td-a-rec
+24ghonta.news,agrabharat.in,ajkerarban.com,aloron71.com,anmnews.in,avadhtimes.net,bdindianews.in,bhojpurilive.com,bilaspurlive.com,bmnews24.net,brajeshkibaat.com,cinemapressclub.com,corporatebarta.com,cplusbd.net,crimecontrolnews.com,dainiksamvad.in,dtw24news.in,durjoybangla.com,ejalakam.com,ekattorer-kotha.com,frontline24.com,goodmorningnews.in,haldwanilive.com,hamariawaz.in,himachalplus.com,himwantpradeshnews.com,innuonline.com,karavaldaily.com,khabarexclusive24.com,khabarindia24x7.com,kholabarta24.com,kirandoot.com,kochivattom.com,kohramlive.com,lawyerteluguweekly.com,lokjantoday.com,mahendranagarpost.com,manobshongbad.com,marudharbulletin.in,matopath.com,mayanewz.com,moviemirchi24.com,muhimmathonline.com,narayanganjerkhobor24.com,nationone.tv,newsdarpan.in.net,newsics.com,newsncr.in,newstodaynetwork.com,ntvtelugu.com,pardaphashnews.live,prabhattimes.com,prahaarkonkan.com,prathidina.in,pudhuvaioli.com,punjabinewsonline.com,raibaaruttarakhand.com,raigarhnews24.in,sachkitop.com,samayviews.com,sanjeevanisamachar.com,sansanikhejsamachar.in,saurashtrakranti.com,sheeshanews.com,sportstoday.lk,srnewsgroup.com,stocktimes24.com,tahalka24x7.com,techvision24.com,theappealnews.com,thepunchlineexpose.com,therepublicantimes.co,thestellarnews.com,touringtalkies.co,trendingnewshindi.live,tvindiaplus24.com,uddoktabarta.com,vidarbhaapla.com,youthmukam.com##.td-a-rec
+britbangla24.com##.td-a-rec img
 bholahatchitro.com,khulnatimes.com##.td-a-rec-id-content_bottom
 enavamaratha.com##.td-a-rec-id-content_bottom .td-all-devices
-dewanganjnews.com,khulnatimes.com##.td-a-rec-id-content_inline
-thegandhigiri.com##.td-a-rec-id-content_top
+khulasaonline.com##.td-a-rec-id-content_bottom > img
+dewanganjnews.com,khulnatimes.com,siwanonline.com##.td-a-rec-id-content_inline
+khulasaonline.com,thegandhigiri.com##.td-a-rec-id-content_top
 myagdikali.com##.td-a-rec-id-custom-spot
-amaderkhulna.net,arthosuchak.com,banglaxp.com,bbc71.com,dailyrajshahibarta.com,deshbanglabd24.com,dewanganjnews.com,farmsandfarmer24.com,hamarahathras.com,headlinenews.lk,indiapublickhabar.in,middleeastchandrika.com,munshiganjnews.com,nayanepalnews.com,prajasatta.in,sanmarga.com,thiruvananthapuramvartha.com##.td-a-rec-id-header
-aadyashanewsman.in,aapkiaawaz.net,amaderkhulna.net,dewanganjnews.com,duniahalchal.in,headlinenews.lk,himkhabar.com,khabarliveindia.com,networknewsgujarat.com,onebanglanews.com,rashtriyapatrika.com##.td-a-rec-id-sidebar
+amaderkhulna.net,arthosuchak.com,banglaxp.com,bbc71.com,bihari.news,dailyrajshahibarta.com,dainikazadi.net,deshbanglabd24.com,dewanganjnews.com,farmsandfarmer24.com,hamarahathras.com,headlinenews.lk,independentkhabar.com,indiapublickhabar.in,middleeastchandrika.com,munshiganjnews.com,nayanepalnews.com,pbknews.com,prajasatta.in,sanmarga.com,thiruvananthapuramvartha.com##.td-a-rec-id-header
+aadyashanewsman.in,aapkiaawaz.net,amaderkhulna.net,chetona71bdnews.com,dewanganjnews.com,duniahalchal.in,headlinenews.lk,himkhabar.com,karnalbreakingnews.com,khabarliveindia.com,malabarnews.com,networknewsgujarat.com,onebanglanews.com,rashtriyapatrika.com##.td-a-rec-id-sidebar
 thekanpur.com##.td-a-rec-img
 nationupdate.in##.td-adspot-title + .td_spot_img_all
-loksansar.in##.td-adspot-title + a
+loksansar.in,pathramonline.com##.td-adspot-title + a
 politics.lk,southlive.in##.td-banner-bg
 irinjalakuda.com,kalakkalcinema.com##.td-banner-wrap-full
 techvision24.com##.td-fix-index
+24ghonta.news##.td-fix-index img
 news1today.in##.td-fix-index img:only-child
+thebharatnews.net##.td-footer-wrapper aside.widget_text img
+ujjwalhimachal.com##.td-g-rec
 somoysongbad.com##.td-g-rec-id-sidebar
 insurancekhabar.com,pagetamil.com##.td-header-sp-recs
+dpcnews24.com,nerkazhcha.com##.td-header-template-wrap .td-a-rec
 ekushershokal.com,ttncinema.com##.td-main-content-wrap .td-a-rec
 vadakaravoice.com##.td-main-sidebar aside
+dishadaily.com##.td-post-content .code-block
+sanjeevanisamachar.com##.td-post-content .master-slider
 nammabantwala.com##.td-post-content .td-a-rec
+sachkitop.com##.td-post-content figure img
 ratnagirikhabardar.com##.td-post-content figure.wp-block-image
 enavamaratha.com##.td-post-content img.aligncenter
-haldwanilive.com##.td-ss-main-sidebar
+sachkitop.com##.td-post-content p img
+tarunchhattisgarhkorba.com##.td-post-header .td-a-rec
+fatafatnews.com,haldwanilive.com##.td-ss-main-sidebar
 gionews.in##.td-ss-main-sidebar .slider-pro
-akkbd.com,chandaulisamachar.com,ptcnews.tv##.td-ss-main-sidebar .widget_media_image
+chanakyanewz.com##.td-ss-main-sidebar .td-g-rec
+kannadanet.com##.td-ss-main-sidebar .td_block_image_box
+newsofmithila.in,odiapua.com##.td-ss-main-sidebar .widget_custom_html
+akkbd.com,brajeshkibaat.com,chandaulisamachar.com,ptcnews.tv##.td-ss-main-sidebar .widget_media_image
+krantimission.com##.td-ss-main-sidebar .widget_media_video
 khabarbastar.in##.td-ss-main-sidebar > .widget_media_image
 cgujala.in,thebharatnews.net##.td-ss-main-sidebar > .widget_text
 banglanewsdunia.com##.td-ss-main-sidebar > aside.widget_media_image
+sikhvirsa.com##.td-ss-main-sidebar aside.widget_media_image
 newshindustan.in##.td-ss-main-sidebar iframe
 newspage13.com##.td_block_image_box
 thebharatnews.net##.td_block_single_image
@@ -5831,15 +6376,20 @@ khaskhobor.com##.td_single_image_bg
 akkbd.com##.td_single_image_bg[target="_blank"]
 teznews.com,vijayavani.net##.td_spot_img_all
 pinkstea.com##.td_uid_23_5ee077adb2830_rand
+trendingnewshindi.live##.tds-button
 tedmnews.com##.technology-section-ads
 paristamil.com##.text-center > table[width="98%"]
 alertnews24.com##.text-html
 indiavisionmedia.com##.thd
+gujjujankari.in##.the_content > div[class^="gujju-content"]
 cknewsgroup.ca##.theadstop
 bholarbani.com##.thedailytext-advertise
 khabrainabhitak.org##.theiaStickySidebar .ml-slider
-despunjab.ca,gandakivoice.com,mahanagarkesari.com,shirshobindu.com##.theiaStickySidebar .stream-item-widget
-anidda.lk,k24news.in,navpradesh.com,newstodayjharkhand.com,rajarhatbd.com,subanetha.com,vedantbhoomi.com##.theiaStickySidebar .widget_media_image
+amritvichar.com,despunjab.ca,gandakivoice.com,mahanagarkesari.com,shirshobindu.com##.theiaStickySidebar .stream-item-widget
+jagatbhumi.com##.theiaStickySidebar .wdslider
+pangighatidanikapatrika.in##.theiaStickySidebar .widget_custom_html
+anidda.lk,jansaamna.com,k24news.in,mitanbhoomi.com,nandighoshatv.com,navpradesh.com,news85.in,newstodayjharkhand.com,rajarhatbd.com,sitakundtimes.com,subanetha.com,ujjawalprabhat.com,vedantbhoomi.com##.theiaStickySidebar .widget_media_image
+ghazipurkhabar.co.in,purvanchalnews.com##.theiaStickySidebar .widget_smartslider3
 keralatimes.com##.theiaStickySidebar > .penci-banner-box
 prabhatvaibhav.com,samvadexpress.com,surmanews.com##.theiaStickySidebar > .widget_media_image
 hindlives.com,udaipurkiran.com##.theiaStickySidebar > .widget_text
@@ -5867,18 +6417,22 @@ muhurtham.com##.top-links-form
 newssewa.com##.top-most-banner
 rosemalayalam.com##.top-news-ad
 shatabdinews.com##.topAdv
+crimenewsnepal.com##.topAdvertisementWrapper
 onlinekhabar.com##.top__ads
-bankbimaarthonity.com,biniyougbarta.com,doshdik.com##.top_add
+bankbimaarthonity.com,biniyogbarta.com,biniyougbarta.com,doshdik.com##.top_add
 samacharplus.com##.top_advertize
 nrimalayalee.com##.top_most_news_post_ad
-gujarattimesusa.com,vijaykarnatakaepaper.com##.topad
+gujarattimesusa.com,shabdonews24.com,vijaykarnatakaepaper.com##.topad
+kulalaworld.com##.topadd
 bdkhobor24.com,brahmanbaria24.com,ournewsbd.net##.topadlft
-biniyougbarta.com##.topadmid
+biniyogbarta.com,biniyougbarta.com##.topadmid
 dhakatoday.com##.topadr
 bdkhobor24.com,ournewsbd.net##.topadrt
+sylheterdak.com.bd##.topadv
 banglavashi.com,dcnepal.com##.topbanner
 chhapratoday.com##.topbar-inner .hgrid-span-12
 dailyindianherald.com##.toped
+janwani.in##.toplogobannerRS1 .topcol1
 seithy.com##.toppageadsindexheader
 dhakareport24.com##.topright_add
 uukmanews.com##.tp-ad
@@ -5886,6 +6440,7 @@ nagariknetwork.com##.travel-add
 deshdoot.com##.tt-sponsor
 sangbad-gallery.com##.two_advertisement
 unmadmagazine.com##.twp-adv-header
+webkhabar.com##.twp-advertisement-section
 thesaturdaynews.com##.under_more_hit_advertisement
 rsnewslive.com##.unite-gallery
 valaitamil.com##.upper_links
@@ -5894,11 +6449,14 @@ changetv.press##.vc_custom_1546328500609
 netmalayalam.com##.vc_figure
 policemukhbir.com##.vc_figure .vc_box_border_blue
 ayushindianews.com##.vc_images_carousel
+newsnow24.com##.vc_single_image-wrapper[rel="noopener"] .attachment-full
 amaderkhulna.net,netmalayalam.com##.vc_slide
+odishasambad.in##.vc_widget_sidebar aside.widget_media_image
 krushival.in##.vertical-google-ads
 jagratilahar.com##.video-container ~ img:not([src*="1595764637"])
 krushival.in##.video-news-section
 khabarkunj.com##.view-ads
+dineshkhabar.com##.view-advertisement
 just36news.com##.vk-between-header-banner
 apnepal.com,dainikprime.com,fenirshomoy.com,mirsarainews.com,pollysoktybarta.com,sftv.com.bd,tamilcinemaz.com##.vl-header-ads
 muznews.net##.vmagazine-lite-medium-rectangle-ad
@@ -5913,24 +6471,28 @@ scgnews.in##.widget-ad-image
 crimediarybd.com##.widget-body > p img
 kusenews.com##.widget-header > img
 daunnenews.com##.widget-shortcode:not(#custom_html-12)
+sanskarnews.page##.widget.Image
 vikatan.com##.widget300xauto
 vikatan.com##.widget300xauto-targetted
 newsofmithila.in##.widget_300x250_advertisement
 jiwanjotsavera.com##.widget_ads_big:not(:nth-last-child(2))
 ethiri.com##.widget_ads_easy_widget
-koshionline.com,pradeshdainik.com##.widget_advertisement-bar
+hamromat.com,koshionline.com,pradeshdainik.com##.widget_advertisement-bar
 dailynotunsongbad.com,news24bd.net##.widget_area > img
 rsnewslive.com##.widget_awaken_medium_rectangle_ad
 manthannews.in,purvanchalpost.com,swapnilbangladesh.com##.widget_custom_html
-insurancekhabar.com##.widget_esn_ad
+insurancekhabar.com,upaharkhabar.com##.widget_esn_ad
+avadhkiaawaz.com##.widget_gallery_img_widget
 trttamilolli.com##.widget_html_javascript_adder
-bnanews24.com,chauthiduniya.com,comillarbarta.com,emungaru.com##.widget_media_image
+bnanews24.com,chauthiduniya.com,comillarbarta.com,emungaru.com,sunamganjerkhobor.com##.widget_media_image
 derbykhabar.com##.widget_media_image:not(#media_image-3):not(#media_image-26)
-abhitaknewsuk.in##.widget_media_video
-samnanews.com,up18news.com##.widget_metaslider_widget
+bijoykantho.com##.widget_media_image:not(#media_image-5):not(#media_image-8)
+abhitaknewsuk.in,meherpurnews.com##.widget_media_video
+independentcitizennews.com,samnanews.com,up18news.com##.widget_metaslider_widget
 dainik4media.com##.widget_nivo_slider_widget
 ghazipurkhabar.co.in,purvanchalnews.com##.widget_revslider
-biharharpalnews.com,mediasaheb.com,sadeaalaradio.co.nz##.widget_smartslider3
+sunamganjerkhobor.com##.widget_simpleimage
+biharharpalnews.com,cityhalchal.com,mediasaheb.com,sadeaalaradio.co.nz##.widget_smartslider3
 tibrakhabar.com.np##.widget_sow-editor
 moolbato.com##.widget_sow-image
 eratokhabar.com##.widget_sow-image:not(#sow-image-27)
@@ -5962,7 +6524,9 @@ haldwanilive.com##.wp-image-25412
 haldwanilive.com##.wp-image-25705
 haldwanilive.com##.wp-image-26920
 geetanjalipost.com##.wp-image-27299
+lumbinisanchar.com##.wp-image-27407
 haldwanilive.com##.wp-image-28396
+lumbinisanchar.com##.wp-image-30063
 bonggonews.com##.wp-image-352
 newssunamganj.com##.wp-image-3711
 reportsindia.in##.wp-image-62537
@@ -5982,46 +6546,60 @@ newssunamganj.com##.wp-image-77
 dailyoporad.com##.wp-image-783
 odishasambad.in##.wp-image-82180
 ratopost.com##.wp-image-9728
+drishtinews.com##.wp-inner-ads
 newstodayjharkhand.com##.wp-post-author .code-block img
-nammabantwala.com##.wp-video
+hpnewsatl.com,nammabantwala.com##.wp-video
 vidarbhaapla.com##.wpb_content_element
 everesttimes.net##.wpb_content_element > .wpb_wrapper
 delhicrimepressnews.com##.wpb_content_element img
+dailysatnadee.com##.wpb_content_element img:only-child
 hotnewsindia.com##.wpb_content_element span[style="color: #999999;"]
+newscrime24.com##.wpb_gallery
 keralatimes.com##.wpb_images_carousel
 sajagindia.com,sangbaddiganta.com##.wpb_raw_code
-alamkikhabar.in,farmsandfarmer24.com,munshiganjnews.com##.wpb_single_image
+malayalamexpress.in##.wpb_raw_code img
+alamkikhabar.in,farmsandfarmer24.com,hind24news.com,munshiganjnews.com##.wpb_single_image
 upayuktha.com##.wpb_single_image .vc_figure
-keralatimes.com##.wpb_single_image figure
+everestdainik.com,keralatimes.com##.wpb_single_image figure
 asomiyapratidin.in##.wpb_single_image.wpb_content_element
 todaybhaskar.com##.wpb_text_column
 alamkikhabar.in,breakingtube.com##.wpb_video_widget
+pravasishabdam.com##.wpb_wrapper .td_single_image_bg
 hotnewsindia.com##.wpb_wrapper .vc_single_image-wrapper:only-child
 dainiknavraj.com##.wpb_wrapper > .td-fix-index
 gtamilnews.com##.wpb_wrapper > .wpb_single_image
+ptcnews.tv##.wpb_wrapper aside.widget_media_image
 boolokam.com,devbhoomimedia.com,uttranews.com##.wpcnt
 modernnewsindia.com##.wpwbs_banners
 ekagaj.com##.wrapper-box
+news4nation.com##.wrapper.av
 bnnbharat.com##.xembgt
 neplays.com##.yotcuzeh
 probashibangla.tv##.zja
 khabreelal.com##.zox-post-ad-wrap
 tollywood.net##[alt*=" ad"]
-munaadi.com##[alt="Munaadi Ad"]
+kashishnews.com##[alt="add image"]
 narayanionline.com##[alt="advertiesment"]
 purbelinews.com##[class$="-ads"]
 yoyocial.news##[class*="  ad-"]
+vikatan.com##[class*="-ad-"]
+vikatan.com##[class*="__ad"]
 kendrabindu.com##[class*="_coffee"]
+safalkhabar.com##[class*="advertisement"]
 dinakaran.com##[class*="boxad"]
+ekattorbanglanews.com##[class*="center-ads"]
 pratidhvani.com##[class^="ad-service"]
 beanibazarnews24.com##[class^="add-"]
+khabarpahad.com##[class^="khaba-"]
+hamromat.com##[class^="sgpb-"]
 asomiyapratidin.in,attariyaonline.com,channelionline.com,setohimalnews.com##[data-adid]
 kositimes.com##[data-adid] > p
-kositimes.com##[data-adid] img
+ctgpratidin.com,kositimes.com##[data-adid] img
 garjachhattisgarhnews.com##[data-box_nu="wb7"]
 divyamarathi.bhaskar.com##[id*="_ad_"]
 beanibazarview24.com##[id^="custom_html"]
 gtamilnews.com##[id^="itro_"]
+truevisionnews.com##[id^="sgpb-"]
 pagetamil.com##[id^="td_uid_3"]
 thestellarnews.com##[id^="thest-"]
 adiyakkamangalam.com##a.external
@@ -6036,6 +6614,7 @@ bangladeshonline24.com##a[href*=".ac.bd"]
 yespunjab.com##a[href*="/Capt-IDay-English"]
 uttranews.com##a[href*="/a11/"]
 lankasri.com##a[href*="/adpage"]
+khabardabali.com##a[href*="/advertisement/"]
 uttranews.com##a[href*="/hayat/"]
 attachowk.com##a[href*="?advert="]
 somoynews.tv##a[href*="?ref="]
@@ -6062,13 +6641,15 @@ gramajyothi.com##a[href*="bobychemmanur.com"]
 gramajyothi.com##a[href*="brahminsgroup.com"]
 nepalipost.com##a[href*="callrakesh.com"]
 pannagam.com##a[href*="channel/UCrx9evkteoAOVMtnZIssVuA/"]
+dailyindianherald.com##a[href*="chemmanurinternational.com"]
 tamildaily.com##a[href*="cinefield.com"]
-kathir.news,manoranjannama.com,royalbulletin.in##a[href*="click.htm?"][target="_blank"]
+cinereporters.com,janprahar.com,kathir.news,manoranjannama.com,royalbulletin.in##a[href*="click.htm?"][target="_blank"]
 samacharjagat.com##a[href*="com.rajasthantourism.rtdc"]
 ntnews.com##a[href*="countryoven.com"]
 bhaskar.com##a[href*="crwdcntrl.net"]
 ambalanews24.com##a[href*="daraz.com.bd"]
 loksangbad.com##a[href*="deshihost.com"]
+agaminews.com##a[href*="drneem.com"]
 uttranews.com##a[href*="edu_ministrial"]
 eelamalar.com##a[href*="eelamhomeland.com"]
 eelamalar.com##a[href*="eelamview.com"]
@@ -6102,6 +6683,7 @@ ekusheysangbad.com##a[href*="jb.com.bd"]
 anandalok.com##a[href*="jeevansathi.com"]
 gramajyothi.com##a[href*="kalyansilks.com"]
 kvartha.com##a[href*="kasargodvartha.com"]
+sharebazarnews.com##a[href*="kidarkar.com"]
 techalonews.com##a[href*="kitchenworldbd.com"]
 uttranews.com##a[href*="kolkata_2"]
 ctgpratidin.com,jamuna.tv##a[href*="ksrm.com.bd"]
@@ -6174,6 +6756,7 @@ eelamalar.com##a[href*="yaalvaakai.com"]
 newstodaynetwork.com##a[href*="youtu.be/yEWmOfXJRX8"]
 pravasiexpress.com##a[href*='japan-it.jp'] img
 bantwaltimes.com##a[href^="/advertisements/advts/"]
+24x7cg.com##a[href^="tel:"]
 pavilion.com.bd##a[onclick*="GPMonthlyPromo"]
 kannadigaworld.com##a[onclick*="banner"]
 indiatimes.com##a[onclick*="eskcl/click.htm"]:not([onclick*="&u=https%3A%2F%2Feisamay.indiatimes.com"])
@@ -6181,21 +6764,26 @@ vorerbangladesh.com##a[onclick*="outbound-widget"]
 telugu.samayam.com##a[onclick*="tgsctp/click.htm?"]:not([onclick*="https%3A%2F%2Ftelugu.samayam.com"])
 dhadingnews.com##a[rel*="wp-att"]
 yespunjab.com##a[style*="JIT-Ind-Day-Ad-Kaku.jpg"]
+weeklybangladeshusa.com##a[target="_blank"] img
 clickmandu.com##a[target="_blank"] img:only-child
 dainikjharkhand.com,jaunpur24.com,khabredinraat.com,pressmirchi.com##adnblock
 dinamalar.com##amp-embed[type="taboola"]
 atharvnews.com##aside .theiaStickySidebar .widget_text
 haldwanilive.com##aside > .textwidget
+newsmoments.in##aside#sidebar .chmnr
+bnnbharat.com##aside#sidebar-primary-sidebar
 daunnenews.com##aside#sidebar-primary-sidebar > .widget_custom_html
 newstodaynetwork.com##aside.ai_widget
 sangbadsarabela.com##aside.sangb-widget
+chitrodesh.com,navakeralanews.com,uttorbangla.com##aside.sidebar .widget_media_image
 24timestoday.com##aside.sidebar > div:not(.related_posts)
 thirdeyenewslive.com##aside.third-widget
 todaybhaskar.com##aside.widget_black_studio_tinymce
-coxsbazarshomoy.com##aside.widget_custom_html
+coxsbazarshomoy.com,newsboardindia.com,sachkitop.com##aside.widget_custom_html
 bihardootnews.com##aside.widget_media_gallery
-buxaruptodate.com,canamnews.com,cumillarbarta.com,dhunkhabar.com,kohramlive.com,mbdwebnews.com,minnal24.com,rajsattapost.com,tarangabarta.com,updatesatkhira.com,yeskathmandu.com##aside.widget_media_image
+buxaruptodate.com,canamnews.com,chatgaiyakhobor.com,cumillarbarta.com,dailygazipuronline.com,dhunkhabar.com,kohramlive.com,mbdwebnews.com,minnal24.com,mirmireonline.com,motivatenews.com,nepalawaj.com,punjabinational.ca,rajsattapost.com,tarangabarta.com,updatesatkhira.com,yeskathmandu.com##aside.widget_media_image
 smacharaajtak.com##aside.widget_media_image > img
+onlinenepal.com##aside.widget_media_image img:not(.wp-image-64636)
 globalharyana.com,thesingoritimes.com##aside.widget_media_image img:only-child
 nammabantwala.com##aside.widget_media_video
 brajpatrika.com##aside.widget_metaslider_widget
@@ -6204,6 +6792,8 @@ grenonews.com##aside.widget_sp_image
 chaukastoli.com,grenonews.com##aside.widget_text
 bhalukanews.com##aside:not(#text-33):not(#text-47) img[alt="ads"]
 bhingatimes.co.in#?#.my-4:-abp-has(> h5:-abp-contains(Advertisement))
+bholanews.com#?#div:-abp-has(> p > img.wp-image-23118)
+steelcity.online##body > .container > .row:first-child > div:last-child
 ratopati.com##div.trc-content-sponsored
 scotnepal.com##div.vc_single_image-wrapper
 punjabiherald.co.nz##div[aria-label="27.jpg"]
@@ -6213,17 +6803,27 @@ punjabiherald.co.nz##div[aria-label="Auction "]
 punjabiherald.co.nz##div[aria-label="Banner-2.jpg"]
 punjabiherald.co.nz##div[aria-label="HSB-TOP-ADD-2a.jpg"]
 punjabiherald.co.nz##div[aria-label="Inder Lyn-19 June 2020-2.jpg"]
+diyopost.com##div[clas="taja_bishesh_advertise"]
 unitednripost.com##div[class*=" ads_"]
 nrimalayalee.com##div[class*="_bottom_ad"]
 nrimalayalee.com##div[class*="_right_ad"]
+bikanerhulchul.com##div[class*="bikan"]
 nrimalayalee.com##div[class*="inner-main-ad"]
 voiceofjhabua.com##div[class*="kitsune-adver"]
+dainikpurbokone.net##div[class*="sgpb-popup"]
+attariyaonline.com##div[class*="sgpb-popup-"]
+chitrodesh.com##div[class*="stream-item"]
 bonikbarta.net##div[class^="advertise_space"]
 patnapost.com##div[class^="aryav-"]
+amader-protidin.com##div[class^="customaddBox"]
+deshajtimes.com,deshantor.com##div[class^="desha-"]
+dainikazadi.net##div[class^="iziModal"]
 patnapost.com##div[class^="newsf-content"]
 patnapost.com##div[class^="patna-"]
+samacharsach.com##div[class^="samac-"]
 suddione.com##div[class^="suddi-after-content_"]
-akashjatra.com,justaction.in,morbinews.in,moulvibazar24.com,nayapusta.com,odishanews365.com,parichaya.com,raajdhaninews.com,sudurawaj.com,sudurkhabar.com##div[data-adid]
+uttranews.com##div[class^="uttra-content_"]
+akashjatra.com,gandaknews.com,justaction.in,makalukhabar.com,morbinews.in,moulvibazar24.com,nayapusta.com,odishanews365.com,parichaya.com,raajdhaninews.com,sudurawaj.com,sudurkhabar.com,tandavnews.com##div[data-adid]
 kochivattom.com##div[data-first-video="ul8Qyg4Ylko"]
 pallibatani.com##div[data-structure="12"]
 sudurkhabar.com##div[data-type="custom_code"]
@@ -6237,31 +6837,46 @@ news24bd.net##div[id^="news2-"]
 corporatesangbad.com##div[id^="penci_block_7__"]
 pudhari.news##div[id^="taboola-article-thumbnails-"]
 tejastoday.com##div[id^="tdi_112_"]
+youthmukam.com##div[id^="tdi_24_"]
 tejastoday.com##div[id^="tdi_55_"]
+truevisionnews.com##div[id^="truev-"] > a[target="_blank"] > img
+truevisionnews.com##div[id^="truev-"] > img
+truevisionnews.com##div[id^="vatak-"]:not(.vatak-after-content)
 webreporter.co.in##div[id^="webre-"]
+cinereporters.com##div[name="Homepage-Organic-RHS-1"]
+khulasafirst.com##div[style="overflow:hidden;min-height:250px"]
+voiceofmedia.lk##figure .prettyphoto
 dailysobujbarta.com##figure.vc_figure
 sanvadnews.com##figure.wp-block-table
 samastipurtown.com##figure.wp-caption
 samajbad.tv##figure.wpb_wrapper
+mediapoint24.com##footer .widget_media_image
 provatnews.com##h2[style^="width:710px; height: 100px;"]
 infosrilankanews.info##html12
 infosrilankanews.info##html2
+hastakshep.com##iframe[id^="ifr_"]
 telegramnews24.com##iframe[name^="fitvid"]
 malayalamonlinenews.com##iframe[src*="MalusKitchens"]
 doshdik.com##iframe[src*="webdevelopmentjapan.com"]
 deshsanchar.com##img.alignnone.size-full
+munaadi.com##img[alt$=" Ad"]
 kantipath.com##img[alt*="add"]
 vidhankesari.com##img[alt="- ADVERTISEMENT -"]
 onlinemarg.com##img[alt="1205X128"]
 newswayanad.in##img[alt="Ad"]
-news24bite.com##img[alt="Advertisement"]
+dcnewsbd.com,news24bite.com##img[alt="Advertisement"]
+protidinerchitrobd.com##img[alt="Bex Bazar"]
+newspagebd.com##img[alt="Biggapon"]
 onlinemarg.com##img[alt="Header Ad"]
+stocktimes24.com##img[alt="Smiley face"]
 farakdhar.com,hamrokhelkud.com,knanayaworld.com,koyilandydiary.com,newsarchives24.com,ratopati.com,thahakhabar.com,ujyaaloonline.com,ukhiyanews.com##img[alt="ad"]
+e24bollywood.com##img[alt="add image"]
 dhakareport24.com,khabarwaale.com##img[alt="add"]
 nepaljapan.com##img[alt="ads"]
 spicenewsbd.com##img[alt="advertise"]
 gramajyothi.com##img[alt="banner"]
 coxsbazarnews.com##img[alt="cbn"]
+mirsaraikhobor.com##img[alt="mAD"]
 bhilwarahalchal.com##img[alt="news"]
 khabreaajtaklive.com##img[alt="sidebar ads"]
 banglanews24.com##img[alt="walton"]
@@ -6273,27 +6888,36 @@ pnews.co.in##img[id^="Image"]
 lalsobujerkontho.com##img[src*="Modhomoti-"]
 reportsindia.in##img[src*="gftr"]
 dhakatoday.com##img[src*="mediabell.net"]
+kasargodvartha.com##img[title="wellfitindia"]
+indianewscentre.in#?#.fashion_technology_area div:-abp-has(> div > h2 span:-abp-contains(Advertisement))
 janadeshexpress.in#?#section.widget_text:-abp-has(div > h4.widget-title:-abp-contains(Advertisment))
 madhubaninews.in#?#figure:-abp-has(> figcaption:-abp-contains(ADVERTISEMENT))
 arthikawaj.com##main [data-adid]
 sankalpakhabar.com##main section.sk_banner
-dainikjaltedeep.com##marquee
+cnin.co.in,dainikjaltedeep.com##marquee
+rashtranayaknews.com##media_image-8
 momainews.com#?#div:-abp-has(> div > span[name="adchoicehtml"])
+pnn24.in#?#.theiaStickySidebar > div:-abp-has(> div.widget-title > h4:-abp-contains(ADVERTISEMENT))
 satkhiraprobaho.net#?#div:-abp-has(> h3:-abp-contains(Advertisement))
+khasokhas.com##section .textwidget img:not(.wp-image-131626)
 dainiki.com##section img.attachment-full
 bikastimes.com,janaaastha.com,khabarhub.com,pariwartankhabar.com,thenepaltop.com##section.widget
+janatasamachar.com##section.widget > a > img
 newsofnepal.com##section.widget > a img
 karobardaily.com##section.widget > a:only-child
-prasashan.com##section.widget img
+himalpost.com,nagarikkhabar.com,nepalwatch.com,prasashan.com##section.widget img
 nayapage.com##section.widget img:not(.wp-image-243554)
 jagarannews.com##section.widget img:not(.wp-image-85373)
 kathmandupati.com,lokpath.com##section.widget img:only-child
+youthexpress.in##section.widget_custom_html
 sbharatnews.com##section.widget_media_gallery
-britishkairali.co.uk,cibindianews.com,jayhosh.com,kubiyonews.com,sankalpakhabar.com,sbharatnews.com##section.widget_media_image
+britishkairali.co.uk,cibindianews.com,jayhosh.com,kubiyonews.com,lenseyenews.com,munaadi.com,pokharaexpress.com,sankalpakhabar.com,sbharatnews.com##section.widget_media_image
 cityonclick.in##section.widget_metaslider_widget
 duniyasamachar.com##section.widget_text
+dainiklivenews24.com##section.widget_text:not(#text-2)
 agrilife24.com##section:not(#sp-big-footer-wrapper) .article_anywhere
 muznews.online##section[data-id="9a0f91e"]
+bihardootnews.com##section[data-id="e3b7c3d"]
 chennaitodaynews.com##section[id^="id"]
 manithan.com##span[id] > iframe[id]:only-child
 krantikarisanket.in##table[width="300"][bgcolor="#F0F0F0"]

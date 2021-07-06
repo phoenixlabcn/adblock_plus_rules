@@ -716,6 +716,15 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": ".dmgpush-popover-container"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": ".e-push-notification-popup"
 		}
 	},
@@ -905,6 +914,15 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": ".ns-notification-popup"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": ".ntfc_overlay"
 		}
 	},
@@ -1005,6 +1023,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".push-notification-prompt"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".push-notifications-primer"
 		}
 	},
 	{
@@ -1328,7 +1355,34 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": ".smartbnr-android"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".smartbnr-ios"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": ".z-bit-smartbanner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tbsnews\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#___tbspushdiv"
 		}
 	},
 	{
@@ -1382,6 +1436,15 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": ".XPromoBlockingModal"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?reddit\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": ".XPromoInFeed"
 		}
 	},
@@ -1405,6 +1468,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?business-standard\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".bg"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?manutd\\.com[/:]"
 		},
 		"action": {
@@ -1419,6 +1491,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".met-flyout"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?techpowerup\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".notice-content"
 		}
 	},
 	{
@@ -1473,6 +1554,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#pushy"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?formulatv\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#resetUI"
 		}
 	},
 	{
@@ -1585,6 +1675,24 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?diariandorra\\.ad[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".subscribe-notifications"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?thefastmode\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#ChromeAppPromotion"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?windy\\.com[/:]"
 		},
 		"action": {
@@ -1603,15 +1711,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?indianexpress\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".app-btn"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?ebay\\.com[/:]"
 		},
 		"action": {
@@ -1626,6 +1725,24 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".app-download-modal"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?gumtree\\.com\\.au[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".app-download-wrapper"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?cricbuzz\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".cbz-leaderboard-banner"
 		}
 	},
 	{
@@ -1657,6 +1774,24 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?gayemagazine\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".lvMF7"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bing\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".opal_serpftrc"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?india\\.com[/:]"
 		},
 		"action": {
@@ -1671,6 +1806,24 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".sidebar-app-download"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?inquisitr\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".stay-in-touch"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?telegram\\.org[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".tg_try_desktop"
 		}
 	},
 	{
@@ -1719,6 +1872,10 @@
 				"media",
 				"raw",
 				"document"
+			],
+			"unless-domain": [
+				"github.com",
+				"www.github.com"
 			]
 		},
 		"action": {
@@ -1736,6 +1893,10 @@
 				"media",
 				"raw",
 				"document"
+			],
+			"unless-domain": [
+				"github.com",
+				"www.github.com"
 			]
 		},
 		"action": {
@@ -3402,6 +3563,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://.*/smartbanner\\.js",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://bildirnet\\.com",
 			"resource-type": [
 				"image",
@@ -3733,6 +3911,17 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://mab\\.mediaset\\.es",
+			"resource-type": [
+				"raw"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://news2day\\.me",
 			"resource-type": [
 				"image",
@@ -3782,6 +3971,26 @@
 				"media",
 				"raw",
 				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://notix\\.io",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
 			]
 		},
 		"action": {
@@ -4011,6 +4220,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://push\\.esputnik\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://push\\.knd\\.ro",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -4327,6 +4553,26 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://pushinpage\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://pushinstruments\\.com",
 			"resource-type": [
 				"image",
@@ -4507,26 +4753,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://pushnotificationx\\.com",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"load-type": [
-				"third-party"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://pushowl\\.com",
 			"resource-type": [
 				"image",
@@ -4548,6 +4774,26 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://pushpad\\.xyz",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://pushpanda\\.io",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -4767,6 +5013,26 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://revpusher\\.com",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://sckxppzdm\\.com",
 			"resource-type": [
 				"image",
@@ -4887,7 +5153,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://ucfeed\\.ru",
+			"url-filter": "^https?://viafoura\\.net/push_handlers\\.js",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -4896,9 +5162,6 @@
 				"media",
 				"raw",
 				"document"
-			],
-			"load-type": [
-				"third-party"
 			]
 		},
 		"action": {
@@ -5264,26 +5527,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://centrpush\\.com",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"load-type": [
-				"third-party"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://cleverpush\\.com",
 			"resource-type": [
 				"image",
@@ -5565,26 +5808,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://getpushmonkey\\.com",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"load-type": [
-				"third-party"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://getsupernova\\.com",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -6584,6 +6807,21 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://.*/firebase-messaging\\.js",
+			"resource-type": [
+				"script"
+			],
+			"if-domain": [
+				"tribunnews.com",
+				"www.tribunnews.com"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://.*/push\\.js",
 			"resource-type": [
 				"script"
@@ -6594,6 +6832,8 @@
 			"if-domain": [
 				"armeniasputnik.am",
 				"www.armeniasputnik.am",
+				"gamasexual.com",
+				"www.gamasexual.com",
 				"sputnik-abkhazia.info",
 				"www.sputnik-abkhazia.info",
 				"sputnik-abkhazia.ru",
@@ -6844,7 +7084,41 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://push\\.api\\.bbci\\.co\\.uk",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://renaultsport\\.com/spip\\.php\\?page=sw\\.js",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://rottentomatoes\\.com/service-worker/sw\\.js",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -7025,7 +7299,35 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://bostonherald\\.com..*/webpush\\.js",
+			"resource-type": [
+				"script"
+			],
+			"load-type": [
+				"first-party"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://inevent\\.com/js/wizard/pushNotification\\.js",
+			"resource-type": [
+				"script"
+			],
+			"load-type": [
+				"first-party"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://mirage\\.ru/js/jquery\\.smartbanner\\.js",
 			"resource-type": [
 				"script"
 			],

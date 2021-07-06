@@ -91,6 +91,33 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?iprima\\.cz[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".dekes_reblika"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?blesk\\.cz[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[class$=\"-kukakomeha\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?blesk\\.cz[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".gam-wrapper"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?reflex\\.cz[/:]"
 		},
 		"action": {
@@ -451,6 +478,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?iprima\\.cz[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".vjs-ad-link, .vjs-ad-clickthru"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?ajaxshowtime\\.com[/:]"
 		},
 		"action": {
@@ -501,6 +537,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".xplayer-banner-bottom"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?grammarist\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div>*:not(base):not(feOffset):not(ym-measure):not(defs):not(head):not(circle):not(clippath):not(g):not(svg):not(path):not(noscript):not(link):not(title):not(script):not(meta):not(style):not(a):not(abbr):not(address):not(area):not(article):not(aside):not(audio):not(b):not(bdi):not(bdo):not(blockquote):not(body):not(br):not(button):not(canvas):not(caption):not(cite):not(code):not(col):not(colgroup):not(command):not(datalist):not(dd):not(del):not(details):not(dfn):not(div):not(dl):not(dt):not(em):not(embed):not(fieldset):not(figcaption):not(figure):not(footer):not(form):not(h1):not(h2):not(h3):not(h4):not(h5):not(h6):not(header):not(hr):not(html):not(i):not(iframe):not(img):not(input):not(ins):not(kbd):not(keygen):not(label):not(legend):not(li):not(main):not(map):not(mark):not(menu):not(meter):not(nav):not(object):not(ol):not(optgroup):not(option):not(output):not(p):not(param):not(pre):not(progress):not(q):not(rp):not(rt):not(ruby):not(s):not(samp):not(section):not(select):not(small):not(source):not(span):not(strong):not(sub):not(summary):not(sup):not(table):not(tbody):not(td):not(textarea):not(tfoot):not(th):not(thead):not(time):not(tr):not(track):not(u):not(ul):not(var):not(video):not(wbr):not(font):not(line):not(text):not(filter):not(image):not(noindex):not(center):not(picture)"
 		}
 	},
 	{
@@ -730,7 +775,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?www\\.quora\\.com[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?quora\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
@@ -739,7 +784,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?www\\.quora\\.com[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?quora\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
@@ -748,7 +793,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?www\\.quora\\.com[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?quora\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
@@ -757,7 +802,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?www\\.quora\\.com[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?quora\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
@@ -766,7 +811,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?www\\.quora\\.com[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?quora\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
@@ -775,7 +820,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?www\\.quora\\.com[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?quora\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
@@ -784,7 +829,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?www\\.quora\\.com[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?quora\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
@@ -793,7 +838,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?www\\.quora\\.com[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?quora\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
@@ -802,7 +847,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?www\\.quora\\.com[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?quora\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
@@ -811,7 +856,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?www\\.quora\\.com[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?quora\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
@@ -820,7 +865,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?www\\.quora\\.com[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?quora\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
@@ -829,7 +874,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?www\\.quora\\.com[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?quora\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
@@ -838,7 +883,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?www\\.quora\\.com[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?quora\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
@@ -847,7 +892,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?www\\.quora\\.com[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?quora\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
@@ -856,7 +901,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?www\\.quora\\.com[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?quora\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
@@ -865,7 +910,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?www\\.quora\\.com[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?quora\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
@@ -874,7 +919,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?www\\.quora\\.com[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?quora\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
@@ -883,7 +928,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?www\\.quora\\.com[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?quora\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
@@ -892,16 +937,16 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?www\\.quora\\.com[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?quora\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
-			"selector": ".q-box.qu-borderTop > span[data-nosnippet=\"true\"] > .q-box "
+			"selector": ".q-box.qu-borderTop > span[data-nosnippet=\"true\"] > .q-box"
 		}
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?www\\.quora\\.com[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?quora\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
@@ -910,7 +955,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?www\\.quora\\.com[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?quora\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
@@ -1189,60 +1234,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?rambler\\.ru[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "div a[href=\"/\"]:not([class])"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?rambler\\.ru[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".top-topic__coins"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?rambler\\.ru[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".top-main__banner--context"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?rambler\\.ru[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".article__right-middle"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?rambler\\.ru[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".banner--container"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?rambler\\.ru[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "div[data-ad-marker]"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?mamaslatinas\\.com[/:]"
 		},
 		"action": {
@@ -1422,7 +1413,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*akwam\\.cc,akoam\\.com,akoam\\.net,akwam\\.co,akwam\\.cx,akwam\\.net,akwam\\.org,gocoo\\.co#\\$#abort-on-property-read String\\.fromCharCode",
+			"url-filter": "^https?://.*akwam\\.cc,akoam\\.com,akoam\\.net,akwam\\.co,akwam\\.cx,akwam\\.net,akwam\\.org,gateanime\\.com,gocoo\\.co#\\$#abort-on-property-read String\\.fromCharCode",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -1575,7 +1566,75 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://.*iyingshi9\\.tv#\\$#override-property-read YZM\\.ads\\.state false",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://.*hdzone\\.org#\\$#abort-current-inline-script Math zfgloaded",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*idnes\\.cz#\\$#hide-if-matches-xpath '//div/a\\[string-length\\(@href\\) > 500\\]//img\\[string-length\\(@src\\) > 80\\]/ancestor::div\\[@class\\]\\[2\\]'",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*idnes\\.cz#\\$#hide-if-matches-xpath '//div\\[@id=\"main\"\\]/.*\\[string-length\\(@id\\) > 30\\]\\[string-length\\(@class\\) > 90\\]'",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*idnes\\.cz,expres\\.cz#\\$#hide-if-matches-xpath '\\.//div\\[string-length\\(@class\\) >30\\]/span\\[not\\(@id\\)\\]\\[not\\(.*\\) and not\\(normalize-space\\(\\)\\)\\]\\[not\\(preceding-sibling::.*\\)\\]/ancestor::.*\\[string-length\\(@id\\) > 10\\]\\[string-length\\(@class\\) >30\\]'",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -2019,6 +2078,36 @@
 			"url-filter": "^https?://.*\\?v127$",
 			"resource-type": [
 				"script"
+			],
+			"if-domain": [
+				"iprima.cz",
+				"www.iprima.cz"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*/area=halfpagead",
+			"resource-type": [
+				"raw"
+			],
+			"if-domain": [
+				"iprima.cz",
+				"www.iprima.cz"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*/area=branding",
+			"resource-type": [
+				"raw"
 			],
 			"if-domain": [
 				"iprima.cz",
@@ -7512,6 +7601,8 @@
 				"www.horoskopy.cz",
 				"seznamzpravy.cz",
 				"www.seznamzpravy.cz",
+				"sreality.cz",
+				"www.sreality.cz",
 				"tiscali.cz",
 				"www.tiscali.cz",
 				"kinobox.cz",
@@ -9571,7 +9662,9 @@
 				"zeny.cz",
 				"www.zeny.cz",
 				"zive.cz",
-				"www.zive.cz"
+				"www.zive.cz",
+				"iprima.cz",
+				"www.iprima.cz"
 			]
 		},
 		"action": {
@@ -9994,21 +10087,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*preroll",
-			"resource-type": [
-				"raw"
-			],
-			"if-domain": [
-				"televizeseznam.cz",
-				"www.televizeseznam.cz"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://.*&collocation-",
 			"resource-type": [
 				"raw"
@@ -10230,7 +10308,56 @@
 				"zeny.cz",
 				"www.zeny.cz",
 				"zive.cz",
-				"www.zive.cz"
+				"www.zive.cz",
+				"iprima.cz",
+				"www.iprima.cz"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*preroll",
+			"resource-type": [
+				"raw"
+			],
+			"if-domain": [
+				"iprima.cz",
+				"www.iprima.cz",
+				"televizeseznam.cz",
+				"www.televizeseznam.cz"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*midroll",
+			"resource-type": [
+				"raw"
+			],
+			"if-domain": [
+				"iprima.cz",
+				"www.iprima.cz"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*postroll",
+			"resource-type": [
+				"raw"
+			],
+			"if-domain": [
+				"iprima.cz",
+				"www.iprima.cz"
 			]
 		},
 		"action": {
@@ -10732,7 +10859,109 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*newser\\.com,foreverymom\\.com,grammarist\\.com,canadafreepress\\.com,independentminute\\.com,conservativefiringline\\.com,dcdirtylaundry\\.com,designbump\\.com,ipatriot\\.com,breakingfirst\\.com,deneenborelli\\.com,naturalblaze\\.com,beforeitsnews\\.com,videogamesblogger\\.com,gamersheroes\\.com,rightwingtribune\\.com,dcclothesline\\.com,madworldnews\\.com,clashdaily\\.com,tosavealife\\.com,allthingsvegas\\.com,bestfunnyjokes4u\\.com,dailylol\\.com,patriotnationpress\\.com,thedesigninspiration\\.com,wakingtimes\\.com,threepercenternation\\.com,survivalnation\\.com,greatamericanpolitics\\.com,vitamiiin\\.com,americasfreedomfighters\\.com,steadfastherald\\.com#\\$#override-property-read Object\\.defineProperty trueFunc; override-property-read Object\\.defineProperties trueFunc; override-property-read Object\\.getOwnPropertyDescriptor trueFunc",
+			"url-filter": "^https?://.*newser\\.com,foreverymom\\.com,grammarist\\.com,canadafreepress\\.com,independentminute\\.com,conservativefiringline\\.com,dcdirtylaundry\\.com,designbump\\.com,ipatriot\\.com,breakingfirst\\.com,deneenborelli\\.com,naturalblaze\\.com,beforeitsnews\\.com,videogamesblogger\\.com,gamersheroes\\.com,rightwingtribune\\.com,dcclothesline\\.com,madworldnews\\.com,clashdaily\\.com,tosavealife\\.com,allthingsvegas\\.com,bestfunnyjokes4u\\.com,dailylol\\.com,patriotnationpress\\.com,thedesigninspiration\\.com,wakingtimes\\.com,threepercenternation\\.com,survivalnation\\.com,greatamericanpolitics\\.com,vitamiiin\\.com,americasfreedomfighters\\.com,steadfastherald\\.com#\\$#hide-if-matches-xpath '//div\\[@.*=\"_blank\"\\]/ancestor::div\\[2\\]\\[@class and @id\\]'",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*newser\\.com#\\$#hide-if-matches-xpath '//span\\[@class\\]\\[string-length\\(text\\(\\)\\)>40\\]\\[string-length\\(@class\\)>=28\\]/ancestor::div\\[3\\]\\[@class or @id\\]'",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*foreverymom\\.com,grammarist\\.com,canadafreepress\\.com,independentminute\\.com,conservativefiringline\\.com,dcdirtylaundry\\.com,designbump\\.com,ipatriot\\.com,breakingfirst\\.com,deneenborelli\\.com,naturalblaze\\.com,beforeitsnews\\.com,videogamesblogger\\.com,gamersheroes\\.com,rightwingtribune\\.com,dcclothesline\\.com,madworldnews\\.com,clashdaily\\.com,tosavealife\\.com,allthingsvegas\\.com,bestfunnyjokes4u\\.com,dailylol\\.com,patriotnationpress\\.com,thedesigninspiration\\.com,wakingtimes\\.com,threepercenternation\\.com,survivalnation\\.com,greatamericanpolitics\\.com,vitamiiin\\.com,americasfreedomfighters\\.com,steadfastherald\\.com#\\$#hide-if-matches-xpath '//div\\[@class\\]\\[string-length\\( text\\(\\) \\) > 40\\]\\[string-length\\(@class\\)>=28\\]/ancestor::div\\[3\\]\\[@class or @id\\]'",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*newser\\.com,foreverymom\\.com,grammarist\\.com,canadafreepress\\.com,independentminute\\.com,conservativefiringline\\.com,dcdirtylaundry\\.com,designbump\\.com,ipatriot\\.com,breakingfirst\\.com,deneenborelli\\.com,naturalblaze\\.com,beforeitsnews\\.com,videogamesblogger\\.com,gamersheroes\\.com,rightwingtribune\\.com,dcclothesline\\.com,madworldnews\\.com,clashdaily\\.com,tosavealife\\.com,allthingsvegas\\.com,bestfunnyjokes4u\\.com,dailylol\\.com,patriotnationpress\\.com,thedesigninspiration\\.com,wakingtimes\\.com,threepercenternation\\.com,survivalnation\\.com,greatamericanpolitics\\.com,vitamiiin\\.com,americasfreedomfighters\\.com,steadfastherald\\.com#\\$#hide-if-matches-xpath '//div\\[@id\\]\\[string-length\\( text\\(\\) \\) > 45\\]\\[string-length\\(@class\\)>=28\\]/ancestor::div\\[4\\]\\[@class or @id\\]'",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*newser\\.com,foreverymom\\.com,grammarist\\.com,canadafreepress\\.com,independentminute\\.com,conservativefiringline\\.com,dcdirtylaundry\\.com,designbump\\.com,ipatriot\\.com,breakingfirst\\.com,deneenborelli\\.com,naturalblaze\\.com,beforeitsnews\\.com,videogamesblogger\\.com,gamersheroes\\.com,rightwingtribune\\.com,dcclothesline\\.com,madworldnews\\.com,clashdaily\\.com,tosavealife\\.com,allthingsvegas\\.com,bestfunnyjokes4u\\.com,dailylol\\.com,patriotnationpress\\.com,thedesigninspiration\\.com,wakingtimes\\.com,threepercenternation\\.com,survivalnation\\.com,greatamericanpolitics\\.com,vitamiiin\\.com,americasfreedomfighters\\.com,steadfastherald\\.com#\\$#hide-if-matches-xpath '//div\\[not\\(@id\\)\\]\\[string-length\\( text\\(\\) \\) > 55\\]\\[string-length\\(@class\\)>25\\]/ancestor::div\\[not\\(@class\\)\\]\\[not\\(@id\\)\\]\\[not\\(@style\\)\\]\\[1\\]/ancestor::div\\[3\\]'",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*newser\\.com,foreverymom\\.com,grammarist\\.com,canadafreepress\\.com,independentminute\\.com,conservativefiringline\\.com,dcdirtylaundry\\.com,designbump\\.com,ipatriot\\.com,breakingfirst\\.com,deneenborelli\\.com,naturalblaze\\.com,beforeitsnews\\.com,videogamesblogger\\.com,gamersheroes\\.com,rightwingtribune\\.com,dcclothesline\\.com,madworldnews\\.com,clashdaily\\.com,tosavealife\\.com,allthingsvegas\\.com,bestfunnyjokes4u\\.com,dailylol\\.com,patriotnationpress\\.com,thedesigninspiration\\.com,wakingtimes\\.com,threepercenternation\\.com,survivalnation\\.com,greatamericanpolitics\\.com,vitamiiin\\.com,americasfreedomfighters\\.com,steadfastherald\\.com#\\$#hide-if-matches-xpath '//div\\[not\\(@class\\)\\]\\[not\\(@id\\)\\]\\[not\\(@style\\)\\]\\[string-length\\(@div\\)=15\\]/ancestor::div\\[1\\]'",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*newser\\.com,foreverymom\\.com,grammarist\\.com,canadafreepress\\.com,independentminute\\.com,conservativefiringline\\.com,dcdirtylaundry\\.com,designbump\\.com,ipatriot\\.com,breakingfirst\\.com,deneenborelli\\.com,naturalblaze\\.com,beforeitsnews\\.com,videogamesblogger\\.com,gamersheroes\\.com,rightwingtribune\\.com,dcclothesline\\.com,madworldnews\\.com,clashdaily\\.com,tosavealife\\.com,allthingsvegas\\.com,bestfunnyjokes4u\\.com,dailylol\\.com,patriotnationpress\\.com,thedesigninspiration\\.com,wakingtimes\\.com,threepercenternation\\.com,survivalnation\\.com,greatamericanpolitics\\.com,vitamiiin\\.com,americasfreedomfighters\\.com,steadfastherald\\.com#\\$#hide-if-matches-xpath '//div/span/span\\[contains\\(normalize-space\\(\\),\"Paid Content\"\\) or contains\\(normalize-space\\(\\),\"You May Like\"\\) or contains\\(normalize-space\\(\\),\"You May like\"\\) or contains\\(normalize-space\\(\\),\"TRENDING\"\\)\\]/ancestor::div\\[@class\\]\\[1\\]'",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -11276,7 +11505,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*123xxx\\.xyz,18-teen-porn\\.com,18-teen-sex\\.com,18-teen-tube\\.com,18girlssex\\.com,18hqporn\\.com,18teen-tube\\.com,18teenporno\\.tv,18tubehd\\.com,1lesbiantube\\.com,1xxx-tube\\.com,2017tube\\.com,2018tube\\.com,22pixx\\.xyz,24pornvideos\\.com,2japaneseporn\\.com,3movs\\.com,3naked\\.com,3prn\\.com,429tube\\.com,4asianporn\\.com,4tube\\.com,5299\\.tv,69teentube\\.com,8asiansex\\.com,8boobs\\.com,8teenbay\\.net,8teenxxx\\.com,9gag2\\.com,absolugirl\\.com,absoluporn\\.com,absolutube\\.com,activevoyeur\\.com,acutetube\\.net,adultdvdparadise\\.com,adultvideosjapanese\\.com,adultxpedia\\.com,aflamsexnek\\.com,agedtubeporn\\.com,agedvideos\\.com,ah-me\\.com,airsextube\\.com,al4a-archives\\.com,al4a\\.com,allafricangirls\\.net,allbbwtube\\.com,allindianporno\\.com,allmilftube\\.com,allpussynow\\.com,allpussypics\\.com,allschoolboysecrets\\.com,alltstube\\.com,allureamateurs\\.net,alotporn\\.com,alrincon\\.com,amateur-twink\\.com,amateurandreal\\.com,amateurbusters\\.com,amateurebonypics\\.com,amateurmaturewives\\.com,amateurmoms\\.net,amateurpicsporn\\.com,amateurporn1\\.com,amateuryoungpics\\.com,analdin\\.com,animesfox\\.com\\.br,antarvasnastories\\.com,anyporn\\.com,anysex\\.com,arabxnx\\.com,area51\\.porn,ariestube\\.com,artium\\.org,arturia\\.com,asian-teen-sex\\.com,asianbabestube\\.com,asianhamster\\.com,asianpornphoto\\.net,asianporntube69\\.com,asianteenagefucking\\.com,asianxxxvideo\\.net,astucito\\.com,atdhe\\.cc,atdhe\\.sx,avyahoo\\.com,babesinporn\\.com,babesjoy\\.com,babeswp\\.com,babesxworld\\.com,bananamovies\\.net,bangyourwife\\.com,barfuck\\.com,basiltube\\.com,bbw\\.com\\.es,bbwpussypics\\.com,bdsmporntub\\.com,bdsmslavemovie\\.com,bdsmstreak\\.com,bdsmwaytube\\.com,beautyass\\.com,beegsexporn\\.com,befap\\.com,best-xxxvideos\\.com,best18teens\\.com,bestanime-xxx\\.com,bestfootfetishtube\\.com,besthugecocks\\.com,bestjapaneseporn\\.net,bestmaturewomen\\.com,bestpussypics\\.net,betterhdporn\\.com,bigassphotos\\.com,bigasspictures\\.net,bigbangtube\\.com,bigcocker\\.com,bigcockgaytube\\.com,bigcockhub\\.com,biggestasspics\\.com,bigtitsxxxfree\\.com,bigtitsxxxsex\\.com,bioskop10\\.com,bioskop60\\.net,blackamateursnaked\\.com,blacksexmix\\.com,blackteen\\.link,blasensex\\.com,blowjobgif\\.net,blowjobpornset\\.com,blowxxxtube\\.com,bobs-tube\\.com,boobsforfun\\.com,bravoerotica\\.com,breedingmoms\\.com,brokenteen\\.net,buonaporno\\.com,bustmonkey\\.com,bustybloom\\.com,callfuck\\.com,camarads\\.com,camrouge\\.com,camuploads\\.com,canalporno\\.com,carvetube\\.com,cekc-tube\\.ru,celebrity-leaks\\.net,cercagirl\\.com,chicoscam\\.com,chieftube\\.com,chyoa\\.com,classicpornbest\\.com,classicpornvids\\.com,club-flank\\.com,cockmeter\\.com,cockpornpics\\.com,cocksexpics\\.com,cocogals\\.com,collegeteentube\\.com,comic-porno\\.com,comicxxx\\.eu,coquinetv\\.com,cosepermaschi\\.it,cosepermaschi\\.net,couplevideos\\.net,cuckoldmature\\.com,cumlouder\\.com,cumshotlist\\.com,cutieporno\\.com,daftporn\\.com,dailylesbianporn\\.com,daporngifs\\.com,dawntube\\.com,decorativemodels\\.com,deliciousbabes\\.org,desihoes\\.com,desimms\\.co,desimmshd\\.com,deutschepornos-kostenlos\\.com,deutschsex\\.com,devilporn\\.org,dimtus\\.com,dirtyasiantube\\.com,dirtybadger\\.com,dirtytamil\\.com,dirtytubemix\\.com,do-xxx\\.com,domashka\\.tv,dorevitch\\.com\\.au,dosexybabes\\.com,dotfreesex\\.com,dotfreexxx\\.com,doujinshi\\.rocks,dreamamateurs\\.com,drumstube\\.com,drunkmoms\\.net,dump\\.xxx,easymilftube\\.net,ebonyamateurphoto\\.com,efappy\\.com,electsex\\.com,embedy\\.me,empflix\\.com,empowher\\.com,empressleak\\.biz,en\\.firstrowi\\.com,enjoyfuck\\.com,enormousbabes\\.net,entertubeporn\\.com,entrejuegosgratis\\.com,eporner\\.com,erett\\.sex\\.hu,erofus\\.com,erogen\\.su,eroprofile\\.com,erospots\\.info,erotichdworld\\.com,eroticteen\\.com,eroticteensphoto\\.net,erowall\\.com,eroxia\\.com,eurocali\\.it,exclusiveindianporn\\.com,exposedlyrics\\.com,extremetube\\.com,faapy\\.com,familypornhd\\.com,famuathletics\\.com,fantasti\\.cc,fapality\\.com,fatwhitebutt\\.com,favefreeporn\\.com,femdom-joi\\.com,femdomporntubes\\.com,femdomtube\\.xxx,fetishshrine\\.com,figtube\\.com,filestore\\.to,filmpornofrancais\\.fr,filth4you\\.com,fineretroporn\\.com,finevids\\.xxx,firstrow1us\\.eu,firstrows\\.xyz,firstrowsportes\\.net,firstsrowsports\\.com,firstsrowsports\\.tv,fitteasatismerkezi\\.com,free-sex-video\\.net,freeboytwinks\\.com,freegrannyvids\\.com,freehindisexstories\\.com,freehqporn\\.net,freehqtube\\.com,freeimagefap\\.com,freelatinapics\\.com,freematureasses\\.com,freematuresexpics\\.com,freeomovie\\.info,freepornasia\\.com,freepornik\\.com,freepornstreams\\.org,freepornvideo\\.sex,freepornvintage\\.com,freesexvideos24\\.com,freestreams\\.eu,freetubegalore\\.com,freevintageporn\\.net,freevintagetube\\.com,freexmovs\\.com,freexxxvideos\\.pro,freeyounggayporn\\.com,freshbbw\\.com,freshebonytubes\\.com,freshmaturespussy\\.com,freshsexxvideos\\.com,freundinsex\\.com,freyalist\\.com,frostytube\\.com,frprn\\.com,ftopx\\.com,fuckedporno\\.com,fuckhairygirls\\.com,fuckhardporn\\.com,fuckhottwink\\.com,fuckmimimi\\.com,fucksexybabes\\.com,fuckslutsonline\\.com,fuckvideos\\.adult,fuckvideoshot\\.com,fullhdxxx\\.com,fullpornmovies\\.net,fullxxxmovies\\.me,fullxxxmovies\\.net,fullyhd\\.com,funimg\\.net,fuqer\\.com,furryporn\\.xxx,fux\\.com,gallant-matures\\.com,gameofporn\\.com,ganstamovies\\.com,gay-boys-xxx\\.com,gay-dicks\\.com,gayarrangement\\.com,gayboyshd\\.com,gayboystube\\.com,gayfuckingass\\.com,gayhardfuck\\.com,gaypornmasters\\.com,gaypornwave\\.com,gayteenshd\\.com,gayyoungporn\\.com,gcruise\\.com,getitinside\\.com,ghettopearls\\.com,ghostbabes\\.com,giantshemalecocks\\.com,giddyteens\\.com,gifsfor\\.com,gir18\\.com,girl-directory\\.com,girlfriendsexphoto\\.com,girlfuckgalleries\\.com,girlnude\\.link,girlscanner\\.cc,girlssexxxx\\.com,glamourxxx-online\\.com,go-xxx-go\\.com,goatd\\.me,godjapan\\.com,goldesel\\.to,gonewild\\.co,goodcomix\\.tk,googlxx\\.com,gopornindian\\.com,gosexpod\\.com,gotporn\\.com,goxxxvideos\\.com,grandmatube\\.pro,grannybeautypics\\.com,grannycutepics\\.com,grannyfucko\\.com,grannyfuckxxx\\.com,grannypicsdaily\\.com,grannyporn\\.name,grannypornpics\\.com,grannypornpicture\\.com,grannypornpictures\\.com,grannysex\\.name,grannysexphoto\\.com,grannysexypics\\.com,grannysfucking\\.net,grannyslutphoto\\.com,gratuito\\.xxx,greensmut\\.com,grouppornotube\\.com,grouppornxxx\\.com,guruofporn\\.com,guyswithiphones\\.com,hairy-amateurs\\.com,hairybeautyphoto\\.com,hairygirlnaked\\.com,hairytwat\\.org,hardcorehd\\.xxx,hardcorepornhot\\.com,hardsextube\\.com,hclips\\.com,hd-analporn\\.com,hd-tube-porn\\.com,hd-world\\.org,hdfuckxxx\\.com,hdmoza\\.com,hdporn8\\.com,hdpornole\\.pl,hdpornpussy\\.com,hdpornt\\.com,hdpornteen\\.com,hdzog\\.com,hentaiarena\\.com,hentaidream\\.org,hentaifox\\.com,hentaiporn\\.com\\.es,hentaipulse\\.com,hentairider\\.com,hentaiyes\\.com,hiddencamhd\\.com,hindiporno\\.pro,hindisexkahaniyan\\.com,hitomi\\.la,home-made-videos\\.com,homemature\\.net,homemoviestube\\.com,hornybitches\\.org,hornyhotmoms\\.com,hornyteenpussy\\.com,hot-mature-videos\\.com,hot-sex-tube\\.com,hotclips24\\.com,hotgayporn\\.pro,hotgirlclub\\.com,hotgirlhub\\.com,hotjapantubes\\.com,hotmaturegirlfriends\\.com,hotmaturetubes\\.net,hotmilfgalleries\\.com,hotmilfpictures\\.com,hotmomspussy\\.com,hotmovs\\.com,hotmoza\\.com,hotnakedteenporn\\.com,hotnudegirlporn\\.com,hotpornfile\\.org,hotpornlove\\.com,hotpussyhubs\\.com,hotsexlove\\.com,hotsexyteen\\.com,hotsexyteenspics\\.com,hotstep-mom\\.com,hotstunners\\.com,hotteenpornpics\\.com,hotteensexpics\\.com,hotvintagetube\\.net,hotxnxxporn\\.com,hotyounggirls\\.net,hqamateurtubes\\.com,hqhardcoreporno\\.com,hqsex-xxx\\.com,hqxxxmovies\\.com,ifreefuck\\.com,ilivestream\\.com,iluvtoons\\.com,imagedecode\\.com,imagenesmy\\.com,imageteam\\.org,img2share\\.com,imgadult\\.com,imgclick\\.net,imgcloud\\.pw,imgdawgknuttz\\.com,imgdew\\.com,imgdew\\.pw,imgdone\\.com,imgdrive\\.net,imgking\\.xyz,imgkings\\.com,imgmaid\\.net,imgmaze\\.pw,imgnemo\\.com,imgoutlet\\.com,imgpeak\\.com,imgprime\\.com,imgrock\\.info,imgrock\\.net,imgrock\\.pw,imgsay\\.com,imgspice\\.com,imgstudio\\.org,imgtaxi\\.com,imgtornado\\.com,imgtorrnt\\.in,imgtown\\.net,imgtown\\.pw,imzog\\.com,indecentvideos\\.com,indianbestporn\\.com,infinityerotic\\.com,interflora\\.co\\.uk,interflora\\.ie,ipornia\\.com,ipornpictures\\.com,italianoxxx\\.com,iteenpornpics\\.com,iwantgalleries\\.com,iwantmature\\.com,japanesefuck\\.com,japanesemomsex\\.com,japanesepornvideos\\.net,japanfuck\\.com\\.es,japanpornvideo\\.net,japanstubes\\.com,japansvids\\.com,japanxxxass\\.com,japornhd\\.com,jav688\\.com,jav789\\.com,javbuz\\.com,javhihi\\.com,javkiki\\.com,javteentube\\.com,jemontremabite\\.com,jemontremasextape\\.com,jemontremonminou\\.com,jenpornuj\\.cz,jesseporn\\.xyz,jigglegifs\\.com,juicyflaps\\.com,juicygif\\.com,juicygranny\\.com,justababes\\.com,justsexpictures\\.com,kaboomtube\\.com,kaotic\\.com,kendralist\\.com,kingsofteens\\.com,kisscartoon\\.pro,kissdoujin\\.com,kisshentai\\.net,kittyfuckstube\\.com,klaustube\\.com,korean-sex-video\\.com,koreancreampie\\.com,koreansexporn\\.com,kporno\\.com,krank\\.de,labibledesastuces\\.com,lanasbigboobs\\.com,latexgirls\\.org,latinoweb-tv\\.com,lawanswers\\.com\\.au,lesbianic\\.com,lesbianloveclub\\.com,letfap\\.com,lightxxxtube\\.com,line25\\.com,lizardporn\\.com,ljcam\\.net,loanadministration\\.com,lonely-mature\\.com,lovelynudez\\.com,lshunters\\.tv,lushdiaries\\.com,lustylist\\.com,lustyspot\\.com,lux-teen-pics\\.com,luxmoms\\.com,luxviral\\.com,madchensex\\.com,mainporno\\.com,malexxx\\.net,malleys\\.com,mangoparody\\.com,mangoporn\\.co,mangoporn\\.net,mangovideo\\.pw,marchetravelling\\.com,massagefreetube\\.com,mature-xxx-videos\\.com,mature4\\.net,maturegrannypics\\.com,maturemilfs\\.net,maturemomhot\\.com,maturemompics\\.com,maturemomspics\\.com,maturepicspussy\\.com,maturepornpics\\.me,maturesfuck\\.com,maturesinhd\\.com,maturewithyoung\\.com,maxcuckold\\.com,me-tube\\.com,megaboobsgirls\\.com,megafreepics\\.com,megahugetits\\.com,megajapansex\\.com,megasesso\\.com,megatube\\.xxx,milfhdvideos\\.com,milfjam\\.com,milfmomporn\\.com,milfpussy-sex\\.com,milfsaloon\\.com,milfshow\\.com,milfspics\\.com,milfspictures\\.com,mimimiporn\\.com,misterboys\\.com,mmhiphopchannel\\.com,mobileasiantube\\.net,modelsxxxtube\\.com,mom-fuck\\.me,mom-pussy\\.com,mom-x\\.com,momandyoungboys\\.com,momjerk\\.com,mommy-pussy\\.com,momsoclock\\.com,momspost\\.com,momsprice\\.com,momstube-porn\\.com,momthumb\\.com,motherandboyvideos\\.com,moviesinspector\\.com,mrporngeek\\.com,mrsexe\\.com,mujeres-desnudas\\.com,multporn\\.net,muschitube\\.com,musicatorrents\\.com,mybbwtube\\.com,mybestxtube\\.com,myfreemoms\\.com,myfreesexpics\\.com,myhentai\\.tv,mylust\\.com,mynakedteens\\.com,mynudez\\.com,myp1p\\.eu,myp2p\\.biz,mypornpics\\.com,mypornstarbook\\.net,myreadingmanga\\.info,mystore\\.to,myteensexpics\\.com,myyoungbabe\\.com,nackte\\.com,nakedamateurs\\.link,nakedbbw-sex\\.com,nakedgirls\\.link,nakedgirlspornpics\\.com,nakedmature\\.sexy,nakedmaturemoms\\.com,nakedmaturestubes\\.com,nakedmilfs\\.sexy,nakedmodelsxxx\\.com,nakedselfphotos\\.com,nakedteenporn\\.com,nakenprat\\.com,neatfreeporn\\.com,neatpornodot\\.com,needgayporn\\.com,netflixporno\\.net,newchallenges\\.com\\.mm,newestxxx\\.com,newgrandmapictures\\.com,newretroporn\\.com,newsextv\\.com,newtorrentgame\\.com,newxxxvideos\\.net,newytstorrent\\.com,nicemilfpics\\.com,nicexxxtube\\.com,nightlifeporn\\.com,nsfwalbum\\.com,nude-beach-tube\\.com,nude-teen-18\\.com,nudebabes\\.sexy,nudehotmoms\\.com,nudematuremilfs\\.com,nudemomshots\\.com,nudeperfectgirls\\.com,nudesexymoms\\.com,nudeteenporn\\.com,nudeteenpornsex\\.com,nudeteenpussy\\.com,nudeyoungporn\\.com,nudeyoungteen\\.com,nudismteens\\.com,nudisteens\\.com,nudistube\\.com,nurlesben\\.com,nylonbabez\\.net,ohueli\\.net,ok-gay\\.com,okporn\\.com,olalatube\\.com,older-mature\\.net,oldgrannylovers\\.com,oldsluthardcore\\.com,oldwomanfuck\\.net,oldwomansex\\.net,oldwomensex\\.net,online-xxxmovies\\.com,onlinefucktube\\.com,onlinegrannyporn\\.com,onlineteenhub\\.com,onlygayvideo\\.com,onlygoldmovies\\.com,onlyhgames\\.com,onlylesbianvids\\.com,onmpeg\\.com,ooo-maturesex\\.com,oosex\\.net,ooxxtube\\.com,orgasmlist\\.com,orgyxxxhub\\.com,pandamovies\\.me,pandamovies\\.pw,pandaporn\\.net,panduansaya\\.com,pantyhosecool\\.com,paralink\\.com,parapetite\\.info,parspack\\.com,passpix\\.com,peachytube\\.com,pedant\\.ru,perfectgirls\\.es,perfectgirls\\.net,perfectgirlspussy\\.com,perfectnudegirls\\.com,perfektdamen\\.co,pervclips\\.com,pervertedmilfs\\.com,pezporn\\.com,picbank\\.tk,pichaloca\\.com,picmoza\\.com,pictoa\\.com,picturelol\\.com,piczki\\.pl,pinflix\\.com,pinkteenpics\\.com,pixhost\\.to,playpornfree\\.xyz,pleasuregirl\\.net,plusone8\\.com,polochka\\.net,pomelotube\\.com,popcorntimes\\.ws,poringa\\.net,porn-hd-tube\\.com,porn\\.com,porn0\\.tv,porn18sex\\.com,porn300\\.com,porn555\\.com,porn613\\.net,pornabcd\\.com,pornbestpics\\.com,pornchaos\\.org,pornclipshub\\.com,pornclipsxxx\\.com,porncomics\\.me,porncomix\\.one,porndaa\\.com,porndavid\\.com,porndeva\\.com,porndoe\\.com,porndollz\\.com,pornerbros\\.com,porneva\\.com,pornexpanse\\.com,pornforrelax\\.com,porngo\\.tv,porngq\\.com,pornhail\\.com,pornhd\\.com,pornhd8k\\.net,pornhdin\\.com,pornhegemon\\.com,pornhugo\\.com,pornicom\\.com,pornj\\.com,pornkino\\.cc,pornl\\.com,pornlif\\.com,pornlivehd\\.com,pornlovo\\.co,pornmaki\\.com,pornmam\\.com,pornmaniak\\.com,pornmaturetube\\.com,pornmom\\.net,pornmoms\\.org,pornnudexxx\\.com,porno-zhena\\.com,porno666\\.com,pornoaid\\.com,pornobae\\.com,pornobengala\\.com,pornocrados\\.com,pornodoido\\.com,pornodom\\.tv,pornohaha\\.com,pornokeep\\.com,pornomovies\\.com,pornonote\\.pro,pornoreino\\.com,pornoserver\\.eu,pornoteensex\\.com,pornovka\\.cz,pornozot\\.com,pornpy\\.com,pornrox\\.com,pornsilo\\.net,pornstarsadvice\\.com,pornstarsluv\\.com,porntube\\.com,porntubeplace\\.net,porntui\\.com,porntui\\.comen,pornuploaded\\.net,pornv\\.porn,pornvideohunter\\.com,pornvideoj\\.com,pornvideos247\\.com,pornvideoslove\\.com,pornvideotop\\.com,pornwatch\\.ws,pornwatchers\\.com,pornwhite\\.com,pornxs\\.com,pornxxxplace\\.com,pornyeah\\.com,pornyfap\\.com,priva\\.us,privateindianmovies\\.com,pronworld\\.com,prostoporno\\.sexy,prostylex\\.com,pussygirls\\.com,pussyhothub\\.com,pussymaturephoto\\.com,pussymoms\\.com,pussyspace\\.com,pussyspot\\.net,queenofmature\\.com,queerclick\\.com,quincetube\\.com,rabbitsfun\\.com,raccontivietati\\.com,rainytube\\.com,raptormovies\\.com,rarevintagetube\\.com,rawindianporn\\.com,realbbwsex\\.com,realbfporn\\.com,realfattube\\.com,realgfporn\\.com,realvoyeursex\\.com,reamporn\\.com,reddflix\\.com,redtub3xxx\\.com,redwap\\.me,repairlinkshop\\.com,retroporn\\.sexy,ritzyamateursex\\.com,ritzyporn\\.com,ritzysex\\.com,rl-porevo\\.net,roughsexpic\\.com,ruedux\\.com,ruenu\\.com,saradahentai\\.com,sassytube\\.com,sassytwinks\\.com,scorpiotube\\.com,securemeters\\.com,see\\.xxx,selfies,sensibleendowment\\.com,sensualgirls\\.org,seqing\\.world,sex-with-mom\\.com,sex01\\.org,sexato\\.com,sexgrandmapics\\.com,sexhardtubes\\.com,sexhayvc\\.com,sexhdtuber\\.com,sexiestpicture\\.com,sexlargetube\\.com,sexmilf\\.net,sexmoza\\.com,sexocean\\.com,sexoparalelo\\.com,sexpuss\\.org,sexrura\\.pl,sextube-6\\.com,sextubedot\\.com,sextubexxl\\.com,sexu\\.com,sexy-streaming\\.com,sexy-youtubers\\.com,sexyasianteenspics\\.com,sexybabes\\.club,sexyhotteens\\.com,sexyhub-tube\\.com,sexykittenporn\\.com,sexymature\\.net,sexymaturepussy\\.com,sexymilfsearch\\.com,sexynakedgirlspics\\.com,sexyoungclips\\.com,sexyteenspussy\\.com,sexytrunk\\.com,shameless\\.com,shemaleexpanse\\.com,shemalepic\\.net,shemaleroom\\.com,shemalestreet\\.com,shemaletubz\\.com,shemalez\\.com,sheshaft\\.com,shockingmovies\\.com,shwemyanmar\\.com\\.mm,silvermilfs\\.com,simply-hentai\\.com,singlove\\.com,skidrowcpy\\.com,skygals\\.com,slaughtergays\\.com,sluktoersten\\.dk,slutdump\\.com,smatricom\\.net,smplace\\.com,sokobj\\.com,sollan\\.co\\.il,solopornoitaliani\\.xxx,sonorousporn\\.com,soyoungteens\\.com,spankwire\\.com,speedporn\\.net,spycock\\.com,sss\\.xxx,stepsisterfuck\\.me,stileproject\\.com,strangertits\\.com,stream-69\\.com,stream2watch\\.eu,streamhunter\\.net,streamhunter\\.top,streamingporn\\.xyz,streams2watch\\.me,streamsfinder\\.com,submityourflicks\\.com,sunnyboobs\\.com,sunporno\\.com,sunyacc\\.edu,superbgays\\.com,sweet-maturewomen\\.com,sweetadult-tube\\.com,sweettwinks\\.com,swipe\\.xxx,taianhsex\\.com,tarjetarojaonline\\.eu,tarjetarojaonline\\.org,taxi69\\.com,tbib\\.org,teen-fucktube\\.com,teen-tube-18\\.com,teen-tube-19\\.com,teen-tube-21\\.com,teen-tube-porn\\.com,teen18hd\\.com,teenage-nudists\\.net,teenagefucking\\.com,teenamateurphoto\\.com,teenassporn\\.com,teenbabe\\.link,teenextrem\\.com,teengirlsporn\\.com,teenhost\\.net,teenhubxxx\\.com,teennudegirls\\.com,teenpicspussy\\.com,teenporn-yes\\.com,teenporn\\.ws,teenporntube\\.xxx,teenpornvideo\\.xxx,teenpornvideos\\.me,teensalute\\.com,teensaura\\.com,teensex0\\.com,teensextube\\.xxx,teensexvideos\\.me,teensfuck\\.me,teenskitten\\.com,teensneedsex\\.com,teensonporn\\.com,teensporn\\.tv,teenspornpictures\\.com,teentube-18\\.com,teenyoungpussy\\.com,theboobsblog\\.com,thedoujin\\.com,thegay\\.com,thegay\\.porn,thehentaiworld\\.com,theteensexy\\.com,thisav\\.com,thisav\\.video,thisavjp\\.com,thisvid\\.com,timetoteens\\.com,titsbox\\.com,tnaflix\\.com,tomodachinpo\\.com,tongabonga\\.com,topasiantube\\.net,toplesbianporn\\.com,torrentgalaxy\\.org,tourporno\\.com,tranny\\.one,transsexplace\\.com,tryboobs\\.com,tstubexxx\\.com,tube-pornomovs\\.com,tube18\\.sex,tubebikini\\.com,tubedupe\\.com,tubedxxx\\.com,tubeflv\\.com,tubeline\\.biz,tubemilfxxx\\.com,tubepornanal\\.com,tubepornasian\\.com,tubepornclassic\\.com,tubepornstock\\.com,tuberel\\.com,tuberl\\.com,tubes\\.live,tubesex\\.me,tubesfuck\\.com,tubevintageporn\\.com,tubexxxexcellent\\.com,tubous\\.com,tubsexer\\.com,tvmd\\.info,twatis\\.com,twinksfuck\\.me,twinkybf\\.com,twistedporn\\.com,ulklad\\.ru,ulsex\\.net,ultragranny\\.com,ultrateenporn\\.com,unhas\\.ac\\.id,uniqxxxtube\\.com,upornia\\.com,uporno\\.xxx,upskirtporn\\.de,venusarchives\\.com,videoporncock\\.com,videopornoamatoriale\\.it,videosdotados\\.com,videosesso\\.com,videosexyteen\\.com,videosxxxporno\\.gratis,viewmature\\.com,vikiporn\\.com,vintageporntubes\\.com,vintagepornvideos\\.sexy,vipbox\\.biz,vipboxing\\.eu,vivud\\.com,vixvids\\.to,vjav\\.com,voyeurcentre\\.com,voyeurhit\\.com,vqporn\\.com,wallpaperspic\\.pw,wankoz\\.com,wantedmovies\\.com,watchfreexxx\\.net,watchfreexxx\\.pw,watchmyexgf\\.net,watchpornfree\\.ws,watchxxxfree\\.pw,wauporn\\.com,waybig\\.com,webcamsdot\\.net,webdesigndev\\.com,webringporn\\.com,wetpornvideos\\.net,wetsins\\.com,whatav\\.com,whatsselfies\\.com,whichav\\.com,whichav\\.net,whitexxxtube\\.com,wifeporn\\.de,wikimilf\\.com,wildmaturemoms\\.com,wildpictures\\.net,wildretroporn\\.com,wildteenporn\\.com,wisiwig\\.eu,wiziwig\\.ru,wiziwig\\.to,worldsex\\.com,wowasiangirls\\.com,wowjapangirls\\.com,wowjapangirls\\.net,wowpornlist\\.xyz,wowpornvideos\\.com,xbooru\\.com,xboys\\.me,xboyzzz\\.com,xcafe\\.com,xecce\\.com,xfilmen\\.com,xfuckonline\\.com,xnnxfree\\.com,xnxx-downloader\\.net,xnxxs\\.xxx,xnxxvideo\\.pro,xnxxvideoporn\\.com,xopenload\\.pw,xpornfuck\\.com,xpornphotos\\.com,xspiel\\.com,xstory-fr\\.com,xtapes\\.me,xtwinks\\.me,xvideos\\.tv\\.br,xvideosxporn\\.com,xwhite-tube\\.com,xxx-hd-teens\\.com,xxx-hd-tube\\.com,xxx-photo\\.com,xxx-y\\.com,xxxadd\\.com,xxxblowjob\\.pro,xxxery\\.com,xxxfat-videos\\.com,xxxfreepornpics\\.com,xxxholder\\.com,xxxity\\.com,xxxkingtube\\.com,xxxmomsonline\\.com,xxxmoviestream\\.xyz,xxxnakedpics\\.com,xxxnudeteens\\.com,xxxparodyhd\\.net,xxxpornotube\\.net,xxxpussywet\\.com,xxxretro\\.pro,xxxscenes\\.net,xxxstream\\.me,xxxstreams\\.org,xxxtubedot\\.com,xxxtubegain\\.com,xxxtubemature\\.net,xxxtubenote\\.com,xxxtubepass\\.com,xxxvideor\\.com,xxxvideostrue\\.com,xxxwetvideos\\.com,xxxworm\\.com,yes\\.xxx,yestubemature\\.com,yeswegays\\.com,yetimovies\\.com,yify-films\\.com,yoerotica\\.com,yogranny\\.com,yongfucknaked\\.com,youandjizz\\.com,youfreepornotube\\.com,young-ass\\.com,young-pussy\\.com,youngbelle\\.net,youngerasiangirl\\.net,youngerporn\\.mobi,youngleak\\.com,youngpornpics\\.com,youngpornpussy\\.com,youngselfpics\\.net,youngsex0\\.com,youngsexpics\\.com,youngsexygfs\\.com,youngteensporn\\.com,your-daily-girl\\.com,youramateurtube\\.com,yourhomemadetube\\.com,yourlust\\.com,yourtranny-sex\\.com,yousexvideos\\.net,youwatchporn\\.com,yumstories\\.com,zbporn\\.com,zenfield\\.pro,zhlednito\\.cz#\\$#abort-current-inline-script document\\.dispatchEvent myEl; abort-on-property-read aNB; abort-on-property-read BetterJsPop; abort-on-property-read ExLdr\\.serve; abort-on-property-read exoDocumentProtocol; abort-on-property-read ExoLoader; abort-on-property-read ExoLoader\\.addZone; abort-on-property-read ExoLoader\\.serve; abort-on-property-read exoNoExternalUI38djdkjDDJsio96; abort-on-property-read ExoooLoooader; abort-on-property-read getexoloader; abort-on-property-read popit",
+			"url-filter": "^https?://.*123xxx\\.xyz,18-teen-porn\\.com,18-teen-sex\\.com,18-teen-tube\\.com,18girlssex\\.com,18hqporn\\.com,18teen-tube\\.com,18teenporno\\.tv,18tubehd\\.com,1lesbiantube\\.com,1xxx-tube\\.com,2017tube\\.com,2018tube\\.com,22pixx\\.xyz,24pornvideos\\.com,2japaneseporn\\.com,3movs\\.com,3naked\\.com,3prn\\.com,429tube\\.com,4asianporn\\.com,4tube\\.com,5299\\.tv,69teentube\\.com,8asiansex\\.com,8boobs\\.com,8teenbay\\.net,8teenxxx\\.com,9gag2\\.com,absolugirl\\.com,absoluporn\\.com,absolutube\\.com,activevoyeur\\.com,acutetube\\.net,adultdvdparadise\\.com,adultvideosjapanese\\.com,adultxpedia\\.com,aflamsexnek\\.com,agedtubeporn\\.com,agedvideos\\.com,ah-me\\.com,airsextube\\.com,al4a-archives\\.com,al4a\\.com,allafricangirls\\.net,allbbwtube\\.com,allindianporno\\.com,allmilftube\\.com,allpussynow\\.com,allpussypics\\.com,allschoolboysecrets\\.com,alltstube\\.com,allureamateurs\\.net,alotporn\\.com,alrincon\\.com,amateur-twink\\.com,amateurandreal\\.com,amateurbusters\\.com,amateurebonypics\\.com,amateurmaturewives\\.com,amateurmoms\\.net,amateurpicsporn\\.com,amateurporn1\\.com,amateuryoungpics\\.com,analdin\\.com,animesfox\\.com\\.br,antarvasnastories\\.com,anyporn\\.com,anysex\\.com,arabxnx\\.com,area51\\.porn,ariestube\\.com,artium\\.org,arturia\\.com,asian-teen-sex\\.com,asianbabestube\\.com,asianhamster\\.com,asianpornphoto\\.net,asianporntube69\\.com,asianteenagefucking\\.com,asianxxxvideo\\.net,astucito\\.com,atdhe\\.cc,atdhe\\.sx,avyahoo\\.com,babesinporn\\.com,babesjoy\\.com,babeswp\\.com,babesxworld\\.com,bananamovies\\.net,bangyourwife\\.com,barfuck\\.com,basiltube\\.com,bbw\\.com\\.es,bbwpussypics\\.com,bdsmporntub\\.com,bdsmslavemovie\\.com,bdsmstreak\\.com,bdsmwaytube\\.com,beautyass\\.com,beegsexporn\\.com,befap\\.com,best-xxxvideos\\.com,best18teens\\.com,bestanime-xxx\\.com,bestfootfetishtube\\.com,besthugecocks\\.com,bestjapaneseporn\\.net,bestmaturewomen\\.com,bestpussypics\\.net,betterhdporn\\.com,bigassphotos\\.com,bigasspictures\\.net,bigbangtube\\.com,bigcocker\\.com,bigcockgaytube\\.com,bigcockhub\\.com,biggestasspics\\.com,bigtitsxxxfree\\.com,bigtitsxxxsex\\.com,bioskop10\\.com,bioskop60\\.net,blackamateursnaked\\.com,blacksexmix\\.com,blackteen\\.link,blasensex\\.com,blowjobgif\\.net,blowjobpornset\\.com,blowxxxtube\\.com,bobs-tube\\.com,boobsforfun\\.com,bravoerotica\\.com,breedingmoms\\.com,brokenteen\\.net,buonaporno\\.com,bustmonkey\\.com,bustybloom\\.com,callfuck\\.com,camarads\\.com,camrouge\\.com,camuploads\\.com,canalporno\\.com,carvetube\\.com,cekc-tube\\.ru,celebrity-leaks\\.net,cercagirl\\.com,chicoscam\\.com,chieftube\\.com,chyoa\\.com,classicpornbest\\.com,classicpornvids\\.com,club-flank\\.com,cockmeter\\.com,cockpornpics\\.com,cocksexpics\\.com,cocogals\\.com,collegeteentube\\.com,comic-porno\\.com,comicxxx\\.eu,coquinetv\\.com,cosepermaschi\\.it,couplevideos\\.net,cuckoldmature\\.com,cumlouder\\.com,cumshotlist\\.com,cutieporno\\.com,daftporn\\.com,dailylesbianporn\\.com,daporngifs\\.com,dawntube\\.com,decorativemodels\\.com,deliciousbabes\\.org,desihoes\\.com,desimms\\.co,desimmshd\\.com,deutschepornos-kostenlos\\.com,deutschsex\\.com,devilporn\\.org,dimtus\\.com,dirtyasiantube\\.com,dirtybadger\\.com,dirtytamil\\.com,dirtytubemix\\.com,do-xxx\\.com,domashka\\.tv,dorevitch\\.com\\.au,dosexybabes\\.com,dotfreesex\\.com,dotfreexxx\\.com,doujinshi\\.rocks,dreamamateurs\\.com,drumstube\\.com,drunkmoms\\.net,dump\\.xxx,easymilftube\\.net,ebonyamateurphoto\\.com,efappy\\.com,electsex\\.com,embedy\\.me,empflix\\.com,empowher\\.com,empressleak\\.biz,en\\.firstrowi\\.com,enjoyfuck\\.com,enormousbabes\\.net,entertubeporn\\.com,entrejuegosgratis\\.com,eporner\\.com,erett\\.sex\\.hu,erofus\\.com,erogen\\.su,eroprofile\\.com,erospots\\.info,erotichdworld\\.com,eroticteen\\.com,eroticteensphoto\\.net,erowall\\.com,eroxia\\.com,eurocali\\.it,exclusiveindianporn\\.com,exposedlyrics\\.com,extremetube\\.com,faapy\\.com,familypornhd\\.com,famuathletics\\.com,fantasti\\.cc,fapality\\.com,fatwhitebutt\\.com,favefreeporn\\.com,femdom-joi\\.com,femdomporntubes\\.com,femdomtube\\.xxx,fetishshrine\\.com,figtube\\.com,filestore\\.to,filmpornofrancais\\.fr,filth4you\\.com,fineretroporn\\.com,finevids\\.xxx,firstrow1us\\.eu,firstrowsportes\\.net,firstsrowsports\\.com,firstsrowsports\\.tv,fitteasatismerkezi\\.com,free-sex-video\\.net,freeboytwinks\\.com,freegrannyvids\\.com,freehindisexstories\\.com,freehqporn\\.net,freehqtube\\.com,freeimagefap\\.com,freelatinapics\\.com,freematureasses\\.com,freematuresexpics\\.com,freeomovie\\.info,freepornasia\\.com,freepornik\\.com,freepornstreams\\.org,freepornvideo\\.sex,freepornvintage\\.com,freesexvideos24\\.com,freestreams\\.eu,freetubegalore\\.com,freevintageporn\\.net,freevintagetube\\.com,freexmovs\\.com,freexxxvideos\\.pro,freeyounggayporn\\.com,freshbbw\\.com,freshebonytubes\\.com,freshmaturespussy\\.com,freshsexxvideos\\.com,freundinsex\\.com,freyalist\\.com,frostytube\\.com,frprn\\.com,ftopx\\.com,fuckedporno\\.com,fuckhairygirls\\.com,fuckhardporn\\.com,fuckhottwink\\.com,fuckmimimi\\.com,fucksexybabes\\.com,fuckslutsonline\\.com,fuckvideos\\.adult,fuckvideoshot\\.com,fullhdxxx\\.com,fullpornmovies\\.net,fullxxxmovies\\.me,fullxxxmovies\\.net,fullyhd\\.com,funimg\\.net,fuqer\\.com,furryporn\\.xxx,fux\\.com,gallant-matures\\.com,gameofporn\\.com,ganstamovies\\.com,gay-boys-xxx\\.com,gay-dicks\\.com,gayarrangement\\.com,gayboyshd\\.com,gayboystube\\.com,gayfuckingass\\.com,gayhardfuck\\.com,gaypornmasters\\.com,gaypornwave\\.com,gayteenshd\\.com,gayyoungporn\\.com,gcruise\\.com,getitinside\\.com,ghettopearls\\.com,ghostbabes\\.com,giantshemalecocks\\.com,giddyteens\\.com,gifsfor\\.com,gir18\\.com,girl-directory\\.com,girlfriendsexphoto\\.com,girlfuckgalleries\\.com,girlnude\\.link,girlscanner\\.cc,girlssexxxx\\.com,glamourxxx-online\\.com,go-xxx-go\\.com,goatd\\.me,godjapan\\.com,goldesel\\.to,gonewild\\.co,goodcomix\\.tk,googlxx\\.com,gopornindian\\.com,gosexpod\\.com,gotporn\\.com,goxxxvideos\\.com,grandmatube\\.pro,grannybeautypics\\.com,grannycutepics\\.com,grannyfucko\\.com,grannyfuckxxx\\.com,grannypicsdaily\\.com,grannyporn\\.name,grannypornpics\\.com,grannypornpicture\\.com,grannypornpictures\\.com,grannysex\\.name,grannysexphoto\\.com,grannysexypics\\.com,grannysfucking\\.net,grannyslutphoto\\.com,gratuito\\.xxx,greensmut\\.com,grouppornotube\\.com,grouppornxxx\\.com,guruofporn\\.com,guyswithiphones\\.com,hairy-amateurs\\.com,hairybeautyphoto\\.com,hairygirlnaked\\.com,hairytwat\\.org,hardcorehd\\.xxx,hardcorepornhot\\.com,hardsextube\\.com,hclips\\.com,hd-analporn\\.com,hd-tube-porn\\.com,hd-world\\.org,hdfuckxxx\\.com,hdmoza\\.com,hdporn8\\.com,hdpornole\\.pl,hdpornpussy\\.com,hdpornt\\.com,hdpornteen\\.com,hdzog\\.com,hentaiarena\\.com,hentaidream\\.org,hentaifox\\.com,hentaiporn\\.com\\.es,hentaipulse\\.com,hentairider\\.com,hentaiyes\\.com,hiddencamhd\\.com,hindiporno\\.pro,hindisexkahaniyan\\.com,hitomi\\.la,home-made-videos\\.com,homemature\\.net,homemoviestube\\.com,hornybitches\\.org,hornyhotmoms\\.com,hornyteenpussy\\.com,hot-mature-videos\\.com,hot-sex-tube\\.com,hotclips24\\.com,hotgayporn\\.pro,hotgirlclub\\.com,hotgirlhub\\.com,hotjapantubes\\.com,hotmaturegirlfriends\\.com,hotmaturetubes\\.net,hotmilfgalleries\\.com,hotmilfpictures\\.com,hotmomspussy\\.com,hotmovs\\.com,hotmoza\\.com,hotnakedteenporn\\.com,hotnudegirlporn\\.com,hotpornfile\\.org,hotpornlove\\.com,hotpussyhubs\\.com,hotsexlove\\.com,hotsexyteen\\.com,hotsexyteenspics\\.com,hotstep-mom\\.com,hotstunners\\.com,hotteenpornpics\\.com,hotteensexpics\\.com,hotvintagetube\\.net,hotxnxxporn\\.com,hotyounggirls\\.net,hqamateurtubes\\.com,hqhardcoreporno\\.com,hqsex-xxx\\.com,hqxxxmovies\\.com,ifreefuck\\.com,ilivestream\\.com,iluvtoons\\.com,imagedecode\\.com,imagenesmy\\.com,imageteam\\.org,img2share\\.com,imgadult\\.com,imgclick\\.net,imgcloud\\.pw,imgdawgknuttz\\.com,imgdew\\.com,imgdew\\.pw,imgdone\\.com,imgdrive\\.net,imgking\\.xyz,imgkings\\.com,imgmaid\\.net,imgmaze\\.pw,imgnemo\\.com,imgoutlet\\.com,imgpeak\\.com,imgprime\\.com,imgrock\\.info,imgrock\\.net,imgrock\\.pw,imgsay\\.com,imgspice\\.com,imgstudio\\.org,imgtaxi\\.com,imgtornado\\.com,imgtorrnt\\.in,imgtown\\.net,imgtown\\.pw,imzog\\.com,indecentvideos\\.com,indianbestporn\\.com,infinityerotic\\.com,interflora\\.co\\.uk,interflora\\.ie,ipornia\\.com,ipornpictures\\.com,italianoxxx\\.com,iteenpornpics\\.com,iwantgalleries\\.com,iwantmature\\.com,japanesefuck\\.com,japanesemomsex\\.com,japanesepornvideos\\.net,japanfuck\\.com\\.es,japanpornvideo\\.net,japanstubes\\.com,japansvids\\.com,japanxxxass\\.com,japornhd\\.com,jav688\\.com,jav789\\.com,javbuz\\.com,javhihi\\.com,javkiki\\.com,javteentube\\.com,jemontremabite\\.com,jemontremasextape\\.com,jemontremonminou\\.com,jenpornuj\\.cz,jesseporn\\.xyz,jigglegifs\\.com,juicyflaps\\.com,juicygif\\.com,juicygranny\\.com,justababes\\.com,justsexpictures\\.com,kaboomtube\\.com,kaotic\\.com,kendralist\\.com,kingsofteens\\.com,kisscartoon\\.pro,kissdoujin\\.com,kisshentai\\.net,kittyfuckstube\\.com,klaustube\\.com,korean-sex-video\\.com,koreancreampie\\.com,koreansexporn\\.com,kporno\\.com,krank\\.de,labibledesastuces\\.com,lanasbigboobs\\.com,latexgirls\\.org,latinoweb-tv\\.com,lawanswers\\.com\\.au,lesbianic\\.com,lesbianloveclub\\.com,letfap\\.com,lightxxxtube\\.com,line25\\.com,lizardporn\\.com,ljcam\\.net,loanadministration\\.com,lonely-mature\\.com,lovelynudez\\.com,lshunters\\.tv,lushdiaries\\.com,lustylist\\.com,lustyspot\\.com,lux-teen-pics\\.com,luxmoms\\.com,luxviral\\.com,madchensex\\.com,mainporno\\.com,malexxx\\.net,malleys\\.com,mangoparody\\.com,mangoporn\\.co,mangoporn\\.net,mangovideo\\.pw,marchetravelling\\.com,massagefreetube\\.com,mature-xxx-videos\\.com,mature4\\.net,maturegrannypics\\.com,maturemilfs\\.net,maturemomhot\\.com,maturemompics\\.com,maturemomspics\\.com,maturepicspussy\\.com,maturepornpics\\.me,maturesfuck\\.com,maturesinhd\\.com,maturewithyoung\\.com,maxcuckold\\.com,me-tube\\.com,megaboobsgirls\\.com,megafreepics\\.com,megahugetits\\.com,megajapansex\\.com,megasesso\\.com,megatube\\.xxx,milfhdvideos\\.com,milfjam\\.com,milfmomporn\\.com,milfpussy-sex\\.com,milfsaloon\\.com,milfshow\\.com,milfspics\\.com,milfspictures\\.com,mimimiporn\\.com,misterboys\\.com,mmhiphopchannel\\.com,mobileasiantube\\.net,modelsxxxtube\\.com,mom-fuck\\.me,mom-pussy\\.com,mom-x\\.com,momandyoungboys\\.com,momjerk\\.com,mommy-pussy\\.com,momsoclock\\.com,momspost\\.com,momsprice\\.com,momstube-porn\\.com,momthumb\\.com,motherandboyvideos\\.com,moviesinspector\\.com,mrporngeek\\.com,mrsexe\\.com,mujeres-desnudas\\.com,multporn\\.net,muschitube\\.com,musicatorrents\\.com,mybbwtube\\.com,mybestxtube\\.com,myfreemoms\\.com,myfreesexpics\\.com,myhentai\\.tv,mylust\\.com,mynakedteens\\.com,mynudez\\.com,myp1p\\.eu,myp2p\\.biz,mypornpics\\.com,mypornstarbook\\.net,myreadingmanga\\.info,mystore\\.to,myteensexpics\\.com,myyoungbabe\\.com,nackte\\.com,nakedamateurs\\.link,nakedbbw-sex\\.com,nakedgirls\\.link,nakedgirlspornpics\\.com,nakedmature\\.sexy,nakedmaturemoms\\.com,nakedmaturestubes\\.com,nakedmilfs\\.sexy,nakedselfphotos\\.com,nakedteenporn\\.com,nakenprat\\.com,neatfreeporn\\.com,neatpornodot\\.com,needgayporn\\.com,netflixporno\\.net,newchallenges\\.com\\.mm,newestxxx\\.com,newgrandmapictures\\.com,newretroporn\\.com,newsextv\\.com,newtorrentgame\\.com,newxxxvideos\\.net,newytstorrent\\.com,nicemilfpics\\.com,nicexxxtube\\.com,nightlifeporn\\.com,nsfwalbum\\.com,nude-beach-tube\\.com,nude-teen-18\\.com,nudebabes\\.sexy,nudehotmoms\\.com,nudematuremilfs\\.com,nudemomshots\\.com,nudeperfectgirls\\.com,nudesexymoms\\.com,nudeteenporn\\.com,nudeteenpornsex\\.com,nudeteenpussy\\.com,nudeyoungporn\\.com,nudeyoungteen\\.com,nudismteens\\.com,nudisteens\\.com,nudistube\\.com,nurlesben\\.com,nylonbabez\\.net,ohueli\\.net,ok-gay\\.com,okporn\\.com,olalatube\\.com,older-mature\\.net,oldgrannylovers\\.com,oldsluthardcore\\.com,oldwomanfuck\\.net,oldwomansex\\.net,oldwomensex\\.net,online-xxxmovies\\.com,onlinefucktube\\.com,onlinegrannyporn\\.com,onlineteenhub\\.com,onlygayvideo\\.com,onlygoldmovies\\.com,onlyhgames\\.com,onlylesbianvids\\.com,onmpeg\\.com,ooo-maturesex\\.com,oosex\\.net,ooxxtube\\.com,orgasmlist\\.com,orgyxxxhub\\.com,pandamovies\\.me,pandamovies\\.pw,pandaporn\\.net,panduansaya\\.com,pantyhosecool\\.com,paralink\\.com,parapetite\\.info,parspack\\.com,passpix\\.com,peachytube\\.com,pedant\\.ru,perfectgirls\\.es,perfectgirls\\.net,perfectgirlspussy\\.com,perfectnudegirls\\.com,perfektdamen\\.co,pervclips\\.com,pervertedmilfs\\.com,pezporn\\.com,picbank\\.tk,pichaloca\\.com,picmoza\\.com,pictoa\\.com,picturelol\\.com,piczki\\.pl,pinflix\\.com,pinkteenpics\\.com,pixhost\\.to,playpornfree\\.xyz,pleasuregirl\\.net,plusone8\\.com,polochka\\.net,pomelotube\\.com,popcorntimes\\.ws,poringa\\.net,porn-hd-tube\\.com,porn\\.com,porn0\\.tv,porn18sex\\.com,porn300\\.com,porn555\\.com,porn613\\.net,pornabcd\\.com,pornbestpics\\.com,pornchaos\\.org,pornclipshub\\.com,pornclipsxxx\\.com,porncomics\\.me,porndaa\\.com,porndavid\\.com,porndeva\\.com,porndoe\\.com,porndollz\\.com,pornerbros\\.com,porneva\\.com,pornexpanse\\.com,pornforrelax\\.com,porngo\\.tv,porngq\\.com,pornhail\\.com,pornhd\\.com,pornhd8k\\.net,pornhdin\\.com,pornhegemon\\.com,pornhugo\\.com,pornicom\\.com,pornj\\.com,pornkino\\.cc,pornl\\.com,pornlif\\.com,pornlivehd\\.com,pornlovo\\.co,pornmaki\\.com,pornmam\\.com,pornmaniak\\.com,pornmaturetube\\.com,pornmom\\.net,pornmoms\\.org,pornnudexxx\\.com,porno-zhena\\.com,porno666\\.com,pornoaid\\.com,pornobae\\.com,pornobengala\\.com,pornocrados\\.com,pornodoido\\.com,pornodom\\.tv,pornohaha\\.com,pornokeep\\.com,pornomovies\\.com,pornonote\\.pro,pornoreino\\.com,pornoserver\\.eu,pornoteensex\\.com,pornovka\\.cz,pornozot\\.com,pornpy\\.com,pornrox\\.com,pornsilo\\.net,pornstarsadvice\\.com,pornstarsluv\\.com,porntube\\.com,porntubeplace\\.net,porntui\\.com,porntui\\.comen,pornuploaded\\.net,pornv\\.porn,pornvideohunter\\.com,pornvideoj\\.com,pornvideos247\\.com,pornvideoslove\\.com,pornvideotop\\.com,pornwatch\\.ws,pornwatchers\\.com,pornwhite\\.com,pornxs\\.com,pornxxxplace\\.com,pornyeah\\.com,pornyfap\\.com,priva\\.us,privateindianmovies\\.com,pronworld\\.com,prostoporno\\.sexy,prostylex\\.com,pussygirls\\.com,pussyhothub\\.com,pussymaturephoto\\.com,pussymoms\\.com,pussyspace\\.com,pussyspot\\.net,queenofmature\\.com,queerclick\\.com,quincetube\\.com,rabbitsfun\\.com,raccontivietati\\.com,rainytube\\.com,raptormovies\\.com,rarevintagetube\\.com,rawindianporn\\.com,realbbwsex\\.com,realfattube\\.com,realgfporn\\.com,realvoyeursex\\.com,reamporn\\.com,reddflix\\.com,redtub3xxx\\.com,redwap\\.me,repairlinkshop\\.com,retroporn\\.sexy,ritzyamateursex\\.com,ritzyporn\\.com,ritzysex\\.com,rl-porevo\\.net,roughsexpic\\.com,ruedux\\.com,ruenu\\.com,saradahentai\\.com,sassytube\\.com,sassytwinks\\.com,scorpiotube\\.com,securemeters\\.com,see\\.xxx,selfies,sensibleendowment\\.com,sensualgirls\\.org,seqing\\.world,sex-with-mom\\.com,sex01\\.org,sexato\\.com,sexgrandmapics\\.com,sexhardtubes\\.com,sexhayvc\\.com,sexhdtuber\\.com,sexiestpicture\\.com,sexlargetube\\.com,sexmilf\\.net,sexmoza\\.com,sexocean\\.com,sexoparalelo\\.com,sexpuss\\.org,sexrura\\.pl,sextube-6\\.com,sextubedot\\.com,sextubexxl\\.com,sexu\\.com,sexy-streaming\\.com,sexy-youtubers\\.com,sexyasianteenspics\\.com,sexybabes\\.club,sexyhotteens\\.com,sexyhub-tube\\.com,sexykittenporn\\.com,sexymature\\.net,sexymaturepussy\\.com,sexymilfsearch\\.com,sexynakedgirlspics\\.com,sexyoungclips\\.com,sexyteenspussy\\.com,sexytrunk\\.com,shameless\\.com,shemaleexpanse\\.com,shemalepic\\.net,shemaleroom\\.com,shemalestreet\\.com,shemaletubz\\.com,shemalez\\.com,sheshaft\\.com,shockingmovies\\.com,shwemyanmar\\.com\\.mm,silvermilfs\\.com,simply-hentai\\.com,singlove\\.com,skidrowcpy\\.com,skygals\\.com,slaughtergays\\.com,sluktoersten\\.dk,slutdump\\.com,smatricom\\.net,smplace\\.com,sokobj\\.com,sollan\\.co\\.il,solopornoitaliani\\.xxx,sonorousporn\\.com,soyoungteens\\.com,spankwire\\.com,speedporn\\.net,spycock\\.com,sss\\.xxx,stepsisterfuck\\.me,stileproject\\.com,strangertits\\.com,stream-69\\.com,stream2watch\\.eu,streamhunter\\.net,streamhunter\\.top,streamingporn\\.xyz,streams2watch\\.me,streamsfinder\\.com,submityourflicks\\.com,sunnyboobs\\.com,sunporno\\.com,sunyacc\\.edu,superbgays\\.com,sweet-maturewomen\\.com,sweetadult-tube\\.com,sweettwinks\\.com,swipe\\.xxx,taianhsex\\.com,tarjetarojaonline\\.eu,tarjetarojaonline\\.org,taxi69\\.com,tbib\\.org,teen-fucktube\\.com,teen-tube-18\\.com,teen-tube-19\\.com,teen-tube-21\\.com,teen-tube-porn\\.com,teen18hd\\.com,teenage-nudists\\.net,teenagefucking\\.com,teenamateurphoto\\.com,teenassporn\\.com,teenbabe\\.link,teenextrem\\.com,teengirlsporn\\.com,teenhost\\.net,teenhubxxx\\.com,teennudegirls\\.com,teenpicspussy\\.com,teenporn-yes\\.com,teenporn\\.ws,teenporntube\\.xxx,teenpornvideo\\.xxx,teenpornvideos\\.me,teensalute\\.com,teensaura\\.com,teensex0\\.com,teensextube\\.xxx,teensexvideos\\.me,teensfuck\\.me,teenskitten\\.com,teensneedsex\\.com,teensonporn\\.com,teensporn\\.tv,teenspornpictures\\.com,teentube-18\\.com,teenyoungpussy\\.com,theboobsblog\\.com,thedoujin\\.com,thegay\\.com,thegay\\.porn,thehentaiworld\\.com,theteensexy\\.com,thisav\\.com,thisav\\.video,thisavjp\\.com,thisvid\\.com,timetoteens\\.com,titsbox\\.com,tnaflix\\.com,tomodachinpo\\.com,tongabonga\\.com,topasiantube\\.net,toplesbianporn\\.com,torrentgalaxy\\.org,tourporno\\.com,tranny\\.one,transsexplace\\.com,tryboobs\\.com,tstubexxx\\.com,tube-pornomovs\\.com,tube18\\.sex,tubebikini\\.com,tubedupe\\.com,tubedxxx\\.com,tubeflv\\.com,tubeline\\.biz,tubemilfxxx\\.com,tubepornanal\\.com,tubepornasian\\.com,tubepornclassic\\.com,tubepornstock\\.com,tuberel\\.com,tuberl\\.com,tubes\\.live,tubesex\\.me,tubesfuck\\.com,tubevintageporn\\.com,tubexxxexcellent\\.com,tubous\\.com,tubsexer\\.com,tvmd\\.info,twatis\\.com,twinksfuck\\.me,twinkybf\\.com,twistedporn\\.com,ulklad\\.ru,ulsex\\.net,ultragranny\\.com,ultrateenporn\\.com,unhas\\.ac\\.id,uniqxxxtube\\.com,upornia\\.com,uporno\\.xxx,upskirtporn\\.de,venusarchives\\.com,videoporncock\\.com,videopornoamatoriale\\.it,videosdotados\\.com,videosesso\\.com,videosexyteen\\.com,videosxxxporno\\.gratis,viewmature\\.com,vikiporn\\.com,vintageporntubes\\.com,vintagepornvideos\\.sexy,vipbox\\.biz,vipboxing\\.eu,vivud\\.com,vixvids\\.to,vjav\\.com,voyeurcentre\\.com,voyeurhit\\.com,vqporn\\.com,wallpaperspic\\.pw,wankoz\\.com,wantedmovies\\.com,watchfreexxx\\.net,watchfreexxx\\.pw,watchmyexgf\\.net,watchpornfree\\.ws,watchxxxfree\\.pw,wauporn\\.com,waybig\\.com,webcamsdot\\.net,webdesigndev\\.com,webringporn\\.com,wetpornvideos\\.net,wetsins\\.com,whatav\\.com,whatsselfies\\.com,whichav\\.com,whichav\\.net,whitexxxtube\\.com,wifeporn\\.de,wikimilf\\.com,wildmaturemoms\\.com,wildpictures\\.net,wildretroporn\\.com,wildteenporn\\.com,wisiwig\\.eu,wiziwig\\.ru,wiziwig\\.to,worldsex\\.com,wowasiangirls\\.com,wowjapangirls\\.com,wowjapangirls\\.net,wowpornlist\\.xyz,wowpornvideos\\.com,xbooru\\.com,xboys\\.me,xboyzzz\\.com,xcafe\\.com,xecce\\.com,xfilmen\\.com,xfuckonline\\.com,xnnxfree\\.com,xnxx-downloader\\.net,xnxxs\\.xxx,xnxxvideo\\.pro,xnxxvideoporn\\.com,xopenload\\.pw,xpornfuck\\.com,xpornphotos\\.com,xspiel\\.com,xstory-fr\\.com,xtapes\\.me,xtwinks\\.me,xvideos\\.tv\\.br,xvideosxporn\\.com,xwhite-tube\\.com,xxx-hd-teens\\.com,xxx-hd-tube\\.com,xxx-photo\\.com,xxx-y\\.com,xxxadd\\.com,xxxblowjob\\.pro,xxxery\\.com,xxxfat-videos\\.com,xxxfreepornpics\\.com,xxxholder\\.com,xxxity\\.com,xxxkingtube\\.com,xxxmomsonline\\.com,xxxmoviestream\\.xyz,xxxnakedpics\\.com,xxxnudeteens\\.com,xxxparodyhd\\.net,xxxpornotube\\.net,xxxpussywet\\.com,xxxretro\\.pro,xxxscenes\\.net,xxxstream\\.me,xxxstreams\\.org,xxxtubedot\\.com,xxxtubegain\\.com,xxxtubenote\\.com,xxxtubepass\\.com,xxxvideor\\.com,xxxvideostrue\\.com,xxxwetvideos\\.com,xxxworm\\.com,yes\\.xxx,yestubemature\\.com,yeswegays\\.com,yetimovies\\.com,yify-films\\.com,yoerotica\\.com,yogranny\\.com,yongfucknaked\\.com,youandjizz\\.com,youfreepornotube\\.com,young-ass\\.com,young-pussy\\.com,youngbelle\\.net,youngerasiangirl\\.net,youngerporn\\.mobi,youngleak\\.com,youngpornpics\\.com,youngpornpussy\\.com,youngselfpics\\.net,youngsex0\\.com,youngsexpics\\.com,youngsexygfs\\.com,youngteensporn\\.com,your-daily-girl\\.com,youramateurtube\\.com,yourhomemadetube\\.com,yourlust\\.com,yourtranny-sex\\.com,yousexvideos\\.net,youwatchporn\\.com,yumstories\\.com,zbporn\\.com,zenfield\\.pro,zhlednito\\.cz#\\$#abort-current-inline-script document\\.dispatchEvent myEl; abort-on-property-read aNB; abort-on-property-read BetterJsPop; abort-on-property-read ExLdr\\.serve; abort-on-property-read exoDocumentProtocol; abort-on-property-read ExoLoader; abort-on-property-read ExoLoader\\.addZone; abort-on-property-read ExoLoader\\.serve; abort-on-property-read exoNoExternalUI38djdkjDDJsio96; abort-on-property-read ExoooLoooader; abort-on-property-read getexoloader; abort-on-property-read popit",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -12531,7 +12760,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*eztv\\.re,pstream\\.net,biter\\.tv,byter\\.tv#\\$#abort-on-property-write adcashMacros",
+			"url-filter": "^https?://.*eztv\\.re,pstream\\.net,biter\\.tv#\\$#abort-on-property-write adcashMacros",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -12650,7 +12879,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*gaobook\\.review,mavplayer\\.xyz,vaplayer\\.xyz,xstreamcdn\\.com,flashx\\.pw,flashx\\.tv,embed\\.media,fembed\\.com,myyouporn\\.com,vidplayer\\.cz#\\$#abort-on-property-read AaDetector",
+			"url-filter": "^https?://.*gaobook\\.review,mavplayer\\.xyz,vaplayer\\.xyz,xstreamcdn\\.com,flashx\\.pw,flashx\\.tv,embed\\.media,fembed\\.com,hxfile\\.co,mavplay\\.xyz,myyouporn\\.com,vidplayer\\.cz#\\$#abort-on-property-read AaDetector",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -12803,7 +13032,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*strip2\\.in,spac1\\.com,spac1\\.me,spac1\\.net,strip2\\.xxx#\\$#abort-on-property-write SpacesClickunder",
+			"url-filter": "^https?://.*gdespaces\\.com,spac\\.me,spac1\\.com,spac1\\.me,spac1\\.net,spaces-blogs\\.com,spaces\\.im,strip2\\.in,strip2\\.xxx#\\$#abort-on-property-read Object\\.prototype\\.initOnPlay; abort-current-inline-script __require /clickunder/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -13083,7 +13312,24 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*gomovies\\.film,gomovies\\.sc,gomovies\\.pl,gomovies\\.es,gomovieshub\\.io,openloadmovies\\.net,openloadmovies\\.review,vidsrc\\.me,movies123\\.xyz,bonstreams\\.net,yts\\.am,keeplinks\\.co,flashx\\.pw,flashx\\.tv,cloudvideo\\.tv,gogoanime\\.cloud,revivelink\\.com#\\$#abort-on-property-read atob",
+			"url-filter": "^https?://.*nosteam\\.ro#\\$#abort-on-property-write jsPop21",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*gomovies\\.film,gomovies\\.sc,gomovies\\.es,gomovieshub\\.io,openloadmovies\\.net,openloadmovies\\.review,vidsrc\\.me,movies123\\.xyz,bonstreams\\.net,yts\\.am,keeplinks\\.co,flashx\\.pw,flashx\\.tv,cloudvideo\\.tv,gogoanime\\.cloud,revivelink\\.com#\\$#abort-on-property-read atob",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -13185,7 +13431,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*vidshare\\.tv,govid\\.me,hdvid\\.tv,ovid\\.pro,gomovies\\.film,gomovies\\.sc,gomovies\\.pl,gomovies\\.es,gomovieshub\\.io,gostream\\.nu,openloadmovies\\.net,openloadmovies\\.review,flashx\\.pw,flashx\\.tv,cloudvideo\\.tv#\\$#abort-on-property-write Fingerprint2",
+			"url-filter": "^https?://.*vidshare\\.tv,govid\\.me,hdvid\\.tv,ovid\\.pro,gomovies\\.film,gomovies\\.sc,gomovies\\.es,gomovieshub\\.io,gostream\\.nu,openloadmovies\\.net,openloadmovies\\.review,flashx\\.pw,flashx\\.tv,cloudvideo\\.tv#\\$#abort-on-property-write Fingerprint2",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -13236,7 +13482,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*yuudrive\\.me,hdhub4u\\.website,thevid\\.net,biter\\.tv,byter\\.tv,flashx\\.pw,flashx\\.tv#\\$#abort-on-property-read _pop",
+			"url-filter": "^https?://.*yuudrive\\.me,hdhub4u\\.website,thevid\\.net,biter\\.tv,flashx\\.pw,flashx\\.tv#\\$#abort-on-property-read _pop",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -13287,7 +13533,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*adpop\\.me,amyscans\\.com,apurogol\\.net,aquipelis\\.net,arenavision\\.in,arenavision\\.us,assistirfilmesonlinex\\.biz,blogdepelis\\.com,canalenvivogratis\\.com,ciberdvd\\.tv,cinedetodo\\.net,cinemitas\\.com,cliver\\.tv,danfra\\.com,dclinks\\.info,descargarplaystore\\.net,desmaxgo\\.com,elitegoltv\\.me,extreme-d0wn\\.net,filmesonlinegratis\\.com,futbollibre\\.online,hqq\\.tv,hqq\\.watch,inkapelis\\.com,inkapelis\\.to,legionpeliculas\\.org,legionprogramas\\.org,lhmjihd\\.blogspot\\.com,limpi\\.tv,livefootball\\.live,locopelis\\.com,maistudo\\.net,megawarez\\.org,mostafidoun\\.com,pastepvp\\.org,peliculas-cine\\.com,peliculas24\\.me,peliculascine\\.net,peliculasdeprincesas\\.net,peliculasio\\.com,peliculasyseries\\.org,pelisgratis\\.me,pelishd\\.live,pelisplanet\\.com,pelisplus\\.online,pelix\\.tv,pirlotv\\.com\\.es,pruiebannnn\\.blogspot\\.com,recpelis\\.net,repelis\\.net,rojadirectatv\\.info,rojadirectatv\\.stream,serialosy\\.pl,series21\\.com,series911\\.com,seriesflixapp\\.net,seuseriado\\.com,seutorrent\\.com,siestrenos\\.com,sonpelishd\\.com,sonpelishd\\.net,tarjetaroja\\.eu,tarjetaroja\\.online,tarjetarojaonline\\.tv,tarjetarojatvonline\\.com,tecmaxsoft\\.com,televisionparatodos\\.tv,tuzonafut\\.net,verpeliculasenlatino\\.com,voirfilm\\.me,voirfilms\\.mx,webtvonlive\\.com,hdvid\\.tv,ovid\\.pro#\\$#abort-on-property-read smrtSB; abort-on-property-read smrtSP",
+			"url-filter": "^https?://.*adpop\\.me,amyscans\\.com,apurogol\\.net,aquipelis\\.net,arenavision\\.in,arenavision\\.us,assistirfilmesonlinex\\.biz,blogdepelis\\.com,canalenvivogratis\\.com,cinedetodo\\.net,cinemitas\\.com,cliver\\.tv,danfra\\.com,dclinks\\.info,descargarplaystore\\.net,desmaxgo\\.com,elitegoltv\\.me,extreme-d0wn\\.net,filmesonlinegratis\\.com,futbollibre\\.online,hqq\\.tv,hqq\\.watch,inkapelis\\.com,legionpeliculas\\.org,legionprogramas\\.org,lhmjihd\\.blogspot\\.com,limpi\\.tv,livefootball\\.live,locopelis\\.com,maistudo\\.net,megawarez\\.org,mostafidoun\\.com,pastepvp\\.org,peliculas24\\.me,peliculascine\\.net,peliculasdeprincesas\\.net,peliculasio\\.com,peliculasyseries\\.org,pelisgratis\\.me,pelishd\\.live,pelisplanet\\.com,pelisplus\\.online,pelix\\.tv,pirlotv\\.com\\.es,pruiebannnn\\.blogspot\\.com,recpelis\\.net,repelis\\.net,rojadirectatv\\.info,rojadirectatv\\.stream,serialosy\\.pl,series21\\.com,series911\\.com,seriesflixapp\\.net,seuseriado\\.com,seutorrent\\.com,siestrenos\\.com,sonpelishd\\.com,sonpelishd\\.net,tarjetaroja\\.online,tarjetarojaonline\\.tv,tarjetarojatvonline\\.com,tecmaxsoft\\.com,televisionparatodos\\.tv,tuzonafut\\.net,verpeliculasenlatino\\.com,voirfilm\\.me,voirfilms\\.mx,webtvonlive\\.com,hdvid\\.tv,ovid\\.pro#\\$#abort-on-property-read smrtSB; abort-on-property-read smrtSP",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -13321,7 +13567,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*streamtape\\.to,streamtape\\.cc,streamtape\\.net,streamtape\\.xyz,streamtape\\.com,rlslog\\.net,hclips\\.com,pornhat\\.com,dood\\.so,dood\\.to,dood\\.video,dood\\.watch,doodstream\\.com,vidstreaming\\.io,mstream\\.fun,xnxxvideo\\.pro,xvideosxporn\\.com,porndollz\\.com,hd-analporn\\.com,bigtitsxxxfree\\.com,perfectgirls\\.net,realgfporn\\.com,porn\\.com,hotmovs\\.com,rule34hentai\\.net,govid\\.me,mstream\\.best,mstream\\.fun,mstream\\.icu,mstream\\.press,mstream\\.space,mstream\\.tech,mstream\\.website,mstream\\.xyz,mystream\\.io,mystream\\.to,iframe-secured\\.com,pandamovies\\.pw,configspc\\.com#\\$#abort-on-property-read open",
+			"url-filter": "^https?://.*strcloud\\.club,strcloud\\.link,streamtape\\.to,streamtape\\.cc,streamtape\\.net,streamtape\\.xyz,streamtape\\.com,strtape\\.cloud,strtape\\.site,strtape\\.tech,rlslog\\.net,hclips\\.com,pornhat\\.com,dood\\.so,dood\\.to,dood\\.video,dood\\.watch,doodstream\\.com,vidstreaming\\.io,mstream\\.fun,xnxxvideo\\.pro,xvideosxporn\\.com,porndollz\\.com,hd-analporn\\.com,bigtitsxxxfree\\.com,perfectgirls\\.net,realgfporn\\.com,porn\\.com,hotmovs\\.com,rule34hentai\\.net,govid\\.me,mstream\\.best,mstream\\.fun,mstream\\.icu,mstream\\.press,mstream\\.space,mstream\\.tech,mstream\\.website,mstream\\.xyz,mystream\\.io,mystream\\.to,iframe-secured\\.com,pandamovies\\.pw,configspc\\.com#\\$#abort-on-property-read open",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -13338,7 +13584,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*baytorrent\\.eu\\.org,dood\\.so,dood\\.to,dood\\.video,dood\\.watch,doodstream\\.com,europixhd\\.com,europixhd\\.net,fileflares\\.com,gledajonline\\.net,govid\\.me,hdeuropix\\.io,isohunt\\.lol,isohuntz\\.net,javjunkies\\.com,limetorrents\\.info,loadsubs\\.net,mypiratebay\\.best,mypiratebay\\.club,mypiratebay\\.co,mypiratebay\\.life,mypiratebay\\.live,mypiratebay\\.me,mypiratebay\\.surf,mypiratebay\\.win,mypiratebay\\.work,mypiratebay\\.wtf,mypiratebay\\.xyz,myyouporn\\.com,openpirate\\.org,piratebay\\.cloud,piratebay\\.live,piratebay\\.party,piratebay\\.world,piratebayproxy\\.live,piratebays\\.wtf,pirateproxy\\.earth,pirateproxy\\.live,pirateproxy\\.surf,pirateproxy\\.us,projectfreetv\\.ag,streamtape\\.cc,streamtape\\.com,streamtape\\.net,streamtape\\.to,streamtape\\.xyz,thehiddenbay\\.com,thepiratebay\\.org,thepiratebay\\.vip,thepiratebay\\.zone,thepiratebay0\\.org,thepiratebay10\\.org,topeuropix\\.net,tpb\\.party,tpb\\.red,vidshare\\.tv,youdbox\\.com#\\$#abort-on-property-write _pop",
+			"url-filter": "^https?://.*baytorrent\\.eu\\.org,dood\\.so,dood\\.to,dood\\.video,dood\\.watch,doodstream\\.com,europixhd\\.com,europixhd\\.net,fileflares\\.com,gledajonline\\.net,govid\\.me,hdeuropix\\.io,hxfile\\.co,isohunt\\.lol,isohuntz\\.net,javjunkies\\.com,limetorrents\\.info,loadsubs\\.net,mypiratebay\\.best,mypiratebay\\.club,mypiratebay\\.co,mypiratebay\\.life,mypiratebay\\.live,mypiratebay\\.me,mypiratebay\\.surf,mypiratebay\\.win,mypiratebay\\.work,mypiratebay\\.wtf,mypiratebay\\.xyz,myyouporn\\.com,openpirate\\.org,piratebay\\.cloud,piratebay\\.live,piratebay\\.party,piratebay\\.world,piratebayproxy\\.live,piratebays\\.wtf,pirateproxy\\.earth,pirateproxy\\.live,pirateproxy\\.surf,pirateproxy\\.us,strcloud\\.club,strcloud\\.link,streamtape\\.cc,streamtape\\.com,streamtape\\.net,streamtape\\.to,streamtape\\.xyz,strtape\\.cloud,strtape\\.site,strtape\\.tech,thehiddenbay\\.com,thepiratebay\\.org,thepiratebay\\.vip,thepiratebay\\.zone,thepiratebay0\\.org,thepiratebay10\\.org,topeuropix\\.net,tpb\\.party,tpb\\.red,vidshare\\.tv,youdbox\\.com#\\$#abort-on-property-write _pop",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -13355,7 +13601,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*streamtape\\.to,streamtape\\.cc,streamtape\\.net,streamtape\\.xyz,streamtape\\.com#\\$#abort-on-property-write _pao",
+			"url-filter": "^https?://.*strcloud\\.club,strcloud\\.link,streamtape\\.to,streamtape\\.cc,streamtape\\.net,streamtape\\.xyz,streamtape\\.com,strtape\\.cloud,strtape\\.site,strtape\\.tech#\\$#abort-on-property-write _pao",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -13372,7 +13618,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*xxxhdporno\\.net,indianpornvideo\\.org,hindixxxvideos\\.net,cmovie\\.me,biter\\.tv,byter\\.tv#\\$#abort-on-property-read decodeURI",
+			"url-filter": "^https?://.*xxxhdporno\\.net,indianpornvideo\\.org,hindixxxvideos\\.net,biter\\.tv#\\$#abort-on-property-read decodeURI",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -13593,7 +13839,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*141tube\\.com,1teentubeporn\\.com,1youngteenporn\\.com,3gaytube\\.com,3xamatorszex\\.hu,3xfaktor\\.hu,4archive\\.org,6indianporn\\.com,8muses\\.xxx,aagmaal\\.com,ablefast\\.com,absolugirl\\.com,absolutube\\.com,ah-me\\.com,ahri-hentai\\.com,allafricangirls\\.net,allporncartoons\\.com,allpussynow\\.com,allteensnude\\.net,allureamateurs\\.net,amateurandreal\\.com,amateurbeachspy\\.com,amateurebonypics\\.com,amateurfun\\.net,amateuryoungpics\\.com,amazingtrannies\\.com,anime-vf\\.fr,animeindo\\.cc,animeindo\\.fun,animejpg\\.com,animekage\\.net,animeon\\.moe,annoncesescorts\\.com,anusling\\.info,anynude\\.net,arabxnx\\.com,articlix\\.com,asianpornphoto\\.net,asianstubefuck\\.com,asianteenagefucking\\.com,asiashort\\.link,av-uncen\\.com,axporn\\.com,babesvagina\\.com,banglachoti-story\\.com,bangx\\.org,barurotero\\.net,bbw\\.com\\.es,bbw6\\.com,bbwfest\\.com,bbwfuckpic\\.com,bdsm-fuck\\.com,bdsm-photos\\.com,bdsmporn\\.cc,bdsmstreak\\.com,belloporno\\.com,bestblackgay\\.com,bestgrannies\\.com,besthentaitube\\.com,bestlist\\.top,bestpussypics\\.net,bestsextoons\\.com,bestshemaleclips\\.com,bigboobs\\.com\\.es,birdurls\\.com,bitearns\\.com,bitfly\\.io,bitporno\\.com,black-matures\\.com,black-porn-pics\\.org,blackamateursnaked\\.com,blackchubbymovies\\.com,blackedtube\\.com,blackmaturevideos\\.com,blackpornhq\\.com,blacksexmix\\.com,blackteen\\.link,blowjobamateur\\.net,blowxtube\\.com,bobolike\\.com,bolly-tube\\.com,bollywoodx\\.org,boolwowgirls\\.com,booru\\.eu,borwap\\.xxx,branitube\\.net,bucetaspeludas\\.com\\.br,bustmonkey\\.com,bustybloom\\.com,bustyfats\\.com,bustyshemaleporn\\.com,camarchive\\.tv,camcam\\.cc,cartoonporncomics\\.info,cartoonvideos247\\.com,cbt-tube\\.net,cekc-tube\\.ru,celebrityleakednudes\\.com,celebritynakeds\\.com,centralboyssp\\.com\\.br,cerdas\\.com,chicasdesnudas\\.xxx,chubbyelders\\.com,chubbypornmpegs\\.com,cinemabg\\.net,classicxmovies\\.com,clicporn\\.com,clipwatching\\.com,cocoporn\\.net,comicxxx\\.eu,crockotube\\.com,crossdresserhub\\.com,cryptoads\\.space,cuckold-videos\\.org,cuckold\\.it,czechsex\\.net,czechvideo\\.org,debridup\\.com,deepthroat-porn\\.com,desihoes\\.com,desimms\\.co,desimmshd\\.com,dirtybadger\\.com,dirtyfox\\.net,dirtygangbangs\\.com,dirtyporn\\.cc,dirtytamil\\.com,dlouha-videa\\.cz,domahatv\\.com,domahi\\.net,donna-cerca-uomo\\.com,douxporno\\.com,drsnysvet\\.cz,dumpz\\.net,ebonyamateurphoto\\.com,ebonyassclips\\.com,efappy\\.com,ehotpics\\.com,ero18\\.cc,eroclips\\.org,eroprofile\\.com,erotichun\\.com,eroticteensphoto\\.net,escort-in-italia\\.com,escortconrecensione\\.com,exe\\.app,ezbit\\.co\\.in,familyporn\\.tv,famosas-desnudas\\.org,faperplace\\.com,fapset\\.com,fastpic\\.ru,fatblackmatures\\.com,fattubevideos\\.net,fatwhitebutt\\.com,fatxxxtube\\.com,fc\\.lc,fcc\\.lc,fcdot\\.lc,femjoybabes\\.com,fetish-bb\\.com,fetish-tv\\.com,ffjav\\.com,fifisex\\.com,fileone\\.tv,filman\\.cc,findtranny\\.com,folgenporno\\.com,free-gay-clips\\.com,free-trannyporn\\.com,freeadultvideos\\.cc,freefatpornmovies\\.com,freegrannypornmovies\\.com,freepornhdonlinegay\\.com,freepornjpg\\.com,freepornstream\\.cc,freesex-1\\.com,freexxxvideos\\.pro,freshscat\\.com,freshshemaleporn\\.com,frprn\\.com,ftopx\\.com,fuckingsession\\.com,fuckmilf\\.net,fuckvideosxxx\\.com,furryporn\\.xxx,futbolhoy\\.com\\.ar,gatasdatv\\.com,gay-streaming\\.com,gaypornlove\\.net,gaystream\\.pw,gayvideo\\.me,gayxxxtube\\.net,generalpornmovies\\.com,get-to\\.link,ghettopearls\\.com,girlfriendsexphoto\\.com,girlfuckgalleries\\.com,girlnude\\.link,girlsboom\\.ru,gonzoporn\\.cc,good-babes\\.com,gotporn\\.com,grannyxxxtube\\.net,greatestshemales\\.com,greensmut\\.com,haho\\.moe,hanimesubth\\.com,hardfacefuck\\.com,hd-xxx\\.me,hdgayporn\\.net,hdjavonline\\.com,hdpicsx\\.com,hdpornzap\\.com,hentai-hot\\.com,hentaiarena\\.com,hentaibrasil\\.info,hentaicore\\.org,hentaienglish\\.com,hentaihand\\.com,hentaiporn\\.com\\.es,hentaiporno\\.xxx,hentaiwagon\\.com,heroine-xxx\\.com,hoporno\\.net,hornbunny\\.com,hornyfanz\\.com,hotmarathistories\\.com,hotmaturegirlfriends\\.com,hotmirrorpics\\.com,hotntubes\\.com,ibradome\\.com,ichineseporn\\.com,idealhentai\\.com,ileak\\.xyz,imgbaron\\.com,imgrock\\.net,imgrock\\.pw,imgtown\\.net,imgtown\\.pw,indianxxx\\.us,isohunt\\.lol,isohuntz\\.net,japaneseasmr\\.com,japanfuck\\.com\\.es,japantaboo\\.com,jav-xx\\.com,jav380\\.com,javbest\\.xyz,javbix\\.com,javboys\\.com,javfav\\.com,javgrab\\.com,javhdfree\\.net,javix\\.net,javlovers\\.club,javmelon\\.com,javnew\\.net,javpool\\.com,javrave\\.club,juicy3dsex\\.com,justsexpictures\\.com,kenzato\\.uk,kiaporn\\.com,kiminime\\.com,kinkyporn\\.cc,klikmanga\\.com,komikstation\\.com,komiraw\\.com,kropic\\.com,lesboluvin\\.com,lewdweb\\.net,limetorrents\\.info,linkdrop\\.net,ljcam\\.net,longporn\\.xyz,loverscum\\.com,luscious\\.net,lustteens\\.net,mainporno\\.com,mamochki\\.info,mangamovil\\.net,mangaonline\\.fun,mangarussia\\.com,manikusa\\.com,mature4\\.net,maturepornjungle\\.com,maturepornphoto\\.com,maturexxxclips\\.com,maxtubeporn\\.net,migliori-escort\\.com,milftoon\\.xxx,mobifuq\\.com,mom-pussy\\.com,mommy-pussy\\.com,mommyporntube\\.com,momspost\\.com,movies18\\.net,moviesxxx\\.cc,mp4-porn\\.net,multporn\\.net,musvozimbabwenews\\.com,mycumx\\.com,mydesibaba\\.com,mydesiboobs\\.com,myfreevintageporn\\.com,mygalls\\.com,mypiratebay\\.best,mypiratebay\\.club,mypiratebay\\.co,mypiratebay\\.life,mypiratebay\\.live,mypiratebay\\.me,mypiratebay\\.surf,mypiratebay\\.win,mypiratebay\\.work,mypiratebay\\.wtf,mypiratebay\\.xyz,myreadingmanga\\.info,myvintageporntube\\.com,myyoungbabe\\.com,nakedamateurs\\.link,nakedgirls\\.link,nakedmature\\.sexy,nakedselfphotos\\.com,naughtyza\\.co\\.za,netfapx\\.com,nicesexytoons\\.com,nicheporno\\.com,nightlifeporn\\.com,novinhassafadinhas\\.com,nsfw247\\.to,nude-beach-tube\\.com,nude-teen-18\\.com,nudeblackgirlfriend\\.com,nudedxxx\\.com,nudemomshots\\.com,nudevista\\.at,nudevista\\.be,nudevista\\.com\\.br,nudevista\\.com\\.pl,nudevista\\.es,nudevista\\.net,nudevista\\.se,ok\\.xxx,onlinefetishporn\\.cc,onlineporn24\\.com,onlinepornushka\\.com,onlinesextube\\.com,onlinexxx\\.cc,onlyfullporn\\.com,onlygangbang\\.com,onlygayvideo\\.com,onlyhgames\\.com,openpirate\\.org,owllink\\.net,palimas\\.tv,parnuhahome\\.com,peetube\\.cc,pelisandseries\\.net,penis-milking\\.com,penisbuyutucum\\.net,perfectgirls\\.es,perfectgirls\\.net,perfektdamen\\.co,petitegirlsnude\\.com,picsfuck\\.org,picspornamateur\\.com,pinayviralsexx\\.com,pinflix\\.com,pinkporno\\.com,pinkporno\\.xxx,piratebay\\.cloud,piratebay\\.live,piratebay\\.party,piratebay\\.world,piratebayproxy\\.live,piratebays\\.wtf,pirateproxy\\.live,pirateproxy\\.surf,pirateproxy\\.us,plumpxxxtube\\.com,plusone8\\.com,porn-image\\.net,porn-sexypics\\.com,pornabcd\\.com,pornchaos\\.org,pornchimp\\.com,pornditt\\.com,porngayclips\\.com,porngirlstube\\.com,porngq\\.com,pornhat\\.com,pornhd\\.com,pornhd8k\\.net,pornhdin\\.com,pornhegemon\\.com,pornleech\\.io,pornloupe\\.com,pornmam\\.com,pornmom\\.net,pornmoms\\.org,porno-doma\\.com,porno666\\.com,pornocolegialas\\.org,pornocrados\\.com,pornomanoir\\.com,pornone\\.com,pornonline\\.cc,pornoperra\\.com,pornoreino\\.com,pornovideoshub\\.com,pornrox\\.com,pornrusskoe\\.com,pornsearchengine\\.com,pornsex-pics\\.com,pornsilo\\.net,porntin\\.com,porntube18\\.cc,pornuj\\.cz,pornxxxvideos\\.net,pornyeah\\.com,primewire\\.li,pussymaturephoto\\.com,pygodblog\\.com,queerdiary\\.com,raccontivietati\\.com,rapidzona\\.tv,rawofficethumbs\\.com,realgfporn\\.com,realitybrazzers\\.com,redamateurtube\\.com,redgay\\.net,rednowtube\\.com,redpornnow\\.com,repicsx\\.com,rettube\\.com\\.pl,rexporn\\.com,rranime\\.com,rule34hentai\\.net,rushporn\\.com,rushporn\\.xxx,russkoevideoonline\\.com,saavndownload\\.com,saradahentai\\.com,savelink\\.site,scallyguy\\.com,screenhumor\\.com,see-xxx\\.com,seed69\\.com,seksrura\\.net,seneporno\\.com,sex-babki\\.com,sex-pic\\.info,sexmv\\.com,sexpuss\\.org,sextubeset\\.com,sexy-games\\.eu,sexy-parade\\.com,sexy-youtubers\\.com,sexyasianteenspics\\.com,sexyebonyteen\\.com,sexynudetoons\\.com,sexyteengirlfriends\\.net,shelovesporn\\.com,shemalemovies\\.us,short\\.croclix\\.me,sissytube\\.net,sitarchive\\.com,solopornoitaliani\\.xxx,somulhergostosa\\.com,spyvoyeur\\.net,stileproject\\.com,stream-69\\.com,streamextreme\\.cc,streamporn\\.cc,subdivx\\.com,submissive-wife\\.net,sweetgirl\\.org,sxyprn\\.com,szexvideok\\.hu,tabooporn\\.tv,tamilsexstory\\.net,taxi69\\.com,teenage-nudists\\.net,teenamateurphoto\\.com,teenbabe\\.link,teencamx\\.com,teenpornjpg\\.com,teenskitten\\.com,telugusexkathalu\\.com,thebarchive\\.com,thecartoonporntube\\.com,thehentaiworld\\.com,thehiddenbay\\.com,thelesbianporn\\.com,thematurexxx\\.com,thepiratebay\\.org,thepiratebay\\.zone,thepiratebay0\\.org,thepiratebay10\\.org,theyarehuge\\.com,tii\\.ai,tomatespodres\\.com,toonanime\\.co,topsitestreaming\\.info,torrent-pirat\\.com,torture1\\.net,tpb\\.party,tpb\\.red,tpornstars\\.com,tranny6\\.com,trannylibrary\\.com,trannysexmpegs\\.com,trannyxxxtube\\.net,transexuales\\.gratis,tryboobs\\.com,ts-mpegs\\.com,tsmovies\\.com,tubegaytube\\.com,tubepornnow\\.com,tuberzporn\\.com,tubexo\\.tv,tubous\\.com,tuhentaionline\\.com,turbogvideos\\.com,tvporn\\.cc,uflash\\.tv,uiz\\.io,uiz\\.one,ulsex\\.net,uncensoredleak\\.com,uniqueten\\.net,up-load\\.io,upicsz\\.com,usaxtube\\.com,ver-mangas-porno\\.com,verpeliculasporno\\.gratis,videos-xxx\\.biz,videosdotados\\.com,videosputas\\.xxx,videosxxxporno\\.gratis,videosxxxputas\\.com,videoxxx\\.cc,vidspace\\.io,viewmature\\.com,viralxvideos\\.es,vivud\\.com,vkrovatku\\.com,voyeurblog\\.net,voyeurxxxsex\\.com,vqporn\\.com,vqtube\\.com,vzrosliedamy\\.com,wannafreeporn\\.com,wantmature\\.com,watchfreenet\\.org,watchporn\\.cc,wetpussy\\.sexy,wetsins\\.com,wonporn\\.com,wow-mature\\.com,x-movie7\\.com,x-videos\\.name,x24\\.video,xanimeporn\\.com,xasiat\\.com,xhamsterteen\\.com,xkeezmovies\\.com,xlecx\\.org,xmoviesforyou\\.net,xnxx-downloader\\.net,xnxxhamster\\.net,xnxxvideo\\.pro,xpicse\\.com,xsexpics\\.com,xspiel\\.com,xvideos\\.name,xvideosxporn\\.com,xxx-videos\\.org,xxxhardcoretube\\.com,xxxonline\\.cc,xxxopenload\\.com,xxxputas\\.net,xxxrapid\\.com,xxxtor\\.com,xxxtubeset\\.com,xxxxselfie\\.com,yongfucknaked\\.com,youngbelle\\.net,youngerasiangirl\\.net,youngerporn\\.mobi,youngselfpics\\.net,youngsexygfs\\.com,youpornfm\\.com,youvideoporno\\.mobi,ytanime\\.tv#\\$#abort-current-inline-script document\\.querySelectorAll popMagic",
+			"url-filter": "^https?://.*141tube\\.com,1teentubeporn\\.com,1youngteenporn\\.com,3gaytube\\.com,3xamatorszex\\.hu,3xfaktor\\.hu,4archive\\.org,6indianporn\\.com,8muses\\.xxx,aagmaal\\.com,ablefast\\.com,absolugirl\\.com,absolutube\\.com,ah-me\\.com,ahri-hentai\\.com,allafricangirls\\.net,allporncartoons\\.com,allpussynow\\.com,allteensnude\\.net,allureamateurs\\.net,amateurandreal\\.com,amateurbeachspy\\.com,amateurebonypics\\.com,amateurfun\\.net,amateuryoungpics\\.com,amazingtrannies\\.com,anime-vf\\.fr,animeindo\\.cc,animeindo\\.fun,animejpg\\.com,animekage\\.net,animeon\\.moe,annoncesescorts\\.com,anusling\\.info,anynude\\.net,arabxnx\\.com,articlix\\.com,asianpornphoto\\.net,asianstubefuck\\.com,asianteenagefucking\\.com,asiashort\\.link,av-uncen\\.com,axporn\\.com,babesvagina\\.com,banglachoti-story\\.com,bangx\\.org,barurotero\\.net,bbw\\.com\\.es,bbw6\\.com,bbwfest\\.com,bbwfuckpic\\.com,bdsm-fuck\\.com,bdsm-photos\\.com,bdsmporn\\.cc,bdsmstreak\\.com,belloporno\\.com,bestblackgay\\.com,bestgrannies\\.com,besthentaitube\\.com,bestlist\\.top,bestpussypics\\.net,bestsextoons\\.com,bestshemaleclips\\.com,bigboobs\\.com\\.es,birdurls\\.com,bitearns\\.com,bitfly\\.io,bitporno\\.com,black-matures\\.com,black-porn-pics\\.org,blackamateursnaked\\.com,blackchubbymovies\\.com,blackedtube\\.com,blackmaturevideos\\.com,blackpornhq\\.com,blacksexmix\\.com,blackteen\\.link,blowjobamateur\\.net,blowxtube\\.com,bobolike\\.com,bolly-tube\\.com,bollywoodx\\.org,boolwowgirls\\.com,booru\\.eu,borwap\\.xxx,branitube\\.net,bucetaspeludas\\.com\\.br,bustmonkey\\.com,bustybloom\\.com,bustyfats\\.com,bustyshemaleporn\\.com,camarchive\\.tv,camcam\\.cc,cartoonporncomics\\.info,cartoonvideos247\\.com,cbt-tube\\.net,cekc-tube\\.ru,celebrityleakednudes\\.com,celebritynakeds\\.com,centralboyssp\\.com\\.br,cerdas\\.com,chicasdesnudas\\.xxx,chubbyelders\\.com,chubbypornmpegs\\.com,cinemabg\\.net,classicxmovies\\.com,clicporn\\.com,clipwatching\\.com,cocoporn\\.net,comicxxx\\.eu,crockotube\\.com,crossdresserhub\\.com,cryptoads\\.space,cuckold-videos\\.org,cuckold\\.it,czechsex\\.net,czechvideo\\.org,debridup\\.com,deepthroat-porn\\.com,desihoes\\.com,desimms\\.co,desimmshd\\.com,dirtybadger\\.com,dirtyfox\\.net,dirtygangbangs\\.com,dirtyporn\\.cc,dirtytamil\\.com,dlouha-videa\\.cz,domahatv\\.com,domahi\\.net,donna-cerca-uomo\\.com,douxporno\\.com,drsnysvet\\.cz,dumpz\\.net,ebonyamateurphoto\\.com,ebonyassclips\\.com,efappy\\.com,ehotpics\\.com,ero18\\.cc,eroclips\\.org,eroprofile\\.com,erotichun\\.com,eroticteensphoto\\.net,escort-in-italia\\.com,escortconrecensione\\.com,exe\\.app,ezbit\\.co\\.in,familyporn\\.tv,famosas-desnudas\\.org,faperplace\\.com,fapset\\.com,fastpic\\.ru,fatblackmatures\\.com,fattubevideos\\.net,fatwhitebutt\\.com,fatxxxtube\\.com,fc\\.lc,fcc\\.lc,fcdot\\.lc,femjoybabes\\.com,fetish-bb\\.com,fetish-tv\\.com,ffjav\\.com,fifisex\\.com,fileone\\.tv,filman\\.cc,findtranny\\.com,folgenporno\\.com,free-gay-clips\\.com,free-trannyporn\\.com,freeadultvideos\\.cc,freefatpornmovies\\.com,freegrannypornmovies\\.com,freepornhdonlinegay\\.com,freepornjpg\\.com,freepornstream\\.cc,freesex-1\\.com,freexxxvideos\\.pro,freshscat\\.com,freshshemaleporn\\.com,frprn\\.com,ftopx\\.com,fuckingsession\\.com,fuckmilf\\.net,fuckvideosxxx\\.com,furryporn\\.xxx,futbolhoy\\.com\\.ar,gatasdatv\\.com,gay-streaming\\.com,gaypornlove\\.net,gaystream\\.pw,gayvideo\\.me,gayxxxtube\\.net,generalpornmovies\\.com,get-to\\.link,ghettopearls\\.com,girlfriendsexphoto\\.com,girlfuckgalleries\\.com,girlnude\\.link,girlsboom\\.ru,gonzoporn\\.cc,good-babes\\.com,gotporn\\.com,grannyxxxtube\\.net,greatestshemales\\.com,greensmut\\.com,haho\\.moe,hanimesubth\\.com,hardfacefuck\\.com,hd-xxx\\.me,hdgayporn\\.net,hdjavonline\\.com,hdpicsx\\.com,hdpornzap\\.com,hentai-hot\\.com,hentaiarena\\.com,hentaibrasil\\.info,hentaicore\\.org,hentaienglish\\.com,hentaihand\\.com,hentaiporn\\.com\\.es,hentaiporno\\.xxx,hentaiwagon\\.com,heroine-xxx\\.com,hoporno\\.net,hornbunny\\.com,hornyfanz\\.com,hotmarathistories\\.com,hotmaturegirlfriends\\.com,hotmirrorpics\\.com,hotntubes\\.com,ibradome\\.com,ichineseporn\\.com,idealhentai\\.com,ileak\\.xyz,imgbaron\\.com,imgrock\\.net,imgrock\\.pw,imgtown\\.net,imgtown\\.pw,indianxxx\\.us,isohunt\\.lol,isohuntz\\.net,japaneseasmr\\.com,japanfuck\\.com\\.es,japantaboo\\.com,jav-xx\\.com,jav380\\.com,javbest\\.xyz,javbix\\.com,javboys\\.com,javfav\\.com,javgrab\\.com,javhdfree\\.net,javix\\.net,javlovers\\.club,javmelon\\.com,javnew\\.net,javpool\\.com,javrave\\.club,juicy3dsex\\.com,justsexpictures\\.com,kenzato\\.uk,kiaporn\\.com,kiminime\\.com,kinkyporn\\.cc,klikmanga\\.com,komikstation\\.com,komiraw\\.com,kropic\\.com,lesboluvin\\.com,lewdweb\\.net,limetorrents\\.info,linkdrop\\.net,ljcam\\.net,longporn\\.xyz,loverscum\\.com,luscious\\.net,lustteens\\.net,mainporno\\.com,mamochki\\.info,mangamovil\\.net,mangaonline\\.fun,mangarussia\\.com,manikusa\\.com,mature4\\.net,maturepornjungle\\.com,maturepornphoto\\.com,maturexxxclips\\.com,maxtubeporn\\.net,migliori-escort\\.com,milftoon\\.xxx,mobifuq\\.com,mom-pussy\\.com,mommy-pussy\\.com,mommyporntube\\.com,momspost\\.com,movies18\\.net,moviesxxx\\.cc,mp4-porn\\.net,multporn\\.net,musvozimbabwenews\\.com,mycumx\\.com,mydesibaba\\.com,mydesiboobs\\.com,myfreevintageporn\\.com,mygalls\\.com,mypiratebay\\.best,mypiratebay\\.club,mypiratebay\\.co,mypiratebay\\.life,mypiratebay\\.live,mypiratebay\\.me,mypiratebay\\.surf,mypiratebay\\.win,mypiratebay\\.work,mypiratebay\\.wtf,mypiratebay\\.xyz,myreadingmanga\\.info,myvintageporntube\\.com,myyoungbabe\\.com,nakedamateurs\\.link,nakedgirls\\.link,nakedmature\\.sexy,nakedselfphotos\\.com,naughtyza\\.co\\.za,netfapx\\.com,nicesexytoons\\.com,nicheporno\\.com,nightlifeporn\\.com,novinhassafadinhas\\.com,nsfw247\\.to,nude-beach-tube\\.com,nude-teen-18\\.com,nudeblackgirlfriend\\.com,nudedxxx\\.com,nudemomshots\\.com,nudevista\\.at,nudevista\\.be,nudevista\\.com\\.br,nudevista\\.com\\.pl,nudevista\\.es,nudevista\\.net,nudevista\\.se,ok\\.xxx,onlinefetishporn\\.cc,onlineporn24\\.com,onlinepornushka\\.com,onlinesextube\\.com,onlinexxx\\.cc,onlyfullporn\\.com,onlygangbang\\.com,onlygayvideo\\.com,onlyhgames\\.com,openpirate\\.org,owllink\\.net,palimas\\.tv,peetube\\.cc,pelisandseries\\.net,penis-milking\\.com,penisbuyutucum\\.net,perfectgirls\\.es,perfectgirls\\.net,perfektdamen\\.co,petitegirlsnude\\.com,picsfuck\\.org,picspornamateur\\.com,pinayviralsexx\\.com,pinflix\\.com,pinkporno\\.com,pinkporno\\.xxx,piratebay\\.cloud,piratebay\\.live,piratebay\\.party,piratebay\\.world,piratebayproxy\\.live,piratebays\\.wtf,pirateproxy\\.live,pirateproxy\\.surf,pirateproxy\\.us,plumpxxxtube\\.com,plusone8\\.com,porn-image\\.net,porn-sexypics\\.com,pornabcd\\.com,pornchaos\\.org,pornchimp\\.com,pornditt\\.com,porngayclips\\.com,porngirlstube\\.com,porngq\\.com,pornhat\\.com,pornhd\\.com,pornhd8k\\.net,pornhdin\\.com,pornhegemon\\.com,pornleech\\.io,pornloupe\\.com,pornmam\\.com,pornmom\\.net,pornmoms\\.org,porno-doma\\.com,porno666\\.com,pornocolegialas\\.org,pornocrados\\.com,pornomanoir\\.com,pornone\\.com,pornonline\\.cc,pornoperra\\.com,pornoreino\\.com,pornovideoshub\\.com,pornrox\\.com,pornsearchengine\\.com,pornsex-pics\\.com,pornsilo\\.net,porntin\\.com,porntube18\\.cc,pornuj\\.cz,pornxxxvideos\\.net,pornyeah\\.com,primewire\\.li,pussymaturephoto\\.com,pygodblog\\.com,queerdiary\\.com,raccontivietati\\.com,rapidzona\\.tv,rawofficethumbs\\.com,realgfporn\\.com,realitybrazzers\\.com,redamateurtube\\.com,redgay\\.net,rednowtube\\.com,redpornnow\\.com,repicsx\\.com,rettube\\.com\\.pl,rexporn\\.com,rranime\\.com,rule34hentai\\.net,rushporn\\.com,rushporn\\.xxx,russkoevideoonline\\.com,saavndownload\\.com,saradahentai\\.com,savelink\\.site,scallyguy\\.com,screenhumor\\.com,see-xxx\\.com,seed69\\.com,seksrura\\.net,seneporno\\.com,sex-babki\\.com,sex-pic\\.info,sexmv\\.com,sexpuss\\.org,sextubeset\\.com,sexy-games\\.eu,sexy-parade\\.com,sexy-youtubers\\.com,sexyasianteenspics\\.com,sexyebonyteen\\.com,sexynudetoons\\.com,sexyteengirlfriends\\.net,shelovesporn\\.com,shemalemovies\\.us,short\\.croclix\\.me,sissytube\\.net,sitarchive\\.com,solopornoitaliani\\.xxx,somulhergostosa\\.com,spyvoyeur\\.net,stileproject\\.com,stream-69\\.com,streamextreme\\.cc,streamporn\\.cc,subdivx\\.com,submissive-wife\\.net,sweetgirl\\.org,sxyprn\\.com,szexvideok\\.hu,tabooporn\\.tv,tamilsexstory\\.net,taxi69\\.com,teenage-nudists\\.net,teenamateurphoto\\.com,teenbabe\\.link,teencamx\\.com,teenpornjpg\\.com,teenskitten\\.com,telugusexkathalu\\.com,thebarchive\\.com,thecartoonporntube\\.com,thehentaiworld\\.com,thehiddenbay\\.com,thelesbianporn\\.com,thematurexxx\\.com,thepiratebay\\.org,thepiratebay\\.zone,thepiratebay0\\.org,thepiratebay10\\.org,theyarehuge\\.com,tii\\.ai,tomatespodres\\.com,toonanime\\.co,topsitestreaming\\.info,torrent-pirat\\.com,torture1\\.net,tpb\\.party,tpb\\.red,tpornstars\\.com,tranny6\\.com,trannylibrary\\.com,trannysexmpegs\\.com,trannyxxxtube\\.net,transexuales\\.gratis,tryboobs\\.com,ts-mpegs\\.com,tsmovies\\.com,tubegaytube\\.com,tubepornnow\\.com,tuberzporn\\.com,tubexo\\.tv,tubous\\.com,tuhentaionline\\.com,turbogvideos\\.com,tvporn\\.cc,uflash\\.tv,uiz\\.io,uiz\\.one,ulsex\\.net,uncensoredleak\\.com,uniqueten\\.net,up-load\\.io,upicsz\\.com,usaxtube\\.com,ver-mangas-porno\\.com,verpeliculasporno\\.gratis,videos-xxx\\.biz,videosdotados\\.com,videosputas\\.xxx,videosxxxporno\\.gratis,videosxxxputas\\.com,videoxxx\\.cc,vidspace\\.io,viewmature\\.com,viralxvideos\\.es,vivud\\.com,vkrovatku\\.com,voyeurblog\\.net,voyeurxxxsex\\.com,vqporn\\.com,vqtube\\.com,vzrosliedamy\\.com,wannafreeporn\\.com,wantmature\\.com,watchfreenet\\.org,watchporn\\.cc,wetpussy\\.sexy,wetsins\\.com,wonporn\\.com,wow-mature\\.com,x-movie7\\.com,x-videos\\.name,x24\\.video,xanimeporn\\.com,xasiat\\.com,xhamsterteen\\.com,xkeezmovies\\.com,xlecx\\.org,xmoviesforyou\\.net,xnxx-downloader\\.net,xnxxhamster\\.net,xnxxvideo\\.pro,xpicse\\.com,xsexpics\\.com,xspiel\\.com,xvideos\\.name,xvideosxporn\\.com,xxx-videos\\.org,xxxhardcoretube\\.com,xxxonline\\.cc,xxxopenload\\.com,xxxputas\\.net,xxxrapid\\.com,xxxtor\\.com,xxxtubeset\\.com,xxxxselfie\\.com,yongfucknaked\\.com,youngbelle\\.net,youngerasiangirl\\.net,youngerporn\\.mobi,youngselfpics\\.net,youngsexygfs\\.com,youpornfm\\.com,youvideoporno\\.mobi,ytanime\\.tv#\\$#abort-current-inline-script document\\.querySelectorAll popMagic",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -13610,7 +13856,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*01fmovies\\.com,123gostream\\.tv,123movies\\.ai,123movies\\.la,5movies\\.cloud,9anime\\.vip,9xbuddy\\.org,9xupload\\.asia,9xupload\\.xyz,allkindonline\\.com,animeindo\\.asia,animeindo\\.video,animepahe\\.com,anitube\\.be,anitube\\.cx,anitube\\.cz,babeporn\\.net,baomay01\\.com,baytorrent\\.eu\\.org,beammeup\\.com\\.au,birdurls\\.com,bkworldtube\\.com,bmovies\\.vip,bolssc\\.com,bonstreams\\.net,cimaclub\\.in,clipwatching\\.com,cloudvideo\\.tv,dailyuploads\\.net,databasegdriveplayer\\.co,desiupload\\.co,desiupload\\.in,dontorrent\\.net,dood\\.so,dood\\.to,dood\\.video,dood\\.watch,doodstream\\.com,doramasmp4\\.com,downloadgameps3\\.com,eio\\.io,emovies\\.io,eplayvid\\.com,exe\\.app,exee\\.io,extreme-down\\.tv,extreme-download\\.im,exy\\.ai,ffmovies\\.ru,ffmovies\\.sc,ffmovies\\.to,files\\.im,filmesonlinegratis\\.com,filmesonlinex\\.co,flashx\\.net,flashx\\.pw,flashx\\.tv,flixtor\\.to,fmovie\\.info,fmovies\\.cafe,fmovies\\.coffee,fmovies\\.love,fmovies\\.media,fmovies\\.mx,fmovies\\.name,fmovies\\.pl,fmovies\\.pub,fmovies\\.solar,fmovies\\.taxi,fmovies\\.to,fmovies\\.top,fmovies\\.town,fmovies\\.world,fmovies\\.wtf,fmovies2\\.io,fmovies2\\.org,fmoviesgo\\.me,fmovieson\\.com,fmoviesonline4u\\.com,g5u\\.pw,gdriveplayer\\.us,gismeteo\\.ua,globaltv\\.com,gogoanime\\.cloud,gogoanimes\\.tv,gomovies\\.film,gomovies\\.vet,gomoviesfree\\.page,gomovieshub\\.io,govid\\.co,gplinks\\.co,hdpopcorns\\.eu,hdpopcorns\\.org,hdpopcorns\\.world,holavid\\.com,hotstar\\.com,indishare\\.org,ishort\\.in,isohunt\\.lol,isohuntz\\.net,k-vid\\.net,keeplinks\\.co,keeplinks\\.org,keepvid\\.tube,keepvid\\.work,kiss-anime\\.ws,kissanime\\.cool,kissasian\\.vip,kshows\\.to,letsupload\\.co,letsupload\\.io,liivideo\\.com,limetorrents\\.info,lookmovie\\.ag,lookmovie\\.io,mangamanga\\.ml,marblepepper\\.com,mediumarticles\\.com,movies123\\.tel,movies123\\.xyz,movieshub\\.link,movs4u\\.to,mydramalist\\.su,mypiratebay\\.best,mypiratebay\\.club,mypiratebay\\.co,mypiratebay\\.life,mypiratebay\\.live,mypiratebay\\.me,mypiratebay\\.surf,mypiratebay\\.win,mypiratebay\\.work,mypiratebay\\.wtf,mypiratebay\\.xyz,mywatchseries\\.stream,myyouporn\\.com,ohmovies\\.me,openloadmov\\.net,openpirate\\.org,owllink\\.net,pandafiles\\.com,pctfenix\\.com,pctmix\\.com,pctfenix\\.com,pctnew\\.org,pctreload\\.com,pelismart\\.com,piratebay\\.cloud,piratebay\\.live,piratebay\\.party,piratebay\\.world,piratebayproxy\\.live,piratebays\\.wtf,pirateproxy\\.earth,pirateproxy\\.live,pirateproxy\\.surf,pirateproxy\\.us,playtube\\.ws,pornhub\\.com,projectfreetv\\.fun,protect-mylinks\\.com,pstream\\.net,putlocker\\.vip,putlocker123\\.me,putlockers\\.cr,redtube\\.com,revivelink\\.com,seehd\\.nl,series9\\.ac,series9\\.biz,series9\\.fun,seuseriado\\.club,shahid4u\\.onl,sharetv\\.com,shortearn\\.eu,shortearn\\.in,shotly\\.io,sidereel\\.com,solarmovie\\.vip,streamcloud\\.eu,streamloverx\\.com,thefmovies\\.me,thehiddenbay\\.com,thepiratebay\\.org,thepiratebay\\.vip,thepiratebay\\.zone,thepiratebay0\\.org,thepiratebay10\\.org,top123movies\\.com,tornadomovies\\.co,torrentkingnow\\.com,tpb\\.party,tpb\\.red,tv2me\\.net,upgrand\\.site,upgrand\\.xyz,uploadbaz\\.me,uploadbaz\\.net,upstream\\.to,uqload\\.com,vidbm\\.com,vidcloud9\\.com,vidclouds\\.icu,vidnext\\.net,vidshare\\.tv,vidsrc\\.me,voiranime\\.com,vudeo\\.net,vumoo\\.to,watch-series\\.la,watchepisodes4\\.com,watchepisodeseries\\.su,watchfreenet\\.com,watchkobe\\.info,watchmovie\\.movie,watchmoviesfree\\.org,watchseries\\.net,watchseries\\.ninja,watchseries1\\.video,watchserieshd\\.online,watchserieshd\\.tv,watchseriesnet\\.net,watchtvseries\\.video,worldgreynews\\.com,xmovies8\\.cool,yesmovies\\.mom,yesmovies\\.so,yesmovies\\.vc,ymovies\\.vip,youtubecdn\\.com,zpaste\\.net,zplayer\\.live#\\$#abort-current-inline-script String\\.fromCharCode /btoa\\|break/",
+			"url-filter": "^https?://.*01fmovies\\.com,123gostream\\.tv,123movies\\.ai,123movies\\.la,5movies\\.cloud,9anime\\.vip,9xbuddy\\.org,9xupload\\.asia,9xupload\\.xyz,allkindonline\\.com,animeindo\\.asia,animeindo\\.video,animepahe\\.com,anitube\\.be,anitube\\.cx,anitube\\.cz,babeporn\\.net,baomay01\\.com,baytorrent\\.eu\\.org,beammeup\\.com\\.au,birdurls\\.com,bkworldtube\\.com,bmovies\\.vip,bolssc\\.com,bonstreams\\.net,cimaclub\\.in,clipwatching\\.com,cloudvideo\\.tv,dailyuploads\\.net,databasegdriveplayer\\.co,desiupload\\.co,desiupload\\.in,dontorrent\\.net,dood\\.so,dood\\.to,dood\\.video,dood\\.watch,doodstream\\.com,doramasmp4\\.com,downloadgameps3\\.com,eio\\.io,emovies\\.io,eplayvid\\.com,exe\\.app,exee\\.io,extreme-down\\.tv,extreme-download\\.im,exy\\.ai,ffmovies\\.ru,ffmovies\\.sc,ffmovies\\.to,files\\.im,filmesonlinegratis\\.com,filmesonlinex\\.co,flashx\\.net,flashx\\.pw,flashx\\.tv,flixtor\\.to,fmovie\\.info,fmovies\\.cafe,fmovies\\.coffee,fmovies\\.love,fmovies\\.media,fmovies\\.mx,fmovies\\.name,fmovies\\.pl,fmovies\\.pub,fmovies\\.solar,fmovies\\.taxi,fmovies\\.to,fmovies\\.top,fmovies\\.town,fmovies\\.world,fmovies\\.wtf,fmovies2\\.io,fmovies2\\.org,fmoviesgo\\.me,fmovieson\\.com,fmoviesonline4u\\.com,g5u\\.pw,gdriveplayer\\.us,gismeteo\\.ua,globaltv\\.com,gogoanime\\.cloud,gogoanimes\\.tv,gomovies\\.film,gomovies\\.vet,gomoviesfree\\.page,gomovieshub\\.io,govid\\.co,gplinks\\.co,hdpopcorns\\.eu,hdpopcorns\\.org,hdpopcorns\\.world,holavid\\.com,hotstar\\.com,hxfile\\.co,indishare\\.org,ishort\\.in,isohunt\\.lol,isohuntz\\.net,k-vid\\.net,keeplinks\\.co,keeplinks\\.org,keepvid\\.tube,keepvid\\.work,kiss-anime\\.ws,kissanime\\.cool,kissasian\\.vip,kshows\\.to,letsupload\\.co,letsupload\\.io,liivideo\\.com,limetorrents\\.info,lookmovie\\.ag,lookmovie\\.io,mangamanga\\.ml,marblepepper\\.com,mediumarticles\\.com,movies123\\.tel,movies123\\.xyz,movieshub\\.link,movs4u\\.to,mydramalist\\.su,mypiratebay\\.best,mypiratebay\\.club,mypiratebay\\.co,mypiratebay\\.life,mypiratebay\\.live,mypiratebay\\.me,mypiratebay\\.surf,mypiratebay\\.win,mypiratebay\\.work,mypiratebay\\.wtf,mypiratebay\\.xyz,mywatchseries\\.stream,myyouporn\\.com,nulled-scripts\\.cc,ohmovies\\.me,openloadmov\\.net,openpirate\\.org,owllink\\.net,pandafiles\\.com,pctfenix\\.com,pctmix\\.com,pctfenix\\.com,pctnew\\.org,pctreload\\.com,pelismart\\.com,piratebay\\.cloud,piratebay\\.live,piratebay\\.party,piratebay\\.world,piratebayproxy\\.live,piratebays\\.wtf,pirateproxy\\.earth,pirateproxy\\.live,pirateproxy\\.surf,pirateproxy\\.us,playtube\\.ws,pornhub\\.com,projectfreetv\\.fun,protect-mylinks\\.com,pstream\\.net,putlocker\\.vip,putlocker123\\.me,putlockers\\.cr,redtube\\.com,revivelink\\.com,seehd\\.nl,series9\\.ac,series9\\.biz,series9\\.fun,seuseriado\\.club,shahid4u\\.onl,sharetv\\.com,shortearn\\.eu,shortearn\\.in,shotly\\.io,sidereel\\.com,solarmovie\\.vip,strcloud\\.club,strcloud\\.link,streamcloud\\.eu,streamloverx\\.com,strtape\\.cloud,strtape\\.site,strtape\\.tech,thefmovies\\.me,thehiddenbay\\.com,thepiratebay\\.org,thepiratebay\\.vip,thepiratebay\\.zone,thepiratebay0\\.org,thepiratebay10\\.org,top123movies\\.com,tornadomovies\\.co,torrentkingnow\\.com,tpb\\.party,tpb\\.red,tv2me\\.net,upgrand\\.site,upgrand\\.xyz,uploadbaz\\.me,uploadbaz\\.net,upstream\\.to,uqload\\.com,vidbm\\.com,vidcloud9\\.com,vidclouds\\.icu,vidnext\\.net,vidshare\\.tv,vidsrc\\.me,voiranime\\.com,vudeo\\.net,vumoo\\.to,watch-series\\.la,watchepisodes4\\.com,watchepisodeseries\\.su,watchfreenet\\.com,watchkobe\\.info,watchmovie\\.movie,watchmoviesfree\\.org,watchseries\\.net,watchseries\\.ninja,watchseries1\\.video,watchserieshd\\.online,watchserieshd\\.tv,watchseriesnet\\.net,watchtvseries\\.video,worldgreynews\\.com,xmovies8\\.cool,yesmovies\\.mom,yesmovies\\.so,yesmovies\\.vc,ymovies\\.vip,youtubecdn\\.com,zpaste\\.net,zplayer\\.live#\\$#abort-current-inline-script String\\.fromCharCode /btoa\\|break/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -13645,6 +13891,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://.*txxx\\.com#\\$#override-property-read skpPop true; abort-on-property-read ExoLoader; abort-on-property-read open",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*protonvideo\\.to#\\$#abort-on-property-read PlayerjsEvents",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -13760,23 +14023,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*ebay\\.de#\\$#hide-if-contains-visible-text ANZEIGE 'li\\.s-item' 'li\\.s-item span\\[role=\"text\"\\]'",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://.*thegatewaypundit\\.com#\\$#abort-on-property-read adtoniq; abort-on-property-write adtoniq; abort-on-property-write bomab; abort-on-property-write zacak; abort-on-property-write kozuq",
 			"resource-type": [
 				"image",
@@ -13862,7 +14108,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*youtube\\.com,youtube-nocookie\\.com#\\$#json-prune '2\\.playerResponse\\.adPlacements playerResponse\\.adPlacements playerResponse\\.playerAds adPlacements playerAds'",
+			"url-filter": "^https?://.*youtube\\.com,youtube-nocookie\\.com#\\$#override-property-read playerResponse\\.adPlacements undefined; override-property-read ytInitialPlayerResponse\\.adPlacements undefined",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -13879,7 +14125,22 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*youtube\\.com,youtube-nocookie\\.com#\\$#override-property-read playerResponse\\.adPlacements undefined; override-property-read ytInitialPlayerResponse\\.adPlacements undefined",
+			"url-filter": "^https?://googlevideo\\.com/videoplayback\\?.*&ctier=",
+			"resource-type": [
+				"raw"
+			],
+			"if-domain": [
+				"youtube.com",
+				"www.youtube.com"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*www\\.youtube\\.com,music\\.youtube\\.com,youtube-nocookie\\.com#\\$#json-prune '0\\.playerResponse\\.adPlacements 0\\.playerResponse\\.playerAds 1\\.playerResponse\\.adPlacements 1\\.playerResponse\\.playerAds 2\\.playerResponse\\.adPlacements 2\\.playerResponse\\.playerAds 3\\.playerResponse\\.adPlacements 3\\.playerResponse\\.playerAds 4\\.playerResponse\\.adPlacements 4\\.playerResponse\\.playerAds 5\\.playerResponse\\.adPlacements 5\\.playerResponse\\.playerAds 6\\.playerResponse\\.adPlacements 6\\.playerResponse\\.playerAds 7\\.playerResponse\\.adPlacements 7\\.playerResponse\\.playerAds 8\\.playerResponse\\.adPlacements 8\\.playerResponse\\.playerAds 9\\.playerResponse\\.adPlacements 9\\.playerResponse\\.playerAds playerResponse\\.adPlacements playerResponse\\.playerAds ytInitialPlayerResponse\\.adPlacements ytInitialPlayerResponse\\.playerAds adPlacements playerAds'",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -14003,7 +14264,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*bing\\.com#\\$#hide-if-matches-xpath '\\.//li\\[@class=\"b_algo\"\\]/h2/following-sibling::.*\\[1\\]/self::div\\[@class=\"b_caption\"\\]/p\\[@class\\]/ancestor-or-self::li\\[@class=\"b_algo\"\\]'",
+			"url-filter": "^https?://.*bing\\.com#\\?#li\\[class=\"b_algo\"\\]:-abp-has\\(> h2 \\+ div\\[class=\"b_caption\"\\] > p\\[class\\]\\)",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -14710,7 +14971,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*extreme-d0wn\\.com,extreme-d0wn\\.net,extreme-down\\.in,extreme-down\\.ninja,extreme-down\\.one,extreme-down\\.pro,extreme-down\\.top,extreme-down\\.tv,extreme-down\\.xyz,extreme-download\\.cc,extreme-download\\.ch,extreme-download\\.im,extreme-download\\.me,extreme-download\\.ninja,extrem-down\\.vip,extreme-down\\.video,extreme-download\\.xyz,voiranime\\.com#\\$#abort-on-property-read NativeAd",
+			"url-filter": "^https?://.*extreme-down\\.in,extreme-down\\.link,extreme-down\\.live,extreme-down\\.ninja,extreme-down\\.one,extreme-down\\.pro,extreme-down\\.top,extreme-down\\.tv,extreme-down\\.work,extreme-down\\.xyz,extreme-download\\.im,extreme-download\\.ninja,extreme-down\\.video,extreme-download\\.xyz,voiranime\\.com#\\$#abort-on-property-read NativeAd",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -14744,7 +15005,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*flystream\\.fr,filmtelecharger\\.net,jetanimes\\.co,libertyvf\\.co,libertyvf\\.tv,libertyvf\\.com,streaming-one\\.com,extreme-d0wn\\.com,extreme-d0wn\\.net,extreme-down\\.in,extreme-down\\.ninja,extreme-down\\.one,extreme-down\\.pro,extreme-down\\.top,extreme-down\\.tv,extrem-down\\.vip,extreme-down\\.video,extreme-down\\.xyz,extreme-download\\.cc,extreme-download\\.ch,extreme-download\\.im,extreme-download\\.me,extreme-download\\.ninja,extreme-download\\.xyz#\\$#abort-current-inline-script Math zfgloaded",
+			"url-filter": "^https?://.*flystream\\.fr,filmtelecharger\\.net,jetanimes\\.co,libertyvf\\.co,libertyvf\\.tv,libertyvf\\.com,streaming-one\\.com,extreme-down\\.in,extreme-down\\.link,extreme-down\\.live,extreme-down\\.ninja,extreme-down\\.one,extreme-down\\.pro,extreme-down\\.top,extreme-down\\.tv,extreme-down\\.work,extreme-down\\.video,extreme-down\\.xyz,extreme-download\\.im,extreme-download\\.ninja,extreme-download\\.xyz#\\$#abort-current-inline-script Math zfgloaded",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -14829,7 +15090,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*summarynetworks\\.com,ed-protect\\.org,extreme-d0wn\\.com,extreme-d0wn\\.net,extreme-down\\.in,extreme-down\\.ninja,extreme-down\\.one,extreme-down\\.pro,extreme-down\\.top,extreme-down\\.tv,extrem-down\\.vip,extreme-down\\.video,extreme-down\\.xyz,extreme-download\\.cc,extreme-download\\.ch,extreme-download\\.im,extreme-download\\.me,extreme-download\\.ninja,extreme-download\\.xyz,japscan\\.cc,japscan\\.com,japscan\\.se,japscan\\.to,dl-protect\\.best,dl-protect\\.top,dl-protect\\.xyz,dl-protect1\\.com,hdss\\.la,vostfree\\.com,wawacity\\.co,wawacity\\.ec,wawacity\\.ninja,wawacity\\.vip,streaming-vostfr\\.net,hdss\\.to#\\$#abort-current-inline-script String\\.fromCharCode /btoa\\|break/",
+			"url-filter": "^https?://.*summarynetworks\\.com,ed-protect\\.org,extreme-down\\.in,extreme-down\\.link,extreme-down\\.live,extreme-down\\.ninja,extreme-down\\.one,extreme-down\\.pro,extreme-down\\.top,extreme-down\\.tv,extreme-down\\.work,extreme-down\\.video,extreme-down\\.xyz,extreme-download\\.im,extreme-download\\.ninja,extreme-download\\.xyz,french-stream\\.lol,japscan\\.cc,japscan\\.com,japscan\\.se,japscan\\.to,lelscan-vf\\.co,dl-protect\\.best,dl-protect\\.top,dl-protect\\.xyz,dl-protect1\\.com,hdss\\.la,one-piece-streaming-vostfr\\.com,vostfree\\.com,wawacity\\.bz,wawacity\\.co,wawacity\\.ec,wawacity\\.ninja,wawacity\\.vip,streaming-vostfr\\.net,streamingfrance\\.com,hdss\\.to#\\$#abort-current-inline-script String\\.fromCharCode /atob\\|btoa\\|break/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -14960,6 +15221,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://.*ebay\\.de#\\$#hide-if-contains-visible-text /Anzeige\\|ANZEIGE/ 'li\\.s-item' 'li\\.s-item span\\[role=\"text\"\\]'",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://.*yad2\\.co\\.il#\\$#abort-current-inline-script TextDecoder",
 			"resource-type": [
 				"image",
@@ -14995,6 +15273,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://.*jvpnews\\.com#\\$#abort-current-inline-script atob TextDecoder",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*xxx-indian-porn\\.com#\\$#abort-current-inline-script popunder",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -15071,6 +15366,21 @@
 				"media",
 				"raw",
 				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://googlevideo\\.com/videoplayback\\?.*&ctier=",
+			"resource-type": [
+				"raw"
+			],
+			"if-domain": [
+				"youtube.com",
+				"www.youtube.com"
 			]
 		},
 		"action": {
@@ -15640,7 +15950,41 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*wp\\.pl,pudelek\\.pl,dobreprogramy\\.pl,abczdrowie\\.pl,parenting\\.pl,nerwica\\.com,autokult\\.pl,fotoblogia\\.pl,kafeteria\\.pl,komorkomania\\.pl,medycyna24\\.pl,smaczneblogi\\.pl,gadzetomania\\.pl#\\$#hide-if-contains-image-hash 01fbaba1e1e124f6,0f0f0f0f0f0f8f0e,01df646e662e74f0,06cf03f57c0ecf0c,c4d65c1edc1342e7,7a58585e5e1c465e,80dfccccc0becee0,676866473734f464,0bf170f404efc539,f870303c3c3000ff,0f0f8f070f0fcf06,5a5a7a5878783a3a,10f7e703385e2f23,1f38f838f0f0e8f0,e343e3a223e3cb07,ff001a1f1d36fc03,0f1b1f191f38381f,f8e003e77f80073b,3c3c7e180c7e3c3c,781e8f83e10f8f83,f98180fb8fc18f85,08dfdc1c1e5cfe10,3f090f87870f0c9f,c783eec00cee8357,60bd7e18107f3c3c,f8f8c1d3c3c3d385,7f0183677781db81,7e7e0f0f1cf4ff00,1cbc81f3c3c3db81,713c1f074f073707,01df646e662e74f0",
+			"url-filter": "^https?://.*echirurgia\\.pl,kardiolo\\.pl,dobreprogramy\\.pl,o2\\.pl,kafeteria\\.pl,parenting\\.pl,autokult\\.pl,pudelek\\.pl,nerwica\\.com,medycyna24\\.pl,money\\.pl,smaczneblogi\\.pl,komorkomania\\.pl,gadzetomania\\.pl,open\\.fm,fotoblogia\\.pl,abczdrowie\\.pl,autocentrum\\.pl,wp\\.pl,~poczta\\.wp\\.pl#\\$#hide-if-matches-xpath '\\.//div\\[@class\\]//a\\[string-length\\(@href\\)>500\\]/div\\[@class\\]/div\\[@class\\]//img\\[@class\\]\\[string-length\\(@src\\)>70\\]/ancestor::div\\[@class and not\\(@id\\)\\]\\[5\\]'",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*echirurgia\\.pl,kardiolo\\.pl,dobreprogramy\\.pl,o2\\.pl,kafeteria\\.pl,parenting\\.pl,autokult\\.pl,pudelek\\.pl,nerwica\\.com,medycyna24\\.pl,money\\.pl,smaczneblogi\\.pl,komorkomania\\.pl,gadzetomania\\.pl,open\\.fm,fotoblogia\\.pl,abczdrowie\\.pl,autocentrum\\.pl,wp\\.pl,~poczta\\.wp\\.pl#\\$#hide-if-matches-xpath '//div/a\\[string-length\\(@href\\) > 1510\\]/div\\[@class\\]/img\\[@class\\]\\[string-length\\(@src\\) > 100\\]/ancestor::div\\[@class and not\\(@id\\)\\]\\[2\\]'",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*echirurgia\\.pl,kardiolo\\.pl,dobreprogramy\\.pl,o2\\.pl,kafeteria\\.pl,parenting\\.pl,autokult\\.pl,pudelek\\.pl,nerwica\\.com,medycyna24\\.pl,money\\.pl,smaczneblogi\\.pl,komorkomania\\.pl,gadzetomania\\.pl,open\\.fm,fotoblogia\\.pl,abczdrowie\\.pl,autocentrum\\.pl,wp\\.pl,~poczta\\.wp\\.pl#\\$#hide-if-matches-xpath '//a\\[@class and @.* and not \\(@id\\)\\]\\[string-length\\(@href\\) > 1000\\]/img\\[@class and @.* and not \\(@id\\)\\]\\[string-length\\(@src\\) > 100\\]/ancestor::div\\[@class and @.* and not\\(@id\\)\\]\\[5\\]'",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -15675,6 +16019,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://.*naekranie\\.pl#\\$#abort-on-property-read adQueue",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*filmy69\\.pl#\\$#abort-current-inline-script document\\.querySelectorAll popMagic",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -15855,7 +16216,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*kakprosto\\.ru#\\$#abort-current-inline-script document\\.createElement String\\.fromCharCode; abort-on-property-write window\\.yaProxy",
+			"url-filter": "^https?://.*kakprosto\\.ru#\\$#abort-current-inline-script document\\.createElement String\\.fromCharCode; abort-on-property-write window\\.yaProxy; abort-on-property-write Object\\.defineProperty",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -15872,7 +16233,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*liveinternet\\.ru#\\$#json-prune data; abort-on-property-read Object\\.prototype\\.AdReload; abort-on-property-read Object\\.prototype\\.initAutoRefreshment",
+			"url-filter": "^https?://.*liveinternet\\.ru#\\$#abort-on-property-read Object\\.prototype\\.parseResponseData",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -15889,7 +16250,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*echo\\.msk\\.ru#\\$#abort-on-property-read Object\\.prototype\\.renderTo",
+			"url-filter": "^https?://.*echo\\.msk\\.ru#\\$#abort-on-property-read Object\\.prototype\\.onRender; abort-on-property-read Object\\.prototype\\.banner",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -15974,7 +16335,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*24smi\\.org#\\$#abort-on-property-read eval",
+			"url-filter": "^https?://.*24smi\\.org#\\$#abort-on-property-read Object\\.prototype\\.encodeJsonpScriptSrc",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -16026,23 +16387,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://.*sinoptik\\.ua,dynamo\\.kiev\\.ua#\\$#abort-on-property-read document\\.documentElement\\.createShadowRoot",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*gismeteo\\.ua#\\$#abort-on-property-read eval",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -16498,7 +16842,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*mediasat\\.info,housechief\\.ru,fainaidea\\.com,1informer\\.com,dyvys\\.info#\\$#abort-on-property-read td_ad_background_click_target",
+			"url-filter": "^https?://.*agronom\\.com\\.ua,mediasat\\.info,housechief\\.ru,fainaidea\\.com,1informer\\.com,dyvys\\.info#\\$#abort-on-property-read td_ad_background_click_target",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -16583,7 +16927,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*ati\\.su#\\$#abort-on-property-read Object\\.prototype\\.advApiClient",
+			"url-filter": "^https?://.*ati\\.su#\\$#abort-on-property-read Object\\.prototype\\._bannerOrderAttr",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -16702,7 +17046,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*shaiba\\.kz#\\$#abort-current-inline-script \\$ show1xbetFullScreen",
+			"url-filter": "^https?://.*shaiba\\.kz#\\$#abort-current-inline-script \\$ 1xbet",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -16821,7 +17165,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*freehat\\.cc,tt-cup\\.com,zerno-ua\\.com,oxax\\.tv,prostoporno\\.help,vmusi\\.ru,zloekino\\.su,zloekino\\.ru,xittv\\.net,potokcdn\\.com,buzday\\.ru,nsday\\.ru,orenday\\.ru,perevolockday\\.ru,saltday\\.ru,sorochinskday\\.ru,lostpix\\.com,uploadimagex\\.com,volynpost\\.com,wowskill\\.ru,hlamer\\.ru,zloekino\\.com#\\$#abort-on-property-read open",
+			"url-filter": "^https?://.*web-shpargalka\\.ru#\\$#abort-on-property-read Date\\.prototype\\.toUTCString",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -16838,7 +17182,24 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*torrent-pirat\\.com,pornoakt\\.vip,porn720\\.biz,huyamba\\.tv,xxxtor\\.com#\\$#abort-current-inline-script document\\.querySelectorAll popMagic",
+			"url-filter": "^https?://.*serialfilm\\.ru,freehat\\.cc,tt-cup\\.com,zerno-ua\\.com,oxax\\.tv,prostoporno\\.help,vmusi\\.ru,zloekino\\.su,zloekino\\.ru,xittv\\.net,potokcdn\\.com,buzday\\.ru,nsday\\.ru,orenday\\.ru,perevolockday\\.ru,saltday\\.ru,sorochinskday\\.ru,lostpix\\.com,uploadimagex\\.com,volynpost\\.com,wowskill\\.ru,hlamer\\.ru,zloekino\\.com#\\$#abort-on-property-read open",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*piratam\\.net,piratca\\.net,sexitorrent\\.com,sextor\\.org,xtorrent\\.net,xxxrip\\.net,torrent-pirat\\.com,pornoakt\\.vip,porn720\\.biz,huyamba\\.tv,xxxtor\\.com#\\$#abort-current-inline-script document\\.querySelectorAll popMagic",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -16958,6 +17319,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://.*freehat\\.cc#\\$#abort-on-property-read advFirstClickOpenNewTab",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*kinofilm\\.co,anipoisk\\.org#\\$#abort-on-property-read ClickUndercookie",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -17110,7 +17488,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*kriminal\\.tv,4studio\\.com\\.ua,112ua\\.tv,newsoneua\\.tv,zikua\\.tv,gorodkiev\\.com\\.ua,volynpost\\.com,uanews\\.org\\.ua,dialogs\\.org\\.ua,technoportal\\.com\\.ua,pingvin\\.pro,fakty\\.ua,cikavosti\\.com,versii\\.if\\.ua#\\$#abort-on-property-read weekCallbacks",
+			"url-filter": "^https?://.*informator\\.ua,kriminal\\.tv,4studio\\.com\\.ua,112ua\\.tv,newsoneua\\.tv,zikua\\.tv,gorodkiev\\.com\\.ua,volynpost\\.com,uanews\\.org\\.ua,dialogs\\.org\\.ua,technoportal\\.com\\.ua,pingvin\\.pro,fakty\\.ua,cikavosti\\.com,versii\\.if\\.ua#\\$#abort-on-property-read weekCallbacks",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -17144,7 +17522,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*nova\\.rambler\\.ru#\\$#abort-on-property-write Object\\.prototype\\.getUnusableAds",
+			"url-filter": "^https?://.*rambler\\.ru,~mail\\.rambler\\.ru,~vp\\.rambler\\.ru,~kassa\\.rambler\\.ru,~top100\\.rambler\\.ru,~class\\.rambler\\.ru,~dating\\.rambler\\.ru,~images\\.rambler\\.ru,~rabota\\.rambler\\.ru,~help\\.rambler\\.ru,~org\\.rambler\\.ru,~developers\\.rambler\\.ru,~soft\\.rambler\\.ru,~nova\\.rambler\\.ru,motor\\.ru,rns\\.online,lenta\\.ru,gazeta\\.ru,passion\\.ru,quto\\.ru,eda\\.ru,letidor\\.ru,wmj\\.ru#\\$#hide-if-matches-xpath '//div\\[text\\(\\)\\[contains\\(\\.,\" \"\\)\\]\\]\\[contains\\(@class,\"_\"\\)\\]\\[not\\(@id\\)\\]/div\\[not\\(@class\\)\\]\\[not\\(@style\\)\\]\\[not\\(.*\\) and not\\(normalize-space\\(\\)\\)\\]\\[not\\(following-sibling::.*\\)\\]/ancestor::div\\[@class\\]\\[not\\(@id\\)\\]\\[not\\(contains\\(@class,\"_\"\\)\\)\\]\\[2\\]'",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -17161,7 +17539,58 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*rambler\\.ru,autorambler\\.ru,lenta\\.ru,motor\\.ru,quto\\.ru,wmj\\.ru,passion\\.ru,letidor\\.ru,rns\\.online,championat\\.com#\\?#:-abp-has\\(>a\\[style.*=\"//zoomdecorate\\.rambler\\.ru/\"\\]\\)",
+			"url-filter": "^https?://.*rambler\\.ru,~mail\\.rambler\\.ru,~vp\\.rambler\\.ru,~kassa\\.rambler\\.ru,~top100\\.rambler\\.ru,~class\\.rambler\\.ru,~dating\\.rambler\\.ru,~images\\.rambler\\.ru,~rabota\\.rambler\\.ru,~help\\.rambler\\.ru,~org\\.rambler\\.ru,~developers\\.rambler\\.ru,~soft\\.rambler\\.ru,~nova\\.rambler\\.ru,motor\\.ru,rns\\.online,lenta\\.ru,gazeta\\.ru,passion\\.ru,quto\\.ru,eda\\.ru,letidor\\.ru,wmj\\.ru#\\$#hide-if-matches-xpath '\\.//div/div\\[not\\(.*\\) and not\\(normalize-space\\(\\)\\)\\]\\[@class\\]\\[text\\(\\)\\[contains\\(\\.,\" \"\\)\\]\\]\\[not\\(preceding-sibling::.*\\) and not\\(following-sibling::.*\\)\\]\\[contains\\(@class,\"_\"\\)\\]\\[not\\(@id\\)\\]/ancestor::div\\[@class\\]\\[3\\]'",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*rambler\\.ru,~mail\\.rambler\\.ru,~vp\\.rambler\\.ru,~kassa\\.rambler\\.ru,~top100\\.rambler\\.ru,~class\\.rambler\\.ru,~dating\\.rambler\\.ru,~images\\.rambler\\.ru,~rabota\\.rambler\\.ru,~help\\.rambler\\.ru,~org\\.rambler\\.ru,~developers\\.rambler\\.ru,~soft\\.rambler\\.ru,~nova\\.rambler\\.ru,motor\\.ru,rns\\.online,lenta\\.ru,motor\\.ru,gazeta\\.ru,passion\\.ru,quto\\.ru,eda\\.ru,letidor\\.ru,wmj\\.ru#\\$#hide-if-matches-xpath '\\.//div\\[count\\(div\\[@class\\]\\)=1\\]/following-sibling::div\\[@class\\]\\[count\\(div\\[@class\\]\\)=3\\]\\[child::div\\[1\\]\\[string-length\\(text\\(\\)\\)=7\\]/div\\]\\[child::div\\[2\\]/div\\]\\[child::div\\[3\\]/div\\]/ancestor::div\\[@class\\]\\[2\\]'",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*rambler\\.ru,~mail\\.rambler\\.ru,~vp\\.rambler\\.ru,~kassa\\.rambler\\.ru,~top100\\.rambler\\.ru,~class\\.rambler\\.ru,~dating\\.rambler\\.ru,~images\\.rambler\\.ru,~rabota\\.rambler\\.ru,~help\\.rambler\\.ru,~org\\.rambler\\.ru,~developers\\.rambler\\.ru,~soft\\.rambler\\.ru,~nova\\.rambler\\.ru,motor\\.ru,rns\\.online,lenta\\.ru,motor\\.ru,gazeta\\.ru,passion\\.ru,quto\\.ru,eda\\.ru,letidor\\.ru,wmj\\.ru#\\$#hide-if-matches-xpath '\\.//div\\[count\\(div\\[@class\\]\\)<=2\\]/following-sibling::div\\[@class\\]\\[count\\(div\\[@class\\]\\)=4\\]\\[child::div\\[1\\]\\[string-length\\(text\\(\\)\\)=7\\]/div\\]\\[child::div\\[2\\]/div\\]\\[child::div\\[3\\]\\[string-length\\(text\\(\\)\\)=7\\]/div\\]\\[child::div\\[4\\]\\[string-length\\(text\\(\\)\\)=7\\]/div\\]/ancestor::div\\[@class\\]\\[2\\]'",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*rambler\\.ru,~mail\\.rambler\\.ru,~vp\\.rambler\\.ru,~kassa\\.rambler\\.ru,~top100\\.rambler\\.ru,~class\\.rambler\\.ru,~dating\\.rambler\\.ru,~images\\.rambler\\.ru,~rabota\\.rambler\\.ru,~help\\.rambler\\.ru,~org\\.rambler\\.ru,~developers\\.rambler\\.ru,~soft\\.rambler\\.ru,~nova\\.rambler\\.ru,motor\\.ru,rns\\.online,lenta\\.ru,motor\\.ru,gazeta\\.ru,passion\\.ru,quto\\.ru,eda\\.ru,letidor\\.ru,wmj\\.ru#\\$#hide-if-matches-xpath '\\.//div\\[not\\(@class\\)\\]\\[not\\(@id\\)\\]\\[not\\(@style\\)\\]\\[string-length\\(text\\(\\)\\)=7\\]/ancestor::div\\[@class\\]\\[4\\]'",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -17195,7 +17624,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*112ua\\.tv,24boxing\\.com\\.ua,4mama\\.ua,avtovod\\.com\\.ua,avtovod\\.org\\.ua,besplatka\\.ua,bilshe\\.com,buhgalter\\.com\\.ua,buhgalter911\\.com,businessua\\.com,censor\\.net,dengi\\.ua,enovosty\\.com,epravda\\.com\\.ua,eurointegration\\.com\\.ua,f1analytic\\.com,facenews\\.ua,football-ukraine\\.com,football24\\.ua,footballtransfer\\.com\\.ua,forumodua\\.com,gismeteo\\.ua,gorod\\.dp\\.ua,hvylya\\.net,inforesist\\.org,internetua\\.com,kolobok\\.ua,kp\\.ua,kriminal\\.tv,lifedon\\.com\\.ua,mport\\.ua,nashamama\\.com,newsyou\\.info,nnovosti\\.info,okino\\.ua,ostro\\.org,perevod\\.i\\.ua,real-vin\\.com,segodnya\\.ua,sinoptik\\.ua,smak\\.ua,sportanalytic\\.com,toneto\\.net,tv\\.ua,tvgid\\.ua,u-news\\.com\\.ua,udoktora\\.net,vsetv\\.com,zdorovia\\.com\\.ua#\\$#override-property-read String\\.prototype\\.charCodeAt trueFunc",
+			"url-filter": "^https?://.*112ua\\.tv,24boxing\\.com\\.ua,4mama\\.ua,avtovod\\.com\\.ua,avtovod\\.org\\.ua,besplatka\\.ua,bilshe\\.com,buhgalter\\.com\\.ua,buhgalter911\\.com,businessua\\.com,censor\\.net,dengi\\.ua,enovosty\\.com,epravda\\.com\\.ua,eurointegration\\.com\\.ua,f1analytic\\.com,facenews\\.ua,football-ukraine\\.com,football24\\.ua,footballtransfer\\.com\\.ua,gismeteo\\.ua,gorod\\.dp\\.ua,hvylya\\.net,inforesist\\.org,internetua\\.com,kolobok\\.ua,kp\\.ua,kriminal\\.tv,lifedon\\.com\\.ua,mport\\.ua,nashamama\\.com,newsyou\\.info,nnovosti\\.info,okino\\.ua,ostro\\.org,perevod\\.i\\.ua,real-vin\\.com,segodnya\\.ua,sinoptik\\.ua,smak\\.ua,sportanalytic\\.com,toneto\\.net,tv\\.ua,tvgid\\.ua,u-news\\.com\\.ua,udoktora\\.net,vsetv\\.com,zdorovia\\.com\\.ua#\\$#override-property-read String\\.prototype\\.charCodeAt trueFunc",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -17348,6 +17777,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://.*jkanime\\.net#\\$#abort-current-inline-script Math break",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://.*yandex\\.com\\.tr#\\$#hide-if-contains reklam li\\.serp-item 'li\\.serp-item div\\.label'",
 			"resource-type": [
 				"image",
@@ -17382,6 +17828,74 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://.*lb\\.topphimhd\\.info#\\$#override-property-read adsData_ar true",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*xemphimgi\\.net#\\$#abort-current-inline-script jQuery /\\.preload-11bet-pc/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*motphimmoi\\.net#\\$#abort-on-property-read open; abort-on-property-write window\\.location\\.href",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*fembed\\.com,femax20\\.com#\\$#abort-on-property-read open",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://st\\.bebi\\.com/bebi_v3\\.js",
 			"resource-type": [
 				"script"
@@ -17391,6 +17905,96 @@
 				"www.lolhentai.net",
 				"anime1.com",
 				"www.anime1.com"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://googlevideo\\.com/videoplayback\\?.*&pfa=",
+			"resource-type": [
+				"raw"
+			],
+			"if-domain": [
+				"youtube.com",
+				"www.youtube.com"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://googlevideo\\.com/videoplayback\\?.*yt_live_broadcast&",
+			"resource-type": [
+				"raw"
+			],
+			"if-domain": [
+				"youtube.com",
+				"www.youtube.com"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://googlevideo\\.com/videoplayback\\?.*yt_premiere_broadcast&",
+			"resource-type": [
+				"raw"
+			],
+			"if-domain": [
+				"youtube.com",
+				"www.youtube.com"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://googlevideo\\.com/videoplayback\\?.*&pfa=",
+			"resource-type": [
+				"raw"
+			],
+			"if-domain": [
+				"youtube.com",
+				"www.youtube.com"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://googlevideo\\.com/videoplayback\\?.*yt_live_broadcast&",
+			"resource-type": [
+				"raw"
+			],
+			"if-domain": [
+				"youtube.com",
+				"www.youtube.com"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://googlevideo\\.com/videoplayback\\?.*yt_premiere_broadcast&",
+			"resource-type": [
+				"raw"
+			],
+			"if-domain": [
+				"youtube.com",
+				"www.youtube.com"
 			]
 		},
 		"action": {
@@ -17614,7 +18218,13 @@
 				"zeit.de",
 				"www.zeit.de",
 				"ladenzeile.de",
-				"www.ladenzeile.de"
+				"www.ladenzeile.de",
+				"axelspringer.com",
+				"www.axelspringer.com",
+				"sport1.de",
+				"www.sport1.de",
+				"sueddeutsche.de",
+				"www.sueddeutsche.de"
 			]
 		},
 		"action": {
@@ -17838,7 +18448,13 @@
 				"zeit.de",
 				"www.zeit.de",
 				"ladenzeile.de",
-				"www.ladenzeile.de"
+				"www.ladenzeile.de",
+				"axelspringer.com",
+				"www.axelspringer.com",
+				"sport1.de",
+				"www.sport1.de",
+				"sueddeutsche.de",
+				"www.sueddeutsche.de"
 			]
 		},
 		"action": {
@@ -18062,7 +18678,13 @@
 				"zeit.de",
 				"www.zeit.de",
 				"ladenzeile.de",
-				"www.ladenzeile.de"
+				"www.ladenzeile.de",
+				"axelspringer.com",
+				"www.axelspringer.com",
+				"sport1.de",
+				"www.sport1.de",
+				"sueddeutsche.de",
+				"www.sueddeutsche.de"
 			]
 		},
 		"action": {
@@ -18285,7 +18907,13 @@
 				"zeit.de",
 				"www.zeit.de",
 				"ladenzeile.de",
-				"www.ladenzeile.de"
+				"www.ladenzeile.de",
+				"axelspringer.com",
+				"www.axelspringer.com",
+				"sport1.de",
+				"www.sport1.de",
+				"sueddeutsche.de",
+				"www.sueddeutsche.de"
 			]
 		},
 		"action": {
@@ -18508,7 +19136,13 @@
 				"zeit.de",
 				"www.zeit.de",
 				"ladenzeile.de",
-				"www.ladenzeile.de"
+				"www.ladenzeile.de",
+				"axelspringer.com",
+				"www.axelspringer.com",
+				"sport1.de",
+				"www.sport1.de",
+				"sueddeutsche.de",
+				"www.sueddeutsche.de"
 			]
 		},
 		"action": {
@@ -18732,7 +19366,13 @@
 				"zeit.de",
 				"www.zeit.de",
 				"ladenzeile.de",
-				"www.ladenzeile.de"
+				"www.ladenzeile.de",
+				"axelspringer.com",
+				"www.axelspringer.com",
+				"sport1.de",
+				"www.sport1.de",
+				"sueddeutsche.de",
+				"www.sueddeutsche.de"
 			]
 		},
 		"action": {
@@ -18956,7 +19596,13 @@
 				"zeit.de",
 				"www.zeit.de",
 				"ladenzeile.de",
-				"www.ladenzeile.de"
+				"www.ladenzeile.de",
+				"axelspringer.com",
+				"www.axelspringer.com",
+				"sport1.de",
+				"www.sport1.de",
+				"sueddeutsche.de",
+				"www.sueddeutsche.de"
 			]
 		},
 		"action": {
@@ -19185,7 +19831,13 @@
 				"zeit.de",
 				"www.zeit.de",
 				"ladenzeile.de",
-				"www.ladenzeile.de"
+				"www.ladenzeile.de",
+				"axelspringer.com",
+				"www.axelspringer.com",
+				"sport1.de",
+				"www.sport1.de",
+				"sueddeutsche.de",
+				"www.sueddeutsche.de"
 			]
 		},
 		"action": {
@@ -19412,7 +20064,13 @@
 				"wieistmeineip.de",
 				"www.wieistmeineip.de",
 				"zeit.de",
-				"www.zeit.de"
+				"www.zeit.de",
+				"axelspringer.com",
+				"www.axelspringer.com",
+				"sport1.de",
+				"www.sport1.de",
+				"sueddeutsche.de",
+				"www.sueddeutsche.de"
 			]
 		},
 		"action": {
@@ -19633,7 +20291,13 @@
 				"wieistmeineip.de",
 				"www.wieistmeineip.de",
 				"zeit.de",
-				"www.zeit.de"
+				"www.zeit.de",
+				"axelspringer.com",
+				"www.axelspringer.com",
+				"sport1.de",
+				"www.sport1.de",
+				"sueddeutsche.de",
+				"www.sueddeutsche.de"
 			]
 		},
 		"action": {
@@ -19854,7 +20518,13 @@
 				"wieistmeineip.de",
 				"www.wieistmeineip.de",
 				"zeit.de",
-				"www.zeit.de"
+				"www.zeit.de",
+				"axelspringer.com",
+				"www.axelspringer.com",
+				"sport1.de",
+				"www.sport1.de",
+				"sueddeutsche.de",
+				"www.sueddeutsche.de"
 			]
 		},
 		"action": {
@@ -20081,7 +20751,13 @@
 				"wieistmeineip.de",
 				"www.wieistmeineip.de",
 				"zeit.de",
-				"www.zeit.de"
+				"www.zeit.de",
+				"axelspringer.com",
+				"www.axelspringer.com",
+				"sport1.de",
+				"www.sport1.de",
+				"sueddeutsche.de",
+				"www.sueddeutsche.de"
 			]
 		},
 		"action": {
@@ -20302,7 +20978,13 @@
 				"wieistmeineip.de",
 				"www.wieistmeineip.de",
 				"zeit.de",
-				"www.zeit.de"
+				"www.zeit.de",
+				"axelspringer.com",
+				"www.axelspringer.com",
+				"sport1.de",
+				"www.sport1.de",
+				"sueddeutsche.de",
+				"www.sueddeutsche.de"
 			]
 		},
 		"action": {
@@ -20529,7 +21211,13 @@
 				"wieistmeineip.de",
 				"www.wieistmeineip.de",
 				"zeit.de",
-				"www.zeit.de"
+				"www.zeit.de",
+				"axelspringer.com",
+				"www.axelspringer.com",
+				"sport1.de",
+				"www.sport1.de",
+				"sueddeutsche.de",
+				"www.sueddeutsche.de"
 			]
 		},
 		"action": {
@@ -20672,6 +21360,48 @@
 			"if-domain": [
 				"welt.de",
 				"www.welt.de"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://aswpsdkus\\.com/notify/.*/ua-html-prompt\\.min\\.js",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"if-domain": [
+				"ran.de",
+				"www.ran.de"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://aswpsdkus\\.com/notify/.*/ua-sdk\\.min\\.js",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"if-domain": [
+				"ran.de",
+				"www.ran.de"
 			]
 		},
 		"action": {

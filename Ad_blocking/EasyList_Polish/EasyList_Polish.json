@@ -181,6 +181,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?euslugi\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banners"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?money\\.pl[/:]"
 		},
 		"action": {
@@ -204,6 +213,24 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#BD"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?spottedstarachowice\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#Box1"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?spottedskarzysko\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#Box4"
 		}
 	},
 	{
@@ -240,6 +267,24 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#HTML15"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?skyradar\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#HTML4"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?interia\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#IPLAbanner"
 		}
 	},
 	{
@@ -568,6 +613,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bankier\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#article-link-box"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?mragowo24\\.info[/:]"
 		},
 		"action": {
@@ -690,6 +744,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#baner-gorny"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?forumzabki\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#baner750"
 		}
 	},
 	{
@@ -865,11 +928,11 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?tvkstella\\.pl[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?dostawczaki\\.pl[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
-			"selector": "#banners"
+			"selector": "#banners-section"
 		}
 	},
 	{
@@ -1117,6 +1180,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?szpileczki\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#carousel-example-generic"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?zycieczestochowy\\.pl[/:]"
 		},
 		"action": {
@@ -1284,6 +1356,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#custom_html-2 a[target=\"_blank\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?budowadom\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#custom_html-4"
 		}
 	},
 	{
@@ -1504,6 +1585,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?spottedskarzysko\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#gkMainbodyTop"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?motocykle125\\.pl[/:]"
 		},
 		"action": {
@@ -1621,6 +1711,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tarnobrzeg\\.info[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#jedrus"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?tvnakarte\\.eu[/:]"
 		},
 		"action": {
@@ -1653,6 +1752,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#joe_rek2"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pokerlistings\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#js-cta-banner"
 		}
 	},
 	{
@@ -1864,6 +1972,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tonaszregion\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#media_image-134"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?gazetagazeta\\.com[/:]"
 		},
 		"action": {
@@ -1905,6 +2022,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#media_image-30"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?silesiainfotransport\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#media_image-31"
 		}
 	},
 	{
@@ -2120,15 +2246,6 @@
 		},
 		"action": {
 			"type": "css-display-none",
-			"selector": "#mvp-leader-wrap"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?glamrap\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
 			"selector": "#mvp-wallpaper"
 		}
 	},
@@ -2166,6 +2283,24 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#newsflash2 a[target=\"_blank\"] > img"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tarnobrzeg\\.info[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#obraz"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?naklo24\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#okazje2"
 		}
 	},
 	{
@@ -2283,6 +2418,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#popupContainer"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?polskaizbabranzypogrzebowej\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#post-2637"
 		}
 	},
 	{
@@ -2481,6 +2625,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#reklamaGooglePrawa336Last"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?forumbranzowe\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#reklama_2"
 		}
 	},
 	{
@@ -2850,6 +3003,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "#sponsorbox"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?onet\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#sponsoring"
 		}
 	},
 	{
@@ -3259,6 +3421,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?wiescipolickie\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#wds_slideshow_image_container_0"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?polukr\\.net[/:]"
 		},
 		"action": {
@@ -3331,6 +3502,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tenismagazyn\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#widget_sp_image-3"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?tyna\\.info\\.pl[/:]"
 		},
 		"action": {
@@ -3349,11 +3529,29 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tenismagazyn\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#widget_sp_image-5"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?tyna\\.info\\.pl[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": "#widget_sp_image-51"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dziennikstargardzki\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#widget_sp_image-8"
 		}
 	},
 	{
@@ -3610,6 +3808,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?polonia-peterborough\\.uk[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".a-wrap"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?czasdzieci\\.pl[/:]"
 		},
 		"action": {
@@ -3624,6 +3831,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".aas_zone"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?e-kursy-walut\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".abc"
 		}
 	},
 	{
@@ -3682,15 +3898,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?biznesalert\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".ad-container"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?promocja\\.mielec\\.pl[/:]"
 		},
 		"action": {
@@ -3741,6 +3948,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".adSearch"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?raportkolejowy\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad_adInfo"
 		}
 	},
 	{
@@ -4087,6 +4303,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dlaprodukcji\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".adv-wide"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?nowezyciepabianic\\.pl[/:]"
 		},
 		"action": {
@@ -4146,6 +4371,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".advRekl"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?historykon\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".adv_content"
 		}
 	},
 	{
@@ -4366,11 +4600,29 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?onlineradio\\.com\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ai-placement"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?codziennikmlawski\\.pl[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": ".ai-rotate a:not([href^=\"https://codziennikmlawski.pl/\"])"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?emaszyny\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".aimg"
 		}
 	},
 	{
@@ -4447,6 +4699,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?globenergia\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".article_headline_ad"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?posbud\\.com\\.pl[/:]"
 		},
 		"action": {
@@ -4461,6 +4722,24 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".askdom-wrapper"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bejsment\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".attachment-300x100"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?glospedagogiczny\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".auto-pr-block > a"
 		}
 	},
 	{
@@ -4546,6 +4825,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?echogorzowa\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ba"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?swinoujskie\\.info[/:]"
 		},
 		"action": {
@@ -4578,6 +4866,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".ban-top"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?plotek\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ban001_wrapper"
 		}
 	},
 	{
@@ -4915,6 +5212,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?stadionowioprawcy\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".bannerBox a[target=\"_blank\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?zlotowskie\\.pl[/:]"
 		},
 		"action": {
@@ -4938,6 +5244,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".banner_bottom"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?instalki\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".banner_mod_top"
 		}
 	},
 	{
@@ -4987,11 +5302,47 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sloworegionu\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".bannergroup iframe"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?palukitv\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".bannergroup img"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?instalki\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".bannergroup-adv"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?newslubuski\\.pl[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": ".bannergroup_image-banner a[href^=\"/component/banners/click/\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?chnnews\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".bannergroupright-banner"
 		}
 	},
 	{
@@ -5055,24 +5406,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".banners-mainpage"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?magazyn-ecommerce\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".bannersm"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?mamopracuj\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".bannery"
 		}
 	},
 	{
@@ -5311,6 +5644,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?portalspozywczy\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".box-0"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?gazeta-mosina\\.pl[/:]"
 		},
 		"action": {
@@ -5469,24 +5811,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".breadcrumbs-wrap ~ center a"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?poscigi\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".bsaPopupWrapper"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?poscigi\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".bsaPopupWrapperBg"
 		}
 	},
 	{
@@ -5860,11 +6184,11 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?odkrywamyzakryte\\.com[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?probasket\\.pl[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
-			"selector": ".custom-html-widget"
+			"selector": ".custom-html-widget a > img"
 		}
 	},
 	{
@@ -6170,6 +6494,24 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": ".elementor-element-42b6e5c"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?gazetakolobrzeska\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".elementor-element-7a2c026"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?gazetakolobrzeska\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": ".elementor-image a:not([href*=\"gazetakolobrzeska.pl\"], [href=\"/\"])"
 		}
 	},
@@ -6207,6 +6549,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".epain-widget.td_block_template_1"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?radionadzieja\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".et_pb_image_wrap"
 		}
 	},
 	{
@@ -6580,6 +6931,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?stadionowioprawcy\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".google_box a"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?log4\\.pl[/:]"
 		},
 		"action": {
@@ -6621,6 +6981,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".h_banner-block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dlaprodukcji\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".halfbaner a:not([href^=\"https://dlaprodukcji.pl/\"])"
 		}
 	},
 	{
@@ -6679,6 +7048,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tarnobrzeg\\.info[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".header-advertise"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?rynek-ksiazki\\.pl[/:]"
 		},
 		"action": {
@@ -6711,15 +7089,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".header-promo"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?infokrakow24\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".header-right"
 		}
 	},
 	{
@@ -6805,6 +7174,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?wbj\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".highlight__adv-title + a"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?ceneo\\.pl[/:]"
 		},
 		"action": {
@@ -6855,6 +7233,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".homepage-ad-area"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?firmypolski\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".hot-info-slider"
 		}
 	},
 	{
@@ -6985,6 +7372,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?forum\\.optymalizacja\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ipsWidget_vertical > center img"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?gazzettaitalia\\.pl[/:]"
 		},
 		"action": {
@@ -7039,6 +7435,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?kodiwpigulce\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".jaw-banner"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?lubiehrubie\\.pl[/:]"
 		},
 		"action": {
@@ -7089,6 +7494,24 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".js-sitehead-ads"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?truckitransport\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".jsn-mod-custom a[rel=\"nofollow\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?truckitransport\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".jsn-mod-custom img"
 		}
 	},
 	{
@@ -7327,6 +7750,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?beskidnews\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".main-slider"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?gazetanowodworska\\.com[/:]"
 		},
 		"action": {
@@ -7363,6 +7795,24 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?rynekinstalacyjny\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".marta"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?hij\\.com\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".master-slider .ms-slide"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?lpu24\\.pl[/:]"
 		},
 		"action": {
@@ -7377,6 +7827,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".mb-xl > .uk-display-inline-block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?gostynin\\.info[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".mb-xl a[target=\"_blank\"]"
 		}
 	},
 	{
@@ -7471,6 +7930,24 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sloworegionu\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".mfp-bg"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sloworegionu\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".mfp-wrap"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?infoszach\\.pl[/:]"
 		},
 		"action": {
@@ -7543,11 +8020,11 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?kocham\\.wielun\\.pl[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?instalki\\.pl[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
-			"selector": ".module-abc"
+			"selector": ".module-adv"
 		}
 	},
 	{
@@ -7557,15 +8034,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".module-ct img[width=\"280\"]"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?kocham\\.wielun\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".module-mrowka"
 		}
 	},
 	{
@@ -7629,6 +8097,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".mradio-marketing"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?infofordon\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ms_layers_wrapper"
 		}
 	},
 	{
@@ -7728,6 +8205,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".newArticleA"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mojanorwegia\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".newLayerOuter"
 		}
 	},
 	{
@@ -7885,6 +8371,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?telekamery\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".owl-ads"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?podnoszenieciezarow\\.pl[/:]"
 		},
 		"action": {
@@ -8011,11 +8506,38 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?anglia\\.today[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".place-for-advertisement"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?siedlcesiedzieje\\.pl[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": ".placement"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?portalmorski\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".pmb_banners"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?dziennikwschodni\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".pngmonet"
 		}
 	},
 	{
@@ -8029,11 +8551,29 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pojezierze\\.com\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".pojez-widget > a[target=\"_blank\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?plonsk24\\.pl[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": ".pole-banerowe > a:not([href^=\"/\"]):not([href*=\"plonsk24.pl/\"])"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?plonsk24\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".pole-banerowe > img"
 		}
 	},
 	{
@@ -8070,6 +8610,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".post-single-ads1"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pojezierze\\.com\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".posts-slider"
 		}
 	},
 	{
@@ -8479,11 +9028,29 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?forumbranzowe\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".reklama_sidebar"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?okraglemiasto\\.pl[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": ".reklama_top"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?skawina24\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".reklamaoff"
 		}
 	},
 	{
@@ -8601,6 +9168,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".right_box"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?wiadomoscidebickie\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".rl-image-widget"
 		}
 	},
 	{
@@ -8821,11 +9397,29 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bobrzanie\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".sidebar .img-300"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?purepc\\.pl[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": ".sidebar a[href^=\"/rediz.php?\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?terazkrosno\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".sidebar a[target=\"_blank\" ][rel=\"nofollow\"]"
 		}
 	},
 	{
@@ -8907,6 +9501,24 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".sidebar_area .widget-2 .textwidget"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?swidnik\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".sidebar_item > img"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mieszkaniec\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".sidebarright > .widget > a:not([href^=\"https://mieszkaniec.pl\"])"
 		}
 	},
 	{
@@ -9064,6 +9676,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?30minut\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".small-adv"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?4tour\\.pl[/:]"
 		},
 		"action": {
@@ -9199,6 +9820,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pkf\\.org\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".start-site-banners"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?lajfy\\.com[/:]"
 		},
 		"action": {
@@ -9226,6 +9856,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?lpu24\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".stream-item-mag a:not([href*=\"lpu24.pl/\"])"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?wzielonej\\.pl[/:]"
 		},
 		"action": {
@@ -9249,15 +9888,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".strefa_banerowa"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?mierzyn24\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".subpage-header2"
 		}
 	},
 	{
@@ -9379,6 +10009,24 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?twojepajeczno\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".td-aa-rec"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?probasket\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".td-all-devices"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?jagodnik\\.pl[/:]"
 		},
 		"action": {
@@ -9402,6 +10050,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".td-banner-bg"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?elementarzprojektanta\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".td-fix-index"
 		}
 	},
 	{
@@ -9991,6 +10648,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?android\\.com\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".welcome-popup > .welcome-popup__ad"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?zycie\\.pl[/:]"
 		},
 		"action": {
@@ -10090,6 +10756,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?superportal24\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".widget_article"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?wysportowani-portal-kolarski\\.pl[/:]"
 		},
 		"action": {
@@ -10104,6 +10779,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".widget_cyclone-slider-widget"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?lubanski\\.eu[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".widget_enqtran_images_banner_widget a:not([href*=\"luban\"])"
 		}
 	},
 	{
@@ -10167,6 +10851,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".widget_widget_simplecatch_adspace_widget"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?swidnik\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".widgetable > a > img"
 		}
 	},
 	{
@@ -10324,6 +11017,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?wbaziefirm\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".wrapper-flash"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?filmweb\\.pl[/:]"
 		},
 		"action": {
@@ -10468,6 +11170,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?skarzysko24\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[class=\"custom none\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?ddwloclawek\\.pl[/:]"
 		},
 		"action": {
@@ -10540,6 +11251,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ekoszalin\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[class^=\"advert\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?deblinnews\\.pl[/:]"
 		},
 		"action": {
@@ -10567,11 +11287,38 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?gazeta\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[class^=\"ban00\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?busko\\.com\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[class^=\"banner-\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?wiecbork112\\.pl[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": "[class^=\"banner-promotions-\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?livingroom24\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[class^=\"banner_\"]"
 		}
 	},
 	{
@@ -10594,11 +11341,65 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?gk24\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[class^=\"lista_content_stream_\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?4miasta\\.pl[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": "[class^=\"miast-baner-\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?mojanorwegia\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[class^=\"modMnNewTopBar-\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?kanal10\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[class^=\"moduletable_banner\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?podlaski\\.info[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[class^=\"slider-banner-\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pokerlistings\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[class^=\"spu-\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?zkaszub\\.info[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[class^=\"zkasz-\"]"
 		}
 	},
 	{
@@ -10621,6 +11422,24 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?rybnik\\.com\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[id^=\"_gramscien_\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?gazeta\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[id^=\"adUnit-\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?losice\\.info[/:]"
 		},
 		"action": {
@@ -10630,11 +11449,47 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?gazeta\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[id^=\"ads\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?gazeta\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[id^=\"banC\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?sucha24\\.pl[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": "[id^=\"bills_in_rotation_\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?deblinnews\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[id^=\"black-studio-tinymce-\"] a[target=\"_blank\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?raportkolejowy\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[id^=\"cmac_adchangerwidget-\"]"
 		}
 	},
 	{
@@ -10657,6 +11512,24 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?forumzabki\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[id^=\"rek_rozwijana_bh1\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?forumzabki\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[id^=\"reklama\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?grojec24\\.net[/:]"
 		},
 		"action": {
@@ -10671,6 +11544,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "[id^=\"rev_slider_\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?sadistic\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[id^=\"sad_\"]"
 		}
 	},
 	{
@@ -10707,6 +11589,24 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "[id^=\"smartslider3-\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?glospedagogiczny\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[id^=\"smb_\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?beatcoin\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "[id^=\"trx_addons_widget_banner-\"]"
 		}
 	},
 	{
@@ -10864,6 +11764,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?3don\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[data-item=\"banner\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?podoslonami\\.pl[/:]"
 		},
 		"action": {
@@ -11013,6 +11922,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "a[href*=\"czesciauto24.pl\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?eko-mazurymariny\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href*=\"hoteltajty.pl\"]"
 		}
 	},
 	{
@@ -11287,6 +12205,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?hokej\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href=\"https://bogigolf.com.pl/\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?justasalad\\.pl[/:]"
 		},
 		"action": {
@@ -11359,6 +12286,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?livingroom24\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href^=\"/ads/\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?cztery-lapy\\.pl[/:]"
 		},
 		"action": {
@@ -11422,6 +12358,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?purepc\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href^=\"/redix.php?\"][databx]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?powiatowa\\.info[/:]"
 		},
 		"action": {
@@ -11472,6 +12417,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "a[href^=\"http://adserwer.\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tygodnikpilski\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href^=\"http://angitiamed.pl\"]"
 		}
 	},
 	{
@@ -11611,6 +12565,24 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?gawex\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href^=\"http://www.domyszczecinek.pl/\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?kliknijwzdrowie\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href^=\"http://www.hospitec-polska.pl/\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?glogow-info\\.pl[/:]"
 		},
 		"action": {
@@ -11634,6 +12606,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "a[href^=\"http://www.naturaity.pl/banner\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?epainfo\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href^=\"http://www.pcmnzoz.pl/\"]"
 		}
 	},
 	{
@@ -11665,6 +12646,24 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?kliknijwzdrowie\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href^=\"http://www.snoreeze.pl/\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?itv24\\.com\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href^=\"http://www.sovrana.pl/\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?czestochowskie24\\.pl[/:]"
 		},
 		"action": {
@@ -11692,11 +12691,29 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?szpileczki\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href^=\"https://ad.zanox.\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?strefainzyniera\\.pl[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": "a[href^=\"https://angielskitechniczny.edu.pl\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bstok\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href^=\"https://askdom.pl/\"]"
 		}
 	},
 	{
@@ -11719,11 +12736,47 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?wiescipolickie\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href^=\"https://autoeksport-police.\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?swarzedzki\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href^=\"https://berdychowski.otomoto.pl/\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?emecze\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href^=\"https://bitcoinpl.org/\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?icomp\\.pl[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": "a[href^=\"https://biuropro.pl/\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?przeclaw24\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href^=\"https://booksy.com/\"]"
 		}
 	},
 	{
@@ -11791,6 +12844,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tvopolska\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href^=\"https://duocollagen.pl/\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?forbot\\.pl[/:]"
 		},
 		"action": {
@@ -11805,6 +12867,24 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "a[href^=\"https://fundacja.lexnostra.pl/\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?cai24\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href^=\"https://gentlemanmagazine.pl/\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?gawex\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href^=\"https://go.toya.net.pl/\"]"
 		}
 	},
 	{
@@ -11850,6 +12930,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "a[href^=\"https://in.betsson29.com/\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?samnaprawiam\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href^=\"https://iparts.pl\"]"
 		}
 	},
 	{
@@ -11917,6 +13006,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tvklodzka\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href^=\"https://ng.pl/\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?gazetabilgoraj\\.pl[/:]"
 		},
 		"action": {
@@ -11967,6 +13065,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "a[href^=\"https://pgbikes.pl/\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?kibice\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href^=\"https://piroshop.pl\"]"
 		}
 	},
 	{
@@ -12070,6 +13177,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?slasknet\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href^=\"https://sprbt.pl/\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?pomorskifutbol\\.pl[/:]"
 		},
 		"action": {
@@ -12088,11 +13204,29 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?stadiony\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href^=\"https://twojtyp.pl/\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?gazetagazeta\\.com[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": "a[href^=\"https://wmjewellery.wixsite.com/\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?cai24\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href^=\"https://wogoole.pl/\"]"
 		}
 	},
 	{
@@ -12111,6 +13245,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "a[href^=\"https://www.ceneo.pl/\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?adrestymczasowy\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href^=\"https://www.comperialead.pl/\"]"
 		}
 	},
 	{
@@ -12142,11 +13285,29 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?radiogol\\.pl[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?gawex\\.pl[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
-			"selector": "a[href^=\"https://www.iparts.pl/\"]"
+			"selector": "a[href^=\"https://www.hotelquattro.pl/\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?swarzedz24\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href^=\"https://www.inea.pl/\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?cryptonews\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href^=\"https://www.koinal.io/\"] img"
 		}
 	},
 	{
@@ -12183,6 +13344,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "a[href^=\"https://www.novomatic.com/\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?rolnictwo\\.com\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href^=\"https://www.partner24.pl/\"]"
 		}
 	},
 	{
@@ -12250,15 +13420,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?kanonierzy\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "a[href^=\"https://www.ucando.pl\"]"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?widzewtomy\\.net[/:]"
 		},
 		"action": {
@@ -12282,6 +13443,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "a[href^=\"https://www.wykop.pl/adverts\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?genapps\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[href^=\"https://www.zameczkowo.pl/\"]"
 		}
 	},
 	{
@@ -12367,6 +13537,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?menshealth\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[onclick*=\"welcompage-reklama\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?dziecisawazne\\.pl[/:]"
 		},
 		"action": {
@@ -12435,15 +13614,6 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "a[onclick^=\"gtag('event\"][target=\"_blank\"]"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?interia\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "a[onclick^=\"iwa('trackEvent'\"] > img"
 		}
 	},
 	{
@@ -12520,6 +13690,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tygodnik\\.szczytno\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[target=\"__new\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?firmowy\\.com\\.pl[/:]"
 		},
 		"action": {
@@ -12556,6 +13735,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?niebiescy\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[target=\"_blank\"] > img[src^=\"bilds/\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?wdrawskupomorskim\\.pl[/:]"
 		},
 		"action": {
@@ -12570,6 +13758,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "a[target=\"_blank\"] > img[width=\"1200\"][height=\"300\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?trzoda-chlewna\\.com\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "a[target=\"_blank\"]:not([href^=\"https://www.trzoda-chlewna.\"])"
 		}
 	},
 	{
@@ -12606,6 +13803,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "a[title=\"KIOXIA\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?fm\\.tuba\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "app-advert"
 		}
 	},
 	{
@@ -12763,6 +13969,33 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?golfpl\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "aside[id^=\"text-\"] a > img"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?kryptowaluty\\.info\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "aside[id^=\"text-\"] a[target=\"_blank\"] > img"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?przypadkimedyczne\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "banner[name=\"ContainerLeft_3\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?busradar\\.pl[/:]"
 		},
 		"action": {
@@ -12772,11 +14005,38 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?ostrowczanie\\.info[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "body > center > a"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tyna\\.info\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "body > center img"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?tkn24\\.pl[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": "center > a[target=\"_blank\"] > img"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?twojepajeczno\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div > .scxxxx"
 		}
 	},
 	{
@@ -12862,6 +14122,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?gorzow24\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div#ims_over_cont"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?spottedalert\\.pl[/:]"
 		},
 		"action": {
@@ -12889,6 +14158,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?nowemiasto\\.com\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div#righttable a[title=\"komunikat\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?info-ketrzyn24\\.pl[/:]"
 		},
 		"action": {
@@ -12903,6 +14181,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "div#shopuj"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?opieka\\.farm[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div._ning_zone_inner"
 		}
 	},
 	{
@@ -12925,11 +14212,56 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?lebork24\\.info[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div.ai-viewport-1"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?ddtorun\\.pl[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": "div.bvideo"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tenpoznan\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div.code-block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?e-kg\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div.jm-footer-bottom"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?e-kg\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div.l-ad-top"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?elubaczow\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div.listings"
 		}
 	},
 	{
@@ -12943,11 +14275,29 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?infofordon\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div.ms_image"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?bstok\\.pl[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
 			"selector": "div.ntphubdx"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?bitcoin\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div.pb-5"
 		}
 	},
 	{
@@ -12966,6 +14316,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "div.reklama_przycisk"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?gizycko\\.info[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div.td-category-pos-above"
 		}
 	},
 	{
@@ -13249,6 +14608,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?codziennikmlawski\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[class^=\"code-block code-block-\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?mojanorwegia\\.pl[/:]"
 		},
 		"action": {
@@ -13528,6 +14896,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?wylecz\\.to[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[data-evet=\"slotseen\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?wp\\.pl[/:]"
 		},
 		"action": {
@@ -13735,6 +15112,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?polki\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[id^=\"ecomm-ssr-wrapper-\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?francuskie\\.pl[/:]"
 		},
 		"action": {
@@ -13861,6 +15247,24 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?nowytygodniklobeski\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[id^=\"media_image-\"] a > img"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tonaszregion\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[id^=\"media_image-\"] a:not([href^=\"http://93.175.\"])"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?mojadieta\\.pl[/:]"
 		},
 		"action": {
@@ -13902,6 +15306,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "div[id^=\"pasek_hollex\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pojezierze\\.com\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[id^=\"pojez-\"]"
 		}
 	},
 	{
@@ -14014,6 +15427,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?portel\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[id^=\"zone\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?eostroleka\\.pl[/:]"
 		},
 		"action": {
@@ -14109,6 +15531,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "div[style=\"height:25px;text-align: center;\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?osowa24\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[style=\"margin-bottom: 10px;\"]"
 		}
 	},
 	{
@@ -14212,6 +15643,24 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?itv24\\.com\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[style^=\"position: fixed; top: 0px; left: 0px;\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?itv24\\.com\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[style^=\"position: fixed; top: 354.5px;\"]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?poloniusz\\.pl[/:]"
 		},
 		"action": {
@@ -14262,6 +15711,24 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "iframe[id^=\"lps/POCZTA/exclusive:WEBMAIL/\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?scs\\.htw\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "iframe[name=\"billboard-top\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?kozaczek\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "iframe[name=\"hybrid_inimage_ssp_api\"]"
 		}
 	},
 	{
@@ -14361,6 +15828,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "img[alt^=\"reklama \"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?kalisz24\\.info\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "img[data-image-title=\"Reklama\"]"
 		}
 	},
 	{
@@ -14527,6 +16003,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?wp\\.pl[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "li[data-adv] > div[data-native-adv]"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?tygodnikponidzia\\.pl[/:]"
 		},
 		"action": {
@@ -14541,6 +16026,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": "li[id^=\"bunyad_ads_widget-\"]"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?pyrzyce\\.info[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "li[id^=\"text-\"] a[target=\"_blank\"]"
 		}
 	},
 	{
@@ -14761,416 +16255,20 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?itv24\\.com\\.pl[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?filmy69\\.pl[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
-			"selector": "div[style^=\"position: fixed; top: 354.5px;\"]"
+			"selector": ".sidebar_right"
 		}
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?itv24\\.com\\.pl[/:]"
+			"url-filter": "^https?://([^/:]*\\.)?filmyporno\\.tv[/:]"
 		},
 		"action": {
 			"type": "css-display-none",
-			"selector": "div[style^=\"position: fixed; top: 0px; left: 0px;\"]"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?itv24\\.com\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "a[href^=\"http://www.sovrana.pl/\"]"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?tvopolska\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".ads"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?tvopolska\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "a[href^=\"https://duocollagen.pl/\"]"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?rolnictwo\\.com\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "a[href^=\"https://www.partner24.pl/\"]"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?trzoda-chlewna\\.com\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "a[target=\"_blank\"]:not([href^=\"https://www.trzoda-chlewna.\"])"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?ceo\\.com\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".td_single_image_bg"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?lubanski\\.eu[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".widget_enqtran_images_banner_widget a:not([href*=\"luban\"])"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?przekultura\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#text-3"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?przeambitni\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#mvp-leader-wrap"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?kliknijwzdrowie\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "a[href^=\"http://www.hospitec-polska.pl/\"]"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?kliknijwzdrowie\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".custom-html-widget"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?kliknijwzdrowie\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "a[href^=\"http://www.snoreeze.pl/\"]"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?wylecz\\.to[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "div[data-evet=\"slotseen\"]"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?styl\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "a[onclick^=\"iwa('trackEvent'\"] > img"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?polki\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "div[id^=\"ecomm-ssr-wrapper-\"]"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?telekamery\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".owl-ads"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?purepc\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "a[href^=\"/redix.php?\"][databx]"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?wp\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "li[data-adv] > div[data-native-adv]"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?probasket\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".td-all-devices"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?probasket\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".custom-html-widget a > img"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?probasket\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".td-a-rec"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?viva\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".ecomm-offer"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?ilewazy\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".ecomm-offer"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?gotujmy\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".ecomm-offer"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?interia\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#IPLAbanner"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?rybnik\\.com\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "[id^=\"_gramscien_\"]"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?bielskirynek\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".topLayer"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?silesiainfotransport\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#media_image-31"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?jarock\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".ad"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?bukmacherstwo\\.info[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".custom-html-widget"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?bezrzecze24\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".subpage-header2"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?gumience24\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".subpage-header2"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?glospedagogiczny\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".bannersm"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?glospedagogiczny\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".auto-pr-block > a"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?glospedagogiczny\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "[id^=\"smb_\"]"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?gazetakolobrzeska\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".elementor-element-7a2c026"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?gazetakolobrzeska\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".elementor-element-42b6e5c"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?golfnews\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".banner-promotions-wrapper"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?raportkolejowy\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".ad_adInfo"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?raportkolejowy\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "[id^=\"cmac_adchangerwidget-\"]"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?deblinnews\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "[id^=\"black-studio-tinymce-\"] a[target=\"_blank\"]"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?dieroten\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "a[href^=\"https://www.iparts.pl/\"]"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?samnaprawiam\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "a[href^=\"https://iparts.pl\"]"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?niebiescy\\.pl[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "a[target=\"_blank\"] > img[src^=\"bilds/\"]"
+			"selector": "#playerOverlay"
 		}
 	},
 	{
@@ -15278,6 +16376,26 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://ad-work\\.pl",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ad\\.ipolska\\.pl/ad",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -16593,6 +17711,8 @@
 				"www.rdn.pl",
 				"sokolka.tv",
 				"www.sokolka.tv",
+				"sulecin24.pl",
+				"www.sulecin24.pl",
 				"twojaslupca.pl",
 				"www.twojaslupca.pl",
 				"tygodnikkrag.pl",
@@ -16749,6 +17869,27 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://.*-banery",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"if-domain": [
+				"przeclaw24.pl",
+				"www.przeclaw24.pl"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://.*-banner-",
 			"resource-type": [
 				"image",
@@ -16784,6 +17925,8 @@
 				"www.pokonajlysienie.com",
 				"techsetter.pl",
 				"www.techsetter.pl",
+				"tenisbydawid.pl",
+				"www.tenisbydawid.pl",
 				"tkaninyobiciowe.eu",
 				"www.tkaninyobiciowe.eu",
 				"tucholanin.pl",
@@ -16846,6 +17989,8 @@
 				"document"
 			],
 			"if-domain": [
+				"kaszuby24.pl",
+				"www.kaszuby24.pl",
 				"oirplodz.pl",
 				"www.oirplodz.pl"
 			]
@@ -16867,6 +18012,8 @@
 				"document"
 			],
 			"if-domain": [
+				"bogaty.men",
+				"www.bogaty.men",
 				"zarobmy.se",
 				"www.zarobmy.se"
 			]
@@ -16934,6 +18081,8 @@
 				"document"
 			],
 			"if-domain": [
+				"bithub.pl",
+				"www.bithub.pl",
 				"chelmski.eu",
 				"www.chelmski.eu",
 				"e-hotelarz.pl",
@@ -17363,6 +18512,21 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://.*.720",
+			"resource-type": [
+				"image"
+			],
+			"if-domain": [
+				"emecze.pl",
+				"www.emecze.pl"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://.*.728",
 			"resource-type": [
 				"image",
@@ -17533,6 +18697,27 @@
 			"if-domain": [
 				"zulawytv.pl",
 				"www.zulawytv.pl"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*.ad2",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"if-domain": [
+				"bankier.pl",
+				"www.bankier.pl"
 			]
 		},
 		"action": {
@@ -17951,6 +19136,8 @@
 				"www.magazynregionalny.pl",
 				"podlasie24.pl",
 				"www.podlasie24.pl",
+				"poligonowewiesci.pl",
+				"www.poligonowewiesci.pl",
 				"wdrawskupomorskim.pl",
 				"www.wdrawskupomorskim.pl"
 			]
@@ -18163,10 +19350,14 @@
 			"if-domain": [
 				"bielsko.info",
 				"www.bielsko.info",
+				"biif.pl",
+				"www.biif.pl",
 				"bukowinatatrzanska.pl",
 				"www.bukowinatatrzanska.pl",
 				"chojnice.com",
 				"www.chojnice.com",
+				"enowiny.pl",
+				"www.enowiny.pl",
 				"info.stargard.pl",
 				"www.info.stargard.pl",
 				"ipon.pl",
@@ -18222,6 +19413,8 @@
 				"www.bloog.pl",
 				"chcemybycrodzicami.pl",
 				"www.chcemybycrodzicami.pl",
+				"chelsea24news.pl",
+				"www.chelsea24news.pl",
 				"chemiaibiznes.com.pl",
 				"www.chemiaibiznes.com.pl",
 				"chorzowianin.pl",
@@ -18252,6 +19445,8 @@
 				"www.gielda-koni.com.pl",
 				"glogow-info.pl",
 				"www.glogow-info.pl",
+				"glosmordoru.pl",
+				"www.glosmordoru.pl",
 				"grapplerinfo.pl",
 				"www.grapplerinfo.pl",
 				"info.stargard.pl",
@@ -18388,9 +19583,15 @@
 				"document"
 			],
 			"if-domain": [
+				"poligonowewiesci.pl",
+				"www.poligonowewiesci.pl",
+				"radioradom.pl",
+				"www.radioradom.pl",
 				"sad24.pl",
 				"www.sad24.pl",
 				"tc.ciechanow.pl",
+				"tw-24.pl",
+				"www.tw-24.pl",
 				"tygodnikmakowski.pl",
 				"www.tygodnikmakowski.pl",
 				"tygodnikprzasnyski.com.pl",
@@ -18658,6 +19859,8 @@
 				"www.co-slychac.pl",
 				"dachy.info.pl",
 				"www.dachy.info.pl",
+				"deblin24.eu",
+				"www.deblin24.eu",
 				"doba.pl",
 				"www.doba.pl",
 				"e-dobrydom.pl",
@@ -18724,6 +19927,8 @@
 				"www.lipsko24.pl",
 				"lokalna24.pl",
 				"www.lokalna24.pl",
+				"lubelszczyzna.info",
+				"www.lubelszczyzna.info",
 				"maritime.com.pl",
 				"www.maritime.com.pl",
 				"maslow.info.pl",
@@ -18790,6 +19995,8 @@
 				"www.skionline.pl",
 				"sluzby-ur.pl",
 				"www.sluzby-ur.pl",
+				"spawalnictwo.com.pl",
+				"www.spawalnictwo.com.pl",
 				"sportgniezno.pl",
 				"www.sportgniezno.pl",
 				"staleo.pl",
@@ -18888,6 +20095,8 @@
 				"document"
 			],
 			"if-domain": [
+				"bielskirynek.pl",
+				"www.bielskirynek.pl",
 				"expresskaszubski.pl",
 				"www.expresskaszubski.pl",
 				"gle24.pl",
@@ -18898,12 +20107,16 @@
 				"www.gwe24.pl",
 				"ki24.info",
 				"www.ki24.info",
+				"mlodagdynia.pl",
+				"www.mlodagdynia.pl",
 				"pulsciechanowa.pl",
 				"www.pulsciechanowa.pl",
 				"roztocze.net",
 				"www.roztocze.net",
 				"rzeczkrotoszynska.pl",
 				"www.rzeczkrotoszynska.pl",
+				"terazgabin.pl",
+				"www.terazgabin.pl",
 				"terazlipno.pl",
 				"www.terazlipno.pl",
 				"tusochaczew.pl",
@@ -19017,6 +20230,10 @@
 				"www.420polska.pl",
 				"4pm.pl",
 				"www.4pm.pl",
+				"biokurier.pl",
+				"www.biokurier.pl",
+				"bobrzanie.pl",
+				"www.bobrzanie.pl",
 				"businesswomanlife.pl",
 				"www.businesswomanlife.pl",
 				"chinskiraport.pl",
@@ -19089,6 +20306,8 @@
 				"diablo.phx.pl",
 				"porady.mobi",
 				"www.porady.mobi",
+				"przeambitni.pl",
+				"www.przeambitni.pl",
 				"transportchorego.pl",
 				"www.transportchorego.pl",
 				"tripybiznesekipy.pl",
@@ -19114,6 +20333,27 @@
 			"if-domain": [
 				"infoskierniewice.pl",
 				"www.infoskierniewice.pl"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*.banner3-",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"if-domain": [
+				"przekultura.pl",
+				"www.przekultura.pl"
 			]
 		},
 		"action": {
@@ -19212,6 +20452,8 @@
 				"www.7dni.pila.pl",
 				"angielskieespresso.pl",
 				"www.angielskieespresso.pl",
+				"biegowe.pl",
+				"www.biegowe.pl",
 				"chemiaibiznes.com.pl",
 				"www.chemiaibiznes.com.pl",
 				"conamokotowie.pl",
@@ -19259,6 +20501,8 @@
 				"www.super-warez.eu",
 				"sweetwedding.pl",
 				"www.sweetwedding.pl",
+				"truckitransport.pl",
+				"www.truckitransport.pl",
 				"tu.swinoujscie.pl",
 				"www.tu.swinoujscie.pl",
 				"tygodnikpiski.pl",
@@ -19269,6 +20513,21 @@
 				"www.wrc.net.pl",
 				"zielonanews.pl",
 				"www.zielonanews.pl"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*.BannerDB\\?",
+			"resource-type": [
+				"image"
+			],
+			"if-domain": [
+				"energoelektronika.pl",
+				"www.energoelektronika.pl"
 			]
 		},
 		"action": {
@@ -19333,6 +20592,8 @@
 				"www.bitcoin.pl",
 				"blacha.biz",
 				"www.blacha.biz",
+				"brief.pl",
+				"www.brief.pl",
 				"budowa.org",
 				"www.budowa.org",
 				"budownictwo.org",
@@ -19363,6 +20624,8 @@
 				"www.darkplanet.pl",
 				"ddwlkp.pl",
 				"www.ddwlkp.pl",
+				"deweloperzy.pl",
+				"www.deweloperzy.pl",
 				"dj24.pl",
 				"www.dj24.pl",
 				"domnaobcasach.com",
@@ -19383,6 +20646,8 @@
 				"www.e-szamotuly.pl",
 				"ebelchatow.pl",
 				"www.ebelchatow.pl",
+				"ecentrum.pl",
+				"www.ecentrum.pl",
 				"edzieci.pl",
 				"www.edzieci.pl",
 				"elektryka.org",
@@ -19398,6 +20663,8 @@
 				"www.erp-view.pl",
 				"estrzelce.pl",
 				"www.estrzelce.pl",
+				"euslugi.pl",
+				"www.euslugi.pl",
 				"ezamosc.pl",
 				"www.ezamosc.pl",
 				"fakty.nl",
@@ -19410,6 +20677,8 @@
 				"www.forumfajerwerki.pl",
 				"garsoniera.com.pl",
 				"www.garsoniera.com.pl",
+				"gazeta.ie",
+				"www.gazeta.ie",
 				"gazetacz.com.pl",
 				"www.gazetacz.com.pl",
 				"gazwoda.pl",
@@ -19434,6 +20703,8 @@
 				"www.infoprzasnysz.com",
 				"informacjelokalne.pl",
 				"www.informacjelokalne.pl",
+				"internet-komputery.blogspot.com",
+				"www.internet-komputery.blogspot.com",
 				"ironmangdynia.pl",
 				"www.ironmangdynia.pl",
 				"jakzapamietac.pl",
@@ -19536,6 +20807,8 @@
 				"www.niedziela.nl",
 				"norwegofil.pl",
 				"www.norwegofil.pl",
+				"notowania.net",
+				"www.notowania.net",
 				"nowawrzesnia.pl",
 				"www.nowawrzesnia.pl",
 				"nowemiasto.com.pl",
@@ -19582,6 +20855,10 @@
 				"www.pnt24.info",
 				"podlaskieagro.pl",
 				"www.podlaskieagro.pl",
+				"pogoda.info",
+				"www.pogoda.info",
+				"polskaligatenisa.pl",
+				"www.polskaligatenisa.pl",
 				"polskaniepodlegla.pl",
 				"www.polskaniepodlegla.pl",
 				"polskatradycja.pl",
@@ -19596,8 +20873,14 @@
 				"www.powiatsuski24.pl",
 				"pozeramstrony.pl",
 				"www.pozeramstrony.pl",
+				"praca.net",
+				"www.praca.net",
+				"programtv.info",
+				"www.programtv.info",
 				"przeclaw24.pl",
 				"www.przeclaw24.pl",
+				"przedsiebiorcarolny.pl",
+				"www.przedsiebiorcarolny.pl",
 				"przeglad-ogrodniczy.pl",
 				"www.przeglad-ogrodniczy.pl",
 				"przegladkoninski.pl",
@@ -19622,6 +20905,8 @@
 				"www.ringpolska.pl",
 				"ringpolska24.pl",
 				"www.ringpolska24.pl",
+				"rolnictwo.com.pl",
+				"www.rolnictwo.com.pl",
 				"rtw.org.pl",
 				"www.rtw.org.pl",
 				"rzeszowairport.pl",
@@ -19636,6 +20921,8 @@
 				"www.siewie.tv",
 				"skarzyski.eu",
 				"www.skarzyski.eu",
+				"skawina24.com",
+				"www.skawina24.com",
 				"slaskiesiemianowice.pl",
 				"www.slaskiesiemianowice.pl",
 				"slowosportowe.pl",
@@ -19781,6 +21068,8 @@
 				"document"
 			],
 			"if-domain": [
+				"czytelniamedyczna.pl",
+				"www.czytelniamedyczna.pl",
 				"e-grajewo.pl",
 				"www.e-grajewo.pl",
 				"em.kielce.pl",
@@ -19858,6 +21147,27 @@
 			"if-domain": [
 				"elka.pl",
 				"www.elka.pl"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*.bannnery",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"if-domain": [
+				"portalmorski.pl",
+				"www.portalmorski.pl"
 			]
 		},
 		"action": {
@@ -20396,6 +21706,8 @@
 				"document"
 			],
 			"if-domain": [
+				"e-kg.pl",
+				"www.e-kg.pl",
 				"sejny.net",
 				"www.sejny.net"
 			]
@@ -20486,9 +21798,34 @@
 		"trigger": {
 			"url-filter": "^https?://.*.inne",
 			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"if-domain": [
+				"gminadobra24.pl",
+				"www.gminadobra24.pl"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*.inne",
+			"resource-type": [
 				"image"
 			],
 			"if-domain": [
+				"bezrzecze24.pl",
+				"www.bezrzecze24.pl",
+				"gumience24.pl",
+				"www.gumience24.pl",
 				"mierzyn24.pl",
 				"www.mierzyn24.pl"
 			]
@@ -20527,6 +21864,27 @@
 			"if-domain": [
 				"lubliniec.info",
 				"www.lubliniec.info"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*.KasynoHEXPolska",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"if-domain": [
+				"goniec.com",
+				"www.goniec.com"
 			]
 		},
 		"action": {
@@ -20590,6 +21948,47 @@
 			"if-domain": [
 				"plytkiceramiczne.info.pl",
 				"www.plytkiceramiczne.info.pl"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*.motor-land",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"if-domain": [
+				"motocykle125.pl",
+				"www.motocykle125.pl"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*.nowosc_images",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"if-domain": [
+				"angielski.slowka.pl"
 			]
 		},
 		"action": {
@@ -20750,6 +22149,27 @@
 				"www.almanak.pl",
 				"mysl24.pl",
 				"www.mysl24.pl"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*.promo",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"if-domain": [
+				"minecraft-list.pl",
+				"www.minecraft-list.pl"
 			]
 		},
 		"action": {
@@ -21298,6 +22718,8 @@
 			"if-domain": [
 				"gorzowianin.com",
 				"www.gorzowianin.com",
+				"lubuskie24.pl",
+				"www.lubuskie24.pl",
 				"wcipy.pl",
 				"www.wcipy.pl",
 				"zarzadca.pl",
@@ -21788,6 +23210,8 @@
 				"document"
 			],
 			"if-domain": [
+				"nowytydzien.pl",
+				"www.nowytydzien.pl",
 				"przewodnicywedkarscy.pl",
 				"www.przewodnicywedkarscy.pl"
 			]
@@ -21864,8 +23288,12 @@
 			"if-domain": [
 				"bialogardinfo.pl",
 				"www.bialogardinfo.pl",
+				"biegologia.pl",
+				"www.biegologia.pl",
 				"bmw-klub.pl",
 				"www.bmw-klub.pl",
+				"ccifp.pl",
+				"www.ccifp.pl",
 				"chemiaibiznes.com.pl",
 				"www.chemiaibiznes.com.pl",
 				"dogosfera.pl",
@@ -21892,6 +23320,8 @@
 				"www.my3miasto.pl",
 				"obiektysakralne.pl",
 				"www.obiektysakralne.pl",
+				"podlaskie24.pl",
+				"www.podlaskie24.pl",
 				"poloniahannover.de",
 				"www.poloniahannover.de",
 				"poscigi.pl",
@@ -21902,6 +23332,8 @@
 				"www.regionalna.pl",
 				"rzeszow-news.pl",
 				"www.rzeszow-news.pl",
+				"sbiegacza.pl",
+				"www.sbiegacza.pl",
 				"sklep-muzyczny.com.pl",
 				"www.sklep-muzyczny.com.pl",
 				"sokolka.tv",
@@ -22475,6 +23907,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://7dni\\.com\\.pl..*.pierwsza-wyprawka\\.",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://abc-dachy\\.pl/banery/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -23104,7 +24553,58 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://beatcoin\\.pl..*.binance\\.",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://beerpubs\\.pl..*.back_all_pl2\\.",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://bejsment\\.com..*.300x100xbejsment-ad-",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://bejsment\\.com..*.dalekDiamonds300x100_",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -23359,6 +24859,40 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://bitcoin\\.pl..*.bnr-nowe-rynki-",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://bitcoin\\.pl..*.rozliczanie-kryptowalut-",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://bithub\\.pl..*.papier-kamien-",
 			"resource-type": [
 				"image",
@@ -23434,6 +24968,21 @@
 			"if-domain": [
 				"mistrzbranzy.pl",
 				"www.mistrzbranzy.pl"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://bluepartner\\.pl",
+			"resource-type": [
+				"script"
+			],
+			"if-domain": [
+				"infofordon.pl",
+				"www.infofordon.pl"
 			]
 		},
 		"action": {
@@ -23664,6 +25213,48 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://bstok\\.pl..*.masal-",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://burdadigital\\.pl",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"if-domain": [
+				"focus.pl",
+				"www.focus.pl",
+				"gala.pl",
+				"www.gala.pl",
+				"przyslijprzepis.pl",
+				"www.przyslijprzepis.pl"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://burdadigital\\.pl",
 			"resource-type": [
 				"document"
@@ -23826,6 +25417,8 @@
 				"image"
 			],
 			"if-domain": [
+				"7dni.pila.pl",
+				"www.7dni.pila.pl",
 				"archigame.pl",
 				"www.archigame.pl",
 				"exerim.pl",
@@ -24156,7 +25749,41 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://cowwilanowie\\.pl..*.wilanow-zdrowie-angles\\.",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://cyfrowaekonomia\\.pl..*quark3\\.",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://czest\\.info..*.drzwi-albud\\.",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -24191,6 +25818,57 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://czestochowskie24\\.pl..*.trepka-biuro-",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ddbrodnica\\.pl..*.inter-car-",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ddbrodnica\\.pl..*.pw_majowka_",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://deblin24\\.eu..*.blocars2\\.",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -24859,6 +26537,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://echotygodnik\\.info..*.pitro_bar\\.",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://edunews\\.pl..*-baner728x90pl\\.",
 			"resource-type": [
 				"image",
@@ -25060,6 +26755,44 @@
 				"media",
 				"raw",
 				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://elubaczow\\.com..*.lprez\\.",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://emisja\\.contentstream\\.pl",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"if-domain": [
+				"sportowy24.pl",
+				"www.sportowy24.pl"
 			]
 		},
 		"action": {
@@ -25697,6 +27430,8 @@
 				"document"
 			],
 			"if-domain": [
+				"darmowetv.pl",
+				"www.darmowetv.pl",
 				"newsdiscopolo.info",
 				"www.newsdiscopolo.info",
 				"online-tv.pl",
@@ -26648,6 +28383,21 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://gramscien\\.xyz",
+			"resource-type": [
+				"script"
+			],
+			"if-domain": [
+				"rybnik.com.pl",
+				"www.rybnik.com.pl"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://greencanoe\\.pl..*-802x118\\.",
 			"resource-type": [
 				"image",
@@ -26700,6 +28450,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://greencanoe\\.pl..*.substral\\.",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://grymel\\.pl..*.MHR_takeover_bg\\.",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -27088,6 +28855,21 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://imge\\.pl",
+			"resource-type": [
+				"image"
+			],
+			"if-domain": [
+				"gpwinfostrefa.pl",
+				"www.gpwinfostrefa.pl"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://imgur\\.com/J1GuRdM\\.",
 			"resource-type": [
 				"image",
@@ -27237,6 +29019,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://infobusko\\.pl..*.gutek-kruk-",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://infokatowice\\.pl..*.mniam-kosciuszki-",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -27407,6 +29206,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://izachodniopomorskie\\.pl..*.Tanie_foto_",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://jablonka\\.info..*.AMP_",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -27662,6 +29478,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://kazimierzdolny24\\.pl..*.baner\\.",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://kbf\\.pl..*.warszewo\\.",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -27965,6 +29798,38 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://koscierzyna24\\.info..*.s3_",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://kreacje\\.ebroker\\.pl",
+			"resource-type": [
+				"image"
+			],
+			"if-domain": [
+				"max-kasa.pl",
+				"www.max-kasa.pl"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://kryniczanie\\.pl..*.ubezpieczenie-na-zycie-",
 			"resource-type": [
 				"image",
@@ -28011,6 +29876,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://kryptoporadnik\\.pl..*.bbfinal\\.",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://kryptoporadnik\\.pl..*.binance-dejavu\\.",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -28078,7 +29960,41 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://kryptoporadnik\\.pl..*.bybit_sid\\.",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://kryptoportal\\.pl..*.FA-1\\.",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://kryptowaluty\\.info\\.pl..*.ezgif\\.com-",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -28484,6 +30400,27 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://lnaff\\.pl",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"if-domain": [
+				"darmowetv.pl",
+				"www.darmowetv.pl"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://lokalna\\.info..*.kssse\\.",
 			"resource-type": [
 				"image",
@@ -28552,7 +30489,41 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://lubanski\\.eu..*.Plakat_2015e\\.",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://lubartow24\\.pl/b",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://lubawka\\.info/okna-drzwi-",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -29213,6 +31184,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://miastokolobrzeg\\.pl..*.brico2\\.",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://miastokolobrzeg\\.pl..*.brico_",
 			"resource-type": [
 				"image",
@@ -29434,6 +31422,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://mieszkaniec\\.pl..*.antykwariat-",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://mma\\.pl..*.autodoc_",
 			"resource-type": [
 				"image",
@@ -29534,6 +31539,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://motocykle125\\.pl..*.akumulator-moretti-",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://motocykle125\\.pl..*.junak",
 			"resource-type": [
 				"document"
@@ -29597,6 +31619,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://my3miasto\\.pl..*.MyTr%C3%B3jmiasto\\.",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://mypolacy\\.de..*.comarch_",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -30052,6 +32091,40 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://noweinfo\\.pl..*.Pracnie-",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://nowinykomornickie\\.pl..*.ogloszenie-770-",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://nowinynyskie\\.com\\.pl..*.inline__1_4448\\.",
 			"resource-type": [
 				"image",
@@ -30104,6 +32177,40 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://nowytydzien\\.pl..*.neoseo2-",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://nowytydzien\\.pl..*.stokrotkaAd\\.",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://nowyzmigrod24\\.pl..*.uslogiroza20\\.",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -30390,7 +32497,35 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://onetexpress\\.pl..*.Moje%20pliki",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://ono24\\.info..*.sad",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://ostrowczanie\\.info..*.ajenttt\\.",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -31016,6 +33151,57 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://podrogach\\.pl..*.300x300_",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://podrogach\\.pl..*.mazda-golembiewscy-",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://podrogach\\.pl..*.promocja-dunlop-",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://pogoda\\.nl..*.ban_",
 			"resource-type": [
 				"image",
@@ -31072,6 +33258,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://poland\\.us..*.katalog",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://polonia-peterborough\\.uk..*.studio-fotograficzne-",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -31267,6 +33470,21 @@
 				"media",
 				"raw",
 				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://powr\\.io",
+			"resource-type": [
+				"document"
+			],
+			"if-domain": [
+				"instalki.pl",
+				"www.instalki.pl"
 			]
 		},
 		"action": {
@@ -31813,6 +34031,17 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://radiosudety24\\.pl..*.sad",
+			"resource-type": [
+				"image"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://radiowrzesnia\\.pl..*.pum",
 			"resource-type": [
 				"script"
@@ -32271,6 +34500,23 @@
 			"if-domain": [
 				"icomp.pl",
 				"www.icomp.pl"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://rlu24\\.pl.marek2\\.",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
 			]
 		},
 		"action": {
@@ -32863,7 +35109,39 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://slotverify\\.dreamlab\\.pl",
+			"resource-type": [
+				"document"
+			],
+			"if-domain": [
+				"onet.pl",
+				"www.onet.pl"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://slowopodlasia\\.pl..*.polnoc_nieruchomosci\\.",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://sloworegionu\\.pl..*.internet_2_",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -34215,6 +36493,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://tarnobrzeg\\.info..*.drzwi-kiermasz\\.",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://tarnobrzeskie\\.eu..*.balony-z-helem-",
 			"resource-type": [
 				"image",
@@ -35031,6 +37326,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://trzoda-chlewna\\.com\\.pl..*.mainbg_img\\.",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://tu\\.swinoujscie\\.pl..*-banner1\\.",
 			"resource-type": [
 				"image",
@@ -35359,6 +37671,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://tygodnikkrag\\.pl..*.jm-solar-",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://tygodnikpiski\\.pl..*-290x150\\.",
 			"resource-type": [
 				"image",
@@ -35377,6 +37706,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://tygodnikprzasnyski\\.com\\.pl..*.Mrowka%",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://tyna\\.info\\.pl..*.Meritum-",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -35951,6 +38297,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://wielkopolska\\.tv..*.inea-logo\\.",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://wielkopolska\\.tv..*.osk_wawrzyniak-",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -37050,373 +39413,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*.BannerDB\\?",
-			"resource-type": [
-				"image"
-			],
-			"if-domain": [
-				"energoelektronika.pl",
-				"www.energoelektronika.pl"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*-baner\\.",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"if-domain": [
-				"sulecin24.pl",
-				"www.sulecin24.pl"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*.banners",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"if-domain": [
-				"rolnictwo.com.pl",
-				"www.rolnictwo.com.pl"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://trzoda-chlewna\\.com\\.pl..*.mainbg_img\\.",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://lnaff\\.pl",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"if-domain": [
-				"darmowetv.pl",
-				"www.darmowetv.pl"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://fireads\\.org",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"if-domain": [
-				"darmowetv.pl",
-				"www.darmowetv.pl"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://lubanski\\.eu..*.Plakat_2015e\\.",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*.bannery",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"if-domain": [
-				"czytelniamedyczna.pl",
-				"www.czytelniamedyczna.pl"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*.banner3-",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"if-domain": [
-				"przekultura.pl",
-				"www.przekultura.pl"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*.banner\\.",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"if-domain": [
-				"przeambitni.pl",
-				"www.przeambitni.pl"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*.baner_",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"if-domain": [
-				"chelsea24news.pl",
-				"www.chelsea24news.pl"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*.banners",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"if-domain": [
-				"gazeta.ie",
-				"www.gazeta.ie"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://gramscien\\.xyz",
-			"resource-type": [
-				"script"
-			],
-			"if-domain": [
-				"rybnik.com.pl",
-				"www.rybnik.com.pl"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*.baner_",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"if-domain": [
-				"glosmordoru.pl",
-				"www.glosmordoru.pl"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*.banery_foto",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"if-domain": [
-				"bielskirynek.pl",
-				"www.bielskirynek.pl"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*.inne",
-			"resource-type": [
-				"image"
-			],
-			"if-domain": [
-				"bezrzecze24.pl",
-				"www.bezrzecze24.pl"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*.inne",
-			"resource-type": [
-				"image"
-			],
-			"if-domain": [
-				"gumience24.pl",
-				"www.gumience24.pl"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*.banners",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"if-domain": [
-				"internet-komputery.blogspot.com",
-				"www.internet-komputery.blogspot.com"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://.*.rotator",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			],
-			"if-domain": [
-				"lubuskie24.pl",
-				"www.lubuskie24.pl"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^http:",
 			"resource-type": [
 				"popup"
@@ -37735,6 +39731,40 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://.*filmy69\\.pl#\\?#li\\.videoblock:-abp-has\\(iframe\\[id\\]\\[src.*=\"/www/delivery/\"\\]\\)",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*filmy69\\.pl#\\?#li\\.videoblock:-abp-has\\(script\\[src.=\"https://a\\.realsrv\\.com/\"\\]\\)",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://.*\\.adrotate\\.",
 			"resource-type": [
 				"image",
@@ -37756,7 +39786,7 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*/extension/adverts/design/standard/javascript/adverts/Quantcast\\.js",
+			"url-filter": "^https?://.*/extension/adverts/design/standard/javascript/adverts/Quantcastt",
 			"resource-type": [
 				"script"
 			],
@@ -38183,6 +40213,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://garsoniera\\.com\\.pl..*.8bf83-",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://gfx\\.wiadomosci\\.radiozet\\.pl/extension/adverts/design/standard/javascript/adverts/Quantcast/Quantcast\\.js",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -38635,6 +40682,23 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://radiofest\\.pl..*.piosenka-banner\\.",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "ignore-previous-rules"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://radiozet\\.pl/extension/adverts/design/standard/templates/esi/adv/quantcastIframe\\.html",
 			"resource-type": [
 				"image",
 				"style-sheet",

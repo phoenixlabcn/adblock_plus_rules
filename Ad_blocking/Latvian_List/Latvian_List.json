@@ -2226,6 +2226,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://eveselibaspunkts\\.lv/images/banners/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://fotoreceptes\\.lv/banneris",
 			"resource-type": [
 				"image",

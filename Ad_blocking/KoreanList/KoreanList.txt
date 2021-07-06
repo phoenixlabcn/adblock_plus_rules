@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QPG9RsSIWen6eU7k5lsc/w
-! Version: 202104060801
+! Checksum: P1Nnkz6lZKyAGHeuASR5zg
+! Version: 202107060223
 ! Title: KoreanList
-! Last modified: 06 Apr 2021 08:01 UTC
+! Last modified: 06 Jul 2021 02:23 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=111
 ! Licence: https://easylist.to/pages/licence.html
@@ -124,21 +124,24 @@ instiz.net#@#.admain
 ||file.kcrwork.com/banner^$image,domain=jejukcr.com
 ||i.imgur.com$image,domain=torrentrz.org
 ||i.imgur.com^$image,domain=marumaru.tech
-||i.imgur.com^$image,domain=torrentview32.com
+||i.imgur.com^$image,domain=torrentview36.com
 ||64.media.tumblr.com$image,domain=sorabada26.com
 ||imgcloud6.net^$image,domain=fxfx40.com
 ||19all.net/data/files/banner^$image,domain=allall44.net
 ||i.imgur.com^$image,domain=tocops.net
-||imgcloud6.net^$image,domain=wtwt65.com
-||1.bp.blogspot.com^$image,domain=blacktoon106.com
-||i.imgur.com$image,domain=torrentgram16.com
+||imgcloud*.net^$image,domain=wtwt79.com|wtwt80.com
+||imgcloud*.net^$image,domain=wfwf143.com
+||1.bp.blogspot.com^$image,domain=blacktoon107.com
+||i.imgur.com$image,domain=torrentgram21.com
 ||i.imgur.com$image,domain=ttobogo.net
 ||images2.imgbox.com$image,domain=ktxtorrent19.com
-||images2.imgbox.com^$image,domain=torrentsir32.com
-||i.imgur.com^$image,domain=torrentqq80.com
+||images2.imgbox.com^$image,domain=torrentsir33.com
+||i.imgur.com^$image,domain=torrentqq93.com
 ||imgur.com^$image,domain=matown.kr
 ||innorame.com$subdocument,domain=tfmedia.co.kr
-||i.imgur.com^$image,domain=torrentwiz23.me
+||i.imgur.com^$image,domain=torrentwiz26.me
+||7mimg.7m.com.cn^$image,domain=7mkr.com
+||log.adplex.co.kr/getBannerInfo$script,third-party
 ! *** Fetched from: https://raw.githubusercontent.com/easylist/KoreanList/master/KoreanList/koreanlist_thirdparty_popup.txt ***
 !----------------------Specific advert blocking filters-----------------------!
 ! *** Fetched from: https://raw.githubusercontent.com/easylist/KoreanList/master/KoreanList/koreanlist_specific_block.txt ***
@@ -178,7 +181,6 @@ instiz.net#@#.admain
 ||clien.net/service/js/app/clien.naver.js
 ||dispatch.cdnser.be/ad/
 ||contentlink.co.kr^$third-party
-||weeklytrade.co.kr/banner/
 ||petzzi.com^*/*banner/
 ||g-disk.co.kr/images_g/banner/
 ||knnews.co.kr/edb/banner/
@@ -230,7 +232,6 @@ instiz.net#@#.admain
 ||radiokorea.com/amg/images/banner/
 ||img.megafile.co.kr/images^*/banner^*/web^$image
 ||acache.ilbe.com/files/attach/new/$image
-||weeklytrade.co.kr/RAD/PEG/banner^$image
 ||funddoctor.co.kr/images/banner^*banner$image
 ||webapi2.edaily.co.kr/BoardMgnt/popup
 ||image.gamechosun.co.kr/game/webzine/common/$image
@@ -388,7 +389,7 @@ instiz.net#@#.admain
 ||lec.co.kr/bannerpop/uploads^$image
 ||io1.innorame.com^$subdocument,domain=mbiz.herladcorp.com
 ||rapportian.com/banner^$subdocument
-||newtoki31.net/data/banner^$image
+||newtoki*.net/data/banner^$image
 ||dogjoa*.net/img/2019^$image
 ||linkzoa.com/data/linkimg^$image
 ||honam.co.kr/banner^$image
@@ -451,7 +452,6 @@ instiz.net#@#.admain
 ||etoland.co.kr/data^*/etomall^$image
 ||torrentmep.com/data/banner^$image
 ||moeni.org/img/sponsor$image
-||tkor.fit/bann^$image
 ||newtoon*.com/data/by_banner^$image
 ||hangose01.com/data/file/linkt^$image
 ||boomboom*.site/data/apms/background^$image
@@ -473,16 +473,13 @@ instiz.net#@#.admain
 ||tvgook*.com/banner/upload$image
 ||influencernews.kr/bannerpop/uploads/image^$image
 ||torrentview*^data/editor^$image
-||tkor.blog/bann^$image
 ||linktong1.com/img^$image
-||tkor.land/bann^$image
 ||dayisoo.me/imgad$image
 ||madtimes.org/bannerpop/uploads/image^$image
 ||sharktoon*.com/img/banner^$image
 ||mangacat.net/bn^$image
 ||mangacat.net/mainhover^$image
 ||jamics.work/bann^$image
-||tkor.men/bann^$image
 ||redvi*.com/storage/upload/banners^$image
 ||realtoon*.link/data/file/banner^$image
 ||mango*.net/images/spon^$image
@@ -491,6 +488,7 @@ instiz.net#@#.admain
 ||adulti*.com/data/banner^$image
 /^http(s):\/\/sure-\d{1,3}.(com|link)/img/$image
 ||tkor.*/bann^$image
+||tkor.*^images^$image
 ||alspo1.net/imgban^$image
 ||sektoon*.org/images^$image
 ||toontime*.com/data/by_banner$image
@@ -515,10 +513,28 @@ instiz.net#@#.admain
 ||linkmozi.com/files/attach/images^$image
 ||ttking*.me/ad^$image
 ||us1.thetorrent.net/img^$image
-||opinionnews.co.kr/bannerpop/uploads/image^$image||joongdo.co.kr/web//images/banner^$image
+||opinionnews.co.kr/bannerpop/uploads/image^$image
+||joongdo.co.kr/web//images/banner^$image
 ||javzoa.com/img^$image
+||izm.co.kr/photo/banner^$image
+||foodbank.co.kr/bannerpop/uploads^$image
+||ekoreanews.co.kr/bannerpop/uploads/image^$image
+||womaneconomy.kr/bannerpop/uploads/image^$image
+||soriaudio.com/files/attach/banner_images^$image
+||prskorea.co.kr/banner^$image
+||cdn.ppomppu.co.kr/zboard/data3/banner^$image
+||ppompu.co.kr/popup/banner$image
+||itbiznews.com/bannerpop/uploads^$image
+||weeklytrade.co.kr^*banner$image
+||ngetnews.com/bannerpop/uploads/image^$image
+||insidevina.com/bannerpop/uploads/image^$image
+||kpinews.co.kr/bannerpop/uploads/image^$image
+||coinpan.com^*files/banner/banner$image
+||itworld.co.kr/_images/banner/banner$image
+||wolyo.co.kr/bannerpop/uploads/image^$image
 ! *** Fetched from: https://raw.githubusercontent.com/easylist/KoreanList/master/KoreanList/koreanlist_specific_block_popup.txt ***
 /slots.php?site=*$popup
+||foodbank.co.kr/bannerpop/popup$popup
 !------------------------Specific element hiding rules------------------------!
 ! *** Fetched from: https://raw.githubusercontent.com/easylist/KoreanList/master/KoreanList/koreanlist_specific_hide.txt ***
 veritas.kr##.s-bn
@@ -805,8 +821,8 @@ phpschool.com##.main_banner
 phpschool.com##.main_job
 g-enews.com##.mad
 ebn.co.kr##.vod-banner
-newtoki31.net###main4x3_banner
-newtoki31.net###hd_pop
+newtoki96.net###main4x3_banner
+newtoki96.net###hd_pop
 poomki.net##a[href*="bondisk.com"]
 poomki.net##a[href*="filelon.com"]
 yeongnam.com##a[href^="/pages/adv.do?mode=advMove&advIdx"]
@@ -815,7 +831,7 @@ ilyoseoul.co.kr##.ad-template
 ilyoseoul.co.kr##.dnbanner
 m.ezday.co.kr##div[style="margin: 0px;padding: 15px"]
 news.joins.com###criteo_network
-news.joins.com##.ab_adtxt_wrap 
+news.joins.com##.ab_adtxt_wrap
 lawissue.co.kr##a[href*="smartstore.naver.com"]
 joseilbo.com##.banner_box_wrap
 joseilbo.com##div[class^="R_cnt_bn_"]
@@ -854,7 +870,7 @@ hani.co.kr###ad_tag
 inews24.com##ad[alt="3171"]
 newbam1.net##.main-banners
 major-top.com##.carousel-inner.bg-black
-funbe.cloud,funbe.vip##div[class^="main_top_bann"] 
+funbe.cloud,funbe.vip##div[class^="main_top_bann"]
 funbe.cloud,funbe.vip##.top_banner
 torrenttt03.me###hd_pops_2
 newsis.com##div[id^="mobonDivBanner"]
@@ -908,11 +924,12 @@ torrenti.co.kr##.widget-box-banner
 torrenti.co.kr###at-right > .widget-side-box > a > img
 torrenti.co.kr##.modal-backdrop
 torrenti.co.kr###ouibounce-modal
-jujutorrent30.com##.npia-board-gallery
+jujutorrent33.com##.npia-board-gallery
 hmovie.net##div[id^="AD_"]
 kr1.ibe.kr###ouibounce-modal
 torrentmax15.com##.container-line-main-m
-torrentweb19.com##.mmmainads
+torrentweb20.com##.mmmainads
+torrentweb24.com##.mmmainads
 prskorea.co.kr##.small_bnr
 prskorea.co.kr##.imgcarousel1
 dtnews24.com##div[class*="user-banner"]
@@ -921,13 +938,33 @@ us1.thetorrent.net###ouibounce-modal
 us1.thetorrent.net##.widget-box-banner
 tfmedia.co.kr##.com_ban
 tfmedia.co.kr##.ht_right
-tfmedia.co.kr##.ht_leftsexbam1.me###hd_pop
+tfmedia.co.kr##.ht_left
+sexbam1.me###hd_pop
 sexbam1.me###manner
 sexbam1.me###topBanner
 sexbam1.me###bnr
 joongdo.co.kr###mobitree
 alldatasheet.co.kr###icbankbannermobile
 alldatasheet.co.kr###idAD2
+startuptoday.kr##.banner_box > a:not([href*="startuptoday.kr"])
+jangup.com##.banner_box > a:not([href^="/com/ne"]):not([href*="instagram.com"])
+sedaily.com###M_view_line
+prskorea.co.kr##.right_box2
+torrentsee59.com##a[href^="/go/"]
+dynews.co.kr##.banner_box > a:not([href*="dynews"])
+manduya10.com##video[style*="max-height:100%"]
+manduya10.com###jwplayer-ad
+m.etoday.co.kr##div[style*="float:right;width:200px;height:200px;"]
+hankyung.com##.wrap_list > .ad_txt
+hankyung.com##.ad_list
+hankyung.com##.joy_info
+hankyung.com##.ad_bottom_fix
+health.chosun.com###searchclinic_btn2
+coinpan.com##div[style*="height: 93px; width: 776px;"]
+itworld.co.kr###techlibrary_left_slide_banner
+news.einfomax.co.kr##a:not([href*="youtube.com"]) > img[src*="/bannerpop/"]
+dailysecu.com##a:not([href^="/event"]) > img[src*="/bannerpop/"]
+biz.chosun.com##.arcad-wrapper
 !-----------------------Whitelists to fix broken sites------------------------!
 ! *** Fetched from: https://raw.githubusercontent.com/easylist/KoreanList/master/KoreanList/koreanlist_whitelist.txt ***
 @@||ekn.kr/data/banner/banner_1523320274.jpg

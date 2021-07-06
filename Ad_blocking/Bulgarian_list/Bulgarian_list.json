@@ -649,15 +649,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?bg-tv\\.net[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#topbar"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?bg-zone\\.net[/:]"
 		},
 		"action": {
@@ -1459,15 +1450,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?forums\\.data\\.bg[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#bannertop_new"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?framar\\.bg[/:]"
 		},
 		"action": {
@@ -1738,15 +1720,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?hi7s\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#bgtp"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?homes\\.bg[/:]"
 		},
 		"action": {
@@ -1770,6 +1743,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".infor-before-content"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?iskra\\.bg[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".td-header-rec-wrap"
 		}
 	},
 	{
@@ -2089,6 +2071,114 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?miau\\.bg[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#artbot"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?miau\\.bg[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".artbot.center.mt20.mb20"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?miau\\.bg[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#artvert"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?miau\\.bg[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".artvert"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?miau\\.bg[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".assignshop"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?miau\\.bg[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#comm"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?miau\\.bg[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#embed"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?miau\\.bg[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".embed.mt10.mb10"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?miau\\.bg[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".g-comments.pt25.center.pt15.pb15"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?miau\\.bg[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".giwrp"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?miau\\.bg[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "#mplx"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?miau\\.bg[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".rkl"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?mikrotik-bg\\.net[/:]"
 		},
 		"action": {
@@ -2211,6 +2301,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".mom-e3lanat-inner"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?nenovinite\\.com[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".ad.tac"
 		}
 	},
 	{
@@ -2449,24 +2548,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?pari-ot-internet-bg\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": "#login_popup_content"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://([^/:]*\\.)?pari-ot-internet-bg\\.com[/:]"
-		},
-		"action": {
-			"type": "css-display-none",
-			"selector": ".module.borderwrap"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?petel\\.bg[/:]"
 		},
 		"action": {
@@ -2544,6 +2625,15 @@
 		"action": {
 			"type": "css-display-none",
 			"selector": ".top-banner.text-center"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?peter\\.and\\.bilyana\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": "div[style=\"padding-top:30px;padding-bottom:30px;\"]"
 		}
 	},
 	{
@@ -3151,6 +3241,15 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?tribune\\.bg[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".main-widget.google_adds.google_adds300x250"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://([^/:]*\\.)?troll\\.bg[/:]"
 		},
 		"action": {
@@ -3398,7 +3497,25 @@
 		},
 		"action": {
 			"type": "css-display-none",
+			"selector": ".bar_topadd"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?yavka\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
 			"selector": ".topadd_bar"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://([^/:]*\\.)?yavka\\.net[/:]"
+		},
+		"action": {
+			"type": "css-display-none",
+			"selector": ".topadd_barr"
 		}
 	},
 	{
@@ -3893,23 +4010,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://.*ac\\.all\\.bg/i/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://account-bg\\.info/e107/e107_images/banners/",
 			"resource-type": [
 				"image",
@@ -4285,6 +4385,125 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://agencia-sliven\\.com/img/mbal\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://agroplovdiv\\.bg/adro/Sinor\\.09\\.01\\.2021/HORTISMART\\.html",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://agroplovdiv\\.bg/wp-content/uploads/2015/05/imbo-1\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://agroplovdiv\\.bg/wp-content/uploads/2017/05/logo_naz1\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://agroplovdiv\\.bg/wp-content/uploads/2018/07/logo_new1\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://agroplovdiv\\.bg/wp-content/uploads/2021/04/AGRIA_METEOR_300-X-250px_01_2021\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://agroplovdiv\\.bg/wp-content/uploads/2021/04/picasion\\.com_41c8f37f15db14f1d01cedd75c6d1d65\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://agroplovdiv\\.bg/wp-content/uploads/.*/baner",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -4743,23 +4962,6 @@
 	},
 	{
 		"trigger": {
-			"url-filter": "^https?://balkantourist\\.bg/rent_a_car_EN_balkanT\\.swf",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
 			"url-filter": "^https?://banners\\.friendfinder\\.com/",
 			"resource-type": [
 				"image",
@@ -4880,23 +5082,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://beroe\\.eu/images/reklama/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://bet\\.bg/images/banners/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -5373,23 +5558,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://blagoevgrad\\.eu/banners/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://blagoevgrad\\.eu/wp-content/uploads/2017/02/casaazura3\\.jpg",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -6971,23 +7139,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://energy-torrent\\.com/img/obiavabg\\.jpg",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://eurocom\\.bg/img/banner/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -8950,6 +9101,74 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://iskra\\.bg/wp-content/uploads/2019/03/510x90\\.png",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://iskra\\.bg/wp-content/uploads/2020/04/banner-Moni-1010\\.jpeg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://iskra\\.bg/wp-content/uploads/2020/11/iskra-novini\\.png",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://iskra\\.bg/wp-content/uploads/2021/05/Baner-Multi\\.bg_\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://itforumbg\\.net/sites/default/files/nitrompu\\.gif",
 			"resource-type": [
 				"image",
@@ -10096,6 +10315,23 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://namoreto\\.bg/wp-content/uploads/2017/09/Baner-promotsiya-Avtomivka-CHistota\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://namoreto\\.bg/wp-content/uploads/2019/06/FREQ-2\\.jpg",
 			"resource-type": [
 				"image",
@@ -10555,75 +10791,24 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://onovini\\.eu/wp-content/uploads/2020/11/swissski\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://opencamp\\.talkweb\\.eu/468x60",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://pa-media\\.net/e107_images/banners/",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://pa-media\\.net/e107_images/custom/pgmet16b\\.jpg",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://pa-media\\.net/e107_images/custom/severn_sr17\\.jpg",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://pa-media\\.net/new/e107_images/banners/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -11032,23 +11217,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://poligraff\\.net/uploads/banners",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://politika\\.bg/web/files/plakats/10/image/TM\\+TBI_TV_banner_300x250px2\\.jpg",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -11729,23 +11897,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://rositza\\.com/wp-content/uploads/2019/11/ABONAMENT\\.jpg",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "block"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://ruseinfo\\.net/adv/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -12663,6 +12814,91 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://.*slivensega\\.files\\.wordpress\\.com/2014/11/sk\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*slivensega\\.files\\.wordpress\\.com/.*w=466&h=140",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*slivensega\\.files\\.wordpress\\.com/.*\\?w=466&h=233",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*slivensega\\.files\\.wordpress\\.com/.*w=466&h=369",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://.*sliventribune\\.files\\.wordpress\\.com/2020/06/untitled\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://smartnews\\.bg/wp-content/uploads/.*anner",
 			"resource-type": [
 				"image",
@@ -13420,6 +13656,26 @@
 				"media",
 				"raw",
 				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://tonerstream\\.com/images/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			],
+			"load-type": [
+				"third-party"
 			]
 		},
 		"action": {
@@ -14329,7 +14585,58 @@
 	},
 	{
 		"trigger": {
+			"url-filter": "^https?://yavka\\.net/abis/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://yavka\\.net/technolux/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
 			"url-filter": "^https?://yavka\\.net/toner/",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://yavka\\.net/tonerr/",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -14619,6 +14926,159 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://zopplus\\.com/wp-content/uploads/.*366x280",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://pa-media\\.net/e107_images/generic/rais_logo\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://pa-media\\.net/e107_images/generic/jobsora_banner1\\.png",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://blagoevgrad\\.eu/wp-content/uploads/2021/06/gerb2\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://blagoevgrad\\.eu/wp-content/uploads/2021/04/vmax\\.gif",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://blagoevgrad\\.eu/wp-content/uploads/2019/02/BolnicaPuls_Blagoevgrad\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://blagoevgrad\\.eu/wp-content/uploads/2020/05/largoblagoevgrad-baner\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://blagoevgrad\\.eu/wp-content/uploads/2018/01/reklama-blagoevgrad2018\\.jpg",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://blagoevgrad\\.eu/wp-content/uploads/2021/04/rec728\\.png",
+			"resource-type": [
+				"image",
+				"style-sheet",
+				"script",
+				"font",
+				"media",
+				"raw",
+				"document"
+			]
+		},
+		"action": {
+			"type": "block"
+		}
+	},
+	{
+		"trigger": {
+			"url-filter": "^https?://blagoevgrad\\.eu/wp-content/uploads/2021/06/gerb1\\.jpg",
 			"resource-type": [
 				"image",
 				"style-sheet",
@@ -15081,23 +15541,6 @@
 	{
 		"trigger": {
 			"url-filter": "^https?://subsmania\\.info",
-			"resource-type": [
-				"image",
-				"style-sheet",
-				"script",
-				"font",
-				"media",
-				"raw",
-				"document"
-			]
-		},
-		"action": {
-			"type": "ignore-previous-rules"
-		}
-	},
-	{
-		"trigger": {
-			"url-filter": "^https?://webcafe\\.bg/js/ads\\.js",
 			"resource-type": [
 				"image",
 				"style-sheet",
